@@ -46,6 +46,11 @@ media:
     media_url: https://folhams.com.br/wp-content/uploads/2026/11/apreensao-maconha-prf.jpg
     publisher: Folha MS
     caption: The Fiat Strada pickup and the marijuana seized after the BR-060 chase in Campo Grande, in the police handout published with the Folha MS report.
+  - kind: photo
+    url: https://www.gov.br/prf/pt-br/noticias/estaduais/mato-grosso-do-sul/2026/novembro/prf-e-pmms-apreendem-1-3-tonelada-de-maconha-em-campo-grande-ms
+    media_url: https://www.gov.br/prf/pt-br/noticias/estaduais/mato-grosso-do-sul/2026/novembro/prf-e-pmms-apreendem-1-3-tonelada-de-maconha-em-campo-grande-ms/@@images/image-1200-84599f118750d0c273c92c81ac88b75c.jpeg
+    publisher: Polícia Rodoviária Federal
+    caption: Silver Fiat Strada pickup with its tailgate open revealing dozens of stacked marijuana tablets, flanked by a Military Police vehicle and officer and a PRF vehicle on a dirt road.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 2304b12aaca2ffe5beb0e7d5c17e90fa
@@ -81,6 +86,11 @@ sources:
     publisher: Pix News MS
     date: 2026-11-19
     language: pt
+  - title: PRF e PMMS apreendem 1,3 tonelada de maconha em Campo Grande (MS)
+    url: https://www.gov.br/prf/pt-br/noticias/estaduais/mato-grosso-do-sul/2026/novembro/prf-e-pmms-apreendem-1-3-tonelada-de-maconha-em-campo-grande-ms
+    publisher: Polícia Rodoviária Federal
+    date: 2026-11-19
+    language: pt
 open_questions:
     - The load was described in the Campo Grande News record as material with characteristics similar to marijuana and in the other accounts as tablets of maconha; no laboratory confirmation was reported.
     - The Campo Grande News photo caption gives 1.3 tonnes in a rural area near Sidrolândia, its text gives 1,389.3 kilograms in Jardim Centenário and the other accounts give 1,389 kilograms; the 1,389.3 figure is used.
@@ -92,24 +102,24 @@ open_questions:
 
 Federal Highway Police officers arrested a driver after a pursuit that ended
 with the seizure of almost 1.4 tonnes of marijuana in the Jardim Centenário
-neighbourhood of Campo Grande, Mato Grosso do Sul. [@1,2,3,4,5,6] The PRF said the seizure happened on Wednesday 18 November 2026. [@3] The driver of a Fiat
+neighbourhood of Campo Grande, Mato Grosso do Sul. [@1,2,3,4,5,6,7] The PRF said the seizure happened on Wednesday 18 November 2026. [@3] The driver of a Fiat
 Strada had run a Federal Highway Police (PRF) blockade on the Sidrolândia road
-and tried to escape the officers. [@1,2,3,4,5,6] He abandoned the pickup on Rua
+and tried to escape the officers. [@1,2,3,4,5,6,7] He abandoned the pickup on Rua
 Quero-Quero and ran into a wooded area, where the officers caught him. [@1,5] The
 police record obtained by Campo Grande News says officers found and detained the
 man in the woods. [@1]
 
 Military police from the 10th Battalion joined the pursuit after a radio request
 for support, which mentioned a tactical follow-up at the entrance to
-Sidrolândia. [@1,5] The Military Police team stayed at the scene while PRF agents
+Sidrolândia. [@1,5,7] The Military Police team stayed at the scene while PRF agents
 entered the woods to look for the driver. [@1] A search of the Strada found a
 load of material with characteristics similar to marijuana, which the record put
 at 1,389.3 kilograms. [@1,3,5,6] The pickup's number plate had been tampered with.
-[@1,2,4] A second account reported that the pickup had a record of robbery or theft. [@2,3,4,6] The record lists drug trafficking and receiving a vehicle among the
+[@1,2,4,7] A second account reported that the pickup had a record of robbery or theft. [@2,3,4,6,7] The record lists drug trafficking and receiving a vehicle among the
 possible offences, but does not say whether the pickup had been reported stolen
 or robbed. [@1]
 
 The PRF took charge of the case and was responsible for sending the driver, the
-vehicle and the drug for the appropriate measures. [@1,3] The driver, the drug and the Fiat Strada were taken to the Civil Police in Campo Grande for the applicable procedures. [@6] The driver, the vehicle and all the seized drugs were taken to the Civil Police in the capital. [@4] The record does not say
+vehicle and the drug for the appropriate measures. [@1,3] The driver, the drug and the Fiat Strada were taken to the Civil Police in Campo Grande for the applicable procedures. [@6,7] The driver, the vehicle and all the seized drugs were taken to the Civil Police in the capital. [@4] The record does not say
 where the pickup set out from, where the load was bound, how long the driver
 fled or where he was held. [@1]
