@@ -73,6 +73,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-23
     language: hi
+  - title: बालोद में गांजा तस्करी का बड़ा भंडाफोड़,ओडिशा से चल रहा था नेटवर्क,138 किलो गांजा जब्त, 4 आरोपी घेरे में
+    url: https://peoplesupdate.com/balod-police-138-kg-ganja-seized-odisha-smuggling-network-202950
+    publisher: People's Update
+    date: 2026-11-23
+    language: hi
 media:
   - kind: photo
     url: https://www.bhaskar.com/amp/local/chhattisgarh/balod/news/balod-police-ganja-seizure-odisha-smuggling-arrest-raids-139776929.html
@@ -97,12 +102,12 @@ media:
 ---
 
 Balod police arrested four men, including two brothers, over an
-Odisha-to-Chhattisgarh ganja smuggling network. [@1,2,5] Officers seized a total of
+Odisha-to-Chhattisgarh ganja smuggling network. [@1,2,5,6] Officers seized a total of
 138.551 kilograms of ganja in Sanaud police station area, which police valued at
-6,927,550 rupees. [@1,3,5] Acting on an informant tip on 21 November 2026, Sanaud
+6,927,550 rupees. [@1,3,5,6] Acting on an informant tip on 21 November 2026, Sanaud
 police raided the house of Bhisham Satnami of Arkar village, who was allegedly
 storing and selling ganja at home. [@1,2] Officers recovered 1.995 kilograms of
-ganja in two packets from the 28-year-old Satnami. [@1,2] Satnami told police he
+ganja in two packets from the 28-year-old Satnami. [@1,2,6] Satnami told police he
 had bought the ganja from Kamta Prasad Kosre of Arkar village. [@1,2] Police
 arrested Satnami and sent him to judicial custody. [@1] Kosre told police he had
 bought ganja from two brothers of Khapparwada village, Omprakash Patel (28) and
@@ -111,8 +116,8 @@ for about a year. [@1,2] A police team cordoned Khapparwada village and detained
 both brothers. [@1]
 
 The brothers told police they bought ganja from the Baliguda area of Odisha for
-local sale in Chhattisgarh. [@1,2] The brothers told police they carried 10 to 20 kg of ganja per trip from Odisha and hid it at home for local supply. [@4] A search of their house found 136.56 kilograms
-of ganja in 134 packets hidden in an iron box and a diwan. [@1,2] Police valued
+local sale in Chhattisgarh. [@1,2,6] The brothers told police they carried 10 to 20 kg of ganja per trip from Odisha and hid it at home for local supply. [@4] A search of their house found 136.56 kilograms
+of ganja in 134 packets hidden in an iron box and a diwan. [@1,2,6] Police valued
 the Khapparwada consignment at 6,827,800 rupees. [@1] Police said the brothers
 bought a Mahindra pickup in 2023 after quitting farming. [@1,2] Police said the brothers first ran the pickup on hire to Kolkata and Varanasi, then parked it at the Bhilai fruit market when the instalments became difficult. [@2] Police said the
 brothers turned to ganja smuggling during fruit-and-vegetable trips to Odisha to
