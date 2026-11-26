@@ -154,24 +154,29 @@ sources:
     publisher: Dân trí
     date: 2026-11-22
     language: vi
+  - title: Triệt phá đường dây cần sa từ Thái Lan về Ninh Bình, thu giữ 20kg ma túy
+    url: https://docnhanh.vn/phap-luat/triet-pha-duong-day-can-sa-tu-thai-lan-ve-ninh-binh-thu-giu-20kg-ma-tuy-tintuc1058244
+    publisher: Docnhanh.vn
+    date: 2026-11-23
+    language: vi
 ---
 
 Police in Ninh Bình province arrested Lê Xuân Hưng, born in 1999, who comes from
 Tân Phú commune in Nghệ An province and was renting accommodation in Ý Yên
-commune, Ninh Bình province. [@1,3,4,5,6,7,9,10,11,12,13] Hưng had one previous conviction for illegally
+commune, Ninh Bình province. [@1,3,4,5,6,7,9,10,11,12,13,16] Hưng had one previous conviction for illegally
 trading narcotic substances and had completed that prison sentence on 29 April
-2024. [@1,3,4,5,6,7,9,11,12] The cannabis was supplied by a person living in Thailand, and Hưng received the shipments, hid and divided the drug and delivered it to buyers on the supplier's instructions, taking an agreed share of the money after each deal. [@6,11,12] At about 02:00 on 21 November 2026 the provincial drug crime
+2024. [@1,3,4,5,6,7,9,11,12,16] The cannabis was supplied by a person living in Thailand, and Hưng received the shipments, hid and divided the drug and delivered it to buyers on the supplier's instructions, taking an agreed share of the money after each deal. [@6,11,12] At about 02:00 on 21 November 2026 the provincial drug crime
 investigation office, with the Ministry of Public Security's drug crime
 department, customs officers and provincial forensic officers, broke up a ring
-that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7,8,9,11,15] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4] Officers seized 20
+that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7,8,9,11,15,16] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4] Officers seized 20
 kg of cannabis that had been hidden inside buckets of imported Thai laundry
-detergent. [@1,3,4,5,7,9,10,11,12,14] Tools used to divide and package the drugs were also seized. [@13]
+detergent. [@1,3,4,5,7,9,10,11,12,14,16] Tools used to divide and package the drugs were also seized. [@13]
 
 Investigators said the cannabis was supplied by a person living in Thailand, and
 that Hưng received shipments from Thailand, stored them, divided them up and
-delivered them to buyers on that person's instructions. [@1,3,4,5,7,8,10] The police said Hưng had one previous conviction for illegally trading narcotic drugs and had finished serving that prison sentence on 29 April 2024. [@8] Hưng also received payment for making the deliveries, which he was to share with the others involved. [@5,7] The cannabis was
+delivered them to buyers on that person's instructions. [@1,3,4,5,7,8,10,16] The police said Hưng had one previous conviction for illegally trading narcotic drugs and had finished serving that prison sentence on 29 April 2024. [@8] Hưng also received payment for making the deliveries, which he was to share with the others involved. [@5,7,16] The cannabis was
 disguised inside imported laundry detergent buckets so that checks by the
 authorities would not find it. [@1,3,5]
 
 The provincial drug crime investigation office said it was continuing to
-investigate the case and would deal with those involved under the law. [@2,5,7,10,11]
+investigate the case and would deal with those involved under the law. [@2,5,7,10,11,16]
