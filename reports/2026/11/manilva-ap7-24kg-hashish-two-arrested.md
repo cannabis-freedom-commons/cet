@@ -51,6 +51,11 @@ sources:
     url: https://costaspainnews.es/driver-ran-across-motorway-after-24-kilos-of-hashish-found/
     publisher: Costa Spain News
     date: 2026-11-23
+  - title: Detenidas dos personas en Manilva que transportaban 24 kilos de hachís en un vehículo por la AP-7
+    url: https://www.elnoticierodigital.com/detenidas-dos-personas-en-manilva-que-transportaban-24-kilos-de-hachis-en-un-vehiculo-por-la-ap-7/
+    publisher: El Noticiero
+    date: 2026-11-23
+    language: es
 open_questions:
   - No names, ages or nationalities of the two detainees were published.
   - No origin or intended destination of the transported hashish was reported.
@@ -58,22 +63,21 @@ open_questions:
 ---
 
 The intervention took place on Saturday 21 November at about 10:30 at kilometre
-point 142.800 of the AP-7 in Manilva. [@2] Officers from the Manilva post
+point 142.800 of the AP-7 in Manilva. [@2,4] Officers from the Manilva post
 stopped a vehicle occupied by two people and inspected the boot, where there
-were two suitcases. [@1] Just as the officers were about to open one of the
+were two suitcases. [@1,4] Just as the officers were about to open one of the
 suitcases, the driver ran off, crossed all the motorway lanes and fled into the
-countryside. [@1] Several officers chased the driver on foot for five minutes
+countryside. [@1,4] Several officers chased the driver on foot for five minutes
 through dense vegetation, brambles and over a two-metre fence, after he fell
 down a ravine several metres deep, and then caught him. [@1]
 
 Back at the checkpoint, officers found that the suitcases held a total of 24
-kilos of hashish packed in brown plastic in different formats. [@1] Both the
+kilos of hashish packed in brown plastic in different formats. [@1,4] Both the
 driver and his companion were arrested for an alleged offence against public
 health and, after police custody, were put before the judicial authority, which
 ordered provisional prison for the driver and release with charges for the
-passenger. [@1]
+passenger. [@1,4]
 
 The arrests were made during a routine vehicle and person control carried out by
 officers from the Manilva station. [@3] The operation formed part of the Civil
 Guard's prevention and anti-drug-trafficking checks in the Manilva area. [@2]
-
