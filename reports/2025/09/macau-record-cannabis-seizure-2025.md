@@ -45,6 +45,11 @@ sources:
     publisher: The Macau Post Daily
     date: 2025-09-30
     language: en
+  - title: Police foil record cannabis haul at Macau airport
+    url: https://macaubusiness.com/police-foil-record-cannabis-haul-at-macau-airport/
+    publisher: Macau Business
+    date: 2025-09-29
+    language: en
 media:
   - kind: photo
     url: https://www.macaupostdaily.com/news/26153
@@ -61,4 +66,4 @@ open_questions:
   - The same article reports a separate airport seizure the following evening of about 9.436 kilogrammes of cannabis buds from a Malaysian man who flew from Malaysia via Singapore; that case is not part of this seizure.
 ---
 
-Police found 56 vacuum-sealed packets of cannabis buds, more than 30 kg, in the luggage of two Malaysian men who had flown in from South Korea. A Hong Kong man travelling with them was also arrested. Police said the shipment started in Thailand and was meant to go on to Hong Kong, and put its street value at more than MOP30 million; they called it the largest cannabis seizure in Macau's history at the time. All three were handed to the Public Prosecutions Office. [@1,2,3,4] Each of the three faced a drug trafficking charge. [@4] Cheong and Cheah were promised a reward of 10,000 Malaysian ringgit (19,000 patacas) each. [@4] The suspects were a 33-year-old Hong Kong resident surnamed Wan, a 23-year-old Malaysian surnamed Cheong and a 38-year-old Malaysian clerk surnamed Cheah. Wan refused to cooperate under questioning. [@4] Sixteen packages weighing about 8,897.5 grams came from the luggage of a 23-year-old Malaysian surnamed Cheong, and 40 packages weighing about 22,796.6 grams from two suitcases of a 38-year-old Malaysian clerk surnamed Cheah. [@4] Police put the total at 31,772 grams of cannabis buds, including packaging, with an estimated street value of 31.77 million patacas, and later confirmed the substances were marijuana. [@4]
+Police found 56 vacuum-sealed packets of cannabis buds, more than 30 kg, in the luggage of two Malaysian men who had flown in from South Korea. A Hong Kong man travelling with them was also arrested. Police said the shipment started in Thailand and was meant to go on to Hong Kong, and put its street value at more than MOP30 million; they called it the largest cannabis seizure in Macau's history at the time. All three were handed to the Public Prosecutions Office. [@1,2,3,4] Each of the three faced a drug trafficking charge. [@4] Cheong and Cheah were promised a reward of 10,000 Malaysian ringgit (19,000 patacas) each. [@4,5] Investigators initially treated the case as linked to the arrest days earlier of a 19-year-old Malaysian man caught trying to smuggle cannabis buds to Hong Kong via Macau. [@5] The suspects were a 33-year-old Hong Kong resident surnamed Wan, a 23-year-old Malaysian surnamed Cheong and a 38-year-old Malaysian clerk surnamed Cheah. Wan refused to cooperate under questioning. [@4] The 33-year-old Hong Kong man was identified as the ringleader of the group. [@5] Sixteen packages weighing about 8,897.5 grams came from the luggage of a 23-year-old Malaysian surnamed Cheong, and 40 packages weighing about 22,796.6 grams from two suitcases of a 38-year-old Malaysian clerk surnamed Cheah. [@4] Police put the total at 31,772 grams of cannabis buds, including packaging, with an estimated street value of 31.77 million patacas, and later confirmed the substances were marijuana. [@4,5] Two of the passengers entered Macau separately while the third trailed behind them. [@5]
