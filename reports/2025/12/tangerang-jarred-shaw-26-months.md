@@ -115,13 +115,10 @@ sources:
     url: https://www.aol.com/articles/ex-basketball-player-now-indonesia-204331000.html
     publisher: USA TODAY via AOL
     date: '2026-10-09'
-open_questions:
-  - Andscape dates the sentence to Tuesday, 9 December 2025. ClutchPoints placed it a day later.
-  - >-
-    The police gave a gross weight for the gummies and did not report a separate weight for the
-    cannabinoid.
-  - No decision on early release was reported.
-  - The reports do not say whether anyone else was charged over the shipment.
+  - title: American basketball player arrested for alleged drug smuggling
+    url: https://macaudailytimes.com.mo/american-basketball-player-arrested-for-alleged-drug-smuggling.html
+    publisher: Macau Daily Times
+    date: 2025-05-16
 also:
   - arrest
   - seizure
@@ -134,7 +131,7 @@ media:
     caption: Shaw (back) leaving court with advocate Donte West after the sentence
 ---
 
-Police arrested Jarred Dwayne Shaw, an American player with the Tangerang Hawks, at his apartment complex on 7 May 2025 after customs flagged a parcel from Thailand. [@3,4] It held 132 cannabis gummies with a gross weight of 869 grams, police said. [@3] Police said Shaw told investigators he intended to share the gummies with fellow players. [@3] The Hawks terminated his contract and the Indonesian basketball league banned him for life. [@3,4]
+Police arrested Jarred Dwayne Shaw, an American player with the Tangerang Hawks, at his apartment complex on 7 May 2025 after customs flagged a parcel from Thailand. [@3,4,5] It held 132 cannabis gummies with a gross weight of 869 grams, police said. [@3] Police said Shaw told investigators he intended to share the gummies with fellow players. [@3,5] The Hawks terminated his contract and the Indonesian basketball league banned him for life. [@3,4]
 
 On 9 December 2025 the court found Shaw guilty of possession and sentenced him to 26 months in prison. [@1,2] Police had said he could face life imprisonment or death, but the judge did not apply the trafficking enhancements. [@2,3] Shaw said he used the gummies to relieve symptoms of Crohn’s disease and had been unaware of Indonesian law. [@1,2] His advocate Donte West said the sentence gave Shaw a chance to return home to his family. [@2]
 
