@@ -48,6 +48,11 @@ sources:
     publisher: Akdeniz Gerçek
     date: 2026-11-23
     language: tr
+  - title: Antalya'da zehir tacirlerine operasyon! 1 şahıs tutuklandı - Antalya Haberleri
+    url: https://www.sabah.com.tr/antalya/2026/11/23/antalyada-zehir-tacirlerine-operasyon-1-sahis-tutuklandi
+    publisher: Sabah
+    date: 2026-11-23
+    language: tr
 open_questions:
   - No separate date for the searches was given; 23 November 2026 is the publication date and is used as the incident date.
   - The account names no suspects and reports no charges or court outcome beyond the single remand.
@@ -58,16 +63,16 @@ open_questions:
 ---
 
 Antalya Provincial Gendarmerie Command carried out an operation against drug
-trafficking and use in the Kepez and Aksu districts. [@1] The work was conducted
+trafficking and use in the Kepez and Aksu districts. [@1,2] The work was conducted
 on the instructions of the Antalya Chief Public Prosecutor's Office, with
-searches at the residences of three suspects. [@1] After the operation, judicial
+searches at the residences of three suspects. [@1,2] The three addresses were raided simultaneously in a dawn operation. [@2] After the operation, judicial
 proceedings were started in connection with the incident. [@1] One of the three
-suspects was remanded in custody. [@1]
+suspects was remanded in custody. [@1,2]
 
 The searches found 150 grams of skunk, described as esrar, and one skunk
-cannabis plant. [@1] Officers also seized 1,050 grams of cannabinoid material.
+cannabis plant. [@1,2] Officers also seized 1,050 grams of cannabinoid material.
 [@1] The operation also found 90 grams of methamphetamine and 1,130 grams of A4
-cannabinoid material. [@1] Teams seized 40 Lyrica synthetic pills and 6
+cannabinoid material. [@1,2] Teams seized 40 Lyrica synthetic pills and 6
 synthetic pharmacy pills. [@1] The searches also yielded climate-control
 materials assessed as usable in drug production and three precision scales. [@1]
 Gendarmerie teams seized a hand binocular, a Baofeng handheld radio and fifty 9
@@ -76,4 +81,3 @@ items seized. [@1]
 
 The provincial gendarmerie command said its counter-narcotics work would
 continue with determination. [@1]
-
