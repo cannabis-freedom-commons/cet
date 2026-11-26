@@ -67,24 +67,19 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-21
     language: ar
-open_questions:
-    - No date is given for the appeals ruling; 21 November 2026, the publication date of the Masrawy report, stands in for it.
-    - No weight or value was given for the 1,000 hashish slabs, which Egyptian reports count in slabs rather than kilograms.
-    - The amount of money found on the defendant was not stated.
-    - The reports do not say when the seizure took place or how long the case took to reach court.
-    - The date of the earlier life sentence and 500,000-pound fine is not stated; its report was published on 14 September 2026.
-    - The appeals ruling does not say whether it upheld or replaced the earlier life sentence and 500,000-pound fine; it mentions criminal costs and confiscation but no fine.
-    - Masrawy listed two mobile phones among the seized items, while Cairo 24 listed one.
-    - The defendant is identified only by his initials, and no plea, defence case or cassation appeal was reported.
-    - Masrawy and Cairo 24 appear to reproduce the same court statement, so they are not independent reporting.
+  - title: مخدرات وسلاح ناري.. تفاصيل الحكم بالمؤبد على تاجر أراض بالإسكندرية | المصري اليوم
+    url: https://www.almasryalyoum.com/news/details/4416332
+    publisher: المصري اليوم
+    date: 2026-11-21
+    language: ar
 ---
 
 The Alexandria Criminal Appeals Court sentenced the defendant to life
-imprisonment. [@1,2,4,5] An Alexandria criminal court had earlier sentenced him to life imprisonment and a 500,000-pound fine in the same case. [@3] The court also ordered him to pay the criminal costs and
+imprisonment. [@1,2,4,5,6] An Alexandria criminal court had earlier sentenced him to life imprisonment and a 500,000-pound fine in the same case. [@3] The court also ordered him to pay the criminal costs and
 confiscated the seized drugs, weapon and ammunition. [@1,4,5]
 
 The case was registered as No. 3914 of 2026 at First Ameriya police station in
-Alexandria. [@1,4,5] The panel was headed by Counsellor Mohamed Abdel Hamid
+Alexandria. [@1,4,5,6] The panel was headed by Counsellor Mohamed Abdel Hamid
 El-Khouly, with Counsellors Tarek Mohamed Haridi, Khaled Mohamed Abdel Fattah
 and Ahmed Mokhtar Abdel Hai, and clerk Mahmoud Mostafa. [@1,4,5] The Alexandria
 Security Directorate received a notice from anti-narcotics officers that the
@@ -92,7 +87,7 @@ defendant was trafficking drugs in the district. [@1,4,5] Investigations found t
 the defendant, a land dealer, trafficked narcotic drugs, especially hashish, and
 a warrant was issued for his arrest. [@1,4,5] Investigations found that the defendant used his car to sell and move the hashish. [@2] After the warrant was executed,
 officers seized a quantity of hashish, a shotgun, ammunition, a mobile phone and
-money. [@1,4,5] The shotgun was under the driver's seat and held three cartridges. [@2] Police found two plastic bags holding 240 hashish slabs each on the back seat and a third bag with 520 slabs in the rear compartment, 1,000 slabs in all. [@2]
+money. [@1,4,5,6] The shotgun was under the driver's seat and held three cartridges. [@2] Police found two plastic bags holding 240 hashish slabs each on the back seat and a third bag with 520 slabs in the rear compartment, 1,000 slabs in all. [@2]
 
 Police drew up a report and the case passed to investigators, who referred it to
 the court that issued the sentence. [@1,4,5]
