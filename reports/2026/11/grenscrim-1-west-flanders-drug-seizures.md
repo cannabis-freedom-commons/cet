@@ -57,6 +57,11 @@ sources:
     publisher: VRT NWS
     date: 2026-11-21
     language: nl
+  - title: Politie Westkust deed mee aan actie tegen grenscriminaliteit
+    url: https://www.lokaalnieuws.online/2026/11/22/politie-westkust-actie-grenscriminaliteit-grenscrim/
+    publisher: Lokaal Nieuws
+    date: 2026-11-22
+    language: nl
 open_questions:
   - No exact quantity or weight was published for the cannabis, cocaine and hashish seized in the 15 consignments.
   - Focus & WTV dated the operation to Thursday, while the police statement and the other accounts place it on Friday 20 November 2026.
@@ -66,21 +71,20 @@ open_questions:
 
 Two drivers lost their driving licences because of drug use in traffic during
 the operation. [@1] Police carried out two administrative arrests for disturbing
-public order. [@1] Eight wanted people were found during the checks. [@1]
+public order. [@1,4] Eight wanted people were found during the checks. [@1,4]
 
 Officers stopped 2,375 vehicles during Operation GRENSCRIM 1, the first such
 operation, on Friday 20 November 2026. [@1] They made 15 separate seizures of
-user quantities of drugs. [@1] The drugs included cannabis, cocaine and hashish.
-[@1] The exact quantities were not made public. [@1] Police drew up 19 judicial
-reports, mainly for drug possession. [@2] Officers took 583 breath tests. [@1]
+user quantities of drugs. [@1,4] The drugs included cannabis, cocaine and hashish.
+[@1,4] The exact quantities were not made public. [@1] Police drew up 19 judicial
+reports, mainly for drug possession. [@2] Officers took 583 breath tests. [@1,4]
 Alcohol use led to 11 immediate licence revocations. [@1] Police drew up 26
-reports for traffic offences. [@1]
+reports for traffic offences. [@1,4]
 
 The operation, named GRENSCRIM, ran from 17:00 to 02:00 at selected hotspots,
 sensitive locations and entry roads. [@3] Nine local police zones, various
-federal police services and the Immigration Office took part. [@1] Contact with
+federal police services and the Immigration Office took part. [@1] Besides Westkust, the participating zones were Grensleie, VLAS, Gavers, MIRA, Arro Ieper and Spoorkin, plus Moeskroen and Doornik in Hainaut, with coordination by the federal police in West Flanders and direction by police zone VLAS. [@4] Contact with
 French police was maintained through the police and customs cooperation centre
 (CCPD) in Tournai. [@1] Police also found a hidden compartment in a car,
 intercepted two drivers trying to evade a check and recovered a stolen vehicle.
-[@1] In total 86 police officers and support services took part. [@2]
-
+[@1] Officers also seized a prohibited pepper spray and two vehicles, one of which held an empty hidden compartment. [@4] In total 86 police officers and support services took part. [@2]
