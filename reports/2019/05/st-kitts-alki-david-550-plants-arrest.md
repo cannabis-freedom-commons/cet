@@ -66,26 +66,21 @@ sources:
     publisher: Sky News
     date: 2019-05-15
     archived: https://web.archive.org/web/20190721020754id_/https://news.sky.com/story/coca-cola-heir-granted-300-000-bail-after-st-kitts-drugs-arrest-11720609
-open_questions:
-    - The widely repeated 5,000-plant and about $1.3 million figures differ from the DPP official 550-plant account; this report uses the official plant count and records no value because currency and attribution are unclear.
-    - No weight was published for the 550 plants, so no kilograms are recorded.
-    - The incident spans 7 May arrival and detention, 9 May arrest and 10 May first appearance; the 14 May bail variation is used as the report date as the latest step.
-    - No court outcome after the ordered 23 September 2019 appearance was reported in the opened sources.
-    - Chase Ergen travelled with David but the cannabis charges named only David; any later custody of Ergen on non-cannabis allegations is not counted here.
-    - The Vanity Fair page is paywalled beyond its update paragraph; fuller enforcement details come from the DPP statement via SKNVibes and the St Kitts Nevis Observer.
-    - Rolling Stone places the plane's landing in St Kitts on Saturday 11 May and David's arrest on a Monday, and says passengers were held for eight hours after landing, differing from the report's account of arrival on 7 May and arrest on 9 May.
-    - Sky News reports the increased bail as $300,000 cash with $600,000 in sureties, whereas the DPP account gave EC$300,000 in sureties.
+  - title: Coca Cola Billionaire Heir Threatens St. Kitts PM With Multi-Billion-Dollar Lawsuit
+    url: https://suntci.com/coca-cola-billionaire-heir-threatens-st-kitts-pm-with-multibilliondollar-p4246-135.htm
+    publisher: SUN TCI
+    date: 2019-05-29
 ---
 
 On 7 May 2019 a private jet carrying Alkiviades Alki David arrived at the Robert
-Llewellyn Bradshaw International Airport in St Kitts. [@2] David was detained at
+Llewellyn Bradshaw International Airport in St Kitts. [@2,8] David was detained at
 the airport until about 1:30 p.m. that day while police, customs and agriculture
 officers investigated. [@2] The plant material he had brought was taken into
 custody for analysis. [@2] On the advice of the Director of Public Prosecutions,
 David was arrested on 9 May 2019. [@2] He was charged with possession of
 cannabis, possession with intent to supply, importation of cannabis and
-importation of a restricted item. [@2,5,7] He had landed with business partner Chase
-Ergen and actor Jonathan Rhys Meyers. [@1,4,5,6] Meyers' wife and his mother-in-law were also reportedly on the plane. [@4,6,7] David said Lane and Meyers' mother-in-law were 'cavity searched' after landing in St Kitts, but the group were eventually allowed to leave. [@7] Meyers was released without
+importation of a restricted item. [@2,5,7,8] He had landed with business partner Chase
+Ergen and actor Jonathan Rhys Meyers. [@1,4,5,6,8] Ergen was subsequently released without charge. [@8] Meyers' wife and his mother-in-law were also reportedly on the plane. [@4,6,7] David said Lane and Meyers' mother-in-law were 'cavity searched' after landing in St Kitts, but the group were eventually allowed to leave. [@7] Meyers was released without
 sustaining any charges. [@1] Police said David was arrested on May 9 and
 appeared in court the following day. [@3]
 
@@ -98,7 +93,7 @@ Swissx business selling legal cannabis products abroad. [@3,4,7] Through his leg
 the mere possession of the marijuana plant is illegal and THC content does not
 matter. [@3] He was first released on $30,000 cash bail with $50,000 in
 sureties, ordered to surrender travel documents and report daily to Frigate Bay
-police. [@3,5,7] On 14 May the court varied bail to EC$300,000 cash with EC$300,000
-in sureties and returned his travel documents. [@2] He was ordered to return to
-court on 23 September 2019. [@2,4,7] He then posted $300,000 bail before leaving the
+police. [@3,5,7,8] On 14 May the court varied bail to EC$300,000 cash with EC$300,000
+in sureties and returned his travel documents. [@2,8] He was ordered to return to
+court on 23 September 2019. [@2,4,7,8] He then posted $300,000 bail before leaving the
 island on Tuesday. [@1,4,6]
