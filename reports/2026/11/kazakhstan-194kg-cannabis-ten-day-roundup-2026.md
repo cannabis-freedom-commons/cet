@@ -88,6 +88,11 @@ sources:
     publisher: Kazakhstan Today
     date: 2026-11-22
     language: ru
+  - title: За 10 дней изъято более 200 кг наркотиков
+    url: https://zhaikpress.kz/ru/news/za-10-dnej-izyato-bolee-200-kg-narkotikov/
+    publisher: Жайық Пресс
+    date: 2026-11-22
+    language: ru
 media:
   - kind: photo
     url: https://almaty.tv/ru/news/zakon-i-poryadok/v-kazakhstane-za-10-dnej-iz-ato-bolee-200-kg-narkotikov
@@ -99,18 +104,21 @@ media:
     media_url: https://www.youtube.com/watch?v=cIBwvkcKsAo
     publisher: Polisia.kz
     caption: 'Interior Ministry video released with the courier-detention announcement on the Almaty, Shymkent and Pavlodar arrests in the same ten-day roundup. Video: Polisia.kz'
+open_questions:
+  - Left out arrested, as no supporting quotation was given.
+  - Left out kg seized, as no supporting quotation was given.
 ---
 
 Kazakhstan's Interior Ministry said police detained 35 drug suspects across the
-country in the ten days from 1 to 10 November. [@3,4,5,6,7,8] Nineteen were suspected of
+country in the ten days from 1 to 10 November. [@3,4,5,6,7,8,11] Nineteen were suspected of
 selling drugs and eight of smuggling. [@1,4,5,6,9] Three were held over storing drugs on
 an especially large scale. [@2,4,5,6] Three of the suspects were also held over illegal circulation of poisonous substances and one over promoting and advertising drugs. [@4,6] One of the 35 was held over cultivating
 drug-containing plants. [@2,4,5,6,8] Officers recorded 56 drug offences in the period,
-35 of them classified as crimes. [@3,4,5,6,7,8,9,10]
+35 of them classified as crimes. [@3,4,5,6,7,8,9,10,11]
 
 The figures cover Kazakhstan as a whole. [@3,6] Officers seized more than 200 kg
-of drugs in total. [@1,4,6,7,8,9,10] Of that, 190 kg was marijuana and 4 kg hashish. [@1,4,5,6,7,8,9,10]
-About 13 kg was synthetic drugs. [@1,4,5,6,7,8,10] Cannabis accounted for 194 kg of the more
+of drugs in total. [@1,4,6,7,8,9,10] Of that, 190 kg was marijuana and 4 kg hashish. [@1,4,5,6,7,8,9,10,11]
+About 13 kg was synthetic drugs. [@1,4,5,6,7,8,10,11] Cannabis accounted for 194 kg of the more
 than 200 kg seized. [@1] The ministry estimated the total at almost half a
 million single doses. [@2,4,5,7,8,10]
 
