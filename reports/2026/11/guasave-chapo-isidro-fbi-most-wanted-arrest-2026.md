@@ -143,16 +143,23 @@ sources:
     publisher: 中安在线
     date: 2026-11-23
     language: zh
+  - title: 墨西哥軍方逮捕十大通緝毒梟 境內爆發激烈交火 | 民視新聞網 | LINE TODAY
+    url: https://today.line.me/tw/v3/article/gzpmmV2
+    publisher: 民視新聞網
+    date: 2026-11-21
+    language: zh
 open_questions:
     - No casualty count was published for the attacks on private hospitals, small shops and petrol stations in Guasave during the violence.
     - 'The baseball competition is described inconsistently: one account calls it the 2026 Liga Mexicana, a summer league, while another calls it the Mexican Pacific League.'
     - The Chinese account names the detained leader only as Fausto Isidro ('矮子伊西德罗'), without the Meza Flores surnames used in other accounts of the arrest.
+    - The precise location of the operation within Sinaloa is reported inconsistently; the report places it in Guasave.
+    - The number of people detained is reported as both three and eight; the report uses eight.
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16] He led the Beltran Leyva organisation,
-allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16] The operation also
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16] He led the Beltran Leyva organisation,
+allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6]
 Army and National Guard special forces carried out the arrest with US
@@ -175,7 +182,7 @@ marijuana and fentanyl for importation into the United States. [@3,10,14] The FB
 wanted notice for him charges conspiracy to distribute one thousand kilograms or
 more of marijuana for importation into the United States. [@4] The FBI said his
 organisation moved large quantities of heroin, methamphetamine, cocaine,
-fentanyl and marijuana into the United States. [@1,12,16] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
+fentanyl and marijuana into the United States. [@1,12,16,18] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
 arrest warrant for organised crime and offences against health. [@5,10] He was also subject to an extradition order to the United States. [@10] The FBI
 added him to its Ten Most Wanted list on 4 February 2025 and the US State
 Department offered a reward of up to five million dollars for information
