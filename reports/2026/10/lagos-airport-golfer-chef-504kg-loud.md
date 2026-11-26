@@ -127,21 +127,25 @@ sources:
     url: https://newtelegraphng.com/ndlea-arrests-safrican-golfer-kenyan-chef-over-cannabis-shipment/
     publisher: New Telegraph
     date: 2026-11-22
+  - title: NDLEA arrests South African golfer, Kenyan chef, over illicit drug shipment - Businessday NG
+    url: https://businessday.ng/news/article/ndlea-arrests-south-african-golfer-kenyan-chef-over-illicit-drug-shipment/
+    publisher: Businessday NG
+    date: 2026-11-22
 ---
 
 The National Drug Law Enforcement Agency arrested a 25-year-old Kenyan chef,
 Abubakar Njambi, and a 37-year-old South African professional golfer, Grobler
 Henlo, at Murtala Muhammed International Airport in Ikeja, Lagos, in October
-2026. [@1,4,5,6,7,10,12,13,14,15] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
+2026. [@1,4,5,6,7,10,12,13,14,15,16] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
 the suspects were arrested at the airport in October. [@3,15] Henlo arrived from
 South Africa aboard a South African Airways flight on 11 October and was
-intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15] Njambi was arrested at the
+intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15,16] Njambi was arrested at the
 airport's departure boarding gate on Thursday 15 October 2026 as she tried to
-board a flight back to Kenya. [@1,5,6,8,10,11,13,14] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11]
+board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11]
 
 A search of two travelling boxes in Henlo's possession recovered 46 parcels of
 Loud, described as a potent cannabis strain, with a total weight of 50.40kg.
-[@1,4,5,6,7,9,10,11,12,13,14] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
+[@1,4,5,6,7,9,10,11,12,13,14,16] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
 had collected two other boxes bearing his tags from the conveyor belt and left.
 [@1,5,6,8,9,10,12,14] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
 identification of ownership so each courier could deny the boxes if intercepted.
