@@ -83,6 +83,14 @@ sources:
     publisher: NavGujarat Samay
     date: 2026-11-20
     language: gu
+  - title: AMC, police demolish two illegally constructed houses belonging to individuals booked under NDPS Act
+    url: https://www.newindianexpress.com/states/gujarat/2026/Nov/23/amc-police-demolish-two-illegally-constructed-houses-belonging-to-individuals-booked-under-ndps-act
+    publisher: The New Indian Express
+    date: 2026-11-23
+  - title: Two illegal properties of couple accused in NDPS case demolished in Ahmedabad
+    url: https://thesamaja.com/en/business/two-illegal-properties-of-couple-accused-in-ndps-case-demolished-in-ahmedabad
+    publisher: The Samaja
+    date: 2026-11-23
 open_questions:
     - No separate date was given for the raids; 19 November 2026 is the publication date and stands in for the incident date, described only as a single night.
     - 'Sources differ on how many remain wanted: one says the husband alone is wanted, another says two accused including a man and a woman are yet to be caught, naming Sunitaben Chhara separately.'
@@ -92,12 +100,19 @@ open_questions:
     - The Gujarati account gives the haul as about 2.25 kg of ganja and about Rs 54 lakh in cash, against the police figures of 2.174 kg and Rs 53.51 lakh used in this report.
     - 'The Gujarati accounts disagree on the couple''s past record: one says 45 cases against Sunita Rathod and about 20 against her husband since 2014, another says 48 against her and 24 against him.'
     - One Gujarati account values the Sarkhej ganja at Rs 1 lakh in its lead and Rs 1.08 lakh in its body.
+    - The number of earlier prohibition cases against Sunita Rathod and her husband remains unclear, with figures ranging from 45 to 48 for her and from 20 to 25 for him.
+    - The exact scope of the earlier clearance at the same Sarkhej site remains unclear, with one figure giving six houses and nine commercial structures and another giving six houses including the two rebuilt structures.
 media:
   - kind: photo
     url: https://navgujaratsamay.com/woman-drug-peddler-arrested-in-sarkhej-2-kg-of-ganja-and-5351-lakh-cash-seized/312850.html
     media_url: https://media.navgujaratsamay.com/ngs-mig/uploads/mediaGallery/image/1795105126732.jpg-org
     publisher: NavGujarat Samay
     caption: Image published with the NavGujarat Samay report of the police raid on the woman peddler's house in Sarkhej, captioned as the seizure of 2 kg of ganja and Rs 53.51 lakh in cash.
+  - kind: photo
+    url: https://www.newindianexpress.com/states/gujarat/2026/Nov/23/amc-police-demolish-two-illegally-constructed-houses-belonging-to-individuals-booked-under-ndps-act
+    media_url: https://cf-images.assettype.com/newindianexpress%2F2026-11-23%2Ft05worls%2FBulldozer-on-stie.png?rect=0%2C41%2C1330%2C748&w=768&auto=format%2Ccompress&fit=max
+    publisher: The New Indian Express
+    caption: Bulldozer at the Sarkhej demolition site. The demolition drive comes against the backdrop of an earlier AMC operation at the same location.
 ---
 
 Ahmedabad police ran simultaneous narcotics raids in Sarkhej and Bodakdev on
@@ -108,19 +123,19 @@ Ahmedabad. [@1] In the Bodakdev operation police apprehended 23-year-old Raju
 Mangaji Bhil, a Rajasthan native living near Sanand Chokdi in Sarkhej, with 131
 grams and 220 milligrams of ganja. [@1] Raju told investigators he had obtained
 the consignment from Sunita Rathod, who lives near Kailash Lake close to Sanyas
-Ashram in Sarkhej, leading to the follow-up raid. [@3] The woman told police that the two of them supplied ganja to small drug suppliers in Ahmedabad, and officers began examining the roles of others in the network. [@7] At the Sarkhej premises
+Ashram in Sarkhej, leading to the follow-up raid. [@3,9] The woman told police that the two of them supplied ganja to small drug suppliers in Ahmedabad, and officers began examining the roles of others in the network. [@7] At the Sarkhej premises
 near Kailash Talav close to Sanyas Ashram, police arrested 42-year-old Sunita
-Deepak Rathod, while her husband Deepak Rathod was declared wanted. [@1,7,8] Police said 45 cases had been registered against Sunita Rathod and about 20 against her husband since 2014, for assault and for selling liquor and drugs. [@7] Investigators said the ganja had been brought from Rajasthan. [@8]
+Deepak Rathod, while her husband Deepak Rathod was declared wanted. [@1,7,8] The two demolished houses were linked to Sunita Rathod, her husband Deepak Rathod and their neighbour Shantaben Rathod, all booked in narcotics-related offences. [@9] Police said 45 cases had been registered against Sunita Rathod and about 20 against her husband since 2014, for assault and for selling liquor and drugs. [@7] Investigators said the ganja had been brought from Rajasthan. [@8]
 
 Officers searching the Sarkhej residence recovered 2 kilograms and 174 grams of
-ganja alongside Rs 53.51 lakh in cash kept in a safe. [@1,8] Sunita Rathod gave no proper explanation for where the Rs 53.51 lakh in cash had come from, police said. [@8] Officers also
+ganja alongside Rs 53.51 lakh in cash kept in a safe. [@1,8,10] Sunita Rathod gave no proper explanation for where the Rs 53.51 lakh in cash had come from, police said. [@8] Officers also
 recovered 28 plastic and zip bags and Rs 53,51,100 in cash from the premises.
 [@2,4,5,6] Police put the total value of the Sarkhej seizure at Rs 54,59,800,
 including the cash. [@2,4,5,6]
 
 Police registered two cases under the Narcotic Drugs and Psychotropic Substances
-Act during the single-night Zone-7 special drive. [@2,4,5,6] Officials said the Income
+Act during the single-night Zone-7 special drive. [@2,4,5,6,9] Officials said the Income
 Tax Department and the Enforcement Directorate may be approached to trace the
 source of the cash. [@2,4,5,6,8] Police said they will examine the accused’s assets,
 with possible property seizure and demolition of illegal structures linked to
-the trade. [@2,5] Zone 7 Deputy Commissioner of Police Shivam Verma said a special team had been deployed on Sindhu Bhavan Road. [@8]
+the trade. [@2,5] The same Sarkhej site had been cleared in an earlier demolition drive when six houses were razed, but illegal construction resumed before the latest demolition. [@10] The Ahmedabad Municipal Corporation demolished two illegally built houses on government land near Sannyas Ashram and Kailash Ashram in Sarkhej under heavy police security. [@9] Zone 7 Deputy Commissioner of Police Shivam Verma said a special team had been deployed on Sindhu Bhavan Road. [@8]
