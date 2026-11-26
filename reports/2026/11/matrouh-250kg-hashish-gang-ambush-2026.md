@@ -57,22 +57,43 @@ sources:
     publisher: اوان مصر
     date: 2026-11-23
     language: ar
+  - title: ضربة بمليارات الجنيهات.. سقوط عصابة المخدرات في مطروح بـ6.75 مليار جنيه
+    url: https://www.elaosboa.com/3031709/
+    publisher: الأسبوع (Al-Osboa)
+    date: 2026-11-23
+    language: ar
+media:
+  - kind: photo
+    url: https://www.elaosboa.com/3031709/
+    media_url: https://www.elaosboa.com/wp-content/uploads/2026/11/elaosboa30219.jpg
+    publisher: الأسبوع (Al-Osboa)
+    caption: 'Egyptian Interior Ministry photo of the seized drugs and smuggled cigarettes laid out in rows, captioned ''المضبوطات'' (the seizures) on the page. Photo: Egyptian Interior Ministry.'
+  - kind: photo
+    url: https://www.elaosboa.com/3031709/
+    media_url: https://www.elaosboa.com/wp-content/uploads/2026/11/elaosboa06275.jpg
+    publisher: الأسبوع (Al-Osboa)
+    caption: 'Interior Ministry handout showing rows of seized pill packets and cigarette packs. Photo: Egyptian Interior Ministry, published by Al-Osboa.'
+  - kind: photo
+    url: https://www.elaosboa.com/3031709/
+    media_url: https://www.elaosboa.com/wp-content/uploads/2026/11/elaosboa08321.jpg
+    publisher: الأسبوع (Al-Osboa)
+    caption: 'Interior Ministry handout showing rows of seized cigarette packs and packages. Photo: Egyptian Interior Ministry, published by Al-Osboa.'
 ---
 
 Security forces ambushed and detained members of a gang described as highly
 dangerous criminals while they were in Matrouh Governorate, with the Central
 Security Sector taking part. [@1,2,3] Legal procedures were taken after the
-detentions. [@1,4,5]
+detentions. [@1,4,5,6]
 
 Officers seized about one million Tramadol pills, 250 kg of hashish and one
 million smuggled cigarette packs, which police valued together at about 250
-million pounds. [@1,2,3,4,5] They also seized five million Captagon pills, which police
+million pounds. [@1,2,3,4,5,6] They also seized five million Captagon pills, which police
 valued at 6.5 billion pounds in the destination countries, for a combined total
-of about 6.75 billion pounds. [@1,2,3,4,5]
+of about 6.75 billion pounds. [@1,2,3,4,5,6]
 
 The operation followed information and investigations by the Sector for
 Combating Drugs, Unlicensed Arms and Ammunition, Egypt's anti-narcotics body, in
 coordination with other Interior Ministry agencies. [@1,4,5] Investigators said the
 gang brought large quantities of drugs, pills and smuggled cigarettes through
 desert tracks in Matrouh Governorate for sale inside Egypt and in other
-countries. [@1,2,3,4,5]
+countries. [@1,2,3,4,5,6]
