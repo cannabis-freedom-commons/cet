@@ -101,6 +101,11 @@ media:
     media_url: https://nguoiduatin.mediacdn.vn/thumb_w/640/84137818385850368/2026/11/22/doi-tuong-le-xuan-hung-bi-cong-an-bat-giu-anh-cacc-17953243615831960941115.png
     publisher: Người Đưa Tin
     caption: 'Lê Xuân Hưng, the man police arrested over the 20 kg cannabis haul. Photo: CACC'
+  - kind: video
+    url: https://tuoitre.vn/video/cat-giau-20-kg-can-sa-trong-cac-xo-bot-giat-dua-tu-thai-lan-ve-viet-nam-204614.htm
+    media_url: https://cdn2.tuoitre.vn/1.1/?_site=tuoitre&vid=tuoitre/471584752817336320/2026/11/22/225-17953443250131457175005.mp4&_info=99fc45a02dd7d8df834d53bb5d8dbc48&poster=https://cdn2.tuoitre.vn/471584752817336320/2026/11/22/ca-san-1795341006385708408299.png
+    publisher: Tuổi Trẻ Online
+    caption: 'Video report on the Ninh Bình police bust of a Thailand-to-Vietnam drug ring, the arrest of Lê Xuân Hưng and the 20 kg of cannabis in detergent buckets. Video: Tuổi Trẻ Online'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 3ded1197a2e106d28eeafcd17a29787d
@@ -233,18 +238,23 @@ sources:
     publisher: Kenh14
     date: 2026-11-22
     language: vi
+  - title: Cất giấu 20 kg cần sa trong các xô bột giặt đưa từ Thái Lan về Việt Nam
+    url: https://tuoitre.vn/video/cat-giau-20-kg-can-sa-trong-cac-xo-bot-giat-dua-tu-thai-lan-ve-viet-nam-204614.htm
+    publisher: Tuổi Trẻ Online
+    date: 2026-11-22
+    language: vi
 ---
 
 Police in Ninh Bình province arrested Lê Xuân Hưng, born in 1999, who comes from
 Tân Phú commune in Nghệ An province and was renting accommodation in Ý Yên
-commune, Ninh Bình province. [@1,3,4,5,6,7,9,10,11,12,13,16,17,18,19,20,21,23,24,25,26] Hưng had one previous conviction for illegally
+commune, Ninh Bình province. [@1,3,4,5,6,7,9,10,11,12,13,16,17,18,19,20,21,23,24,25,26,27] Hưng had one previous conviction for illegally
 trading narcotic substances and had completed that prison sentence on 29 April
 2024. [@1,3,4,5,6,7,9,11,12,16,18,20,21,23,24,25,26] The cannabis was supplied by a person living in Thailand, and Hưng received the shipments, hid and divided the drug and delivered it to buyers on the supplier's instructions, taking an agreed share of the money after each deal. [@6,11,12,18,20,23,26] At about 02:00 on 21 November 2026 the provincial drug crime
 investigation office, with the Ministry of Public Security's drug crime
 department, customs officers and provincial forensic officers, broke up a ring
-that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7,8,9,11,15,16,22,23,24,25,26] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4,21] Officers seized 20
+that took cannabis from Thailand to Ninh Bình for sale. [@1,3,5,7,8,9,11,15,16,22,23,24,25,26,27] The operation on 21 November 2026 was carried out with Nam Định Customs and the customs control team of the regional customs branch IV, alongside the Ministry of Public Security's drug crime department and provincial forensic officers. [@4,21] Officers seized 20
 kg of cannabis that had been hidden inside buckets of imported Thai laundry
-detergent. [@1,3,4,5,7,9,10,11,12,14,16,17,18,19,20,21,22,23,24,25,26] Tools used to divide and package the drugs were also seized. [@13,19]
+detergent. [@1,3,4,5,7,9,10,11,12,14,16,17,18,19,20,21,22,23,24,25,26,27] Tools used to divide and package the drugs were also seized. [@13,19]
 
 Investigators said the cannabis was supplied by a person living in Thailand, and
 that Hưng received shipments from Thailand, stored them, divided them up and
