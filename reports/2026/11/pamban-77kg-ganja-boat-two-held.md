@@ -64,6 +64,11 @@ sources:
     publisher: News18 Tamil
     date: 2026-11-23
     language: ta
+  - title: 'तमिलनाडु: पंबन के पास नाव से 77 किलो गांजा जब्त, दो गिरफ्तार'
+    url: https://www.lokmatnews.in/india/tamil-nadu-77-kg-cannabis-seized-from-boat-two-arrested-near-pamban-a001-w02/
+    publisher: Lokmat News Hindi
+    date: 2026-11-23
+    language: hi
 media:
   - kind: photo
     url: https://tamil.news18.com/tamil-nadu/77-kg-ganja-seized-near-pamban-nw-kpk-ws-l-2260254.html
@@ -78,14 +83,14 @@ Pamban Kundukal coast near Rameswaram. [@2,5] The operation was launched on
 specific intelligence that narcotics were being transported to Sri Lanka by
 country boat from the Kundukal area. [@2] The two men on board were apprehended
 and identified as Aeronius, 33, and Gunasekaran, 42, both residents of Saveriyar
-Nagar in Thangachimadam. [@2]
+Nagar in Thangachimadam. [@2,6]
 
 A search of the vessel recovered about 77 kg of ganja packed into parcels and
-concealed in three gunny sacks. [@2,3,4] The interception took place near Pamban in
+concealed in three gunny sacks. [@2,3,4,6] The interception took place near Pamban in
 Ramanathapuram on 22 November 2026. [@1,3] Officials estimated the international
 market value of the seized ganja at around Rs 25 lakh. [@2]
 
 The Indian Coast Guard Station, Mandapam, conducted the operation in
-coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4,5] The
+coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4,5,6] The
 seized contraband, boat and two crew members were brought to Mandapam and handed
-over to the Customs Central Intelligence Unit for further legal action. [@1,4,5]
+over to the Customs Central Intelligence Unit for further legal action. [@1,4,5,6]
