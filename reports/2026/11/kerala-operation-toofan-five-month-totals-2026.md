@@ -1,21 +1,20 @@
 ---
 code: 330DZZ
 added_at: "2026-11-05T10:10:51.769516Z"
-date: 2026-11-04
+date: 2026-11-23
 country: in
 place: Thiruvananthapuram, Kerala
 coordinates: [8.5241, 76.9366]
 precision: locality
 type: seizure
 also: [arrest, prosecution]
-title: 'Kerala''s Operation Toofan: 15,515 arrested and 1,960 kg of ganja in five months'
-summary: >-
-  Kerala police say they arrested 15,515 people and registered 14,369 cases in the first five months of Operation Toofan, and seized 1,960.139 kg of ganja, 7,261 grams of hashish oil and 10,341 cannabis plants. Inspector General Putta Vimaladitya gave the figures at a press conference in Thiruvananthapuram.
+title: 'Kerala Operation Toofan: 17,071 arrested, 2,062 kg ganja seized'
+summary: Kerala police say arrests under Operation Toofan had reached 17,071 in 15,793 cases by 23 November 2026, with seizures of 2,062.244 kg of cannabis and 8,253.32 grams of hashish oil. The update adds about 1,500 arrests and 100 kg of cannabis to the five-month totals announced on 4 November.
 figures:
-  arrested: 15515
-  charged: 0
-  plants_destroyed: 10341
-  kg_seized: 1963.795
+    arrested: 17071
+    charged: 0
+    plants_destroyed: 10341
+    kg_seized: 2070.49732
 media:
   - kind: photo
     url: https://marunadanmalayalee.com/news/keralam/operation-toofan-updates-868924
@@ -23,20 +22,22 @@ media:
     publisher: Marunadan Malayalee
     caption: Header image the outlet uses for the Operation Toofan five-month update, captioned with the arrest and seizure totals.
 details:
-  activity: [trafficking]
-  agency_types: [police]
-  case_stage: investigation
-  products:
-    - {product: flower}
-    - {product: hashish}
+    activity: [trafficking]
+    agency_types: [police]
+    case_stage: investigation
+    products:
+        - {product: flower, kg: 2062.244}
+        - {product: oil, kg: 8.25332}
+    date_precision: publication
+    region: Kerala
 data_sources:
-  details.activity: [1, 4, 2]
-  details.agency_types: [1, 4, 2, 3]
-  details.case_stage: [1, 4, 2, 3]
-  details.products: [1, 2, 4]
-  figures.arrested: [1, 4, 2]
-  figures.kg_seized: [1, 4]
-  figures.plants_destroyed: [2, 4, 1]
+    details.activity: [1, 4, 2]
+    details.agency_types: [1, 4, 2, 3]
+    details.case_stage: [1, 4, 2, 3]
+    details.products: [7]
+    figures.arrested: [7]
+    figures.kg_seized: [7]
+    figures.plants_destroyed: [2, 4, 1]
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: ef713a692f2fbbdcbab68c9213516453
@@ -69,34 +70,37 @@ sources:
     publisher: The Hawk
     date: 2026-11-22
     language: en
+  - title: opertion TOOFAN | ഓപ്പറേഷന്‍ തൂഫാന്‍ പുരോഗമിക്കുന്നു; പരിശോധനയില്‍ 17071 പേരെ അറസ്റ്റ് ചെയ്തു; സ്മാള്‍ ക്വാണ്ടിറ്റി കൈവശം വച്ചതിന് 54 കേസുകൾ
+    url: https://www.malayalivartha.com/news/kerala/365516
+    publisher: Malayalivartha
+    date: 2026-11-23
+    language: ml
 open_questions:
-  - The sources give the totals for the first five months of Operation Toofan but not a separate date for the press conference beyond the 4 November 2026 publication date.
-  - No area of cannabis fields destroyed, street value of the cannabis, or number of people still in custody beyond the 1,173 remanded was published.
-  - The article reports separate major seizures in Manjeri, Palakkad, Mattancherry and Perumbavoor; these are different events and are not recorded in this campaign report.
-  - The ganja total comes from Marunadan Malayalee and The Hindu; Rediff (PTI) gives only a combined figure of more than 2,000 kg of narcotics including MDMA, hashish and heroin, which cannot be separated into cannabis weight.
-  - 'Left out, as its quotation was not found in Marunadan Malayalee: Officers also seized 7,261.352 grams of hashish oil, 5.85 grams of hashish and 3.650 grams of cannabis oil.'
-  - 'Left out, as its quotation was not found in Marunadan Malayalee: Officers seized 186 vehicles and 801 mobile phones from the accused.'
-  - The per-case hashish oil, hashish, charas and cannabis oil weights are listed separately from the ganja total and are not converted into kg_seized, to avoid double counting.
-  - The 8,682 grams of cannabis beedis are not included in kg_seized because the source does not say whether they fall within the ganja total.
-  - This Dailyhunt page reprints Marunadan Malayali's article and gives no press conference date beyond a publication time of 4 November 2026.
-  - 'Left out, as its quotation was not found in Marunadan Malayali (via Dailyhunt): The police also initiated action against 137 people under the Kerala Anti-Social Activities (Prevention) Act, KAAPA.'
-  - The article reports separate seizures in Manjeri, Palakkad, Mattancherry and Perumbavoor, including 15.020 grams and 16 kg of hybrid cannabis; these are different events and are not added to this campaign report.
-  - The page gives no street value for the cannabis, no area of fields destroyed and no number of people still in custody beyond the 1,173 remanded.
-  - The page picture carries no credit and is captioned only with the campaign totals, so its subject beyond that caption is not established.
+    - No separate date is given for the cumulative totals beyond publication dates, with 4 November 2026 used for the five-month figures and 23 November 2026 for this update.
+    - No area of cannabis fields destroyed was published.
+    - No street value for the cannabis was published.
+    - No updated number of people still in custody beyond the 1,173 remanded was published.
+    - Separate seizures reported in Manjeri, Palakkad, Mattancherry and Perumbavoor are different events and are excluded from this campaign report.
+    - A combined narcotics figure of more than 2,000 kg including MDMA, hashish and heroin cannot be separated into cannabis weight and is excluded from cannabis figures.
+    - Per-case hashish oil, hashish, charas and cannabis oil weights are listed separately from the ganja total and are not converted into kg_seized to avoid double counting.
+    - The 8,682 grams of cannabis beedis are excluded from kg_seized because the sources do not say whether they fall within the ganja total.
+    - The previous-day case categories of small-quantity, medium-quantity, NDPS Act and COTPA cases overlap and exceed the 166 cases reported, so only the totals are used.
+    - This 23 November update gives no number of cannabis plants destroyed.
+    - The 23 November totals rest on a single outlet report of police figures with no second account found.
 ---
 
 Kerala police say they arrested 15,515 people in the first five months of
-Operation Toofan, the state's anti-drug campaign. [@1,4] In a November 13 update, Kerala Police said officers had arrested 16,203 people and registered 14,995 cases since Operation Toofan began. [@5] The same period produced
+Operation Toofan, the state's anti-drug campaign. [@1,4] In a November 13 update, Kerala Police said officers had arrested 16,203 people and registered 14,995 cases since Operation Toofan began. [@5] By 23 November 2026 arrests under Operation Toofan across Kerala had reached 17,071 and registered cases had reached 15,793, after 172 more people were arrested in 166 cases on the previous day. [@7] The same period produced
 14,369 registered drug cases. [@1,2,4] Of those arrested, 1,173 have been remanded
 in judicial custody. [@1,4] Inspector General Putta Vimaladitya, the campaign's
 state nodal officer, gave the figures at a press conference in
 Thiruvananthapuram. [@2,4]
 
 Officers seized 1,960.139 kg of ganja, the Malayalam name for cannabis, during
-the campaign. [@1,4] Police found 10,341 cannabis plants and 8,682 grams of
+the campaign. [@1,4] By then officers had seized 2,062.244 kg of cannabis and 8,253.32 grams of hashish oil, alongside 30,646.629 grams of MDMA. [@7] Police found 10,341 cannabis plants and 8,682 grams of
 cannabis beedis, or cannabis cigarettes. [@1,4] The haul also included 28.659 kg
 of MDMA, 1,226.678 grams of methamphetamine, 673.076 grams of heroin, 606.81
-grams of charas and 27.634 grams of cocaine. [@1,4]
+grams of charas and 27.634 grams of cocaine. [@1,4] From the previous day's arrests officers seized 3.391 kg of cannabis and 6.7 grams of hashish oil, alongside 8.481 grams of MDMA. [@7]
 
 Police registered 193 cases for commercial-quantity trafficking and 638 for
 intermediate quantities. [@2,4] Another 4,651 cases involved small quantities of
