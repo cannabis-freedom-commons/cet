@@ -52,6 +52,10 @@ sources:
     url: https://www.philstar.com/headlines/2022/10/14/2216692/remulla-son-charged-possession-illegal-drugs
     publisher: Philstar.com
     date: 2022-10-14
+  - title: Drug Arrest of Minister’s Son a Test of Philippine Judicial Independence – The Diplomat
+    url: https://thediplomat.com/2022/10/drug-arrest-of-ministers-son-a-test-of-philippine-judicial-independence/
+    publisher: The Diplomat
+    date: 2022-10-17
 open_questions:
   - The initial PDEA account reported 937 grams of kush, while the later charge sheet itemises 437.93 grams plus 455.98 grams totalling 893.91 grams; this report uses the itemised charge-sheet total.
   - The P1,311,800 figure is the PDEA's street-value estimate for the seized kush, not an independently verified valuation.
@@ -63,22 +67,22 @@ open_questions:
 Agents of the PDEA and the Ninoy Aquino International Airport Inter-Agency Drug
 Interdiction Task Group arrested Juanito Jose Diaz Remulla III after he received
 a parcel containing about one kilo of kush on a Tuesday at a house in BF Resort
-Village in Las Pinas City. [@1] The arrested man is the eldest son of Justice
-Secretary Jesus Crispin Boying Remulla. [@1] The justice secretary said he would
+Village in Las Pinas City. [@1,3] The arrested man is the eldest son of Justice
+Secretary Jesus Crispin Boying Remulla. [@1,3] The justice secretary said he would
 not intervene in nor influence any case filed against his 38-year-old son. [@1]
 
 The PDEA said the arrest was part of a controlled delivery operation under
 Dangerous Drugs Board regulations, which lets a suspect drug consignment proceed
 under supervision to gather evidence and identify those involved. [@1]
 Investigators traced the parcel to a sender named Benjamin Huffman in San Diego,
-California. [@1] The parcel was consigned to a certain Juanito Remulla at an
+California. [@1,3] The parcel was consigned to a certain Juanito Remulla at an
 address inside BF Resort Village. [@1] The charge sheet describes two
 tape-sealed bags weighing 437.93 grams and 455.98 grams, or 893.91 grams in
 total, of cannabis (marijuana). [@2] The initial PDEA report had put the seizure
 at 937 grams of kush with a street value of P1,311,800. [@1]
 
 He was then charged with possession of illegal drugs before the Las Pinas
-regional trial court. [@2] Prosecutors filed the case as a violation of Section
+regional trial court. [@2,3] Prosecutors filed the case as a violation of Section
 11 of Republic Act 9165, the possession provision they said best fit the
 evaluated evidence. [@2] The prosecutor stressed that the possession charge is
 non-bailable given the amount. [@2] Separate complaints over drug importation
@@ -88,4 +92,3 @@ statement, the justice secretary said he would not intervene in nor influence
 any case against his son and thanked the PDEA for doing its job without fear or
 favor. [@1] After inquest before the Las Pinas city prosecutor, he remained in
 PDEA custody at its Quezon City headquarters. [@1]
-
