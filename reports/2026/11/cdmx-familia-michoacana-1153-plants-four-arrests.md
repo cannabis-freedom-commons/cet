@@ -103,11 +103,11 @@ sources:
     publisher: NX Noticias
     date: 2026-11-22
     language: es
-open_questions:
-    - 'The number of plants seized in the 2025 Iztacalco raid differs between accounts: 1,153 plants in the September 2025 reports and 1,192 in the FGR''s November 2026 statement, which the sources do not explain.'
-    - The sources give weights for each site separately but publish no combined weight for all the marijuana seized in the case.
-    - No street value was published for the marijuana seized in the case.
-    - The sources do not say whether the three other people detained in the September 2025 searches were charged or sentenced.
+  - title: 'Iztacalco: Paulo "N" condenado a ocho años por producción de marihuana — El Congresista'
+    url: https://elcongresista.mx/justicia/paulo-n-condena-ocho-anos-produccion-marihuana
+    publisher: El Congresista
+    date: 2026-11-22
+    language: es
 ---
 
 Officers detained four people in simultaneous searches in the boroughs of
@@ -115,12 +115,12 @@ Cuauhtémoc, Benito Juárez and Iztacalco in Mexico City. [@1] Sergio Cano Corre
 33, known as D3, was detained in Colonia Centro in Cuauhtémoc and was described
 as the leader of the criminal cell. [@1] The three others detained with him were
 Patricio Daniel Hernández Ruiz, 41, known as Smog, Paolo Josué Zavala Zavala,
-27, and Francisco Javier Valencia Ordoñez, 34. [@1,6] The FGR announced the conviction in a communiqué issued on 22 November 2026. [@5,7] The case passed to the federal prosecutor after the Mexico City attorney general's office declared itself incompetent, and the FGR's Fiscalía Federal de la Ciudad de México, attached to its FECOR regional control unit, presented the evidence that produced the conviction. [@8] In November 2026 a judge sentenced Zavala to eight years and four months in prison for producing marihuana, a term he will serve at the Reclusorio Preventivo Varonil Oriente. [@4,6,8] The detainees were informed
+27, and Francisco Javier Valencia Ordoñez, 34. [@1,6] The FGR announced the conviction in a communiqué issued on 22 November 2026. [@5,7] The case passed to the federal prosecutor after the Mexico City attorney general's office declared itself incompetent, and the FGR's Fiscalía Federal de la Ciudad de México, attached to its FECOR regional control unit, presented the evidence that produced the conviction. [@8] In November 2026 a judge sentenced Zavala to eight years and four months in prison for producing marihuana, a term he will serve at the Reclusorio Preventivo Varonil Oriente. [@4,6,8,10] The detainees were informed
 of their rights and placed at the disposal of the Public Prosecutor, while the
 premises were sealed under police custody. [@2]
 
 In Iztacalco officers seized a greenhouse with 1,153 cannabis plants, along with
-two bags of marijuana, a bag of yellow powder and a digital scale. [@1] The FGR dated the Iztacalco search to September 2025 and put its haul at 1,192 fresh marijuana plants, with stems, roots and green leaves weighing a net 56 kilos 856.4 grams. [@8] Authorities seized more than 56 kilos of fresh plants and 23 kilos of processed drug. [@6] The same communiqué listed a transparent bag holding 3 kilos 691.6 grams of green powder and two black bags holding 19 kilos 788.5 grams of dried green plant material. [@9] In
+two bags of marijuana, a bag of yellow powder and a digital scale. [@1] The FGR dated the Iztacalco search to September 2025 and put its haul at 1,192 fresh marijuana plants, with stems, roots and green leaves weighing a net 56 kilos 856.4 grams. [@8,10] Authorities seized more than 56 kilos of fresh plants and 23 kilos of processed drug. [@6] The same communiqué listed a transparent bag holding 3 kilos 691.6 grams of green powder and two black bags holding 19 kilos 788.5 grams of dried green plant material. [@9,10] In
 Benito Juárez officers found a drug warehouse holding 139 packages and a sack
 with 35 kilos of marijuana. [@1] The operation was run jointly by federal
 security, defence, navy, prosecution and National Guard authorities with the
