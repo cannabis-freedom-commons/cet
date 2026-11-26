@@ -48,6 +48,11 @@ sources:
     publisher: eldiarioCantabria
     date: 2026-11-23
     language: es
+  - title: Intervenidos más de 28 kilos de marihuana en Camargo supuestamente relacionados con una tienda de cannabis
+    url: https://www.ondacero.es/emisoras/cantabria/noticias/intervenidos-mas-28-kilos-marihuana-camargo-supuestamente-relacionados-tienda-cannabis_202611236b041037ff6fec292198b4c7.html
+    publisher: Onda Cero Radio
+    date: 2026-11-23
+    language: es
 open_questions:
   - No separate date is given for the shop inspection beyond 'recent dates', or a precise day for the August warehouse find; 23 November 2026, the Guardia Civil announcement, is used as the incident date.
   - 'No arrests are reported: the two women were placed under investigation (investigadas), and no charge, court appearance or outcome is known.'
@@ -62,27 +67,26 @@ open_questions:
 ---
 
 The Guardia Civil is investigating two women, aged 26 and 38, over the
-trafficking and distribution of marijuana in Camargo, Cantabria. [@2] Officers
+trafficking and distribution of marijuana in Camargo, Cantabria. [@2,5] Officers
 seized more than 28 kilograms of cannabis trim and buds and 347 doses of hashish
-resin, the force said. [@1] The investigation also linked the two women to a
-cannabis derivatives shop in the town. [@4]
+resin, the force said. [@1,5] The investigation also linked the two women to a
+cannabis derivatives shop in the town. [@4,5]
 
 The Camargo Guardia Civil post began the investigation in early August after
 finding almost 23 kilograms of marijuana trim and more than 5 kilograms of buds,
-divided into several packages, in a warehouse. [@2] Officers also found
+divided into several packages, in a warehouse. [@2,5] Officers also found
 equipment for growing the drug and boxes containing about 400 small jars that
-can be used to dose marijuana. [@2]
+can be used to dose marijuana. [@2,5]
 
 A Guardia Civil post from Camargo, a fiscal and borders patrol and a dog handler
 with a drug-detection dog then inspected the shop. [@2] On the upper floor they
 found what was needed to produce marijuana; no plants were there at the time,
 but remains showed cultivation had taken place. [@2] At the shop officers seized
 347 doses of hashish resin and more than 20 cannabis buds for analysis, all
-displayed for sale. [@2]
+displayed for sale. [@2,5]
 
 Officers found envelopes and packaging stickers, raising suspicion that contents
 were being repackaged and might not match the maximum THC level authorised for
 sale in such shops. [@2] The Guardia Civil linked the two women to the shop as
 suspected authors of a crime against public health for trafficking and
 distributing cannabis substances or derivatives in Camargo. [@3]
-
