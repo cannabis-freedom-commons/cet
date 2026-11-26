@@ -49,19 +49,19 @@ sources:
     publisher: Ouest-France
     date: 2026-11-23
     language: fr
-open_questions:
-  - The earlier conviction and sentence that brought the cumulative total to 16 months were not described.
-  - The 100 grams was described as cannabis resin, but no laboratory confirmation was reported.
-  - The specific charge and any fine were not reported.
+  - title: À 21 ans, contrôlé avec 100 grammes de cannabis près de Saint-Nazaire, il part en prison pour 16 mois
+    url: https://saint-nazaire.maville.com/actu/actudet_-a-21-ans-controle-avec-100-grammes-de-cannabis-pres-de-saint-nazaire-il-part-en-prison-pour-16-mois_-7582357_actu.Htm
+    publisher: maville.com
+    date: 2026-11-23
+    language: fr
 ---
 
 A 21-year-old man from Saint-Nazaire was sentenced to ten months of unsuspended
-prison by the court on Monday 23 November 2026. [@1] The new term was added to
-an earlier sentence. [@1] His cumulative prison term came to 16 months. [@1]
+prison by the court on Monday 23 November 2026. [@1,2] The new term was added to
+an earlier sentence. [@1,2] His cumulative prison term came to 16 months. [@1,2]
 
 The case began with a gendarmerie road check at about 15:00 on Friday 20
 November 2026 in Donges, Loire-Atlantique, where officers stopped a car whose
-registration was under surveillance. [@1] A dog from the brigade cynophile
+registration was under surveillance. [@1,2] A dog from the brigade cynophile
 detected an odour in the car. [@1] Gendarmes then found 100 grams of cannabis
-resin in the vehicle. [@1]
-
+resin in the vehicle. [@1,2]
