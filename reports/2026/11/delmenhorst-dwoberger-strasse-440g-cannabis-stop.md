@@ -65,18 +65,23 @@ sources:
     publisher: dk-online.de
     date: 2026-11-23
     language: de
+  - title: 'Polizei-News Delmenhorst, 22.11.26: Stadt Delmenhorst - Größere Menge Cannabis bei Verkehrskontrolle sichergestellt | news.de'
+    url: https://www.news.de/lokales/860210026/blaulicht-news-polizei-einsatz-delmenhorst-22-11-26-verstoss-gegen-das-betaeubungsmittelgesetz-heute/1/
+    publisher: news.de
+    date: 2026-11-22
+    language: de
 ---
 
 Police in Delmenhorst, Lower Saxony, stopped a BMW carrying two people on the
 Dwoberger Straße at about 23:00 on Saturday 21 November 2026, as it drove
-towards Oldenburger Straße. [@1,4,5,6] The driver was a 23-year-old woman and her
-passenger a 24-year-old man, both residents of Delmenhorst. [@3,4,5] During the
+towards Oldenburger Straße. [@1,4,5,6,7] The driver was a 23-year-old woman and her
+passenger a 24-year-old man, both residents of Delmenhorst. [@3,4,5,7] During the
 general traffic check the officers noticed a clear smell of cannabis from inside
 the vehicle. [@1,4,5] That raised suspicion that narcotics were in the car, so the
 officers searched the 24-year-old passenger and the BMW. [@1,4]
 
-The search found about 440 grams of cannabis in the car. [@2,4,5,6] The 24-year-old
+The search found about 440 grams of cannabis in the car. [@2,4,5,6,7] The 24-year-old
 also had a readily accessible irritant spray device, and police seized both it
-and the cannabis. [@1,4,5,6] The police inspectorate for Delmenhorst, Oldenburg-Land
+and the cannabis. [@1,4,5,6,7] The police inspectorate for Delmenhorst, Oldenburg-Land
 and Wesermarsch announced the stop. [@1] Criminal proceedings were initiated
-against the 24-year-old passenger. [@3,4,5]
+against the 24-year-old passenger. [@3,4,5,7]
