@@ -72,13 +72,18 @@ sources:
     publisher: VOL.AT (MSN)
     date: 2026-11-22
     language: de
+  - title: Kärntner bringt Auto mit Cannabis im Kofferraum in die Werkstatt
+    url: https://www.kleinezeitung.at/artikel/41477119/kaerntner-bringt-auto-mit-cannabis-im-kofferraum-in-die-werkstatt
+    publisher: Kleine Zeitung
+    date: 2026-11-21
+    language: de
 open_questions:
     - No figure was published for the value of the 2.9 kg of cannabis herb.
     - The accounts do not say whether the 26-year-old was charged under the Suchtmittelgesetz after the police report, or what happened to the cannabis herb seized in the car.
 ---
 
 A workshop employee in Völkermarkt noticed a larger package of cannabis herb in
-the boot of a car that was in the workshop for inspection. [@4,5] He reported the
+the boot of a car that was in the workshop for inspection. [@4,5,7] He reported the
 find to police at about 10:20 on 20 November 2026. [@1,5] By the time officers
 reached the workshop the car had been driven away, and an initial search was
 unsuccessful. [@2] Police got the driver to come back by saying that a tool had
@@ -91,7 +96,7 @@ woman said she knew nothing about the cannabis, while the man initially refused
 to cooperate. [@3] The Klagenfurt public prosecutor's office ordered a
 court-approved search of the man's home. [@3] During the search investigators
 seized items typical of the drug scene and about 2.9 kg of cannabis herb found
-in a second vehicle. [@3,5,6]
+in a second vehicle. [@3,5,6,7]
 
 The woman was released from custody after suspicion against her was not
 substantiated. [@3,6] The man cooperated during the search, and police filed a
