@@ -59,20 +59,20 @@ sources:
     url: https://www.cnb.gov.sg/mediaroom/news/83-arrested-in-island-wide-anti-drug-operation--children-found-in-homes-of-drug-suspects/
     publisher: Central Narcotics Bureau
     date: 2026-11-23
-open_questions:
-  - The 33g cannabis total was not broken down by raid beyond a small amount recovered at Jalan Bukit Merah.
-  - The $21,500 estimate covers all seized drugs together and cannot be split to cannabis alone.
-  - The 83 arrests cover the whole operation including heroin and methamphetamine cases, not cannabis cases alone.
-  - No charges, court outcomes or detention decisions were reported; investigations were ongoing.
+  - title: 83名涉毒嫌疑人在CNB行动中落网 | The Straits Times
+    url: https://www.straitstimes.com/zh-hans/singapore/83-suspected-drug-offenders-arrested-in-4-day-cnb-operation
+    publisher: The Straits Times
+    date: 2026-11-23
+    language: zh
 ---
 
 Singapore's Central Narcotics Bureau arrested 83 suspected drug offenders in
-island-wide raids from November 16 to 20, 2026. [@1] The operation covered Ang
+island-wide raids from November 16 to 20, 2026. [@1,3] The operation covered Ang
 Mo Kio, Bedok, Bukit Merah, Hougang, Woodlands and Yishun. [@2] Investigations
 into the drug activities of all arrested suspects are ongoing. [@2]
 
 Officers seized about 30 grams of heroin, 126 grams of Ice, 33 grams of
-cannabis, 15 grams of ketamine and 11 Ecstasy tablets. [@1] The bureau estimated
+cannabis, 15 grams of ketamine and 11 Ecstasy tablets. [@1,3] The bureau estimated
 the seized drugs were worth more than $21,500. [@1] In a separate raid on
 November 17, officers forced their way into a home near Jalan Bukit Merah and
 arrested a 46-year-old man and his 39-year-old fiancee after they refused to
@@ -84,7 +84,7 @@ others, two men aged 40 and 64 and a 70-year-old woman, were arrested in the
 same estate after meeting the 46-year-old man earlier as suspected clients. [@1]
 
 On the morning of November 17, officers arrested a 43-year-old woman and a
-38-year-old man in a residential unit in Ang Mo Kio Avenue 3. [@1] The woman's
+38-year-old man in a residential unit in Ang Mo Kio Avenue 3. [@1,3] The woman's
 14-year-old daughter and the man's 11-month-old baby were found there with drug
 paraphernalia left in an exposed area, and the children were placed in the care
 of next of kin. [@1] On November 19, officers arrested a 44-year-old man and a
@@ -96,4 +96,3 @@ a bus stop in Penjuru Close. [@1] The 23-year-old man put up a violent struggle
 and was restrained with necessary force. [@1] On the morning of November 19,
 officers arrested a 37-year-old man in a residential unit near Ho Ching Road for
 suspected drug offences. [@2]
-
