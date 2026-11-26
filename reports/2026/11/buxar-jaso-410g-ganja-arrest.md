@@ -62,6 +62,11 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-21
     language: hi
+  - title: 'मानस पोर्टल पर गांजा तस्करी की शिकायत पर छापेमारी: मुफस्सिल पुलिस ने 410 ग्राम गांजा, नगद जब्त किए - Buxar Crime News | Mufassil Police Raid Seize Ganja Cash Arrest'
+    url: https://www.bhaskar.com/amp/local/bihar/buxar/chausa/news/buxar-mufassil-police-raid-ganja-seizure-kamlesh-kumar-arrest-139745588.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-20
+    language: hi
 open_questions:
     - The 410 grams was described as ganja; no laboratory confirmation was reported.
     - No value estimate for the seized ganja was published.
@@ -72,12 +77,12 @@ open_questions:
 ---
 
 Police from the Mufassil police station in Buxar district arrested Kamlesh
-Kumar, also known as Shailesh Kumar, at a house in Jaso village. [@1,3] The raid
+Kumar, also known as Shailesh Kumar, at a house in Jaso village. [@1,3,4] The raid
 took place on the evening of Thursday 19 November 2026, at a house in front of
 the Krishna Amrit marriage hall. [@2] Officers seized 410 grams of ganja, 2,935
 rupees in cash and a plastic bag used to make the small packets in which the
-drug was sold. [@1,3] The arrested man is the son of Santosh Ram, also known as
-Munna Ram, a resident of Jaso. [@1]
+drug was sold. [@1,3,4] The arrested man is the son of Santosh Ram, also known as
+Munna Ram, a resident of Jaso. [@1,4]
 
 According to the police account, the man had long been selling ganja in small
 packets in the village, targeting young people in nearby villages, and police
