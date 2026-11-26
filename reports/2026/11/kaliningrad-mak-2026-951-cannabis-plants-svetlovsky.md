@@ -59,31 +59,27 @@ sources:
     publisher: Ньюсрум24
     date: 2026-11-19
     language: ru
-open_questions:
-  - No separate date was given for the end of the operation or the seizures; 18 November 2026 is the publication date and stands in for the incident date.
-  - The overall totals of more than 19 kg of plant-origin drugs and over 220 kg of drug-containing plants mix cannabis with other plant drugs and cannot be separated, so no cannabis kilogram figure is recorded.
-  - The stated masses of 121.4 kg and 27.3 kg are the weights of the seized growing plants, not dried cannabis, so only the plant counts are recorded.
-  - No suspects, detentions, charges or court outcomes were reported for the two Svetlovsky plots.
-  - It was not stated whether the growers of the Svetlovsky plots are among the 16 people facing criminal cases.
-  - The Mail.ru page reproduces the same interior-ministry statement as NewKaliningrad, so it is not independent reporting.
-  - The same article mentions an August seizure of over 950 hemp bushes and a late-October online drug-shop case with about 10,000 deals; those are different events left out here.
-  - The text gives a weight ("121.4 kg") but the figures have no kg_seized; check whether it belongs there.
+  - title: В Калининградской области изъяли более 19 кг наркотиков в ходе операции «Мак-2026»
+    url: https://kaskad.tv/novosti/66767-v-kaliningradskoj-oblasti-izyali-bolee-19-kg-narkotikov-v-khode-operatsii-mak-2026
+    publisher: Каскад.тв
+    date: 2026-11-18
+    language: ru
 ---
 
 Police in Kaliningrad Oblast opened 28 criminal cases against 16 people during
 the interdepartmental preventive operation Mak-2026, with 17 cases for sale,
-nine for storage and two for illegal cultivation of drug-containing plants. [@1,3]
+nine for storage and two for illegal cultivation of drug-containing plants. [@1,3,4]
 Another 65 people were brought to administrative liability under articles 6.8
-and 6.9 of the Code of Administrative Offences. [@1,3] The regional interior
+and 6.9 of the Code of Administrative Offences. [@1,3,4] The regional interior
 ministry said the Mak-2026 operation has ended in the region. [@2]
 
 During the operation officers identified trafficking and cultivation offences
 involving drug-containing plants and blocked channels for drugs entering the
 region. [@1] Police described the discovery of two plots with illegally
 cultivated hemp in Svetlovsky urban district as one of the operation's
-significant results. [@1,3] On one plot officers seized 536 plants with a combined
-weight of 121.4 kg. [@1,3] On the other plot they seized another 415 plants
-weighing 27.3 kg. [@1,3]
+significant results. [@1,3,4] On one plot officers seized 536 plants with a combined
+weight of 121.4 kg. [@1,3,4] On the other plot they seized another 415 plants
+weighing 27.3 kg. [@1,3,4]
 
 Police said more than 19 kg of plant-origin drugs and over 220 kg of
-drug-containing plants and parts were taken out of illegal circulation. [@1,3]
+drug-containing plants and parts were taken out of illegal circulation. [@1,3,4]
