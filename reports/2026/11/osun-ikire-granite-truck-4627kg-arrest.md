@@ -55,6 +55,10 @@ sources:
     url: https://nationalaccordnewspaper.com/ndlea-intercepts-160-explosives-bound-for-zamfara-seizes-over-5-6-tonnes-of-cannabis-arrests-woman-with-arms/
     publisher: National Accord Newspaper
     date: 2026-11-22
+  - title: NDLEA Intercepts 160 Explosives Bound For Zamfara, Seizes 4.6 Tonnes Of Cannabis
+    url: https://platformtimes.com.ng/ndlea-intercepts-160-explosives-bound-for-zamfara-seizes-4-6-tonnes-of-cannabis/
+    publisher: Platform Times
+    date: 2026-11-22
 open_questions:
   - No separate date was given for the arrest; 18 November 2026 is the publication date of both reports and stands in for the incident date.
   - No charge, plea or court outcome was reported; the suspect was described only as in custody pending further investigation.
@@ -69,7 +73,7 @@ arrest and seizure were announced in a statement signed by the NDLEA Public
 Relations Officer in Osun, Esther Fadare. [@2]
 
 Officers said Oduke was carrying 4,627.7 kilogrammes of Cannabis Sativa
-concealed in a truckload of granite. [@1,3,4] A second account gives the same weight
+concealed in a truckload of granite. [@1,3,4,5] A second account gives the same weight
 as 4,627.7 kilograms of Cannabis Sativa allegedly concealed in a truckload of
 granite. [@2] Preliminary findings indicated the cannabis was cleverly concealed
 in a truck loaded with granite in an apparent attempt to evade detection by law
