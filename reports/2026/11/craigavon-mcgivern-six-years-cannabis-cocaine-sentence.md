@@ -59,6 +59,10 @@ sources:
     url: https://thesouthdownbrief.co.uk/2026/11/23/newry-man-receives-six-year-sentence-in-encrochat-drugs-case/
     publisher: The South Down Brief
     date: 2026-11-23
+  - title: Notorious Newry area drug dealer sentenced to three years behind bars after pleading guilty to multiple offences
+    url: https://www.irishnews.com/news/northern-ireland/notorious-newry-area-drug-dealer-sentenced-to-three-years-behind-bars-after-pleading-guilty-to-multiple-offences-5ZGLANETJBD3JD7Q4XFNC6QUZU/
+    publisher: The Irish News
+    date: 2026-11-23
 open_questions:
   - No quantity, weight or value was published for the cannabis or the cocaine.
   - The cannabis share cannot be separated from the cocaine share in the supply offences, so no cannabis weight is recorded.
@@ -66,9 +70,9 @@ open_questions:
 ---
 
 John McGivern, 49, from Newry, was sentenced at Craigavon Crown Court on 23
-November 2026. [@3] He was sentenced for a range of drug-related offences,
+November 2026. [@3,4] He was sentenced for a range of drug-related offences,
 including being concerned in the supply of cocaine and cannabis. [@2] The court
-imposed six years, half to be served in custody and half on licence. [@2]
+imposed six years, half to be served in custody and half on licence. [@2,4]
 McGivern, known as The Chocolate, orchestrated the smuggling of commercial
 quantities of cocaine and cannabis into Northern Ireland. [@1]
 
@@ -76,10 +80,9 @@ Officers searched his then home in Whitecross in March 2021 and seized mobile
 phones, financial documentation and a Land Rover Discovery vehicle. [@2] After
 arrest and charge for drug-related offences, McGivern entered guilty pleas in
 October 2025. [@2] The case was linked to EncroChat, an encrypted phone network
-used by organised crime groups. [@2]
+used by organised crime groups. [@2,4]
 
 Police said the investigations stemmed from Operation Venetic. [@2] Police
 described McGivern as the 20th defendant sentenced in Northern Ireland for
 EncroChat-linked offences. [@2] Police said they would pursue the forfeiture of
 assets linked to criminality where appropriate. [@2]
-
