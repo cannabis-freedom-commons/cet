@@ -85,21 +85,26 @@ sources:
     publisher: Business Daily
     date: 2026-11-20
     language: el
+  - title: Δύο συλλήψεις στο Ηράκλειο για 8 κιλά κάνναβης | PoliceNET of Greece
+    url: https://www.policenet.gr/article/dyo-syllipseis-sto-irakleio-gia-8-kila-kannabis
+    publisher: policenet.gr
+    date: 2026-11-21
+    language: el
 ---
 
 Police in Heraklion, Crete, arrested a 23-year-old and a 44-year-old on
-suspicion of possessing and trafficking drugs. [@1,4,5,7,8,9] The 23-year-old is a Greek
-national and the 44-year-old a foreign national. [@2,4,7,8,9] The 44-year-old is an Iraqi national. [@4] Officers stopped the two
+suspicion of possessing and trafficking drugs. [@1,4,5,7,8,9,10] The 23-year-old is a Greek
+national and the 44-year-old a foreign national. [@2,4,7,8,9,10] The 44-year-old is an Iraqi national. [@4] Officers stopped the two
 men in an area of the Municipality of Heraklion on the morning of Thursday 19
 November 2026, then searched them and their homes. [@1,5,7,8,9] The two were arrested as they left a house in the city. [@4] At 07:30 the 23-year-old entered his flat; about ten minutes later a 44-year-old Iraqi national arrived carrying a black travel bag, and the two stayed about five minutes before coming out, when officers moved in and immobilised them. [@5] The arrests came in a
 coordinated operation by the Heraklion Police Directorate against the
 possession, trade and trafficking of drugs. [@3,7,8,9]
 
 In their homes officers found and seized a total of 7 kilograms and 984.8 grams
-of cannabis and four precision scales. [@1,4,6,7,8,9] The searches of the two homes on Knossos Avenue and Zevxidos street were carried out in the presence of a judicial officer. [@6] At the 44-year-old's home officers found a further 2 kilograms and 314.8 grams of cannabis alongside the four precision scales. [@5] At the 23-year-old's flat officers found five airtight vacuum-sealed nylon packages of raw cannabis with a combined gross weight of 5 kilograms and 670 grams. [@5] Cretalive reported the amount as 7.9
+of cannabis and four precision scales. [@1,4,6,7,8,9,10] The searches of the two homes on Knossos Avenue and Zevxidos street were carried out in the presence of a judicial officer. [@6] At the 44-year-old's home officers found a further 2 kilograms and 314.8 grams of cannabis alongside the four precision scales. [@5] At the 23-year-old's flat officers found five airtight vacuum-sealed nylon packages of raw cannabis with a combined gross weight of 5 kilograms and 670 grams. [@5] Cretalive reported the amount as 7.9
 kilograms of cannabis. [@3] The two men were taken to the Heraklion prosecutor.
 [@3,5]
 
 The operation followed information developed by the drug enforcement department
-of the Heraklion crime investigation sub-directorate. [@2,4,7,8,9] Officers kept the younger man's home on Knossos Avenue under discreet surveillance to record his movements. [@5] That drug enforcement
-department is carrying out the preliminary investigation. [@1,5,7,8,9]
+of the Heraklion crime investigation sub-directorate. [@2,4,7,8,9,10] Officers kept the younger man's home on Knossos Avenue under discreet surveillance to record his movements. [@5] That drug enforcement
+department is carrying out the preliminary investigation. [@1,5,7,8,9,10]
