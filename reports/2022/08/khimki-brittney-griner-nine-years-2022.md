@@ -51,6 +51,11 @@ media:
     media_url: https://deadline.com/wp-content/uploads/2022/08/Brittney-Griner.jpg?crop=0px%2C0px%2C4507px%2C2524px&resize=681%2C383
     publisher: Deadline
     caption: 'Brittney Griner at the courthouse in Khimki outside Moscow during her trial. Photo: AP/Alexander Zemlianichenko'
+  - kind: photo
+    url: https://thenationaldesk.com/news/americas-news-now/dennis-rodman-planning-russia-trip-to-help-get-brittney-griner-released-nba-wnba-weed-marijuana-basketball-putin-biden-viktor-bout
+    media_url: https://thenationaldesk.com/resources/media/0a84132b-216c-44c9-a34c-c1d5b3734c38-medium16x9_AP22227357038150.jpg?1660561896688
+    publisher: The National Desk
+    caption: 'Brittney Griner looks through the bars of a courtroom cage in Khimki as she listens to the verdict on 4 August 2022. Photo: Evgenia Novozhenina/Pool via AP'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 4b66a0d7506cdba30f06ab47bc6e06e0
@@ -88,13 +93,15 @@ sources:
     url: https://www.aljazeera.com/news/2022/10/25/russian-court-upholds-brittney-griners-nine-year-sentence
     publisher: Al Jazeera
     date: 2022-10-25
-open_questions:
-  - The accounts do not say whether the 1 million rouble fine imposed with the August sentence still stands after the appeal.
+  - title: Dennis Rodman planning Russia trip to help get Brittney Griner released
+    url: https://thenationaldesk.com/news/americas-news-now/dennis-rodman-planning-russia-trip-to-help-get-brittney-griner-released-nba-wnba-weed-marijuana-basketball-putin-biden-viktor-bout
+    publisher: The National Desk
+    date: 2022-08-22
 ---
 
 American basketball player Brittney Griner was detained by Russian customs at an
 airport on 17 February 2022 after officials said her luggage held vape
-cartridges containing cannabis oil. [@1,4,5,6] Customs officers at Sheremetyevo
+cartridges containing cannabis oil. [@1,4,5,6,9] Customs officers at Sheremetyevo
 International Airport outside Moscow found less than a gram of hash oil in the
 cartridges. [@3] Her lawyers said she used cannabis for medical reasons, and she
 said she had been prescribed medicinal cannabis in Arizona. [@3] Her trial began
@@ -102,7 +109,7 @@ in July 2022 and she pleaded guilty while saying she had packed the cannabis oil
 by accident. [@2,5]
 
 On 4 August 2022 the Khimki Court outside Moscow found Griner guilty of drug
-charges and sentenced her to nine years in prison. [@2,5,6] The court also fined her
+charges and sentenced her to nine years in prison. [@2,5,6,9] The court also fined her
 1 million roubles, about $16,301. [@2] The charge carried a penalty of up to 10
 years, and prosecutors had asked for nine and a half years. [@2] Griner asked
 the court for leniency and said she had never meant to hurt anybody or to break
