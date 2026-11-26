@@ -46,6 +46,10 @@ sources:
     publisher: BENIN WEB TV
     date: 2026-11-22
     language: fr
+  - title: 'Niger: 349,905 pills and 24 kg of cannabis seized by the National Guard'
+    url: https://beninwebtv.com/en/niger-349905-pills-and-24-kg-of-cannabis-seized-by-the-national-guard/
+    publisher: BENIN WEB TV
+    date: 2026-11-22
 open_questions:
   - The seven arrests cover the whole roundup, which mixed pills, smuggled cigarettes and cannabis; no breakdown for the cannabis seizures alone was published.
   - The Guard gave no place, route or owner for the 29 cannabis balls and did not say whether they were being moved across a border.
@@ -58,15 +62,15 @@ open_questions:
 
 Niger's National Guard announced on Sunday 22 November 2026 the seizure of
 349,905 tablets of drugs and illicitly sold medicines, at the end of operations
-from 15 September to 18 November. [@1] Seven people were arrested during that
-period. [@1] The seizures were carried out by the Guard's Groupement des
+from 15 September to 18 November. [@1,2] Seven people were arrested during that
+period. [@1,2] The seizures were carried out by the Guard's Groupement des
 brigades de pistes à vocation judiciaire, its judicial track-patrol group. [@1]
 The Guard said the figures covered several interventions, not a single
-operation. [@1]
+operation. [@1,2]
 
 Among the products listed were tablets sold as Royal/Tramadol, Tramaking and
 Eskazepam, which are not cannabis. [@1] Officers recovered 29 balls of cannabis
-weighing 24.024 kg in total, plus 31 cones prepared for consumption. [@1] The
+weighing 24.024 kg in total, plus 31 cones prepared for consumption. [@1,2] The
 Guard counted the cannabis separately from the tablets. [@1]
 
 The same operations intercepted 559 cartons, 56 cartouches and four packets of
@@ -75,5 +79,4 @@ Five Toyota V8 vehicles, a motorcycle and a cart were immobilised. [@1] The
 Guard also reported seizing 184,230 CFA francs. [@1]
 
 The Guard said it handed the seven detainees and the seized products to the
-competent services, notably OCRTIS, Niger's anti-drug office, and customs. [@1]
-
+competent services, notably OCRTIS, Niger's anti-drug office, and customs. [@1,2]
