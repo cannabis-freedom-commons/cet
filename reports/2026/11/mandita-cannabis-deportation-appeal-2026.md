@@ -45,6 +45,11 @@ sources:
     url: https://tribunalsdecisions.service.gov.uk/utiac/ui-2025-002847
     publisher: GOV.UK Tribunal Decisions
     date: 2026-11-18
+  - title: Un român prins cu canabis de 100.000 de lire a scăpat de deportarea din Marea Britanie. Cum a motivat judecătorul decizia - Știrile ProTV
+    url: https://stirileprotv.ro/stiri/international/un-roman-prins-cu-canabis-de-100-000-de-lire-a-scapat-de-deportarea-din-marea-britanie-cum-a-motivat-judecatorul-decizia.html
+    publisher: Știrile Pro TV
+    date: 2026-11-23
+    language: ro
 open_questions:
   - No weight was published for the 14 bags of cannabis, only a value range.
   - The upper value is £98,800 in the sentencing remarks and £98,000 in the newspaper account; the report uses £98,800.
@@ -57,16 +62,16 @@ open_questions:
 
 Bogdan Marius Mandita, a 40-year-old Romanian national, had been granted five
 years’ limited leave to remain in Britain under the EU Settlement Scheme in
-September 2019. [@2] He was convicted in May 2023 of being concerned in the
-supply of cannabis, a Class B drug. [@2] He was sentenced that October to seven
-months’ imprisonment. [@2] After the sentence he was served with a deportation
+September 2019. [@2,3] He was convicted in May 2023 of being concerned in the
+supply of cannabis, a Class B drug. [@2,3] He was sentenced that October to seven
+months’ imprisonment. [@2,3] After the sentence he was served with a deportation
 order and claimed the right to stay with his wife and two children, which the
 Home Office refused. [@2] The Home Office appealed, but Upper Tribunal Judge
 Therese Kamara in London upheld the lower ruling, holding it involved no error
-of law. [@1]
+of law. [@1,3]
 
 Mandita had been caught with 14 large bags of cannabis during a 2023 police road
-stop. [@1] The sentencing remarks valued that cannabis at £41,730 to £98,800
+stop. [@1,3] The sentencing remarks valued that cannabis at £41,730 to £98,800
 depending on how it was to be sold. [@2] The sentencing judge put the stash at
 up to £98,000 and said its value showed a significant role in a wider criminal
 network. [@1] The Upper Tribunal hearing took place at Field House on 23 October
@@ -81,4 +86,3 @@ serious harm and no link between the offence and any direct harm, holding mere
 potential for harm was irrelevant. [@2] The tribunal accepted the family could
 in principle continue life in Romania, where Mandita has a flat, but still found
 removal disproportionate. [@2]
-
