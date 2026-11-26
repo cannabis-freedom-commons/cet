@@ -60,6 +60,11 @@ sources:
     publisher: Haber365
     date: 2026-11-23
     language: tr
+  - title: Kırıkkale’de esrar ve ruhsatsız silahlar ele geçirildi
+    url: https://www.msn.com/tr-tr/haber/turkiye/k%C4%B1r%C4%B1kkale-de-esrar-ve-ruhsats%C4%B1z-silahlar-ele-ge%C3%A7irildi/ar-AA2i4ai1
+    publisher: MSN
+    date: 2026-11-23
+    language: tr
 open_questions:
     - No separate date for the operation was given; 23 November 2026 is the article's publication date and is used as the incident date.
     - The report does not state whether the three suspects were detained or arrested, only that judicial proceedings were opened.
@@ -68,18 +73,18 @@ open_questions:
 
 Provincial Gendarmerie Command teams searched the homes in Keskin district of
 three suspects identified only as İ.C., aged 62, M.M., aged 48, and Z.M., aged
-35. [@1,2] The Kırıkkale Chief Public Prosecutor's Office directed the operation,
+35. [@1,2,3] The Kırıkkale Chief Public Prosecutor's Office directed the operation,
 which was described as targeting the manufacture and trade of narcotic
-substances. [@1] After the searches, the gendarmerie teams opened the required
-judicial proceedings against the three suspects. [@1,2]
+substances. [@1,3] After the searches, the gendarmerie teams opened the required
+judicial proceedings against the three suspects. [@1,2,3]
 
 During the searches of the suspects' homes, officers found a total of 213 grams
-of cannabis, described as esrar, divided into five separate pieces. [@1] In the
+of cannabis, described as esrar, divided into five separate pieces. [@1,3] In the
 same home searches, officers found two cannabis roots, described as kök kenevir.
-[@1,2] Officers also recovered one air-conditioning or climate-control system and
+[@1,2,3] Officers also recovered one air-conditioning or climate-control system and
 three mobile telephones from the searched homes. [@1] In the same operation,
 officers seized two unlicensed pistols and one unlicensed hunting rifle
-alongside the drugs. [@1,2]
+alongside the drugs. [@1,2,3]
 
 According to the account, the seized narcotics and weapons were to be examined
 by the security forces and entered into the case file as evidence. [@1] The
