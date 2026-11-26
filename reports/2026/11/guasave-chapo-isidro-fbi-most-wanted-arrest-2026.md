@@ -148,18 +148,17 @@ sources:
     publisher: 民視新聞網
     date: 2026-11-21
     language: zh
-open_questions:
-    - No casualty count was published for the attacks on private hospitals, small shops and petrol stations in Guasave during the violence.
-    - 'The baseball competition is described inconsistently: one account calls it the 2026 Liga Mexicana, a summer league, while another calls it the Mexican Pacific League.'
-    - The Chinese account names the detained leader only as Fausto Isidro ('矮子伊西德罗'), without the Meza Flores surnames used in other accounts of the arrest.
-    - The precise location of the operation within Sinaloa is reported inconsistently; the report places it in Guasave.
-    - The number of people detained is reported as both three and eight; the report uses eight.
+  - title: Đấu súng vây bắt trùm ma túy Mexico
+    url: https://lifestyle.zingnews.vn/dau-sung-vay-bat-trum-ma-tuy-mexico-post1698070.html
+    publisher: Znews.vn
+    date: 2026-11-21
+    language: vi
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16] He led the Beltran Leyva organisation,
-allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16] The operation also
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16] He led the Beltran Leyva organisation,
+allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16,19] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6]
 Army and National Guard special forces carried out the arrest with US
@@ -168,7 +167,7 @@ intelligence support. [@5,9,10,12,13,14,17]
 Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
 overall toll of eleven deaths. [@2,12,13] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
-before entering the house where the arrests were made. [@2,10] Three detainees were
+before entering the house where the arrests were made. [@2,10,19] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
 [@6] Forces seized a Barrett .50-calibre rifle, ten other firearms, a grenade
@@ -182,13 +181,13 @@ marijuana and fentanyl for importation into the United States. [@3,10,14] The FB
 wanted notice for him charges conspiracy to distribute one thousand kilograms or
 more of marijuana for importation into the United States. [@4] The FBI said his
 organisation moved large quantities of heroin, methamphetamine, cocaine,
-fentanyl and marijuana into the United States. [@1,12,16,18] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
+fentanyl and marijuana into the United States. [@1,12,16,18,19] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
 arrest warrant for organised crime and offences against health. [@5,10] He was also subject to an extradition order to the United States. [@10] The FBI
 added him to its Ten Most Wanted list on 4 February 2025 and the US State
 Department offered a reward of up to five million dollars for information
-leading to his capture. [@7,10,12,14,16]
+leading to his capture. [@7,10,12,14,16,19]
 
 After the arrest, Sinaloa reported gunfire, burning vehicles and road blockades,
-and a Pacific League baseball game in Guasave was suspended. [@6,9,10,12,16] An unverified video circulating overnight appeared to show the detained Meza Flores urging his associates to stand down, warning that children, women and innocent people could be put in harm's way. [@12] Video footage circulating after the operation appeared to show security-force helicopters circling over Guasave and firing at ground targets, while gunmen returned fire from pickup trucks. [@17] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10,16] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10] The Sinaloa state government said on 21 November that the situation was largely under control. [@17] Meza Flores,
+and a Pacific League baseball game in Guasave was suspended. [@6,9,10,12,16] An unverified video circulating overnight appeared to show the detained Meza Flores urging his associates to stand down, warning that children, women and innocent people could be put in harm's way. [@12] Video footage circulating after the operation appeared to show security-force helicopters circling over Guasave and firing at ground targets, while gunmen returned fire from pickup trucks. [@17] Harfuch wrote on X that the detentions were an important step toward restoring peace in Sinaloa. [@10] Security secretary Omar Garcia Harfuch said on Saturday that troops would remain in Sinaloa to protect residents. [@10] Sinaloa's public security agency urged residents to stay indoors, avoid the area and stay off the roads because federal personnel had been attacked in Guasave. [@10,16,19] The defence ministry said roadblocks were reported in four areas of Sinaloa after the arrests and security forces were sent to reopen roads. [@10] The Sinaloa state government said on 21 November that the situation was largely under control. [@17] Meza Flores,
 first indicted in the United States in 2012 and sanctioned under the US Kingpin
-Act in 2013, had evaded capture for more than a decade. [@8,10] The capture came days after President Claudia Sheinbaum met Donald Trump at an Asian summit, where Trump said the two discussed trade and security and that the United States was working with Mexico against drug cartels. [@13]
+Act in 2013, had evaded capture for more than a decade. [@8,10] He was prosecuted in 2019 on drug-trafficking and weapons-possession charges. [@19] The capture came days after President Claudia Sheinbaum met Donald Trump at an Asian summit, where Trump said the two discussed trade and security and that the United States was working with Mexico against drug cartels. [@13]
