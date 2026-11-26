@@ -43,6 +43,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/1884/2026/11/21/dbgifmagic_-_2026-11-21t183606_942_1795266657186.gif
     publisher: Bhaskar English
     caption: 'Police seized 43 kg 300 g of dry cannabis and green plants in the Tidi and Mandwa raids. Photo: Bhaskar English'
+  - kind: photo
+    url: https://www.pratahkal.com/amp/udaipur/udaipur-police-seizes-ganja-crops-ndps-cases-mandwa-1653997
+    media_url: https://assets.pratahkal.com/h-upload/2026/11/21/2318597-police-seizing-ganja-crops-udaipurjpg.webp
+    publisher: Pratahkal
+    caption: Green cannabis plants shown in connection with the Mandwa seizure in Udaipur.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: c37fcb04da94cf847126b0f50eb471af
@@ -62,14 +67,11 @@ sources:
     publisher: Bhilwara Halchal
     date: 2026-11-21
     language: hi
-open_questions:
-  - No count of cannabis plants was published; the green and wet plants were reported only by weight.
-  - No estimated value for the 43.3 kg of cannabis and plants was published.
-  - No charge sheets, court appearances or remand decisions were reported for the two arrested men.
-  - The second sack was described as holding 'around six kilograms', while the two Tidi actions were reported as a total of 12 kilograms.
-  - Both accounts come from the Dainik Bhaskar group, with the English page translating the Hindi report, so they are not independent.
-  - It is not stated whether these four cases are included in the 1,187.49 kg campaign total reported on 18 November.
-  - The raids are dated only as 'Saturday'; 21 November 2026, the publication date, was a Saturday and is used as the incident date.
+  - title: उदयपुर में 31.300 किलो गांजा और फसल जब्त, दो केस दर्ज
+    url: https://www.pratahkal.com/amp/udaipur/udaipur-police-seizes-ganja-crops-ndps-cases-mandwa-1653997
+    publisher: Pratahkal
+    date: 2026-11-21
+    language: hi
 ---
 
 Udaipur police arrested two smugglers during the operation. [@2] He had tried to
@@ -85,10 +87,10 @@ The two Tidi police operations yielded 12 kilograms of dried ganja, with
 separate cases registered under the NDPS Act and the investigation handed to the
 Kurabad station house officer. [@1,3] A joint team of Mandwa and Kotda police and
 DST station house officer Mugla Ram raided two locations in the Mandwa area.
-[@1] There police seized 25 kg 640 g of wet ganja plants and 5 kg 660 g of dried
-ganja, a total of 31 kg 300 g of material. [@1,3] Two separate cases were
+[@1,4] There police seized 25 kg 640 g of wet ganja plants and 5 kg 660 g of dried
+ganja, a total of 31 kg 300 g of material. [@1,3,4] Two separate cases were
 registered under the NDPS Act at Mandwa police station, and further
-investigation began. [@1] Across the four locations police seized 43 kg 300 g of
+investigation began. [@1,4] The two Mandwa cases were recorded as case numbers 105/2026 and 106/2026 under section 8/20 of the NDPS Act. [@4] Across the four locations police seized 43 kg 300 g of
 dried cannabis and green plants. [@1,3]
 
 The raids took place on Saturday as part of the 'Ganja-free Bhomat' campaign.
