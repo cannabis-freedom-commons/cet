@@ -74,10 +74,14 @@ sources:
     url: https://www.renfrewshire24.co.uk/2026/11/20/two-men-caught-at-cannabis-factory-of-a-size-drugs-expert-had-never-seen/
     publisher: Renfrewshire24
     date: 2026-11-20
+  - title: Round-up of Ayrshire court cases from the past week
+    url: https://www.cumnockchronicle.com/news/26747461.round-up-ayrshire-court-cases-past-week/
+    publisher: Cumnock Chronicle
+    date: 2026-11-22
 ---
 
 Van Anh Nguyen, 35, and Giap Ba Thai, 52, both pleaded guilty at the High Court
-in Glasgow to their role in a cannabis operation at Lugar. [@1,4] They admitted
+in Glasgow to their role in a cannabis operation at Lugar. [@1,4,5] They admitted
 being concerned in supplying cannabis from an industrial unit at Lugar Works, on
 Peesweep Brae, between March 7 and May 23, 2024. [@1] Lord Arthurson sentenced
 each of them to four and a half years in prison. [@2,4] The judge said both men
@@ -85,7 +89,7 @@ were involved in a substantial commercial enterprise for production and onward
 supply of cannabis on quite literally an industrial scale. [@1,4]
 
 Police seized a total of 1,327 plants with a potential value of £1,190,000 at
-the unit. [@2,4] A reviewing drugs officer who walked through the unit said he had
+the unit. [@2,4,5] A reviewing drugs officer who walked through the unit said he had
 not previously attended a growing site of such a size. [@1,4] Police Scotland said
 officers executed a warrant at an industrial unit near Cumnock around 11.10am on
 Thursday, 23 May, and recovered a drugs cultivation. [@3] At the time of the
