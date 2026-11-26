@@ -53,31 +53,31 @@ sources:
     publisher: APA
     date: 2026-07-31
     language: az
-open_questions:
-  - No separate date is given for the detention; 31 July 2026 is the publication date of the reports and is used as the incident date.
-  - No charge or article of the Criminal Code was reported; the case is described only as at the investigation stage.
-  - No trial date, plea or court outcome has been reported.
-  - All three accounts reproduce one Interior Ministry statement, so they are not independent reporting.
-  - No value or street-price estimate for the marijuana was published.
-  - The reports describe the substance as marijuana without mentioning a laboratory confirmation.
-  - 'В Хазарском районе Баку изъято 45 кг наркотиков (Operativ Informasiya Mərkəzi (OMM)) could not be opened again to check its quotations (access challenge: Cloudflare blocked access to the article; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
+  - title: В Баку арестован мужчина, перевозивший 45 кг марихуаны
+    url: https://1news.az/news/20260731172527792-V-Baku-arestovan-muzhchina-perevozivshii-45-kg-marikhuany
+    publisher: 1news.az
+    date: 2026-07-31
+    language: ru
+  - title: Man transporting 45 kg of marijuana arrested in Baku
+    url: https://1news.az/en/news/20260731172511432-Man-transporting-45-kg-of-marijuana-arrested-in-Baku
+    publisher: 1news.az
+    date: 2026-07-31
 ---
 
 Police in Baku's Khazar district detained a 53-year-old man, Fariz Khalilov,
-during an operation against illegal drug trafficking. [@1] Officers found and
+during an operation against illegal drug trafficking. [@1,4] Officers found and
 seized 45 kilograms 210 grams of marijuana when they searched the car he was
-driving. [@1] The operation was carried out by officers of the Khazar District
+driving. [@1,4,5] The operation was carried out by officers of the Khazar District
 Police Department, APA reported. [@3] Azerbaijan's Interior Ministry gave the
 account of the detention to the Operativ Information Centre. [@2]
 
 Khalilov said in his statement that the drugs were intended for delivery to
-various addresses. [@1] In his testimony he admitted acquiring the drugs for
+various addresses. [@1,4,5] In his testimony he admitted acquiring the drugs for
 onward sale and delivery to various addresses, the ministry's account said. [@2]
 A criminal case was opened and a court ordered that he be held in pre-trial
-detention. [@1] The court's measure was reported in Azerbaijani as həbs qətimkan
+detention. [@1,4] The court's measure was reported in Azerbaijani as həbs qətimkan
 tədbiri, the pre-trial arrest measure. [@3] Investigators said the inquiry was
-continuing. [@1]
+continuing. [@1,4]
 
 The Interior Ministry said combating illegal drug trafficking is one of the
 priority areas of Azerbaijan's law enforcement agencies. [@2]
-
