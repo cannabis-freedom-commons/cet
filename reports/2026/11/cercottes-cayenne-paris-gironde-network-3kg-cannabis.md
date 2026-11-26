@@ -44,6 +44,11 @@ sources:
     publisher: Police & Réalités
     date: 2026-11-23
     language: fr
+  - title: 'Val-de-Marne : un trafic de cocaïne et de cannabis entre Cayenne, Paris et la Gironde démantelé - Le Parisien'
+    url: https://www.leparisien.fr/faits-divers/val-de-marne-un-trafic-de-cocaine-et-de-cannabis-entre-cayenne-paris-et-la-gironde-demantele-23-11-2026-QDGPY542HFEVXFZX3IS6NDBOIQ.php
+    publisher: Le Parisien
+    date: 2026-11-23
+    language: fr
 open_questions:
   - The 19.1 kg of white powder is reported in a cocaine-trafficking account without a stated laboratory confirmation.
   - About 50 kg of cannabis resin reported as flown to Cayenne is described as transported, not as seized, so it is excluded from the cannabis total.
@@ -55,7 +60,7 @@ open_questions:
 ---
 
 The Val-de-Marne judicial police dismantled a network suspected of moving
-cannabis resin and cocaine between Guyane, the Paris region and Gironde. [@1]
+cannabis resin and cocaine between Guyane, the Paris region and Gironde. [@1,2]
 The operation ended with a chase on the N20 in Loiret, the seizure of 19.1 kg of
 white powder and the formal investigation of three men aged 28 to 41. [@1] On 18
 November the Paris BRI closely followed the courier returning from Cayenne to a
@@ -69,7 +74,7 @@ officers arrested three other suspects. [@1]
 
 Investigators found 19.1 kg of white powder in the crashed car, with a wholesale
 value in France of more than 420,000 euros, reported as cocaine and not counted
-in the cannabis total. [@1] In Cayenne officers seized 25,500 euros in cash, 504
+in the cannabis total. [@1,2] In Cayenne officers seized 25,500 euros in cash, 504
 grams of gold estimated at 60,000 euros, a pistol, a revolver, a German sedan
 and more than 3 kg of cannabis. [@1] In October the head of the network had
 recruited a man from Gironde who flew to Cayenne with two suitcases holding
@@ -83,4 +88,3 @@ euros to carry suitcases from Orly to a shopping centre in Orleans and did not
 know their illicit contents. [@1] Five suspects including two Guyanese were
 brought before the investigating judge, and the Creteil prosecutor’s office,
 when asked, did not respond. [@1]
-
