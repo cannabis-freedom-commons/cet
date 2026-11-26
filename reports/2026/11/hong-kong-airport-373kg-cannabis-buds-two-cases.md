@@ -87,13 +87,18 @@ sources:
     publisher: PassionTimes
     date: 2026-11-22
     language: zh
+  - title: 海關檢八百萬元大麻花
+    url: https://www.macaodaily.com/content/202611/23/c518557.html
+    publisher: 澳門日報
+    date: 2026-11-23
+    language: zh
 ---
 
 Hong Kong Customs arrested two men in two drug trafficking cases detected at
-Hong Kong International Airport on 20 and 21 November 2026. [@1,6,7] In the first
+Hong Kong International Airport on 20 and 21 November 2026. [@1,6,7,8] In the first
 case, a 46-year-old British national who said he worked as a bodyguard was
 transiting from Bangkok to London when officers found about 35 kilograms of
-suspected cannabis buds in his two checked suitcases. [@1,5,6] Customs officers said
+suspected cannabis buds in his two checked suitcases. [@1,5,6,8] Customs officers said
 X-ray images of his suitcases showed items of similar shape and unusually even
 density, prompting the search. [@2] In the second case, officers found about 2.3
 kilograms of suspected cannabis buds on 10 August in an unclaimed checked bag
@@ -101,11 +106,11 @@ that had arrived from Bangkok, and on 21 November arrested a 39-year-old
 mainland Chinese man when he flew in from Bangkok via Taipei. [@1,5,6,7]
 
 The two cases together yielded about 37.3 kilograms of suspected cannabis buds,
-which Customs valued at about HK$8 million. [@1,5,6,7] Customs put the first case's 35
+which Customs valued at about HK$8 million. [@1,5,6,7,8] Customs put the first case's 35
 kilograms at about HK$7.5 million. [@2] The 2.3 kilograms found in the unclaimed
 bag were valued at about HK$500,000. [@3] Each of the two men was charged with
 one count of trafficking in a dangerous drug, and both cases were listed for
-West Kowloon Magistrates' Courts on 23 November. [@1,5,6,7]
+West Kowloon Magistrates' Courts on 23 November. [@1,5,6,7,8]
 
 Customs said the first case showed trafficking syndicates using Hong Kong as a
 transit hub to move drugs through transit passengers, and the second showed them
