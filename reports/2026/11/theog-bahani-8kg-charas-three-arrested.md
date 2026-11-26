@@ -50,22 +50,28 @@ sources:
     url: https://himachalscape.com/2026/11/23/shimla-police-recover-8-kg-charas-in-theog-raids-three-arrested/
     publisher: Himachal Scape
     date: 2026-11-23
+  - title: 'शिमला में नशा तस्करी पर बड़ी कार्रवाई: तीन घरों में एक साथ छापेमारी, 8 किलो चरस के साथ तीन आरोपी गिरफ्तार'
+    url: https://www.currentcrime.com/hi/news/shamal-ma-nasha-tasakara-para-bugdha-kararavaii-tana-ghara-ma-eka-satha-chhapamara-8-kal-carasa-ka-satha-tana-aarapa-garafatara?language_id=2
+    publisher: Current Crime
+    date: 2026-11-23
+    language: hi
 open_questions:
-  - The article says three people were arrested but names four people in connection with the raids; Hari Vallabh's role and any recovery attributed to him are not specified.
-  - The three stated recoveries of 1.7 kg, 900 grams and approximately 5.5 kg do not add exactly to the police's round total of 'around 8 kg'.
-  - No separate calendar date is given for the raids, which are described as early Sunday morning; the FIRs are dated 22 November 2026 and the article was published on 23 November.
-  - No court appearance, charge sheet or outcome beyond the arrests and registered FIRs was reported.
-  - No laboratory confirmation that the seized substance was charas was reported.
-  - No value or estimate was published for the seized charas.
+    - The article says three people were arrested but names four people in connection with the raids; Hari Vallabh's role and any recovery attributed to him are not specified.
+    - The three stated recoveries of 1.7 kg, 900 grams and approximately 5.5 kg do not add exactly to the police's round total of 'around 8 kg'.
+    - No separate calendar date is given for the raids, which are described as early Sunday morning; the FIRs are dated 22 November 2026 and the article was published on 23 November.
+    - No court appearance, charge sheet or outcome beyond the arrests and registered FIRs was reported.
+    - No laboratory confirmation that the seized substance was charas was reported.
+    - No value or estimate was published for the seized charas.
+    - It is unclear which resident's house yielded the 5.5 kg of charas, Rs 1,05,690 in cash and weighing machine, with Hari Vallabh and Dila Ram named for the third recovery.
 ---
 
 Shimla Police arrested three people and recovered around 8 kg of charas during
 simultaneous raids at three residential premises in Bahani village under Theog
-police station. [@1] The raids followed specific intelligence inputs and formed
-part of an intensified campaign against drug trafficking. [@1]
+police station. [@1,2] The raids followed specific intelligence inputs and formed
+part of an intensified campaign against drug trafficking. [@1,2]
 
 Officers recovered 1.7 kg of charas from the residence of Shyam Singh and 900
-grams from the house of Laxmi Nand. [@1] The biggest recovery was about 5.5 kg
+grams from the house of Laxmi Nand. [@1,2] The biggest recovery was about 5.5 kg
 of charas from the residence of Dila Ram, along with Rs 1,05,690 in cash and a
 weighing machine. [@1] Hari Vallabh was also named among the accused, though his
 parentage and the recovery attributed to him were not detailed. [@1] Three FIRs,
@@ -75,10 +81,9 @@ arrested and investigators were examining the source of the contraband and
 possible links in the supply network. [@1]
 
 Shimla Police said it had registered 27 cases involving commercial quantities of
-narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1]
+narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1,2]
 Police attributed the rise to a shift in enforcement strategy towards major
 suppliers, their hideouts and organised trafficking networks rather than
 street-level peddlers. [@1] Police said the crackdown would continue with
 sustained surveillance and intelligence-based operations to curb the drug supply
-chain. [@1]
-
+chain. [@1] SSP Gaurav Singh said the drive against drug traffickers and their network would continue. [@2]
