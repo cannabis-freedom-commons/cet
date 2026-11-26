@@ -1,44 +1,43 @@
 ---
 code: APCECD
 added_at: "2026-11-23T14:25:51.151469Z"
-date: 2026-11-20
+date: 2026-11-23
 country: mx
 place: Guasave, Sinaloa
 coordinates: [25.5686, -108.4664]
 precision: locality
-type: arrest
-also: [raid, seizure, death]
-title: FBI most-wanted cartel boss 'Chapo Isidro' captured in Sinaloa; 8 held, 11 killed
-summary: >-
-  Mexican special forces arrested Fausto Isidro Meza Flores, 'El Chapo Isidro', an FBI Ten Most Wanted cartel leader whose organisation is charged with trafficking a tonne or more of marijuana into the United States, in Guasave, Sinaloa, on 20 November 2026. Eight people were arrested and eleven killed, and the capture set off gunfire, burning vehicles and road blockades across northern Sinaloa.
+type: prosecution
+also: [raid, seizure, death, arrest]
+title: '''Chapo Isidro'' to face trial in Mexico; 20 killed in capture'
+summary: Mexico will try Fausto Isidro Meza Flores, 'El Chapo Isidro,' at home despite a US extradition request after his 20 November 2026 capture in Guasave, Sinaloa. Mexican prosecutors charged him locally on weapons and methamphetamine charges on 23 November, while officials reported 4 soldiers and 16 gunmen killed in the operation.
 figures:
-  arrested: 8
-  charged: 1
-  deaths: 11
+    arrested: 8
+    charged: 1
+    deaths: 20
 details:
-  agencies: [mx-sedena, mx-gn]
-  agency_types: [military, gendarmerie]
-  products:
-    - {product: flower}
-  activity: [trafficking]
-  setting: [home]
-  charges: ['conspiracy to manufacture and distribute cocaine, methamphetamine, heroin, marijuana and fentanyl for importation into the United States', narcoterrorism, continuing criminal enterprise, money laundering, firearms offences]
-  case_stage: investigation
-  force: [lethal]
-  date_precision: exact
-  region: Sinaloa
+    agencies: [mx-sedena, mx-gn]
+    agency_types: [military, gendarmerie]
+    products:
+        - {product: flower}
+    activity: [trafficking]
+    setting: [home]
+    charges: [running a continuing criminal enterprise, narcoterrorism, money laundering conspiracy, weapons offenses, weapons offenses and methamphetamine possession with intent to sell]
+    case_stage: charged
+    force: [lethal]
+    date_precision: exact
+    region: Sinaloa
 data_sources:
-  details.activity: [3]
-  details.agencies: [6]
-  details.agency_types: [6]
-  details.case_stage: [6]
-  details.charges: [3]
-  details.force: [2]
-  details.products: [4]
-  details.setting: [6]
-  figures.arrested: [6]
-  figures.charged: [3]
-  figures.deaths: [2]
+    details.activity: [3]
+    details.agencies: [6]
+    details.agency_types: [6]
+    details.case_stage: [30]
+    details.charges: [30]
+    details.force: [2]
+    details.products: [4]
+    details.setting: [6]
+    figures.arrested: [6]
+    figures.charged: [3]
+    figures.deaths: [30]
 media:
   - kind: photo
     url: https://www.bbc.co.uk/news/articles/ckz749ey0r75o
@@ -100,6 +99,11 @@ media:
     media_url: https://www.bbc.com/news/videos/cm62p9y3y04qo
     publisher: BBC News
     caption: BBC video showing the moment troops raided the home and captured Fausto Isidro Meza Flores ('Chapo Isidro').
+  - kind: photo
+    url: https://www.usnews.com/news/world/articles/2026-11-23/us-extradition-order-exists-for-arrested-mexican-drug-lord-el-chapo-isidro
+    media_url: https://www.usnews.com/object/image/000001a2-08c9-d30e-a3bf-5fdf07e10000/tag%3Areuters.com%2C2026%3Anewsml_LYNXNPEMAM11E%3A12026-11-23T141518Z_1_LYNXNPEMAM11E_RTROPTP_3_MEXICO-CHAPOISIDRO.JPG?update-time=1795443457000&size=responsive970
+    publisher: U.S. News & World Report
+    caption: 'Burned trucks blocking Mexican Federal Highway 15 following the capture of Fausto Isidro Meza Flores in Guasave. Photo: Reuters/Jose Betanzos'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 655a98a5c557372ad39c4be5473894d1
@@ -241,13 +245,19 @@ sources:
     url: https://www.bbc.com/news/articles/c5rmgkv2lk73o
     publisher: BBC News
     date: 2026-11-23
+  - title: Alleged Drug Lord 'El Chapo Isidro' Will Be Tried in Mexico Despite US Extradition Request
+    url: https://www.usnews.com/news/world/articles/2026-11-23/us-extradition-order-exists-for-arrested-mexican-drug-lord-el-chapo-isidro
+    publisher: U.S. News & World Report
+    date: 2026-11-23
 open_questions:
     - The defence minister's Monday figure of four soldiers and 16 organised-crime members killed in the firefight is higher than the eleven deaths reported earlier.
+    - Whether the United States extradition request will proceed after any Mexican trial was not yet decided.
+    - The next court dates and detention status in the Mexican prosecution on weapons and methamphetamine charges were not reported.
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28,29] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27] He led the Beltran Leyva organisation,
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28,29,30] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27] He led the Beltran Leyva organisation,
 allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18,23,25,28] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16,19,26,27] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6,21,26,27]
@@ -256,7 +266,7 @@ intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24,26,27,29] The troops u
 
 Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21,24] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
-overall toll of eleven deaths. [@2,12,13,21,23,24,28] The defence minister said on Monday that four soldiers and 16 members of organised crime had been killed in the firefight during the arrest. [@29] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
+overall toll of eleven deaths. [@2,12,13,21,23,24,28] The defence minister said on Monday that four soldiers and 16 members of organised crime had been killed in the firefight during the arrest. [@29,30] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
 before entering the house where the arrests were made. [@2,10,19,21,22,26] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
@@ -267,12 +277,12 @@ launcher, two hand grenades, ammunition, tactical equipment, drugs and cash.
 US prosecutors charged Meza Flores with leading a continuing criminal
 enterprise, narcoterrorism, money laundering and firearms offences, and with
 conspiracy to manufacture and distribute cocaine, methamphetamine, heroin,
-marijuana and fentanyl for importation into the United States. [@3,10,14] The FBI's
+marijuana and fentanyl for importation into the United States. [@3,10,14,30] Mexican prosecutors said on Monday that Meza faces charges locally on weapons offenses and methamphetamine possession with intent to sell. [@30] The FBI's
 wanted notice for him charges conspiracy to distribute one thousand kilograms or
 more of marijuana for importation into the United States. [@4] The FBI said his
 organisation moved large quantities of heroin, methamphetamine, cocaine,
-fentanyl and marijuana into the United States. [@1,12,16,18,19,20,22,26,27,28] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
-arrest warrant for organised crime and offences against health. [@5,10,21] He was also subject to an extradition order to the United States. [@10,21] The FBI
+fentanyl and marijuana into the United States. [@1,12,16,18,19,20,22,26,27,28,30] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
+arrest warrant for organised crime and offences against health. [@5,10,21] He was also subject to an extradition order to the United States. [@10,21] Attorney General Ernestina Godoy said Mexico is going to put Meza on trial in this country when asked whether he would be sent to the United States. [@30] Security Minister Omar Garcia Harfuch said on Monday that Washington had requested Meza's extradition after his capture on Friday in Sinaloa. [@30] The FBI
 added him to its Ten Most Wanted list on 4 February 2025 and the US State
 Department offered a reward of up to five million dollars for information
 leading to his capture. [@7,10,12,14,16,19,20,21,25,26,28]
