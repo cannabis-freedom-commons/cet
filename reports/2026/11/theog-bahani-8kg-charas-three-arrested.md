@@ -75,6 +75,10 @@ sources:
     publisher: Himachal Dastak
     date: 2026-11-23
     language: hi
+  - title: Three arrested with 8 kg charas
+    url: https://www.tribuneindia.com/news/himachal/three-arrested-with-8-kg-charas/
+    publisher: The Tribune
+    date: 2026-11-24
 media:
   - kind: photo
     url: https://www.bhaskar.com/local/himachal/shimla/news/theog-shimla-police-raid-charas-seizure-arrest-drug-trafficking-139774986.html
@@ -95,11 +99,11 @@ media:
 
 Shimla Police arrested three people and recovered around 8 kg of charas during
 simultaneous raids at three residential premises in Bahani village under Theog
-police station. [@1,2,3,4,5,6] Police teams searched the three premises at the same time so that the accused could not alert each other. [@5] The raids followed specific intelligence inputs and formed
-part of an intensified campaign against drug trafficking. [@1,2]
+police station. [@1,2,3,4,5,6,7] Police teams searched the three premises at the same time so that the accused could not alert each other. [@5] The raids followed specific intelligence inputs and formed
+part of an intensified campaign against drug trafficking. [@1,2,7]
 
 Officers recovered 1.7 kg of charas from the residence of Shyam Singh and 900
-grams from the house of Laxmi Nand. [@1,2,4,5,6] Shyam Singh is the son of the late Heera Singh and Laxmi Nand is the son of the late Het Ram. [@6] The biggest recovery was about 5.5 kg
+grams from the house of Laxmi Nand. [@1,2,4,5,6,7] Shyam Singh is the son of the late Heera Singh and Laxmi Nand is the son of the late Het Ram. [@6] The biggest recovery was about 5.5 kg
 of charas from the residence of Dila Ram, along with Rs 1,05,690 in cash and a
 weighing machine. [@1,4,6] Hari Vallabh was also named among the accused, though his
 parentage and the recovery attributed to him were not detailed. [@1] The Hindi account names the third householder as Hari Vallabh, son of late Dila Ram, indicating Dila Ram is the father's name. [@4,6] Three FIRs,
@@ -109,7 +113,7 @@ arrested and investigators were examining the source of the contraband and
 possible links in the supply network. [@1,5,6]
 
 Shimla Police said it had registered 27 cases involving commercial quantities of
-narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1,2,4,5]
+narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1,2,4,5,7]
 Police attributed the rise to a shift in enforcement strategy towards major
 suppliers, their hideouts and organised trafficking networks rather than
 street-level peddlers. [@1] Police said the crackdown would continue with
