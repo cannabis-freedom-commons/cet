@@ -58,27 +58,23 @@ sources:
     url: https://bakhtarnews.af/en/200-tons-of-drugs-destroyed-in-kabul
     publisher: Bakhtar News Agency
     date: 2025-11-10
-open_questions:
-  - No separate weight for the hashish or cannabis seeds within the combined nearly 200,000 kg / nearly 220-ton total was published, so no cannabis quantity is recorded and the combined total is not counted as cannabis.
-  - The combined total differs between sources as nearly 220 tons and nearly 200,000 kg (about 200 tons); the report attributes each figure to its source.
-  - The 750 arrests cover involvement in the overall drug trade during the period, not cannabis specifically.
-  - Pajhwok says the burning was on Saturday while Xinhua and other accounts place it on Sunday 9 November 2025, which is used as the incident date.
-  - No names, charges beyond smuggling, purchasing and sales, pleas or court outcomes beyond referral to judicial authorities were reported.
-  - The amounts of methamphetamine, heroin, opium, tablets, acid and precursor compounds are mentioned only to explain the mixed destruction and are excluded from cannabis figures.
-  - The text gives a weight ("200,000 kg") but the figures have no kg_seized; check whether it belongs there.
+  - title: Afghan police incinerate nearly 220 tons of seized illicit drugs
+    url: https://english.news.cn/asiapacific/20251109/f534c978f09643cfae533c01abcd7222/c.html
+    publisher: Xinhua
+    date: 2025-11-09
 ---
 
 The Counter-Narcotics Department of the Ministry of Interior burned nearly
 200,000 kilogrammes of various narcotics in Kabul that had been seized during
 the past year. [@2] Xinhua described the destruction as nearly 220 tons of
 illicit drugs confiscated during operations across the central region including
-Kabul. [@1] About 750 people were arrested for drug smuggling, purchasing and
-sales and their cases were referred to judicial authorities. [@1] The
+Kabul. [@1,4] About 750 people were arrested for drug smuggling, purchasing and
+sales and their cases were referred to judicial authorities. [@1,4] The
 confiscated drugs were seized at checkpoints and through intelligence-based
 operations in the central zone. [@2]
 
 The destroyed substances included hashish alongside methamphetamine, heroin,
-opium, stimulant tablets and production materials. [@1] Pajhwok listed the stock
+opium, stimulant tablets and production materials. [@1,4] Pajhwok listed the stock
 as including crystal meth, hashish, tablet K, Zikap, opium, heroin, cannabis
 seeds and acid, all set ablaze. [@2] Bakhtar News Agency described the destroyed
 drugs as including hashish, glass, Zicab tablets, acid and chemical and natural
@@ -87,7 +83,6 @@ approximately 200 tons of narcotics collected from various locations in the
 city. [@3]
 
 Interior Ministry spokesman Abdul Mateen Qani said narcotics cultivation,
-trafficking and sales had been reduced to zero since the Taliban takeover. [@1]
+trafficking and sales had been reduced to zero since the Taliban takeover. [@1,4]
 The government banned poppy cultivation, drug processing and trafficking in
 April 2022 and remains committed to eliminating the narcotics threat. [@1]
-
