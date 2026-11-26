@@ -56,6 +56,16 @@ media:
     media_url: https://cdn4.suspilne.media/slider/2026/11/21/24822_hd5bwtZHCk.jpg
     publisher: Суспільне Миколаїв
     caption: 'A glass jar of cannabis seized in the search. Photo: Mykolaiv Oblast National Police'
+  - kind: photo
+    url: https://www.0512.com.ua/amp/news/4182506/kilogrami-kanabisu-u-bankah-ta-asikah-na-mikolaivsini-zatrimali-colovika-foto
+    media_url: https://s.0512.com.ua/section/newsInText/upload/images/news/intext/000/057/432/photo2026-11-2110-51-38-4_6b01821eadd2d.jpg
+    publisher: 0512.com.ua
+    caption: Photo accompanying the police report of kilograms of cannabis found on a 26-year-old man in the Novoodesa community, Mykolaiv Oblast.
+  - kind: photo
+    url: https://www.0512.com.ua/amp/news/4182506/kilogrami-kanabisu-u-bankah-ta-asikah-na-mikolaivsini-zatrimali-colovika-foto
+    media_url: https://s.0512.com.ua/section/newsInText/upload/images/news/intext/000/057/432/photo2026-11-2110-51-38-3_6b01821f80cb9.jpg
+    publisher: 0512.com.ua
+    caption: Second photo accompanying the police report of the cannabis seized from the 26-year-old man's home in the Novoodesa community.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 41bd44e063e1065344d655baa9dbcd3b
@@ -95,6 +105,11 @@ sources:
     publisher: Інше ТВ
     date: 2026-11-21
     language: uk
+  - title: 'Кілограми канабісу у банках та ящиках: на Миколаївщині затримали чоловіка, - ФОТО'
+    url: https://www.0512.com.ua/amp/news/4182506/kilogrami-kanabisu-u-bankah-ta-asikah-na-mikolaivsini-zatrimali-colovika-foto
+    publisher: 0512.com.ua
+    date: 2026-11-21
+    language: uk
 open_questions:
   - No exact weight was published; police said only several kilograms of dried and ground cannabis, so no kilogram figure is recorded.
   - No separate date was given for the search; 21 November 2026 is the date of the police statement and the news reports and is used as the incident date.
@@ -106,19 +121,19 @@ open_questions:
 
 Police in Mykolaiv Oblast detained a 26-year-old resident of the Novoodesa
 community and notified him of suspicion of illegally acquiring and possessing
-narcotic drugs in especially large quantities, without intent to sell. [@1,4,5,6,7]
+narcotic drugs in especially large quantities, without intent to sell. [@1,4,5,6,7,8]
 Investigators and officers from Police Department No. 6 of the Mykolaiv District
 Police Directorate carried out an authorised search of his home after receiving
 operational information, under the procedural supervision of the Mykolaiv
-District Prosecutor's Office. [@2,5,6,7]
+District Prosecutor's Office. [@2,5,6,7,8]
 
 During the search, officers seized dried and ground cannabis from a utility room
-at the home, which police described as several kilograms. [@1,4,5,6,7] The man kept
-ready-to-use cannabis in glass jars and dried cannabis in boxes and crates. [@2,4,5,6,7]
+at the home, which police described as several kilograms. [@1,4,5,6,7,8] The man kept
+ready-to-use cannabis in glass jars and dried cannabis in boxes and crates. [@2,4,5,6,7,8]
 Police detained him under Article 208 of the Criminal Procedure Code of Ukraine
 and investigators notified him of suspicion under Part 3 of Article 309 of the
-Criminal Code. [@1,4,5,6,7]
+Criminal Code. [@1,4,5,6,7,8]
 
-The offence carries a possible sentence of up to eight years in prison. [@3,4,5,6,7] A
+The offence carries a possible sentence of up to eight years in prison. [@3,4,5,6,7,8] A
 court was expected to decide on a preventive measure for the suspect soon, and
-the pre-trial investigation was ongoing. [@1,4,5,6,7]
+the pre-trial investigation was ongoing. [@1,4,5,6,7,8]
