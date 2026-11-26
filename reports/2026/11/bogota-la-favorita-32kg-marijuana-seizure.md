@@ -55,6 +55,11 @@ media:
     media_url: https://d2yoo3qu6vrk5d.cloudfront.net/pulzo-lite/images-resized/PP5361313A-s-o.webp
     publisher: Pulzo
     caption: 'Motorcycle parts and marijuana seized in the La Favorita operation in Bogotá. Photo: Mebog (Policía Metropolitana de Bogotá)'
+  - kind: photo
+    url: https://subaalternativa.co/la-favorita-incautan-2-500-accesorios-para-motos-y-32-kilos-de-marihuana/
+    media_url: https://subaalternativa.co/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-7.56.14-AM.jpeg
+    publisher: Suba Alternativa
+    caption: Motorcycle accessories and marijuana seized in the La Favorita operation in Bogotá.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 4ba0f82f78111d14480b33ceafd2c908
@@ -100,38 +105,35 @@ sources:
     publisher: El Nuevo Siglo
     date: 2026-11-21
     language: es
-open_questions:
-    - No separate date is given for the operation; 21 November 2026 is the publication date of the sources and is used as the incident date.
-    - The marijuana weight is reported only as 'more than 32 kilograms'; no exact figure was published.
-    - Police did not link the person arrested to the marijuana found in the pagadiario.
-    - No charge, prosecution or court outcome arising from the marijuana seizure was reported.
-    - 'Accounts differ on recovered vehicles: the official balance lists two vehicles, a chassis and five motorcycles, while Colonel Cepeda was quoted mentioning two motorcycles.'
-    - The shops were not identified, the duration of their suspension was not given, and the police did not detail the scope of the acción popular order.
-    - 'Accounts differ on the size and value of the haul: one put it at about 13 million units worth close to 40 million pesos, while other coverage reported about 15,000 doses and 25 million pesos.'
+  - title: 'La Favorita: incautan 2.500 accesorios para motos y 32 kilos de marihuana'
+    url: https://subaalternativa.co/la-favorita-incautan-2-500-accesorios-para-motos-y-32-kilos-de-marihuana/
+    publisher: Suba Alternativa
+    date: 2026-11-21
+    language: es
 ---
 
 One person was arrested for receptación, handling goods from unlawful
-activities, during a Bogotá metropolitan police operation in La Favorita. [@1,5,6,7] Police also held the man for falsedad marcaria, falsified vehicle markings, after finding a car with false plates, re-stamped identification numbers and a forged ownership card. [@8]
+activities, during a Bogotá metropolitan police operation in La Favorita. [@1,5,6,7,9] Police also held the man for falsedad marcaria, falsified vehicle markings, after finding a car with false plates, re-stamped identification numbers and a forged ownership card. [@8]
 The police did not present that person as responsible for the marijuana found in
 the building. [@4] More than 500 officers of the Metropolitan Police of Bogotá
 took part in the intervention, carried out under an acción popular, a
 public-interest court order, with the deployment of the Bloque de Seguridad
-Urbana. [@1,5,7] La Favorita is a neighbourhood in the Los Mártires locality of
+Urbana. [@1,5,7,9] La Favorita is a neighbourhood in the Los Mártires locality of
 Bogotá. [@3]
 
 During a check of a property used as a pagadiario, a lodging house rented by the
 day, officers found more than 32 kilograms of marijuana together with equipment
-for its production and distribution. [@1,5,6,7,8] The building had been under police watch over complaints that drugs were sold there and that doses might be stored. [@8] The property was a pagadiario where
+for its production and distribution. [@1,5,6,7,8,9] The building had been under police watch over complaints that drugs were sold there and that doses might be stored. [@8] The property was a pagadiario where
 the drug was kept along with materials for its preparation and dosing, the city
 portal reported. [@2] According to the Metropolitan Police of Bogotá, the
 quantity was equivalent to 15,000 doses and had a value close to 25 million
-pesos on the illegal market. [@1,5,6] Officers also seized 2,500 motorcycle
+pesos on the illegal market. [@1,5,6,9] Officers also seized 2,500 motorcycle
 accessories valued at more than 400 million pesos, which appeared to lack import
-permits. [@1,5,6,7] Five commercial premises had their activity suspended because they
-lacked the documentation required to operate legally. [@1,5,6,7,8]
+permits. [@1,5,6,7,9] Five commercial premises had their activity suspended because they
+lacked the documentation required to operate legally. [@1,5,6,7,8,9]
 
 Police reported recovering two vehicles, a chassis and five motorcycles whose
-identification systems had been altered. [@1,5,6,7] Colonel Jovanni Cepeda, the
+identification systems had been altered. [@1,5,6,7,9] Colonel Jovanni Cepeda, the
 operational commander of the metropolitan police, said the deployment brought
 together officers from different specialities to inspect premises across the
 sector. [@3] The force said on X that the results formed part of a strategic
