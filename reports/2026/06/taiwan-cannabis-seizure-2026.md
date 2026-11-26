@@ -129,15 +129,11 @@ sources:
     publisher: 自由時報電子報
     date: 2026-11-23
     language: zh
-open_questions:
-    - The reported year-to-date coast-guard drug total of 12,901.6 kg covers all substances without separating cannabis, so it is not recorded as a cannabis figure.
-    - The 3-tonne figure covers two drug cases found during a 50-day maritime lockdown roundup and is not attributed to the Rueifang case.
-    - Some accounts present the 766.09 kg seizure only as this year's joint coast-guard and police seizure, giving no separate date, place, arrest count or court stage for it.
-    - Published figures for the haul vary between 766 kg, 766.09 kg and 766.9 kg of dried cannabis flower; the report keeps 766.09 kg.
-    - The operation's name is rendered 隆炁專案 in the written premier speech text while spoken coverage has called it 隆氣專案; the report keeps the written form.
-    - Some accounts of the minister's speeches give only the 3 June date and the 766.09 kg weight, or no case details at all.
-    - 'The number of people arrested and the indictment date differ between accounts: seven arrests with indictment on 24 August against four people transferred on 3 September.'
-    - No trial outcome after the September 2026 bail decision has been reported.
+  - title: 16億毒品走私案主嫌60萬交保！卓榮泰曾表揚檢警 網轟：司法改革是笑話？
+    url: https://ctinews.com/news/items/dynyMk6QnZ
+    publisher: 中天新聞網
+    date: 2026-11-23
+    language: zh
 media:
   - kind: photo
     url: https://news.ltn.com.tw/news/society/paper/1779509
@@ -146,11 +142,11 @@ media:
     caption: 'Drugs seized in the Keelung 815 kg drug-smuggling case laid out for display. Photo: Wu Sheng-ru / Liberty Times'
 ---
 
-Coast guard and police officers stopped a truck in New Taipei's Rueifang district early on 3 June 2026 and found 1,309 packages holding 766.09 kg of dried cannabis flower, along with amphetamine and mixed drugs. The coast guard valued the haul at about NT$1.62 billion and said it was its largest cannabis seizure in ten years; seven people were arrested and prosecutors indicted them on 24 August. The announcement was made on 5 October. [@1,2,13,17] The court said Li was strongly suspected of transporting drugs and smuggling controlled articles but granted bail considering the case circumstances and his fixed residence. [@19,20] The court released the three accomplices on NT$200,000 bail each and Li on NT$600,000 bail, restricting their residence, exit and sea departure without electronic monitoring. [@19] A senior prosecutor said the release of the suspect and three accomplices on bail created a risk of flight, destruction of evidence or collusion. [@20] A police officer with more than twenty years' service said transporting so large a quantity of a category-two drug from abroad carries a minimum sentence of more than ten years, and that most defendants in such cases choose to flee the country. [@20] A criminal police officer said the suspect could use the "special channels" that drug smugglers have to enter and leave the country, and that someone able to import such a large quantity of drugs would have the means to abscond. [@20] The three accomplices admitted helping transport the drugs, while Li denied the offence. [@19] The same prosecutor said that failing to impose electronic monitoring on a defendant facing such a serious charge would be hard to justify. [@20] On 3 September prosecutors indicted Li and three accomplices and transferred the four detained suspects to the Keelung District Court. [@18]
+Coast guard and police officers stopped a truck in New Taipei's Rueifang district early on 3 June 2026 and found 1,309 packages holding 766.09 kg of dried cannabis flower, along with amphetamine and mixed drugs. The coast guard valued the haul at about NT$1.62 billion and said it was its largest cannabis seizure in ten years; seven people were arrested and prosecutors indicted them on 24 August. The announcement was made on 5 October. [@1,2,13,17] The court said Li was strongly suspected of transporting drugs and smuggling controlled articles but granted bail considering the case circumstances and his fixed residence. [@19,20] The court released the three accomplices on NT$200,000 bail each and Li on NT$600,000 bail, restricting their residence, exit and sea departure without electronic monitoring. [@19,21] A senior prosecutor said the release of the suspect and three accomplices on bail created a risk of flight, destruction of evidence or collusion. [@20] A police officer with more than twenty years' service said transporting so large a quantity of a category-two drug from abroad carries a minimum sentence of more than ten years, and that most defendants in such cases choose to flee the country. [@20] A criminal police officer said the suspect could use the "special channels" that drug smugglers have to enter and leave the country, and that someone able to import such a large quantity of drugs would have the means to abscond. [@20] The three accomplices admitted helping transport the drugs, while Li denied the offence. [@19] The same prosecutor said that failing to impose electronic monitoring on a defendant facing such a serious charge would be hard to justify. [@20] On 3 September prosecutors indicted Li and three accomplices and transferred the four detained suspects to the Keelung District Court. [@18,21]
 
 At the award ceremony on 5 November 2026 the minister again described the case as the largest cannabis seizure in Taiwan in the past ten years. [@2,3,4,5,6,7,8,14] She put the coast guard's year-to-date drug seizures at 12,901.6 kg, a total not separated by substance. [@2,3,7,9,14] She said that during a maritime lockdown the service had broken two drug cases and seized more than 3 tonnes of drugs, alongside two illegal border-crossing cases and more than 20 wanted fugitives. [@2]
 
-Coast guard officers and police made the cannabis seizure on 3 June 2026, the date the service's report records. [@7,8,12,15]
+Coast guard officers and police made the cannabis seizure on 3 June 2026, the date the service's report records. [@7,8,12,15,21]
 
 The cabinet's account of the same council report gives the cannabis haul as a rounded 766 kg, the inland record the premier described. [@10] At a 5 October news conference on the same bust the premier said the operation seized 814.68 kg of drugs, of which more than 766 kg was cannabis. [@11] The premier placed the seizure on 3 June, Taiwan's Opium Suppression Movement Day, in 隆炁專案 (Operation Longqi), directed by the Keelung District Prosecutors' Office and run by the coast guard's Keelung Enforcement Team. [@11]
 
