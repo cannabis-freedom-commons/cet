@@ -41,6 +41,11 @@ media:
     media_url: https://www.youtube-nocookie.com/embed/bUH2tKYasL4
     publisher: Europol
     caption: Embedded video with footage from the arrests.
+  - kind: photo
+    url: https://en.vijesti.me/news-b/black-chronicle/804515/extensive-police-operation-in-Podgorica--searches-and-arrests-at-several-locations--Europol-arrests-leading-member-of-cartel
+    media_url: https://www.vijesti.me/data/images/2026/04/15/12/5719674_viber-image-20260415-092045381_ls.jpg
+    publisher: Vijesti
+    caption: 'Arrest of one of the suspects during the Podgorica operation. Photo: Risto Božović'
 details:
   activity: [smuggling, trafficking]
   agencies: [int-europol]
@@ -77,19 +82,16 @@ sources:
     url: https://kossev.info/en/uhapsen-vodeci-clan-balkanskog-kartela-u-crnoj-gori/
     publisher: KoSSev
     date: 2026-04-15
-open_questions:
-  - No city or town for the arrests was published; only Montenegro and Germany were named, so country precision is used.
-  - No names, ages or other identifying details for the 12 suspects were published.
-  - The 2.7-tonne cocaine figure and the combined 4.2-tonne total are mentioned only to explain the mixed case and are excluded from cannabis figures.
-  - The 1.5 tonnes of cannabis reflects drugs seized in 12 preceding operations between October 2024 and April 2026, not a seizure on the action day itself, and no breakdown by seizure was published.
-  - Whether the 10 criminal complaints correspond to formal charges and any detention or trial outcome remain unknown; the reports only state that a detention decision was pending.
-  - The suspected cannabis-smuggling routes via Albania, Thailand and the United States were not detailed beyond the allegation.
+  - title: 'Extensive police operation in Podgorica: searches and arrests at multiple locations; Europol: Leading member of cartel arrested'
+    url: https://en.vijesti.me/news-b/black-chronicle/804515/extensive-police-operation-in-Podgorica--searches-and-arrests-at-several-locations--Europol-arrests-leading-member-of-cartel
+    publisher: Vijesti
+    date: 2026-04-15
 ---
 
 On 15 April 2026 authorities in Montenegro, with support in Germany, carried out
-a large-scale operation targeting a significant cell of the Balkan Cartel. [@1,3]
+a large-scale operation targeting a significant cell of the Balkan Cartel. [@1,3,4]
 The action day led to the arrest of twelve suspects, four of them in Germany,
-including a high-value target apprehended in Montenegro. [@1,3] The suspects lived
+including a high-value target apprehended in Montenegro. [@1,3,4] The suspects lived
 in Montenegro and Germany and were believed to act as financiers, coordinators
 and logisticians within the organisation. [@1,3] After the sweep Montenegro's
 Higher State Prosecutor's Office filed criminal complaints against 10 people for
@@ -99,8 +101,8 @@ prosecutor within 24 hours for a decision on pre-trial detention. [@2]
 
 Montenegrin judicial authorities linked the suspects to trafficking of 2.7
 tonnes of cocaine and 1.5 tonnes of cannabis between October 2024 and April
-2026. [@1,3] Those drugs had been seized in 12 separate preceding operations
-across several EU and South American countries. [@1,3] Investigators said the
+2026. [@1,3,4] Those drugs had been seized in 12 separate preceding operations
+across several EU and South American countries. [@1,3,4] Investigators said the
 network used maritime and air routes, including shipping containers and other
 clandestine methods, to move the drugs. [@1,3] The network was also suspected of
 smuggling cannabis into the EU from and via Albania, Thailand and the United
