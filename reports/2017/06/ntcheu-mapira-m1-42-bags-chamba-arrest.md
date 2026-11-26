@@ -44,27 +44,30 @@ sources:
     url: https://www.nyasatimes.com/chamba-traffickers-arrested-vehicle-broke/
     publisher: Nyasa Times
     date: 2017-06-23
+  - title: 'Malawi: Chamba Traffickers Arrested After Vehicle Broke Down'
+    url: https://allafrica.com/stories/201706230279.html
+    publisher: allAfrica.com
+    date: 2017-06-23
+    archived: https://web.archive.org/web/20190116200353id_/https://allafrica.com/stories/201706230279.html
 open_questions:
-  - The article gives no date for the arrest; 23 June 2017 is its publication date and stands in as the incident date.
-  - The number of bags is reported, but no weight for the cannabis is given.
-  - The court outcome is not known; the two had not yet appeared when the article was published.
-  - The suspects' villages in Nkhotakota district are recorded only as their reported homes and are not the place of the arrest.
-  - Only one account of this arrest could be opened; an AllAfrica syndication of the same Nyasa Times article was blocked.
-  - The page's single illustration carries a general caption about cannabis popularity and cannot be confirmed to show this seizure, so no photo is listed.
+    - The article gives no date for the arrest; 23 June 2017 is its publication date and stands in as the incident date.
+    - The number of bags is reported, but no weight for the cannabis is given.
+    - The court outcome is not known; the two had not yet appeared when the article was published.
+    - The suspects' home villages in Nkhotakota district are recorded only as their reported homes, not the place of the arrest.
+    - AllAfrica republishes the Nyasa Times article, so the two accounts are not independent.
 ---
 
 Two men were arrested in Ntcheu district with 42 plastic bags of cannabis
-sativa, known in Malawi as chamba. [@1] Ntcheu police spokesperson Hastings
+sativa, known in Malawi as chamba. [@1,2] The two were John Chinyama, 38, and Idani Phiri, 19. [@2] Ntcheu police spokesperson Hastings
 Chigalu said patrol officers came upon their broken-down dark blue Nissan Tiida,
 registration NS 6328, at Mapira Trading Centre on the Lilongwe–Blantyre M1 road
-near Lizulu Trading Centre. [@1]
+near Lizulu Trading Centre. [@1,2]
 
 Chigalu said the officers stopped to help because motorists had recently been
 attacked on that stretch of road, and found the drug while assisting the two.
-[@1] The two were travelling from Dwangwa to Mulanje district, and police seized
-the drug and impounded the car. [@1] Police sent the cannabis to Chitedze
-Research Station for examination. [@1]
+[@1,2] The two were travelling from Dwangwa to Mulanje district, and police seized
+the drug and impounded the car. [@1,2] Police sent the cannabis to Chitedze
+Research Station for examination. [@1,2]
 
 Police said the two would appear in court soon on a charge of being found in
-possession of cannabis sativa under the Dangerous Drugs Act. [@1]
-
+possession of cannabis sativa under the Dangerous Drugs Act. [@1,2]
