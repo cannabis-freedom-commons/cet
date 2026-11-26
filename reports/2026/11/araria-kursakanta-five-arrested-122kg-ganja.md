@@ -78,16 +78,15 @@ sources:
     publisher: Prabhat Khabar
     date: 2026-11-21
     language: hi
-open_questions:
-    - The calendar date is inferred from accounts describing a Friday late-night operation published on 21 and 22 November 2026.
-    - The five men's names and spellings differ between the two Dainik Bhaskar reports and Live Hindustan.
-    - No value or street estimate for the ganja was published.
-    - No charge sheet, trial date or court outcome beyond judicial custody was reported.
-    - This account's summary of past operations dates the same 122 kg seizure to 21 October, while its main report describes a Friday-night operation published on 21 November.
+  - title: 'Bhagalpur News: अररिया : तस्करी की 122 किलो गांजा के साथ पांच तस्कर गिरफ्तार, Bhagalpur Hindi News - Hindustan'
+    url: https://www.livehindustan.com/bihar/bhagalpur/story-kursakanta-police-arrest-five-in-122-kg-ganja-smuggling-bust-201795261615507.html
+    publisher: Live Hindustan
+    date: 2026-11-21
+    language: hi
 ---
 
 Kursakanta police in Araria district, Bihar, arrested five men with 122 kg of
-ganja. [@1,4] The operation was carried out late on Friday night. [@1,4] Police also
+ganja. [@1,4,5] The operation was carried out late on Friday night. [@1,4] Police also
 seized a ganja-laden pickup, a motorcycle and four mobile phones. [@3] Station
 in-charge Rohit Kumar said a tip-off warned that the consignment would enter
 India from Nepal through Kaparfoda Musahari. [@1,4] A second account puts the tip
@@ -97,7 +96,7 @@ Bansbitti. [@3,4]
 
 Police stopped a pickup and searched it, recovering 122 kg of ganja. [@1,4] Live
 Hindustan reports that the seized vehicle held four sacks of ganja. [@3]
-Weighing the sacks gave a total of 122 kg, that account says. [@3] The pickup's
+Weighing the sacks gave a total of 122 kg, that account says. [@3,5] The pickup's
 driver-cum-owner and a helper were arrested at the scene. [@1] Three men riding
 on a motorcycle ahead of the pickup were arrested as liners who showed the route
 and helped with delivery. [@1,4] The consignment was to be delivered in Khabaspur
@@ -105,7 +104,7 @@ in Laxmipur. [@1,4] A fuller Dainik Bhaskar account says the route ran from Nepa
 via Kaparfoda-Laxmipur through Maheshkut. [@2]
 
 The pickup was a Bolero and the motorcycle a Splendor Plus; police also took
-four Android phones. [@3] The driver tried to drive away when police signalled
+four Android phones. [@3,5] The driver tried to drive away when police signalled
 the pickup to stop. [@3] A case was registered and all five were sent to
-judicial custody in Araria. [@3,4] Police said they were still questioning the men
+judicial custody in Araria. [@3,4,5] Police said they were still questioning the men
 about others involved in the network. [@2]
