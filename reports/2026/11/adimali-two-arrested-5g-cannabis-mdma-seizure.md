@@ -43,26 +43,33 @@ sources:
     publisher: Kerala OnlineNews
     date: 2026-11-23
     language: ml
+  - title: വിൽപനക്കായി വാടകവീട്ടിൽ സൂക്ഷിച്ച എംഡിഎംഎയും കഞ്ചാവുമായി വീട്ടമ്മയും സുഹൃത്തും പിടിയിൽ
+    url: https://keralaonlinenews.com/kerala/mdma-ganja-housewife/cid19564571.htm
+    publisher: Kerala OnlineNews
+    date: 2026-11-23
+    language: ml
+  - title: 'Drug trafficking centered around a rented house in Adimali: Young woman and her friend arrested by the Excise Department'
+    url: https://www.congressbharath.com/en/idukki/drug-trafficking-centered-around-a-rented-house-in-adimali-young-woman-and-her-friend-arrested-by-the-excise-department
+    publisher: Congress Bharath
+    date: 2026-11-23
 open_questions:
-  - No separate date for the inspection is given; 23 November 2026 is the publication date and is used as the incident date.
-  - The whole account rests on a single Kerala OnlineNews item republished by Dailyhunt.
-  - No court outcome, detention order or further proceedings were reported; the case was at the investigation stage.
-  - The 9.546 grams of MDMA from the same seizure is excluded from the cannabis figures.
+    - No separate date for the inspection is given; 23 November 2026 is the publication date and is used as the incident date.
+    - No court outcome, detention order or further proceedings were reported; the case was at the investigation stage.
+    - The 9.546 grams of MDMA from the same seizure is excluded from the cannabis figures.
 ---
 
 Excise officers in Adimali detained a woman and her male friend for storing MDMA
-and cannabis in a rented house intended for sale. [@1] The arrested people are
+and cannabis in a rented house intended for sale. [@1,3] The arrested people are
 36-year-old Jinsi of Mannamkandam Puthenpurackal house, who lived in a rented
 house at Mannamkala, and 26-year-old Alan Sibi of Iruttukanam
 Kizhakkekuruvithadathil house. [@1] Alan Sibi was recorded as the first accused
-and Jinsi as the second accused in the registered case. [@1]
+and Jinsi as the second accused in the registered case. [@1] Jinsi allegedly sold drugs through Alan Sibi, the first accused. [@3] Cases against both accused were registered under the NDPS Act. [@3]
 
 Officers seized five grams of cannabis from the pair, along with 9.546 grams of
-MDMA. [@1] The drugs were found during an inspection by the Adimali Narcotic
-Enforcement Squad led by Excise Inspector Sudhi K. Satyapalan. [@1] Excise said
-the drugs had been kept in the rented house aiming at sale. [@1]
+MDMA. [@1,2] The drugs were found during an inspection by the Adimali Narcotic
+Enforcement Squad led by Excise Inspector Sudhi K. Satyapalan. [@1,3] Excise said
+the drugs had been kept in the rented house aiming at sale. [@1] The financial transactions of the drug business were carried out through Jinsi's bank account. [@3]
 
 The inspection team also included an assistant excise inspector, a preventive
 officer, civil excise officers, women civil excise officers and a driver. [@1]
 The rented house is in the Mannamkala area of Adimali where Jinsi lived. [@1]
-
