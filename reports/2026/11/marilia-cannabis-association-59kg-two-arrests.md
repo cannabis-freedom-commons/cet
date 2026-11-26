@@ -104,6 +104,11 @@ sources:
     publisher: Giro Marília Notícias
     date: 2026-11-20
     language: pt
+  - title: Associação canábica contesta suspeita de tráfico de drogas em Marília
+    url: https://marilianoticia.com.br/policia/associacao-canabica-contesta-suspeita-de-trafico-de-drogas-em-marilia/
+    publisher: Marília Notícia
+    date: 2026-11-21
+    language: pt
 open_questions:
     - No count of the marijuana plants was published; the accounts say only that dozens were growing in the backyard and put their combined weight at about 10 kilograms.
     - Marília Notícia gives the drying flower weight as about 38 kilograms while Visão Notícias and Jornal do Povo say about 40 kilograms, so no separate flower weight is used in the figures.
@@ -111,9 +116,8 @@ open_questions:
     - Marília Notícia and Giro Marília date the Rio de Janeiro proceedings to September 2025, while Visão Notícias and Jornal do Povo say the investigation began about three months before the raid.
     - Visão Notícias and Giro Marília describe the haul as more than 50 kilograms, while the Civil Police figure published by G1 is about 59 kilograms.
     - It is not reported whether the plants in the backyard were uprooted or kept as evidence.
-    - No plea, custody decision or charge beyond the flagrante accusation was reported, and the two men were identified only by initials.
-    - The accounts rest on Civil Police statements, do not name the association and give no estimate of the seizure's value.
-    - No defence statement from the two arrested men or from the association was published.
+    - No plea or further charge beyond the flagrante drug-trafficking accusation was reported; after the custody hearing on 20 November 2026 the two men remained detained.
+    - Apart from the association's institutional statement, no individual statement from the two arrested men was published, and no estimate of the seizure's value was given.
     - It is not reported what became of the association's 51-year-old president, for whose preventive detention police asked.
 ---
 
@@ -121,14 +125,14 @@ Two men were arrested in flagrante on accusations of drug trafficking and
 association for trafficking during a Civil Police operation in Marília on
 Thursday 19 November 2026. [@1] The men were aged 27 and 47. [@3,4] The two detained were the association's administrator, aged 47, and a self-employed worker, aged 27; a third self-employed man, aged 49, arrived with his wife and opened the gate, prompting the police approach. [@5] Jornal do Povo gave the detainees' initials as R.C.M. and M.A.H.N. [@4] Police said
 the scheme cultivated, extracted and distributed marijuana derivatives under the
-cover of a cannabis association in Marília. [@2]
+cover of a cannabis association in Marília. [@2] The association said its work is exclusively aimed at health and serves more than 1,400 patients. [@6] The association was identified as the Associação Canábica para Orientação, Pesquisa e Apoio Social Emanacan, which denied the trafficking allegation. [@6]
 
 Officers seized about 59 kilograms of drugs and marijuana derivatives in the
 operation. [@1] The association's premises were a house in the Alto Cafezal
 neighbourhood, near the centre of Marília. [@3,4] Giro Marília placed the premises on Rua São Carlos in Alto Cafezal. [@5] In the backyard, police found a
 structure set up as a clandestine laboratory. [@2] An adjoining room held plastic boxes, a 200-litre steel tank and wire racks for drying plants, while greenhouses outside held dozens of rooted cannabis plants. [@5] Officers also found silicone moulds, scales, a blender, a food processor and inputs including gelatine, agar and gum arabic. [@5] They seized about 38
 kilograms of marijuana flowers drying in boxes and a stainless-steel drum, and
-about four kilograms of cannabis gummies in thousands of units. [@2] Officers
+about four kilograms of cannabis gummies in thousands of units. [@2,6] Officers
 also took dozens of marijuana plants growing in the backyard, vacuum-sealed jars
 of flowers, powdered cannabis extract and bottles of cannabidiol oil. [@2]
 Officers also seized precision scales, packaging, mobile phones and computers.
@@ -139,16 +143,16 @@ apparently contained CBD. [@3]
 Marília Notícia reported that the investigation began with two Rio de Janeiro
 Civil Police proceedings opened in September 2025, after parcels sent through
 the post were seized at Rio de Janeiro's international airport with gummies made
-from cannabis sativa. [@2] Giro Marília said the Federal Revenue service intercepted the two gummy parcels on 3 September 2025. [@5] Forensic tests confirmed THC, and because the sender
+from cannabis sativa. [@2,6] Giro Marília said the Federal Revenue service intercepted the two gummy parcels on 3 September 2025. [@5] Forensic tests confirmed THC, and because the sender
 was an association based in Marília the Rio de Janeiro court sent the case to
 São Paulo, which passed the files to the Marília drug investigations station.
-[@2] The association had an active company registration and a formally adopted
+[@2,6] The association had an active company registration and a formally adopted
 statute, but police found no Anvisa authorisation or court decision allowing it
-to plant, cultivate or extract cannabis. [@2,4] Police also found a personal habeas corpus document for the association's leader which, officers said, did not authorise production and sale. [@5] Police said packaging identical to
+to plant, cultivate or extract cannabis. [@2,4,6] Police also found a personal habeas corpus document for the association's leader which, officers said, did not authorise production and sale. [@5] Police said packaging identical to
 that intercepted in Rio de Janeiro showed the group had kept up an illegal
 supply since the previous year. [@2]
 
 The two were held at the Central de Polícia Judiciária in Marília awaiting a
 custody hearing, and police asked a court to convert the arrests to pre-trial
-detention. [@3,4] The authority also requested preventive detention for the 51-year-old president and the seizure of the suspects' devices. [@5] The association's president, aged 51, was not found; those at the scene said he had travelled to a cannabis fair in São Paulo. [@5] Police continued investigating other possible participants and
+detention. [@3,4] After the custody hearing on the morning of 20 November 2026, the two men remained detained. [@6] The authority also requested preventive detention for the 51-year-old president and the seizure of the suspects' devices. [@5] The association's president, aged 51, was not found; those at the scene said he had travelled to a cannabis fair in São Paulo. [@5] Police continued investigating other possible participants and
 the interstate shipping of the parcels. [@2]
