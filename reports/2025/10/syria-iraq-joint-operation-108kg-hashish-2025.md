@@ -34,6 +34,11 @@ media:
     media_url: https://cdn.enabbaladi.net/english/wp-content/uploads/2025/10/Drugs-in-Syria-1024x576-1.jpg
     publisher: Enab Baladi
     caption: 'Drugs seized in the joint Syrian-Iraqi operation, as published by Enab Baladi. Photo: Syrian Interior Ministry.'
+  - kind: photo
+    url: https://www.arabnews.com/middle-east/syrian-and-iraqi-forces-seize-drug-shipment-arrest-smugglers-2619846
+    media_url: https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/arabnews-import/2025/10/proxy/4650985-1642546702.webp
+    publisher: Arab News
+    caption: 'Members of the Syrian Anti-Narcotic Directorate demonstrate the drug shipment seized jointly with their Iraqi counterparts. Photo: SANA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 5a5c29396c2f6b70fa83b5994d75a6bd
@@ -51,6 +56,10 @@ sources:
     url: https://shafaq.com/en/Security/Joint-Iraq-Syria-raid-seizes-320-kilograms-of-drugs
     publisher: Shafaq News
     date: 2025-10-22
+  - title: Syrian and Iraqi forces seize drug shipment, arrest smugglers
+    url: https://www.arabnews.com/middle-east/syrian-and-iraqi-forces-seize-drug-shipment-arrest-smugglers-2619846
+    publisher: Arab News
+    date: 2025-10-22
 open_questions:
   - No precise seizure location within Syria was published, so the place is recorded as Syria at country precision.
   - No number, names, charges or court outcome for the arrested suspects was reported.
@@ -60,15 +69,15 @@ open_questions:
 
 On 22 October 2025, Syria’s Interior Ministry said its Anti-Narcotics
 Directorate, in coordination with Iraq’s General Directorate for Narcotics
-Control, carried out a joint drug seizure in Syria. [@1] Several suspects
+Control, carried out a joint drug seizure in Syria. [@1,4] Several suspects
 described as internationally wanted members of cross-border smuggling networks
-were arrested through joint field and intelligence coordination. [@1] Iraq’s
+were arrested through joint field and intelligence coordination. [@1,4] Iraq’s
 Interior Ministry said a specialized unit from its narcotics directorate entered
 Syrian territory in coordination with its Syrian counterparts to take part in
 the operation. [@3]
 
 The Syrian account put the seizure at 108 kilograms of hashish and more than
-1.27 million Captagon pills. [@2] The Iraqi account put the same operation’s
+1.27 million Captagon pills. [@2,4] The Iraqi account put the same operation’s
 overall seizure at 320 kilograms of narcotics, without separating hashish from
 the other drugs seized. [@3] Only the 108 kilograms of hashish is counted as
 cannabis here; the 1.27 million Captagon pills reported alongside it are not
@@ -76,8 +85,7 @@ counted in the cannabis figures. [@3]
 
 According to both ministries, the operation was part of ongoing international
 cooperation led by Syria’s Anti-Narcotics Directorate with brotherly countries
-to combat drug trafficking. [@1] Both sides called protecting society from
+to combat drug trafficking. [@1,4] Both sides called protecting society from
 narcotics a national and moral responsibility and pledged to keep working to dry
 up drug sources and bolster cooperation safeguarding the security of Syria and
 Iraq. [@1]
-
