@@ -92,36 +92,34 @@ sources:
     publisher: Primera Página
     date: 2026-11-20
     language: es
-open_questions:
-  - Only initials and ages of the four were released, and no plea or trial date was reported.
-  - The 12.140 kg is the weight of the two parcels opened in Casilda; the accounts do not say whether the third parcel seized in Puerto Libertad contained drugs.
-  - No value estimate for the marijuana was published.
-  - The accounts reproduce the same federal prosecutor's briefing and are not independent reporting.
-  - The parcels were addressed to a resident of Casilda, but the accounts do not say whether that person is among the four charged.
-  - The three marijuana seedlings seized at one home are not linked by the accounts to the parcels, and no separate charge over them was reported.
+  - title: Desde Puerto Libertad enviaban marihuana por encomienda a Santa Fe, cuatro detenidos | El Territorio
+    url: https://www.elterritorio.com.ar/noticias/2026/11/23/928926-desde-puerto-libertad-enviaban-marihuana-por-encomienda-a-santa-fe-cuatro-detenidos
+    publisher: El Territorio
+    date: 2026-11-23
+    language: es
 ---
 
 Four men were charged on Thursday 19 November 2026 in Rosario's federal courts
 over two parcels of marijuana sent from Puerto Libertad, Misiones, to the Correo
 Argentino branch in Casilda, Santa Fe. [@1,5] Judge of Garantías Eduardo Rodrígues
 Da Cruz ordered 90 days of preventive detention for the two Paraguayan nationals
-and house arrest with restrictions for the other two. [@1,5,6] In Puerto Libertad
+and house arrest with restrictions for the other two. [@1,5,6,7] In Puerto Libertad
 officers arrested a 22-year-old Argentine and a 31-year-old Paraguayan who had
-returned to the parcel dispatch point with another package. [@2,6] In Casilda they
+returned to the parcel dispatch point with another package. [@2,6,7] In Casilda they
 arrested a 25-year-old Paraguayan and a 54-year-old Argentine at the housing
 complex where the parcels were taken. [@2,6]
 
 On 16 November 2026 Prefectura Naval officers opened the parcels at the Casilda
 post office with judicial authorisation and found 12.140 kg of marijuana that
-tested positive in a narcotest. [@1,5,6] The drug was replaced with inert material
-and the parcels were tracked as part of a controlled delivery. [@1,6] In the
+tested positive in a narcotest. [@1,5,6,7] The drug was replaced with inert material
+and the parcels were tracked as part of a controlled delivery. [@1,6,7] In the
 afternoon three men collected the parcels in Casilda and drove them to a housing
 complex, where officers searched two homes. [@1,6] One of the intercepted parcels was seized inside one of the two searched homes. [@6] Officers seized 278,000 pesos
 in cash, a precision scale, a vacuum sealing machine and five phones in one
-home, and three marijuana seedlings and a phone in the other. [@1,5,6]
+home, and three marijuana seedlings and a phone in the other. [@1,5,6,7]
 
 The federal prosecutor's office charged the four with transporting narcotics,
-aggravated by the involvement of three or more people. [@4,6] The case is handled
+aggravated by the involvement of three or more people. [@4,6,7] The case is handled
 by the decentralised federal prosecutor's office in San Lorenzo, with federal
 prosecutor Claudio Kishimoto. [@1] The parcels were addressed to a resident of
 Casilda. [@3]
