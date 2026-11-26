@@ -72,6 +72,11 @@ sources:
     publisher: أسواق للمعلومات
     date: 2026-11-23
     language: ar
+  - title: سقوط تشكيل عصابي خطير بمطروح بحوزته 6 ملايين قرص مخدر و250 كيلو حشيش.. فيديو - قناة صدى البلد
+    url: https://elbaladtv.net/%d8%b3%d9%82%d9%88%d8%b7-%d8%aa%d8%b4%d9%83%d9%8a%d9%84-%d8%b9%d8%b5%d8%a7%d8%a8%d9%8a-%d8%ae%d8%b7%d9%8a%d8%b1-%d8%a8%d9%85%d8%b7%d8%b1%d9%88%d8%ad-%d8%a8%d8%ad%d9%88%d8%b2%d8%aa%d9%87-6-%d9%85%d9%84
+    publisher: Sada El Balad
+    date: 2026-11-23
+    language: ar
 media:
   - kind: photo
     url: https://www.elaosboa.com/3031709/
@@ -107,14 +112,14 @@ media:
 
 Security forces ambushed and detained members of a gang described as highly
 dangerous criminals while they were in Matrouh Governorate, with the Central
-Security Sector taking part. [@1,2,3,7,8] Legal procedures were taken after the
+Security Sector taking part. [@1,2,3,7,8,9] Legal procedures were taken after the
 detentions. [@1,4,5,6,8]
 
 Officers seized about one million Tramadol pills, 250 kg of hashish and one
 million smuggled cigarette packs, which police valued together at about 250
-million pounds. [@1,2,3,4,5,6,7,8] They also seized five million Captagon pills, which police
+million pounds. [@1,2,3,4,5,6,7,8,9] They also seized five million Captagon pills, which police
 valued at 6.5 billion pounds in the destination countries, for a combined total
-of about 6.75 billion pounds. [@1,2,3,4,5,6,7,8]
+of about 6.75 billion pounds. [@1,2,3,4,5,6,7,8,9]
 
 The operation followed information and investigations by the Sector for
 Combating Drugs, Unlicensed Arms and Ammunition, Egypt's anti-narcotics body, in
