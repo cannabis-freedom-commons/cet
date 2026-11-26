@@ -69,6 +69,11 @@ media:
     media_url: https://assets.ecuavisa.com/__export/1786482903062/sites/ecuavisa/img/2026/08/11/whatsapp_image_2026-08-11_at_4_14_07_pm.jpeg_1246115605.jpeg
     publisher: Ecuavisa
     caption: 'Bolivian police with the driver and assistants of the bus hired for São Paulo, in the photo published with the Ecuavisa account. Photo: Sao Paulo, via Ecuavisa'
+  - kind: photo
+    url: https://eldeber.com.bo/cochabamba/bus-contratado-trasladar-sao-paulo-bolivia-detenido-marihuana_1786482093
+    media_url: https://pxcdn.eldeber.com.bo/eldeber/082026/1786482871019.webp?cw=1200&ch=675&extw=jpeg
+    publisher: EL DEBER
+    caption: Bus detained with marijuana in the Sao Paulo FC transport case.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: da02da0fb25f46275ed9a2da12310038
@@ -216,11 +221,18 @@ sources:
     publisher: Ecuavisa
     date: 2026-08-11
     language: es
+  - title: Bus contratado para trasladar al São Paulo en Bolivia es detenido con marihuana
+    url: https://eldeber.com.bo/cochabamba/bus-contratado-trasladar-sao-paulo-bolivia-detenido-marihuana_1786482093
+    publisher: EL DEBER
+    date: 2026-08-11
+    language: es
+open_questions:
+  - The same operation also detected a second bus carrying 110 kilos of marijuana to Santa Cruz, with two more drivers detained; that separate seizure is left out here.
 ---
 
 Bolivian police stopped a coach of the company Buses Cosmos, hired to carry the São Paulo FC squad
 during its visit to Bolivia for a Copa Sudamericana match against Bolívar, and found about 86 kilos of
-marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23,24,25,26,27,28] Ecuavisa, citing UOL Esporte, said the Bolivian authorities seized the coach after a prior complaint related to the company Buses Cosmos. [@28] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19,25] One account gives 86.5 kilograms. [@12,14,15,16,18,20,26] Officers of
+marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23,24,25,26,27,28,29] The four bags were hidden in a compartment in the driver's cabin and held brick-type packages. [@29] Ecuavisa, citing UOL Esporte, said the Bolivian authorities seized the coach after a prior complaint related to the company Buses Cosmos. [@28] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19,25] One account gives 86.5 kilograms. [@12,14,15,16,18,20,26] Officers of
 UMOPAR, the Mobile Police Unit for Rural Areas [@5,8,9,10], found four bags of the drug in the coach
 [@2,3,5,6,8,9,10] at the Locotal control post on the road between Cochabamba and Santa Cruz.
 [@8,9,11,13]
@@ -233,7 +245,7 @@ insignia. [@3] Other accounts rely on the Brazilian journalist Gabriel Sá. [@9,
 ## The drivers
 
 The coach regularly ran between Santa Cruz de la Sierra and Cochabamba and had left Cochabamba for Santa
-Cruz, where the squad was staying. [@2,4] Its three drivers were detained. [@2,3,5,6,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24] The three detained were described as people linked to the transport of the bus. [@14,18,28] Buses
+Cruz, where the squad was staying. [@2,4] Its three drivers were detained. [@2,3,5,6,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,29] The two drivers and an assistant detained in this case were taken to Umopar premises in Chimoré. [@29] The three detained were described as people linked to the transport of the bus. [@14,18,28] Buses
 Cosmos said the police were investigating, that all responsibility lay with the drivers, and that it
 had provided another vehicle for the team. [@2,3,4,5,8,9,10,11,15,17,18,19,20,23,26] The authorities were investigating where
 the marijuana came from and who was moving it. [@1,7,16,22,24,26,27]
