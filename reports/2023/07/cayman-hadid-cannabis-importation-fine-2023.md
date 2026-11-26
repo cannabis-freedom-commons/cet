@@ -151,27 +151,32 @@ sources:
     url: https://extratv.com/2023/07/18/gigi-hadid-arrested-in-cayman-islands-after-marijuana-found-in-her-bags/
     publisher: Extra
     date: 2023-07-18
+  - title: Gigi Hadid released after marijuana arrest in Cayman Islands
+    url: https://nypost.com/2023/07/18/gigi-hadid-released-after-marijuana-arrest-in-cayman-islands/
+    publisher: New York Post
+    date: 2023-07-18
 open_questions:
     - The fine is recorded once at 1,000 Cayman Islands dollars; KTLA reports that each woman was fined 1,000 dollars, which would make 2,000 dollars in total.
     - No weight or amount of the cannabis found in the luggage has been published.
     - It is unclear whether any charges remain on record, as one account says the pair were not facing any charges after their court appearance.
     - Extra, citing Cayman Marl Road, reported that prosecution of Hadid's case was still pending and that she was on bail, while other accounts say the pair pleaded guilty and paid the fine on 12 July 2023.
     - Extra, citing Cayman Marl Road, described the charges as marijuana possession and drug paraphernalia, while the Customs and Border Control statement cited importation of marijuana and a utensil used to consume it.
+    - The New York Post gives the fine as $1,000 for each woman without saying whether the figure is in Cayman Islands or US dollars.
 ---
 
 American model Gigi Hadid, 28, and her friend Leah McCarthy were detained in the
 Cayman Islands after their luggage was searched when they arrived on a private
-jet for a holiday on 10 July 2023. [@1,2,3,4,7,8,9,12,14,15,17,20,21] The other woman was identified as Leah Nicole McCarthy, another member of Hadid's group. [@4,9,10,18] Leah McCarthy was 29 at the time of the arrest. [@10] They arrived at Owen Roberts International Airport in George Town, where Customs and Border Control officers put their bags through a scanner and searched them by hand. [@4,7,9,17,21,24] The Cayman Islands Customs and Border
+jet for a holiday on 10 July 2023. [@1,2,3,4,7,8,9,12,14,15,17,20,21] The other woman was identified as Leah Nicole McCarthy, another member of Hadid's group. [@4,9,10,18] Leah McCarthy was 29 at the time of the arrest. [@10] They arrived at Owen Roberts International Airport in George Town, where Customs and Border Control officers put their bags through a scanner and searched them by hand. [@4,7,9,17,21,24] Cayman Marl Road reported that customs officials found ganja and utensils used for the consumption of ganja in the luggage. [@25] The Cayman Islands Customs and Border
 Control said the two were arrested for "the importation of marijuana and
-importation of utensils used for the consumption of marijuana". [@1,2,3,4,5,7,8,15,17,18] The agency
+importation of utensils used for the consumption of marijuana". [@1,2,3,4,5,7,8,15,17,18,25] The agency
 said it was a small amount, seemingly for personal consumption. [@1,2,4,5,12,15,17,18]
 
 They were taken to a detention centre and released on bail, the local newspaper
-Cayman Marl Road reported. [@1,4,5,6,7,9,11,12,13,17,19,20,21,24] They were taken to the Prisoner Detention Center. [@6,7,10,13,15] The pair appeared in the Cayman Islands summary
+Cayman Marl Road reported. [@1,4,5,6,7,9,11,12,13,17,19,20,21,24,25] They were taken to the Prisoner Detention Center. [@6,7,10,13,15] The pair appeared in the Cayman Islands summary
 court two days later, where they were fined 1,000 Cayman Islands dollars
-($1,200; £920). [@1,4,9,12,16,17,18,19,21] The courts confirmed the two were arraigned in George Town, but did not specify the charges. [@4] They pleaded guilty in court and paid the fine, but no
+($1,200; £920). [@1,4,9,12,16,17,18,19,21,25] The courts confirmed the two were arraigned in George Town, but did not specify the charges. [@4] They pleaded guilty in court and paid the fine, but no
 conviction was recorded. [@1,2,3,4,6,7,8,9,12,15,16,17,18,20,23]
 
 Hadid's representative said the marijuana was purchased legally in New York
 "with a medical license", and that medical use has also been legal in Grand
-Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13,15,16,17,18,19,21,22,23,24] After news of the arrest broke, Hadid shared pictures from the holiday on Instagram, including one of her sunbathing on the beach with friends captioned "All's well that ends well". [@23]
+Cayman since 2017. [@1,2,4,5,7,8,9,11,12,13,15,16,17,18,19,21,22,23,24,25] After news of the arrest broke, Hadid shared pictures from the holiday on Instagram, including one of her sunbathing on the beach with friends captioned "All's well that ends well". [@23]
