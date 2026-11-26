@@ -82,6 +82,11 @@ sources:
     publisher: Noticias Por Internet
     date: 2026-11-22
     language: es
+  - title: Detienen a dos personas y aseguran mil 566 dosis de droga en León y San Francisco
+    url: https://bajio.quadratin.com.mx/detienen-a-dos-personas-y-aseguran-mil-566-dosis-de-droga-en-leon-y-san-francisco/
+    publisher: Quadratin Bajío
+    date: 2026-11-22
+    language: es
 open_questions:
     - The San Francisco del Rincón marihuana was reported as 363 grams, but no weight or value was published for the marihuana seized in León or for the crystal.
     - The 189 doses of suspected crystal are a separate non-cannabis substance and the 1,566-dose figure is a combined total for all suspected drugs, so neither is counted as a cannabis quantity.
@@ -93,10 +98,10 @@ open_questions:
 Guanajuato state police detained a woman and a man in two operations in León and
 San Francisco del Rincón, seizing more than 1,500 doses of suspected drugs. [@2,3,4]
 In the Granja Las Amalias neighbourhood of León, the 40-year-old woman was
-detained after allegedly trying to escape when she saw the police. [@2,3,4] The woman was identified as Alma Reyna "N", 40, and was placed at the disposal of the state prosecutor's office in León. [@3,4] That detention took place on 25 October on Dolores Contreras street. [@3] A search
+detained after allegedly trying to escape when she saw the police. [@2,3,4] The woman was identified as Alma Reyna "N", 40, and was placed at the disposal of the state prosecutor's office in León. [@3,4,5] That detention took place on 25 October on Dolores Contreras street. [@3,5] A search
 found 50 bags of suspected marihuana, equivalent to 1,014 doses. [@2,3,4] In the
 Niños Héroes neighbourhood of San Francisco del Rincón, a 23-year-old was
-detained with 189 doses of suspected crystal and 363 of marihuana. [@2,3,4] Officers found the suspected crystal in 192 bags and the 363 grams of marihuana in a black backpack. [@4] The man was identified as Diego "N", 23, and was placed at the disposal of the FGR. [@3,4] The marihuana was one bag of 363 grams, described as equivalent to 363 doses. [@3] That detention took place on 30 October on Fausto León street. [@3,4]
+detained with 189 doses of suspected crystal and 363 of marihuana. [@2,3,4] Officers found the suspected crystal in 192 bags and the 363 grams of marihuana in a black backpack. [@4] The man was identified as Diego "N", 23, and was placed at the disposal of the FGR. [@3,4,5] The marihuana was one bag of 363 grams, described as equivalent to 363 doses. [@3] That detention took place on 30 October on Fausto León street. [@3,4,5]
 
 The 1,566 doses of suspected drugs secured in both municipalities were placed at
 the disposal of the authority with the two detainees. [@1,4] Both detainees were
