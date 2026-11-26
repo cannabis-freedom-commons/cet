@@ -44,6 +44,26 @@ media:
     media_url: https://cdn.nuevaya.co/uploads/2026/06/imagen-254-705x355.png.webp
     publisher: La Nueva Radio YA
     caption: Detainees and evidence presented by the National Police after the Rivas operations.
+  - kind: photo
+    url: https://www.tn8.ni/sucesos/cuatro-detenidos-y-mas-de-cuatro-kilos-de-droga-incautados-en-rivas/
+    media_url: https://www.tn8.ni/wp-content/uploads/2026/06/casimcsa-123132-696x348.jpg
+    publisher: TN8
+    caption: 'Image published with TN8''s report on the Rivas operations, captioned as showing those detained in the drug case. Photo: TN8'
+  - kind: photo
+    url: https://www.tn8.ni/sucesos/cuatro-detenidos-y-mas-de-cuatro-kilos-de-droga-incautados-en-rivas/
+    media_url: https://www.tn8.ni/wp-content/uploads/2026/06/0fd65df8-c334-477d-a253-a0509ed71452.jpeg
+    publisher: TN8
+    caption: 'Image published with TN8''s report on the Rivas operations, captioned as showing those detained in the drug case. Photo: TN8'
+  - kind: photo
+    url: https://www.tn8.ni/sucesos/cuatro-detenidos-y-mas-de-cuatro-kilos-de-droga-incautados-en-rivas/
+    media_url: https://www.tn8.ni/wp-content/uploads/2026/06/dcb3f9af-b3f6-431b-9a39-5b9b513c02c8.jpeg
+    publisher: TN8
+    caption: 'Image published with TN8''s report on the Rivas operations, captioned as showing those detained in the drug case. Photo: TN8'
+  - kind: video
+    url: https://www.tn8.ni/sucesos/cuatro-detenidos-y-mas-de-cuatro-kilos-de-droga-incautados-en-rivas/
+    media_url: https://www.youtube.com/watch?v=ZtDissL82Z0
+    publisher: TN8
+    caption: TN8 video report on the four arrests and the more than four kilograms of drugs seized in Rivas.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: f21c1ca7725e073b3cc1ef028a07893c
@@ -59,36 +79,46 @@ sources:
     publisher: TN8
     date: 2026-06-11
     language: es
+  - title: Cuatro detenidos y más de cuatro kilos de droga incautados en Rivas
+    url: https://www.tn8.ni/sucesos/cuatro-detenidos-y-mas-de-cuatro-kilos-de-droga-incautados-en-rivas/
+    publisher: TN8
+    date: 2026-06-11
+    language: es
+  - title: Detienen a 4 personas en Rivas con cocaína y marihuana
+    url: https://radio580.com.ni/detienen-a-4-personas-en-rivas-con-cocaina-y-marihuana/
+    publisher: Radio 580
+    date: 2026-06-11
+    language: es
 open_questions:
-  - No value or estimate was published for the marijuana or the cocaine.
-  - No charges, custody ruling or court outcome for the four detainees was reported.
-  - Neither account reports laboratory confirmation of the field-test results for the marijuana.
-  - Both accounts reproduce the National Police statement and are not independent reporting.
+    - No value or estimate was published for the marijuana or the cocaine.
+    - No charges, custody ruling or court outcome for the four detainees was reported.
+    - No account reports laboratory confirmation of the field-test results for the marijuana.
+    - All of the accounts reproduce the National Police statement and are not independent reporting.
+    - The outlets give the pickup truck's plate as either M432037 or M432-037.
 ---
 
 Nicaraguan National Police arrested two 20-year-old men, Roberto Carlos
 Villarreal Rodríguez and Anthony Gabriel Ruiz Villarreal, at a checkpoint in the
-Popoyuapa neighbourhood of Rivas on 9 June 2026. [@1] Officers also raided a
+Popoyuapa neighbourhood of Rivas on 9 June 2026. [@1,3] Officers also raided a
 house in the El Calvario neighbourhood and detained Elmer Otoniel Pichardo, 26,
-and Lauren Sofía Arcia Castillo, 23. [@1] The two operations left four people
+and Lauren Sofía Arcia Castillo, 23. [@1,3] The two operations left four people
 detained. [@2]
 
 In the pickup truck, two taped packages of white substance field-tested positive
 for cocaine and weighed 2 kg 224.8 g, a quantity excluded from the cannabis
 total. [@2] A third package held green herb that field-tested positive for
-marijuana and weighed one pound and five ounces, about 0.595 kg. [@2] At the El
+marijuana and weighed one pound and five ounces, about 0.595 kg. [@2,3] At the El
 Calvario house, two taped packages of white substance field-tested positive for
-cocaine and weighed 2 kg 234.3 g, also excluded from the cannabis figures. [@1]
+cocaine and weighed 2 kg 234.3 g, also excluded from the cannabis figures. [@1,3] Radio 580 reported that Pichardo had previous criminal records for homicide and robbery with intimidation. [@4]
 The two operations together yielded 4 kg 459 g of cocaine and one pound and five
 ounces of marijuana. [@1] Officers took the pickup truck, two mobile phones and
 cash from the two men at the checkpoint, which police said was presumably from
-drug sales. [@2] From the house they took a motorcycle, a mobile phone and cash.
+drug sales. [@2,3] From the house they took a motorcycle, a mobile phone and cash.
 [@1]
 
 The checkpoint stop was at 5 pm at a police post 300 metres west of the Punta
 Caliente playing field in Popoyuapa. [@1] The house raid took place at 1:09 pm
-the same day. [@2] Commissioner Karen Obando, co-director of public relations of
+the same day. [@2,3] Commissioner Karen Obando, co-director of public relations of
 the National Police, presented the results. [@1] The detainees and evidence were
 to be sent to the relevant authorities for due process on drug-trafficking
-charges. [@2]
-
+charges. [@2,3]
