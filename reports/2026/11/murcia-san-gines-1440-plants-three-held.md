@@ -58,6 +58,11 @@ media:
     media_url: https://www.la7tv.es/asset/thumbnail,1280,720,center,center/media/la7tv/images/2026/11/23/2026112310161827313.jpg
     publisher: La 7
     caption: 'Marijuana plants seized in the San Ginés warehouse operation. Photo: Policía Nacional'
+  - kind: photo
+    url: https://www.cope.es/emisoras/region-de-murcia/noticias/policia-nacional-desmantela-plantacion-marihuana-1-500-plantas-nave-industrial-murcia-20261123_3480079.html
+    media_url: https://imagenes.cope.es/files/webp_768_432/uploads/2026/11/23/6b040cfe4571f.jpeg
+    publisher: COPE
+    caption: Marijuana plants inside the warehouse in the Polígono Industrial Oeste de San Ginés that the National Police dismantled, as the outlet captioned it.
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 13a02a121690009d27e1514224e7ab75
@@ -93,6 +98,11 @@ sources:
     publisher: La 7
     date: 2026-11-23
     language: es
+  - title: La Policía Nacional desmantela una plantación de marihuana con casi 1.500 plantas en una nave industrial de Murcia
+    url: https://www.cope.es/emisoras/region-de-murcia/noticias/policia-nacional-desmantela-plantacion-marihuana-1-500-plantas-nave-industrial-murcia-20261123_3480079.html
+    publisher: COPE
+    date: 2026-11-23
+    language: es
 open_questions:
     - No separate date is given for the raid; 23 November 2026 is the publication date and stands in for the incident date.
     - The buds weighed almost 113 kilograms; the exact weight was not stated, so 113 kg is recorded as reported.
@@ -102,7 +112,7 @@ open_questions:
 ---
 
 The National Police dismantled an intensive marijuana plantation inside an
-industrial warehouse in the Polígono Industrial Oeste in San Ginés, Murcia. [@1,2,5,6]
+industrial warehouse in the Polígono Industrial Oeste in San Ginés, Murcia. [@1,2,5,6] Officers from UDYCO, the UPR, the GAC and the Scientific Police took part in the operation. [@7] The warehouse held 99 high-intensity lights, 15 air filters, 45 fans, 12 air extractors and five industrial air-conditioning units. [@7]
 Officers arrested three men as alleged perpetrators of offences against public
 health and electricity fraud. [@1,3] The three detainees were placed at judicial
 disposition after being accused of drug trafficking and electricity fraud. [@1,4,5,6]
