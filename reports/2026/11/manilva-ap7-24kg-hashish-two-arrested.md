@@ -56,23 +56,35 @@ sources:
     publisher: El Noticiero
     date: 2026-11-23
     language: es
-open_questions:
-  - No names, ages or nationalities of the two detainees were published.
-  - No origin or intended destination of the transported hashish was reported.
-  - No further court outcome beyond the driver's provisional imprisonment and the passenger's release with charges was reported.
+  - title: Sucesos.- Detenidas dos personas en Manilva que transportaban 24 kilos de hachís en un vehículo por la AP-7
+    url: https://www.msn.com/es-es/noticias/otras/sucesos-detenidas-dos-personas-en-manilva-que-transportaban-24-kilos-de-hach%C3%ADs-en-un-veh%C3%ADculo-por-la-ap-7/ar-AA2i3sIx
+    publisher: Europa Press
+    date: 2026-11-23
+    language: es
+  - title: Detenidos en Manilva tras ser sorprendidos con 24 kilos de hachís en un control de tráfico
+    url: https://cadenaser.com/andalucia/2026/11/24/detenidos-en-manilva-tras-ser-sorprendidos-con-24-kilos-de-hachis-en-un-control-de-trafico-ser-malaga/
+    publisher: Cadena SER
+    date: 2026-11-24
+    language: es
+media:
+  - kind: photo
+    url: https://cadenaser.com/andalucia/2026/11/24/detenidos-en-manilva-tras-ser-sorprendidos-con-24-kilos-de-hachis-en-un-control-de-trafico-ser-malaga/
+    media_url: https://cadenaser.com/resizer/v2/AXTQK47JGNH47BNECXYCGD7ZUI.jpg?auth=35b7fc318e0dd423c7d7ac3974c9fc760ce512fa936f5365b679d913e89aa3e0&quality=70&width=650&height=487&smart=true
+    publisher: Cadena SER
+    caption: 'Hashish seized in the Manilva operation, photographed after the AP-7 checkpoint stop. Photo: Guardia Civil.'
 ---
 
 The intervention took place on Saturday 21 November at about 10:30 at kilometre
-point 142.800 of the AP-7 in Manilva. [@2,4] Officers from the Manilva post
+point 142.800 of the AP-7 in Manilva. [@2,4,5] Officers from the Manilva post
 stopped a vehicle occupied by two people and inspected the boot, where there
-were two suitcases. [@1,4] Just as the officers were about to open one of the
+were two suitcases. [@1,4,5] Just as the officers were about to open one of the
 suitcases, the driver ran off, crossed all the motorway lanes and fled into the
-countryside. [@1,4] Several officers chased the driver on foot for five minutes
+countryside. [@1,4,5] Several officers chased the driver on foot for five minutes
 through dense vegetation, brambles and over a two-metre fence, after he fell
-down a ravine several metres deep, and then caught him. [@1]
+down a ravine several metres deep, and then caught him. [@1,6]
 
 Back at the checkpoint, officers found that the suitcases held a total of 24
-kilos of hashish packed in brown plastic in different formats. [@1,4] Both the
+kilos of hashish packed in brown plastic in different formats. [@1,4,5] Both the
 driver and his companion were arrested for an alleged offence against public
 health and, after police custody, were put before the judicial authority, which
 ordered provisional prison for the driver and release with charges for the
