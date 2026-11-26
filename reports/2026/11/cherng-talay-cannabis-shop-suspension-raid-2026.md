@@ -81,6 +81,11 @@ sources:
     publisher: Siamrath
     date: 2026-11-23
     language: th
+  - title: '#จัดระเบียบร้านกัญชา สั่งพักใช้ใบอนุญาตแล้ว 105 ราย เพิกถอนใบอนุญาต 24 ราย ยึดของกลางกว่า 10.5 ตัน มูลค่า 223.5 ล้านบาท | CH7ON ช่อง 7HD'
+    url: https://www.ch7.com/en/news/205155/
+    publisher: CH7ON
+    date: 2026-11-23
+    language: th
 open_questions:
   - No weight in kilograms was published for the seized cannabis flowers or for the hash extract; the only figure given was the officials' value of more than 2 million baht.
   - 'Accounts differ on the time of the raid: Thairath says 1.45am, MGR Online and Rawai Phuket News about 1.20am on 22 November 2026.'
@@ -99,13 +104,13 @@ of preliminary charges. [@1] Many foreign tourists were eating and drinking
 inside the large venue, which had VIP rooms for customers. [@1]
 
 Officers seized high-quality cannabis flowers that officials valued at more than
-2 million baht. [@1,5] The shop's cannabis licence had been suspended for 90 days
+2 million baht. [@1,5,6] The shop's cannabis licence had been suspended for 90 days
 from 23 October 2026 because it had not met service conditions, including
-selling without a doctor's prescription. [@2,5] Officers also found hash cannabis
+selling without a doctor's prescription. [@2,5,6] Officers also found hash cannabis
 extract, which the province said would be examined over whether it fell under
 narcotics law. [@1] The shop was also selling alcohol outside permitted hours
 and cannabis-infused food products without a food registration number or the
-required labelling. [@2,5]
+required labelling. [@2,5,6]
 
 The three employees were accused of jointly selling controlled cannabis flowers
 while the licence was suspended under the Protection and Promotion of Thai
