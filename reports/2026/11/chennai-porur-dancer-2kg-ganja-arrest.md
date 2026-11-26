@@ -46,10 +46,13 @@ sources:
     publisher: Dinamaalai / Dailyhunt
     date: 2026-11-22
     language: ta
+  - title: Three held in separate cases for peddling drugs in Chennai
+    url: https://www.dtnext.in/news/chennai/three-held-in-separate-cases-for-peddling-drugs-in-chennai
+    publisher: DT Next
+    date: 2026-11-21
 open_questions:
-    - The reports give no date for the vehicle check; 22 November 2026 is the publication date used as the incident date.
-    - The reports do not say how much ganja was in the car; the 2 kg is what police reported seizing from his house.
-    - No police station or unit is named as handling the case.
+    - The DT Next account puts 2.5 kg of ganja and 3 grams of methamphetamine in the car, while the Daily Thanthi accounts report 2 kg of ganja and methamphetamine found after a search of his house; the sources do not reconcile the amounts.
+    - Neither account gives a date for the vehicle check; DT Next published on 21 November 2026 and Daily Thanthi on 22 November, and 22 November is used as the incident date.
     - No charges, court appearance or detention order is reported; police said only that the investigation continues.
     - The methamphetamine seized in the same case is not cannabis and is excluded from the cannabis figures.
     - The newspapers do not say what happened to the 60 liquor bottles after they were seized.
@@ -58,14 +61,14 @@ open_questions:
 Police in the Porur area of Chennai arrested a cinema group dancer after finding
 ganja and 60 liquor bottles in the car he was driving. [@1,2] Officers taking part
 in a vehicle check in the Porur area stopped a car that looked suspicious and
-searched it. [@1,2] Ganja and 60 bottles of liquor were found in the car. [@1,2] The
+searched it. [@1,2] A team led by the Porur Assistant Commissioner of Police intercepted the car during a vehicle check near Porur junction. [@3] Ganja and 60 bottles of liquor were found in the car. [@1,2] The
 driver was arrested and questioned after the search. [@1,2] He was identified as
 Saikiran, 28, of Kodambakkam, who worked as a group dancer in the film industry.
-[@1,2]
+[@1,2,3] Police said he was allegedly transporting narcotics from Bengaluru. [@3]
 
 Police said he had turned to selling ganja because he did not earn enough money.
 [@1,2] Investigators found that he had dropped a friend in Bengaluru and bought
 the liquor bottles from outside Tamil Nadu on the way back. [@1] Police then
 searched his house. [@1,2] After the house search police seized 2 kg of ganja, a
 stock of liquor bottles, methamphetamine and the car. [@1,2] Police said they were
-continuing to investigate the case. [@1,2] Police said they had registered a case and were investigating the drug distribution chain. [@2]
+continuing to investigate the case. [@1,2,3] Police said they had registered a case and were investigating the drug distribution chain. [@2]
