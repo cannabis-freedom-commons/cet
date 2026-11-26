@@ -44,28 +44,37 @@ sources:
     publisher: Haberler
     date: 2026-11-23
     language: tr
+  - title: Edirne’de iki günlük operasyonda çok sayıda uyuşturucu ve ruhsatsız silah ele geçirildi
+    url: https://www.haberport.com/haber/edirnede-iki-gunluk-operasyonda-cok-sayida-uyusturucu-ve-ruhsatsiz-silah-ele-gecirildi/74855
+    publisher: Haberport
+    date: 2026-11-23
+    language: tr
 open_questions:
-  - The 211.16 grams of methamphetamine, 0.77 grams of cocaine and 256 synthetic pills seized in the same searches are excluded from the cannabis figures.
-  - The drug-impregnated tissue and 20 plastic sticks were not identified as cannabis in the opened text and are excluded from the cannabis figures.
-  - No charges, remand decisions or court outcomes were reported; the five suspects were described only as referred to the courthouse.
-  - The account rests on a single opened report crediting Demirören Haber Ajansı, with no independent second account confirming the figures.
+    - The 211.16 grams of methamphetamine, 0.77 grams of cocaine and 256 synthetic pills seized in the same searches are excluded from the cannabis figures.
+    - The drug-impregnated tissue and 20 plastic sticks were not identified as cannabis in either account and are excluded from the cannabis figures.
+    - No charges, remand decisions or court outcomes were reported; the investigation was described as continuing after the five suspects were referred to the courthouse.
+media:
+  - kind: photo
+    url: https://www.haberport.com/haber/edirnede-iki-gunluk-operasyonda-cok-sayida-uyusturucu-ve-ruhsatsiz-silah-ele-gecirildi/74855
+    media_url: https://cdn.haberport.com/uploads/1280/images/news/0f21f0a6-292d-4a4d-8703-154bcbccfc14.jpg
+    publisher: Haberport
+    caption: Narcotics and an unlicensed weapon seized in the two Edirne operations of 18-19 November 2026, with five suspects referred to the courthouse.
 ---
 
 The Edirne Provincial Police Directorate's narcotics branch carried out two
 separate anti-drug operations in Edirne city centre on 18 and 19 November 2026
-to prevent drug use and trafficking. [@1] During the operations, officers
-searched the residences and vehicles used by the suspects. [@1] Police detained
+to prevent drug use and trafficking. [@1,2] During the operations, officers
+searched the residences and vehicles used by the suspects. [@1,2] Police detained
 the five suspects and, after completing police procedures, referred them to the
-courthouse. [@1]
+courthouse. [@1,2]
 
 The searches seized 74.93 grams of powdered esrar, 1.18 grams of skunk and 0.9
 grams of esrar prepared ready for smoking, together 77.01 grams of cannabis.
-[@1] The same searches also produced 211.16 grams of methamphetamine, 0.77 grams
+[@1,2] The same searches also produced 211.16 grams of methamphetamine, 0.77 grams
 of cocaine and 256 synthetic pills, which are excluded from the cannabis total.
-[@1]
+[@1,2]
 
 Officers also found a tissue impregnated with drugs and 20 plastic sticks
 impregnated with the same substance, together with a precision scale, a drug
-grinder and three implements for using drugs. [@1] Officers also seized one
-unlicensed pistol, a magazine belonging to the pistol and six cartridges. [@1]
-
+grinder and three implements for using drugs. [@1,2] Officers also seized one
+unlicensed pistol, a magazine belonging to the pistol and six cartridges. [@1,2] The cartridges were 7.65 millimetres. [@2]
