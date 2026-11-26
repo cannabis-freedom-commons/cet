@@ -60,18 +60,22 @@ sources:
     publisher: Torino Cronaca
     date: 2026-11-23
     language: it
+  - title: 'Oltre sei chili di marijuana sequestrati a Bussoleno: arrestato un 75enne'
+    url: https://www.lavalsusa.it/oltre-sei-chili-di-marijuana-sequestrati-a-bussoleno-arrestato-un-75enne/
+    publisher: La Valsusa
+    date: 2026-11-23
+    language: it
 open_questions:
-  - No figure for the number of plants was published; only the weight of about 6.35 kilograms was given.
-  - Whether the other person found smoking in the kitchen faced any detention or charge was not reported.
-  - No court outcome beyond transfer to Turin's Lorusso e Cutugno prison pending proceedings was reported.
-  - Only one outlet account of this event could be opened, so no second account confirms the details.
+    - No figure for the number of plants was published; only the weight of about 6.35 kilograms was given.
+    - Whether the other person found smoking in the kitchen faced any detention or charge was not reported.
+    - No court outcome beyond transfer to Turin's Lorusso e Cutugno prison pending proceedings was reported.
 ---
 
 Carabinieri from the Susa station arrested a 75-year-old Bussoleno resident in
-flagrante in the early hours of 19 November 2026. [@1] Officers had come to the
+flagrante in the early hours of 19 November 2026. [@1,2] Officers had come to the
 man's home the previous afternoon for a routine notification of legal documents.
-[@1] From outside the home they smelled a strong odour of marijuana that grew
-stronger when the front door was opened. [@1] Another person was in the kitchen
+[@1,2] From outside the home they smelled a strong odour of marijuana that grew
+stronger when the front door was opened. [@1,2] Another person was in the kitchen
 smoking a joint and threw it to the ground on seeing the carabinieri. [@1] The
 75-year-old was transferred to the Lorusso e Cutugno prison in Turin on the
 order of the judicial authority while his criminal responsibility is determined.
@@ -79,14 +83,13 @@ order of the judicial authority while his criminal responsibility is determined.
 
 The house search uncovered about 6.35 kilograms of marijuana in the Bussoleno
 home and an adjoining tool shed. [@1] Officers found part of the drug stored in
-glass jars and bags in the kitchen and part drying in the tool shed. [@1] The
+glass jars and bags in the kitchen and part drying in the tool shed. [@1,2] The
 shed housed a homemade greenhouse equipped with a lamp, hygrometer, electric
-heater and fan. [@1] Officers also seized two precision scales, a manual plant
+heater and fan. [@1,2] Officers also seized two precision scales, a manual plant
 trimmer, dozens of bags for packaging and 640 euros in cash believed to be
-proceeds of the unlawful activity. [@1]
+proceeds of the unlawful activity. [@1,2]
 
 The man is under grave suspicion of unlawful production and possession of
 narcotic or psychotropic substances. [@1] The operation was part of a wider
 territorial control plan by the Turin provincial Carabinieri command to counter
 drug dealing. [@1]
-
