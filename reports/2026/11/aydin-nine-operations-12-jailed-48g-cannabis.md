@@ -65,6 +65,11 @@ sources:
     publisher: Ege Alternatif Gazetesi
     date: 2026-11-21
     language: tr
+  - title: Instagram
+    url: https://www.instagram.com/reel/Df_k7kZIAjl/
+    publisher: aydin_kulis (Instagram)
+    date: 2026-11-20
+    language: tr
 open_questions:
     - The police statement gives no separate date for the arrests or the court appearances; 19 November 2026, the last day of the 11-19 November operation period, is used as the incident date.
     - The 38 grams of esrar and 10 grams of skunk are not broken down by address, district or suspect.
@@ -79,18 +84,18 @@ open_questions:
 
 Police in Aydın province carried out nine separate operations in the Efeler,
 İncirliova and Nazilli districts between 11 and 19 November 2026, the provincial
-police department's narcotics branch said. [@1,3] Officers arrested 12 suspects at
-the addresses they raided. [@1,3] The İhlas news agency reported that the
+police department's narcotics branch said. [@1,3,4] Officers arrested 12 suspects at
+the addresses they raided. [@1,3,4] The İhlas news agency reported that the
 operations targeted nine separate addresses. [@2] All 12 were jailed after being
-brought before a court. [@1,3]
+brought before a court. [@1,3,4]
 
 Searches of the suspects and their addresses found 38 grams of esrar, the
-Turkish word for cannabis, and 10 grams of skunk. [@1,3] The same searches seized
+Turkish word for cannabis, and 10 grams of skunk. [@1,3,4] The same searches seized
 30,738 synthetic pills, 154 grams of synthetic drug raw material and 43 grams of
-methamphetamine, which are not counted in the cannabis figures here. [@1,3]
+methamphetamine, which are not counted in the cannabis figures here. [@1,3,4]
 Officers also seized two handguns, two pump-action shotguns and two precision
 scales, and confiscated 120,470 Turkish lira in cash that police assessed as
-proceeds of crime. [@1,3]
+proceeds of crime. [@1,3,4]
 
 Proceedings were opened against the 12 under article 188 of the Turkish Penal
 Code, which covers manufacturing and trading narcotic or psychotropic
