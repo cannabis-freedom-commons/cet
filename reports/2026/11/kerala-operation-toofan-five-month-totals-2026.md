@@ -75,18 +75,27 @@ sources:
     publisher: Malayalivartha
     date: 2026-11-23
     language: ml
+  - title: ഓപ്പറേഷൻ തൂഫാൻ @ 100 10,256 കേസുകളിലായി 11,085 പേർ അറസ്റ്റിൽ
+    url: https://www.keralakaumudi.com/kerala/general/kerala-1801178
+    publisher: Kerala Kaumudi
+    date: 2026-09-09
+    language: ml
+  - title: തൂഫാൻ@100; നൂറ് ദിനം പിന്നിടുന്ന Narco Hunt
+    url: https://truecopythink.media/society/operation-toofan-kerala-police-anti-narcotics-drive-completes-100-days
+    publisher: True Copy Think
+    date: 2026-09-10
+    language: ml
+  - title: 'Operation Toofan: Crackdown on drug mafia nearing 100 days'
+    url: https://timesofindia.indiatimes.com/city/thiruvananthapuram/operation-toofan-crackdown-on-drug-mafia-nearing-100-days/articleshow/133812716.cms
+    publisher: Times of India
+    date: 2026-09-06
 open_questions:
-    - No separate date is given for the cumulative totals beyond publication dates, with 4 November 2026 used for the five-month figures and 23 November 2026 for this update.
-    - No area of cannabis fields destroyed was published.
-    - No street value for the cannabis was published.
-    - No updated number of people still in custody beyond the 1,173 remanded was published.
-    - Separate seizures reported in Manjeri, Palakkad, Mattancherry and Perumbavoor are different events and are excluded from this campaign report.
-    - A combined narcotics figure of more than 2,000 kg including MDMA, hashish and heroin cannot be separated into cannabis weight and is excluded from cannabis figures.
-    - Per-case hashish oil, hashish, charas and cannabis oil weights are listed separately from the ganja total and are not converted into kg_seized to avoid double counting.
-    - The 8,682 grams of cannabis beedis are excluded from kg_seized because the sources do not say whether they fall within the ganja total.
-    - The previous-day case categories of small-quantity, medium-quantity, NDPS Act and COTPA cases overlap and exceed the 166 cases reported, so only the totals are used.
-    - This 23 November update gives no number of cannabis plants destroyed.
-    - The 23 November totals rest on a single outlet report of police figures with no second account found.
+    - The sources give the totals for the first five months of Operation Toofan but no separate date for the press conference beyond the 4 November 2026 publication date.
+    - A 9 September 2026 account reports lower totals of 11,085 arrests in 10,256 cases and 1,223.838 kg of cannabis; these earlier checkpoint figures are not reconciled with the five-month totals.
+    - No area of cannabis fields destroyed or number of people still in custody beyond the 1,173 remanded was published for the five-month totals.
+    - Separate major seizures reported in these articles, including those at Manjeri, Aluva, Palakkad, Thrissur, Mattancherry and Perumbavoor, are different events and are not recorded in this campaign report.
+    - Rediff (PTI) gives only a combined figure of more than 2,000 kg of narcotics, which cannot be separated into a cannabis weight.
+    - Hashish oil, hashish, charas, cannabis oil and cannabis beedis are listed separately from the ganja total and are not converted into kg_seized, to avoid double counting.
 ---
 
 Kerala police say they arrested 15,515 people in the first five months of
@@ -118,10 +127,10 @@ through drug trafficking. [@1,4] The police said they acted on information from
 8,125 phone calls and 5,668 WhatsApp messages from the public. [@1,4] The
 operation combines enforcement with prevention and rehabilitation, including a
 Toofan Local Government 2.0 programme to find drug users and offer counselling,
-treatment and rehabilitation. [@1,4] Police reported 12,192 drug awareness classes, 1,180 counselling sessions and 8,461 awareness programmes by school and college protection groups during the campaign. [@6] Police said surveillance cameras linked to
+treatment and rehabilitation. [@1,4,8] A second phase of Operation Toofan was announced to begin on 9 September 2026, with intensified enforcement and greater emphasis on preventing drug use and supporting people seeking to recover from addiction. [@10] Police reported 12,192 drug awareness classes, 1,180 counselling sessions and 8,461 awareness programmes by school and college protection groups during the campaign. [@6] Police said surveillance cameras linked to
 police stations would be installed in government schools under a Toofan ICE
 project. [@1] Inspector General Putta Vimaladitya said the drive was launched on
-2 June. [@3]
+2 June. [@3,9] At the campaign's 100-day mark on 9 September 2026, police reported 11,085 arrests in 10,256 cases and the seizure of 1,223.838 kg of cannabis. [@8]
 
 The campaign also led to seizures of an undisclosed amount of hashish, LSD
 stamps, nitrazepam and opium, and officers found 8,682 grams of cannabis beedis.
