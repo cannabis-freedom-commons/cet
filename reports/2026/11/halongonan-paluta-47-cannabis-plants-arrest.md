@@ -69,6 +69,11 @@ media:
     media_url: https://cdn1-production-images-kly.akamaized.net/E9L1Ffzql-AgqLnnZRQ9FxCACQU=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9404275/original/056651900_1795490709-IMG_6610.jpg
     publisher: Liputan6.com
     caption: 'Police found a sack of dried cannabis ready for use. Photo: Liputan6.com/ Dok Ist'
+  - kind: photo
+    url: https://medan.tribunnews.com/news/1821224/kronologi-polisi-temukan-5-hektar-ladang-ganja-di-paluta-3-jam-tempuh-jalan-rusak-dan-hutan
+    media_url: https://asset.tribunnews.com/5U1Ye5IRafDMM0nZRLHSaGh26fk=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/Momen-Kapolres-Paluta-AKBP-Dhery-Fajariandono-memimpin-operasi-pengungkapan.jpg
+    publisher: Tribun Medan
+    caption: Padang Lawas Utara police chief AKBP Dhery Fajariandono leading the operation that uncovered the 5-hectare harvested cannabis field; one suspected field owner was arrested.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 1152c9e46eedd8d438408ea53d68972d
@@ -124,6 +129,11 @@ sources:
     publisher: Sumut24.co
     date: 2026-11-24
     language: id
+  - title: Kronologi Polisi Temukan 5 Hektar Ladang Ganja di Paluta, 3 Jam Tempuh Jalan Rusak dan Hutan
+    url: https://medan.tribunnews.com/news/1821224/kronologi-polisi-temukan-5-hektar-ladang-ganja-di-paluta-3-jam-tempuh-jalan-rusak-dan-hutan
+    publisher: Tribun Medan
+    date: 2026-11-24
+    language: id
 open_questions:
     - No precise weight was published for the dried cannabis in the sacks and ampoules; one account described it only as dozens of kilograms.
     - The five-hectare area was reported by Tribun Medan and is not repeated in the other accounts of the police statement.
@@ -134,25 +144,25 @@ open_questions:
 
 North Padang Lawas narcotics officers arrested a 29-year-old man identified as
 TMS at his home in Japinulik, Tapus Jae village, Halongonan district, at about
-06:30 WIB on 23 November 2026. [@1,7,8,10] An account quoting the police chief gives
+06:30 WIB on 23 November 2026. [@1,7,8,10,11] An account quoting the police chief gives
 his full name as Toga Muslim Siregar, 29. [@3,7] The operation developed from the
 arrest of Hanif Armadi Siregar in Batang Baruar the day before, on Sunday 22
-November 2026. [@1,7,8,9,10]
+November 2026. [@1,7,8,9,10,11]
 
 At the house officers found cannabis packets hidden in several places, including
-under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1,7,8,10] He
+under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1,7,8,10,11] He
 confessed and showed officers the plot he said was his. [@1] At the plot
 officers found 28 rooted cannabis plants still in the ground and 19 rooted
-stalks from a previous harvest, 47 plants in total. [@1,7,8,9,10] Police seized three
+stalks from a previous harvest, 47 plants in total. [@1,7,8,9,10,11] Police seized three
 sacks of cannabis from the house and plot. [@1,10] They also took one large and
 three small ampoules of cannabis, the seed parcel and an OPPO mobile phone
 believed to be linked to transactions. [@1,8,10] Officers also seized dried cannabis
 and cannabis seeds from the house. [@6]
 
 Tribun Medan reported the field covered five hectares on hillsides in
-Halongonan, with some plants just harvested. [@4,9] The police chief said the raid
+Halongonan, with some plants just harvested. [@4,9,11] The police chief said the raid
 team rode trail motorcycles for three hours through dense forest on steep,
-damaged roads. [@4] TMS and the evidence were taken to the Paluta police station
+damaged roads. [@4,11] TMS and the evidence were taken to the Paluta police station
 for further examination and investigation. [@2,8,10] Investigators said they were
 questioning witnesses and had sent evidence to the North Sumatra police forensic
 laboratory for testing. [@2,8,10] Police said he could face charges under Articles
