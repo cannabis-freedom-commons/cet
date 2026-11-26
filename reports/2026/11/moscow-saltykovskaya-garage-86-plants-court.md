@@ -67,6 +67,11 @@ sources:
     publisher: Вести.Ру
     date: 2026-11-19
     language: ru
+  - title: Житель Косина-Ухтомского предстанет перед судом за создание плантации конопли
+    url: https://newsvostok.ru/zhitel-kosina-uhtomskogo-predstanet-pered-sudom-za-sozdanie-plantatsii-konopli/
+    publisher: Восточный Округ
+    date: 2026-11-23
+    language: ru
 open_questions:
   - No date is given for the search or the arrest; 19 November 2026 is the date of the Moscow MVD statement and of the earliest accounts.
   - The roughly 945 grams is the sum of the more than 660 g of dried material and the 285 g of cannabis reported separately, not a total published by the police.
@@ -75,20 +80,19 @@ open_questions:
 ---
 
 Moscow police found 86 cannabis plants in a garage box on Saltykovskaya Street,
-in the Kosino-Ukhtomsky district in the east of the city. [@1] Officers detained
+in the Kosino-Ukhtomsky district in the east of the city. [@1,4] Officers detained
 the 41-year-old owner of the garage after an operation by criminal investigation
-officers, a drug control unit and Rosgvardia, the National Guard. [@1] During
+officers, a drug control unit and Rosgvardia, the National Guard. [@1] The operation was run by the drug control unit of the Interior Ministry's Eastern Administrative Okrug directorate with the MVD's main criminal investigation directorate and its dog-handling centre, backed by Rosgvardia's SOBR Mangust unit. [@4] During
 the search police seized more than 660 grams of dried cannabis and another 285
 grams of cannabis, along with fertilisers, growing equipment, scales and a
 packing press. [@3] The MVD's expert unit identified the seized plants as
-cannabis. [@1]
+cannabis. [@1,4]
 
 Investigators charged him with attempted large-scale sale of narcotic drugs
 under part 3 of article 30 and part 4 of article 228.1 of the Russian Criminal
-Code. [@1] The investigation was completed and the case, with the indictment
-approved, was sent to court, where the man is held in custody. [@2] No plea or
+Code. [@1,4] The investigation was completed and the case, with the indictment
+approved, was sent to court, where the man is held in custody. [@2,4] No plea or
 position on the charge was published in the police statement. [@1]
 
 The charge carries up to 20 years in prison, a maximum penalty rather than a
 sentence already passed. [@1]
-
