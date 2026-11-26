@@ -86,6 +86,11 @@ sources:
     url: https://www.brusselstimes.com/2331103/son-of-mep-charged-in-qatargate-allegedly-headed-drug-network
     publisher: The Brussels Times
     date: 2026-09-24
+  - title: 'Ugo Lemaire arrêté: le fils de l’ex-eurodéputée Marie Arena visé par une enquête sur un trafic international de drogue - RTL Info'
+    url: https://www.rtl.be/actu/belgique/justice/ugo-lemaire-arrete-le-fils-de-lex-eurodeputee-marie-arena-vise-par-une-enquete/2025-02-03/article/737939
+    publisher: RTL Info
+    date: 2025-02-03
+    language: fr
 open_questions:
     - The Brussels prosecutor's office gave the number of arrests in February 2025 only as about fifteen; no exact count was published.
     - No quantity or value of cannabis seized in the searches of 3 February 2025 was published, and the case sent to trial states no weight.
@@ -101,19 +106,19 @@ open_questions:
 
 Federal judicial police searched several addresses in the Brussels judicial
 district and in those of Walloon Brabant, Liège and Namur on 3 February 2025.
-[@2] About fifteen suspects were arrested in Belgium during the operation. [@2]
+[@2,10] About fifteen suspects were arrested in Belgium during the operation. [@2,10]
 Some of those arrested had already been convicted of drug offences. [@2] Ugo
 Lemaire, the son of former Belgian MEP Marie Arena, was taken into custody at
 his Brussels apartment on the morning of 3 February. [@3] He was charged and
 placed under an arrest warrant that evening. [@3] Lemaire, 34, was suspected of
 drug trafficking and money laundering after the search of his home. [@1] The
 prosecutor's office did not confirm his involvement or his pre-trial detention.
-[@3]
+[@3,10]
 
 The investigation began in July 2023, after drug-trafficking evidence was found
 during a separate corruption inquiry by the Central Office for the Repression of
-Corruption (OCRC). [@2] The same search turned up a small quantity of cannabis resin and a French identity card stolen in Barcelona in 2019 bearing Lemaire's photograph. [@8] Officers found more than 280,000 euros in cash, GPS trackers, computer equipment and three vehicles registered in Bulgaria and Spain. [@7] The July 2023 search that started the case was of the flat adjoining Marie Arena's home in Schaerbeek, occupied by her son. [@6] The suspects were handed to a Brussels investigating
-judge for questioning on 3 and 4 February 2025. [@5] He was summoned for questioning in December 2023 and exercised his right to silence. [@8] Lemaire made around ten return trips between Brussels and Barcelona between 2018 and 2023. [@9] Lemaire is known as a
+Corruption (OCRC). [@2,10] The same search turned up a small quantity of cannabis resin and a French identity card stolen in Barcelona in 2019 bearing Lemaire's photograph. [@8] Officers found more than 280,000 euros in cash, GPS trackers, computer equipment and three vehicles registered in Bulgaria and Spain. [@7] The July 2023 search that started the case was of the flat adjoining Marie Arena's home in Schaerbeek, occupied by her son. [@6] The suspects were handed to a Brussels investigating
+judge for questioning on 3 and 4 February 2025. [@5,10] He was summoned for questioning in December 2023 and exercised his right to silence. [@8] Lemaire made around ten return trips between Brussels and Barcelona between 2018 and 2023. [@9] Lemaire is known as a
 seller of CBD, cannabis without THC, and investigators were examining whether an
 illegal network importing and selling psychoactive cannabis had grown alongside
 that lawful trade. [@3] The company BRC & Co, which La DH describes as a CBD business, is not concerned by the case sent to the criminal court. [@7] His lawyers declined to comment. [@3]
