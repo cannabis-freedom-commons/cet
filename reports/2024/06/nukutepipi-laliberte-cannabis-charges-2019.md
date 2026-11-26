@@ -94,6 +94,11 @@ sources:
     publisher: Rezo Nòdwès
     date: 2019-11-14
     language: fr
+  - title: Guy Laliberté arrêté en Polynésie française pour culture de cannabis
+    url: https://ici.radio-canada.ca/article/culture/segment/142063/guy-laliberte-cirque-soleil-tahiti-polynesie
+    publisher: Radio-Canada
+    date: 2019-11-14
+    language: fr
 media:
   - kind: photo
     url: https://www.tntvnews.pf/polynesie/tntv_news_une/guy-laliberte-condamne-a-2-millions-damende-pour-detention-en-usage-de-cannabis/
@@ -114,8 +119,8 @@ media:
 
 Guy Laliberté, the co-founder of the circus company Cirque du Soleil, was
 detained in French Polynesia over cannabis grown on his private island of
-Nukutepipi in the South Pacific. [@1,9] The billionaire Canadian turned himself in
-to police in French Polynesia and was due to appear in court on Wednesday. [@1,8,9]
+Nukutepipi in the South Pacific. [@1,9,10] The billionaire Canadian turned himself in
+to police in French Polynesia and was due to appear in court on Wednesday. [@1,8,9,10]
 Papeete television reported that he was presented to an investigating judge at
 11.30 on Wednesday 13 November after spending Tuesday and the night in police
 custody over cannabis cultivation on his atoll. [@2,8]
