@@ -55,29 +55,36 @@ sources:
     url: https://khatimanews.com/story/gopeshwar-police-arrest-2-1-586-kg-charas-allegedly-collected
     publisher: Khatima News
     date: 2026-11-23
+  - title: बदरीनाथ से चरस की खेप लेकर हापुड़ जा रहे दो अंतरराज्यीय तस्कर गिरफ्तार - liveskgnews
+    url: https://liveskgnews.com/uttarakhand/two-inter-state-smugglers-arrested-while-en-route-to-hapur-with-a-consignment-of-charas-from-badrinath/
+    publisher: liveskgnews
+    date: 2026-11-23
+    language: hi
+  - title: Chamoli Police arrest 02 Hapur residents with 1.586 kg charas, seize Toyota Rumion
+    url: https://khatimanews.com/story/chamoli-police-arrest-02-hapur-residents-1-586-kg-charas
+    publisher: Khatima News
+    date: 2026-11-23
 open_questions:
-  - Only the 23 November 2026 publication date is known, so it is used as the incident date; no separate time for the Pokhri Band checking was stated.
-  - The reports give no names, ages or individual roles for the two men.
-  - No charges, court proceedings or case outcome were reported.
-  - No value estimate for the seized charas was published.
-  - Both accounts rest on the Chamoli police statement, with no independent account of the recovery.
+    - The pair left Badrinath on 22 November 2026, but no separate time for the Pokhri Band check was stated, so the 23 November 2026 publication date is used as the incident date.
+    - No court proceedings or case outcome beyond the NDPS case registration were reported.
+    - No value estimate for the seized charas was published.
+    - All three accounts rest on the police statement, with no independent account of the recovery.
 ---
 
 Kotwali Gopeshwar police arrested two interstate suspects during vehicle
 checking at Pokhri Band and recovered 1.586 kilograms of illegal charas,
-according to Chamoli Police Uttarakhand. [@2] In Gopeshwar, police held two men
-from Hapur district in Uttar Pradesh on a charge of smuggling charas. [@1]
+according to Chamoli Police Uttarakhand. [@2,3] In Gopeshwar, police held two men
+from Hapur district in Uttar Pradesh on a charge of smuggling charas. [@1] The arrested men were identified as Vikas Sharma (35) and Arjun Singh (40), residents of Babugarh in Hapur district. [@3]
 Police said the men had collected the substance in Badrinath for six months and
-planned to sell it in Hapur. [@2]
+planned to sell it in Hapur. [@2] Arjun Singh had spent about six months in the Badrinath area attached to an ashram-construction organisation and looking after an ashram, during which he bought and stockpiled charas in small quantities from local people. [@3]
 
 Police recovered 1.586 kilograms of illegal charas from the men's possession
-during the checking operation. [@1] Police also seized a Toyota Rumion allegedly
-used in the trafficking operation. [@2] The two men were allegedly taking charas
-gathered in the Badrinath area by car to Hapur when they were stopped. [@1]
+during the checking operation. [@1,4] Police also seized a Toyota Rumion allegedly
+used in the trafficking operation. [@2,3] The car was a white Toyota Rumion with registration UP37 AA 5480. [@3] The two men were allegedly taking charas
+gathered in the Badrinath area by car to Hapur when they were stopped. [@1,3] Vikas Sharma had previously carried a charas consignment to Hapur, and after staying together in Badrinath for a few days the pair left by car for Hapur on 22 November once the shrine doors had closed. [@3]
 
 The recovery was made by Kotwali Gopeshwar police during checking at Pokhri
-Band. [@2] Chamoli Police Uttarakhand said in a social-media update that the two
+Band. [@2] The checking team at Pokhri Band was led by police station chief Navneet Bhandari. [@3] The pair had planned to avoid the main highway by taking a link road through Chopata to escape police attention, but were caught at the Pokhri Band vehicle check. [@3] Chamoli Police Uttarakhand said in a social-media update that the two
 interstate suspects were arrested after the 1.586-kilogram recovery. [@2] Police
 linked the alleged collection in Badrinath with a planned sale in Hapur, with
-further legal action to follow the recovery and arrests. [@2]
-
+further legal action to follow the recovery and arrests. [@2] Police registered a case against both men under the NDPS Act at Kotwali Gopeshwar. [@3]
