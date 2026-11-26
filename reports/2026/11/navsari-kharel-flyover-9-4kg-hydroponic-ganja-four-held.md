@@ -94,30 +94,34 @@ sources:
     url: https://m.rediff.com/news/report/four-held-with-hybrid-ganja-in-gujarats-navsari/20261122.htm
     publisher: Rediff.com
     date: 2026-11-22
+  - title: थाईलैंड से मुंबई-गुजरात तक ड्रग्स का जाल! 3.56 करोड़ रुपये का गांजा जब्त, 4 गिरफ्तार, 9 वांटेड
+    url: https://www.timesnowhindi.com/cities/gujarat-drug-bust-cannabis-worth-rupees-more-than-3-crore-seized-four-arrested-thailand-link-under-scanner-article-156550903
+    publisher: Times Now Navbharat
+    date: 2026-11-22
+    language: hi
 open_questions:
-    - The report dates the operation only to 'Sunday', the day before its 23 November 2026 publication; 22 November 2026 is used as the incident date.
-    - The reports do not say what charges were filed against the four.
+    - 'Accounts disagree on the date of the stop: one Hindi account says the cars were stopped on the night of 21 November, while another report dates the arrest to Sunday, 22 November 2026; 22 November is retained as the incident date.'
     - No remand order or bail decision was reported; police said they would seek remand of the four.
-    - Accounts give the seized weight as 9.375 kg or 9.4 kg and value the ganja at between Rs 3.25 crore and Rs 3.3 crore, while one Gujarati account quotes about Rs 35 lakh per kilogram and another puts total seized property at Rs 3.45 crore; the basis for the differing totals is not established.
+    - Accounts give the seized weight as 9.375 kg or 9.4 kg and value the ganja at between Rs 3.25 crore and Rs 3.3 crore (Rs 3.28 crore in the Hindi account), while one account quotes about Rs 35 lakh per kilogram and accounts put total seized property at between Rs 3.45 crore and Rs 3.56 crore; the basis for the differing totals is not established. One account gives the cash as Rs 33,770 rather than Rs 33,779.
     - Accounts describe the cannabis as hybrid ganja, while the Times of India calls it hydroponic; the reports do not establish how it was grown.
     - The nine other suspects were named but not arrested when the reports were published.
 ---
 
 Navsari police arrested four people after intercepting two SUVs near the Kharel
-flyover on National Highway 48 on Sunday. [@1,2,6,7] Officers seized 9.4 kg of
+flyover on National Highway 48 on Sunday. [@1,2,6,7,9] Officers seized 9.4 kg of
 hydroponic ganja, which police valued at Rs 3.3 crore. [@1,5,6,7,8] Police also seized
 seven mobile phones and Rs 33,779 in cash from the four. [@1] The arrested were
 identified as Pramod Pathak, Vishnu Singh, Premchand alias Rahul Yadav and Miket
-Patel. [@1,5,6,7,8]
+Patel. [@1,5,6,7,8,9]
 
 Police said the group had travelled to Vadodara to sell the consignment and was
-returning with the remaining stock when their vehicles were stopped. [@1,2] In Vadodara the group gave part of the consignment to a man named Jayanti, one of the nine suspects declared wanted, before returning to Vapi with the rest, police said. [@3]
+returning with the remaining stock when their vehicles were stopped. [@1,2,9] In Vadodara the group gave part of the consignment to a man named Jayanti, one of the nine suspects declared wanted, before returning to Vapi with the rest, police said. [@3]
 According to police, the accused dealt in large quantities of hydroponic ganja
 and supplied it to select buyers willing to pay high prices. [@1] Officials said
 a preliminary examination suggested the ganja may have been imported from
 abroad. [@1]
 
-Police suspect at least nine more people were involved in the network. [@1,4,7,8] Police said one of the wanted suspects was Ronnie, whom they believed to be in Bangkok. [@2]
+Police suspect at least nine more people were involved in the network. [@1,4,7,8,9] Police said one of the wanted suspects was Ronnie, whom they believed to be in Bangkok. [@2,9] According to the FIR, Vikas Jayswal, one of the wanted suspects, escaped during the raid by running through nearby fields and bushes. [@9]
 Efforts were under way to trace and arrest them. [@1] Police suspect the network
 was run from Vapi and Daman and had links with multiple suppliers and high-end
-buyers. [@1] Pramod Pathak, the alleged mastermind, had worked as a bouncer in Mumbai, and police say he ran an interstate drug network under the cover of his Tiger security agency in Vapi. [@3] Police said Pathak was in contact with foreign suppliers to bring hybrid ganja into India for sale in Mumbai, Vapi, Vadodara and other cities. [@8]
+buyers. [@1] Pramod Pathak, the alleged mastermind, had worked as a bouncer in Mumbai, and police say he ran an interstate drug network under the cover of his Tiger security agency in Vapi. [@3] Police said Pathak was in contact with foreign suppliers to bring hybrid ganja into India for sale in Mumbai, Vapi, Vadodara and other cities. [@8] A case was registered at Ganadevi police station under the NDPS Act against the four arrested men and the others declared wanted. [@9]
