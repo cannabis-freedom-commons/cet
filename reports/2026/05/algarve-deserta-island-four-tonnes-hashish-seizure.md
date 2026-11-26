@@ -55,6 +55,11 @@ sources:
     publisher: TSF Rádio Notícias
     date: 2026-05-15
     language: pt
+  - title: GNR 在阿尔加维查获四吨大麻
+    url: https://www.theportugalnews.com/zh/zh-news/2026-11-22/gnr-seizes-four-tons-of-hashish-in-the-algarve/1022665
+    publisher: The Portugal News
+    date: 2026-05-15
+    language: zh
 open_questions:
   - The weight is an estimate of about four tonnes; no exact weighed total was published.
   - Three men were identified as suspects, but the reports do not say they were arrested, charged or brought before a court.
@@ -63,18 +68,17 @@ open_questions:
 ---
 
 Three men aged 22, 34 and 46 were identified as suspects of drug trafficking,
-according to a police statement. [@1] The GNR said its patrols detected
-suspicious movements south of Deserta Island. [@3] Maritime and land resources
+according to a police statement. [@1,5] The GNR said its patrols detected
+suspicious movements south of Deserta Island. [@3,5] Maritime and land resources
 were deployed to monitor the vessels. [@3]
 
 About four tonnes of hashish and three boats were seized on Thursday near
-Deserta Island, in the Faro area of the Algarve. [@1] Officers described the
+Deserta Island, in the Faro area of the Algarve. [@1,5] Officers described the
 hashish as cannabis resin. [@4] The operation took place on 14 May 2026 in the
 Ria Formosa lagoon, off the Algarve coast. [@3] The GNR said intensified coastal
-surveillance had kept about four tonnes of drugs out of the illegal market. [@4]
+surveillance had kept about four tonnes of drugs out of the illegal market. [@4,5]
 
 The GNR said daily, round-the-clock coastal patrols help safeguard the region.
-[@2] The patrols are carried out under the general and specific missions of its
+[@2,5] The patrols are carried out under the general and specific missions of its
 Coastal and Border Control Unit and are intended to maintain security and deter
-illegal activity. [@2]
-
+illegal activity. [@2,5]
