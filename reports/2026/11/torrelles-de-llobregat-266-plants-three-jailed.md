@@ -59,6 +59,11 @@ media:
     media_url: https://llobregatnoticies.com/wp-content/uploads/2026/11/plantacioindoortorrelles.jpg
     publisher: Llobregat Notícies
     caption: 'The indoor cannabis grow raided in Torrelles de Llobregat. Photo: Ajuntament de Torrelles'
+  - kind: photo
+    url: https://www.elperiodico.com/es/sucesos/20261123/detenidos-grupo-criminal-marihuana-torrelles-llobregat-cataluna-136759567
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/1bbafe51-b658-4f1d-895a-af4cc362b10d_16-9-discover-aspect-ratio_default_0_x267y178.webp
+    publisher: El Periódico
+    caption: 'Cannabis plants in the dismantled plantation in Torrelles de Llobregat. Photo: Mossos d''Esquadra'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: c8910984b5835639d03da1142f1b3627
@@ -79,6 +84,11 @@ sources:
     publisher: Llobregat Notícies
     date: 2026-11-19
     language: ca
+  - title: Detenidos tres miembros de un grupo criminal que gestionaba una plantación de marihuana en Torrelles de Llobregat
+    url: https://www.elperiodico.com/es/sucesos/20261123/detenidos-grupo-criminal-marihuana-torrelles-llobregat-cataluna-136759567
+    publisher: El Periódico
+    date: 2026-11-23
+    language: es
 open_questions:
     - The sources do not say whether the three men have been formally charged; they were brought before the duty investigating court in Sant Boi de Llobregat on 17 November.
     - The 312 cuttings were reported separately from the 266 plants and are not included in the plant figure.
@@ -91,16 +101,16 @@ Mossos d'Esquadra arrested three men aged 30, 34 and 36 for alleged drug
 trafficking and electricity fraud. [@1,2] Two of the arrests were made in
 Torrelles de Llobregat, while police located the alleged manager of the
 plantation in Sant Joan Despí. [@1] All three men were sent to prison after
-their arrests, according to sources close to the investigation. [@1] The three men were brought before the investigating court in Sant Boi de Llobregat, sitting as the duty court, on 17 November. [@2] One of
-those arrested already had a criminal record for the same offences. [@1,2]
+their arrests, according to sources close to the investigation. [@1] The three men were brought before the investigating court in Sant Boi de Llobregat, sitting as the duty court, on 17 November. [@2,4] One of
+those arrested already had a criminal record for the same offences. [@1,2] One of those arrested had three prior records for the same type of offence. [@4]
 
 Officers dismantled a marijuana plantation with 266 plants in Torrelles de
-Llobregat. [@1,2] The grow occupied five rooms of a building in the municipality. [@2] At the mountain residential site, officers also found 312
+Llobregat. [@1,2,4] The grow occupied five rooms of a building in the municipality. [@2,4] At the mountain residential site, officers also found 312
 cuttings and 41 kilos of marijuana buds, the part of the plant usually sold.
-[@1,2] Police estimated that the seized drug was worth more than 80,000 euros wholesale and could have fetched more than 280,000 euros at retail. [@3] During the search, officers found material indicating previous grows at the
+[@1,2,4] Police estimated that the seized drug was worth more than 80,000 euros wholesale and could have fetched more than 280,000 euros at retail. [@3] During the search, officers found material indicating previous grows at the
 same site, including rubbish bags with plant substrate and broken ventilation
-equipment. [@1,2]
+equipment. [@1,2,4]
 
 The Mossos carried out the entry and search of a building and made the arrests
-on 17 November. [@1,2] The search was authorised by the Tribunal de Instancia of Sant Boi de Llobregat. [@2] The Local Police of Torrelles had detected signs of the
-plantation in early April. [@1,2] The operation was a joint action by the Mossos' investigation area for the southern metropolitan region and the Torrelles Local Police, with the force's drone unit and forensic police. [@3] Investigators contacted the electricity supplier and confirmed that the building's consumption was abnormally high, compatible with an indoor cannabis grow. [@2]
+on 17 November. [@1,2] The search was authorised by the Tribunal de Instancia of Sant Boi de Llobregat. [@2,4] The Local Police of Torrelles had detected signs of the
+plantation in early April. [@1,2,4] The operation was a joint action by the Mossos' investigation area for the southern metropolitan region and the Torrelles Local Police, with the force's drone unit and forensic police. [@3] Investigators contacted the electricity supplier and confirmed that the building's consumption was abnormally high, compatible with an indoor cannabis grow. [@2,4]
