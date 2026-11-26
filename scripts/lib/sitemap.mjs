@@ -17,6 +17,10 @@ async function* htmlFiles(dir) {
 
 const escapeXml = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
+// A regex match is a slice that keeps its whole page alive in V8; with ~12,000 indexed pages that
+// held 1.6 GB and ran the build out of memory. A copy lets each page be freed once read.
+const own = (s) => s === undefined ? s : Buffer.from(s, "utf8").toString("utf8");
+
 // What the sitemap says about one built page, or null when it does not belong there.
 export function pageEntry(html) {
   const head = html.slice(0, html.indexOf("</head>") + 1 || 20000);
@@ -26,7 +30,7 @@ export function pageEntry(html) {
   if (!canonical) return null;
   const time = head.match(/<meta[^>]+property=["']article:modified_time["'][^>]+content=["']([^"']+)/i)?.[1]
     ?? head.match(/<meta[^>]+property=["']article:published_time["'][^>]+content=["']([^"']+)/i)?.[1];
-  return { loc: canonical, ...(time ? { lastmod: time } : {}) };
+  return { loc: own(canonical), ...(time ? { lastmod: own(time) } : {}) };
 }
 
 export async function writeSitemap(dir, site) {
