@@ -162,6 +162,10 @@ sources:
     url: https://www.msn.com/en-in/news/other/five-including-youth-cong-worker-held-with-116-kg-ganja-in-keralams-alappuzha/ar-AA2hXjha
     publisher: MSN
     date: 2026-11-22
+  - title: Youth Cong worker among five held with 11.6 kg ganja in Kerala's Alappuzha
+    url: https://english.mathrubhumi.com/news/crime/five-arrested-with-ganja-in-alappuzha-kerala-ptio66gy8uo
+    publisher: Mathrubhumi English
+    date: 2026-11-22
 open_questions:
     - English-language wire reports counted five arrests and 11.6 kg from the car, while the Malayalam accounts counted eight arrests and put the total at 12 to 13 kg once the earlier Palliveli check is included; this report uses eight arrests and the 12 kg total given by Mathrubhumi.
     - 'Sources differ on Shameer''s standing in the party: IANS described him as an office-bearer of the Congress mandalam committee, while district Youth Congress leaders said he held no post and had been inactive for months.'
@@ -170,23 +174,24 @@ open_questions:
     - Police did not name the Palakkad supplier or report further arrests, and no charge sheet, bail hearing or trial date has been reported.
     - One Malayalam account places the Makkekadavu arrests at about 1 am, while other reports put the car interception at about 10.50 pm on Saturday 21 November 2026.
     - One account said the arrested men were still in police custody, while others reported that all eight had been produced before a magistrate and remanded in judicial custody.
+    - 'Accounts differ on the home towns of the men: one English report calls all five natives of Thaikkattussery, while others place the car''s occupants in Manappuram and Poochakkal.'
 ---
 
 Eight men were arrested in the case, among them a local Youth Congress leader.
 [@4,13,16] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
-were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9,10,11,12,14,15,16,17,19,21,22,23,24,25,27] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9,11,12,15,16,17,22,24,25] The car was intercepted at
-about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7,8,10,14,19,20,22,24,27] Police said they acted on a tip-off when they stopped the car. [@8,10] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6,12] The operation was conducted by a team of six police personnel led by SHO Lijimol P T. [@20]
+were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9,10,11,12,14,15,16,17,19,21,22,23,24,25,27,28] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9,11,12,15,16,17,22,24,25] The car was intercepted at
+about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7,8,10,14,19,20,22,24,27,28] Police said they acted on a tip-off when they stopped the car. [@8,10,28] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6,12] The operation was conducted by a team of six police personnel led by SHO Lijimol P T. [@20]
 Earlier that evening, at about 4 pm, three other men were arrested with 1.270 kg
 of ganja near Palliveli junction, and questioning them led police to the car.
 [@3] One of them, Shemeer, 38, is a Youth Congress worker from Manappuram whose
-social media accounts show photographs with party leaders. [@2,5,7,9,10,13,14,15,22] The pictures show him with Chief Minister V D Satheesan, Excise Minister M Liju and Deputy Speaker Shanimol Usman, among others. [@23] District Youth
+social media accounts show photographs with party leaders. [@2,5,7,9,10,13,14,15,22,28] The pictures show him with Chief Minister V D Satheesan, Excise Minister M Liju and Deputy Speaker Shanimol Usman, among others. [@23] District Youth
 Congress leaders said he had been inactive for months and held no post in the
-organisation. [@2,7,10,22] Shameer had left the CPI(M) some years earlier and joined the Youth Congress, district Youth Congress leaders said. [@9,14,15,18,21] The leaders said Shameer had joined the Youth Congress three years ago and had earlier been a DYFI worker. [@13] Shameer was reportedly involved in the election campaign of
+organisation. [@2,7,10,22,28] Shameer had left the CPI(M) some years earlier and joined the Youth Congress, district Youth Congress leaders said. [@9,14,15,18,21] The leaders said Shameer had joined the Youth Congress three years ago and had earlier been a DYFI worker. [@13] Shameer was reportedly involved in the election campaign of
 Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5,6,11,12,25,26] He was reported to be close to Chief Minister V.D. Satheesan, Deputy Speaker Shanimol Usman and Rahul Mankoottathil, an accused in rape cases. [@26]
 
 Police said the men had bought a large quantity of ganja in Palakkad and were
-selling it in smaller quantities to users in Kochi. [@2,7,10,19,20,21,22,27] All eight were produced
-before a magistrate and remanded in judicial custody. [@3,8,19,22,27] Shemeer complained of
+selling it in smaller quantities to users in Kochi. [@2,7,10,19,20,21,22,27,28] All eight were produced
+before a magistrate and remanded in judicial custody. [@3,8,19,22,27,28] Shemeer complained of
 chest discomfort and was taken to Ernakulam General Hospital. [@2,20] Poochakkal
 police registered a case under the Narcotic Drugs and Psychotropic Substances
 Act. [@1,5,6,11,12,25] Investigations were continuing to establish each man's role in the
