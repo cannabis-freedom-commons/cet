@@ -52,6 +52,11 @@ sources:
     publisher: El Universal
     date: 2026-11-22
     language: es
+  - title: Decomisan más de siete kilos de metanfetamina, ketamina y mariguana en paquetes postales del AICM
+    url: https://www.infobae.com/mexico/2026/11/23/decomisan-mas-de-siete-kilos-de-metanfetamina-ketamina-y-mariguana-en-paquetes-postales-del-aicm/
+    publisher: Infobae
+    date: 2026-11-22
+    language: es
 media:
   - kind: photo
     url: https://latinus.us/mexico/2026/11/22/aseguran-cargamentos-de-metanfetamina-ketamina-y-cannabis-en-la-aduana-del-aicm-183159.html
@@ -68,19 +73,27 @@ media:
     media_url: https://www.eluniversal.com.mx/resizer/v2/FCEUNH2SF5ARJPCU4BYJYHLMRY.jpg?auth=1d4680829ad201e73ed9ba14ae2db53d4adb93eb7e9f08395c3d48f2c2991693&smart=true&height=620
     publisher: El Universal
     caption: 'Illicit substances seized at AICM customs in postal shipments. Photo: Marina'
+  - kind: photo
+    url: https://www.infobae.com/mexico/2026/11/23/decomisan-mas-de-siete-kilos-de-metanfetamina-ketamina-y-mariguana-en-paquetes-postales-del-aicm/
+    media_url: https://www.infobae.com/resizer/v2/UKH77TOZBNGDRNTJ7JQCVUGWJM.jpg?auth=7744de4137c109174b0b76ef001ccb006d247ae037b7fc7cce2376b83a05e590&smart=true&width=992&height=558&quality=85
+    publisher: Infobae
+    caption: 'Postal packages from the AICM customs operation, which the outlets say were detected with X-ray screening and physical inspections. Photo: ANAM (@AduanasMx) via Infobae'
+open_questions:
+  - The 24 glass jars are described only as holding cannabis derivatives; no product type or weight per container was published.
+  - No arrests or suspects were reported in connection with the cannabis shipment.
 ---
 
 Officers from Mexico's National Customs Agency, the Attorney General's Office,
 the Navy, the Security Ministry and Correos de México seized illicit substances
 at the mechanized postal customs section of Mexico City International Airport.
-[@1,3] The detections followed non-intrusive X-ray screening and selective
+[@1,3,4] The detections followed non-intrusive X-ray screening and selective
 physical inspections aimed at increasingly sophisticated concealment methods in
-postal shipments. [@1] All of the substances were confirmed by laboratory
+postal shipments. [@1,4] All of the substances were confirmed by laboratory
 analysis. [@1] The seized goods were formally handed to Attorney General's
-Office staff to continue the corresponding investigations. [@1,2]
+Office staff to continue the corresponding investigations. [@1,2,4]
 
 Officers found 1.86 kilos of cannabis derivatives held in 24 glass jars in an
-import shipment from California, United States. [@1,2,3] In the same postal
+import shipment from California, United States. [@1,2,3,4] In the same postal
 operation officers found 3.06 kilos of methamphetamine hydrochloride hidden
 inside a parcel containing air pumps in an export shipment bound for Cyprus.
 [@1,3] Officers also found 1.090 kilos of methamphetamine hydrochloride hidden in
