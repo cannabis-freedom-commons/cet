@@ -65,23 +65,28 @@ sources:
     publisher: TVMnews.mt
     date: 2026-11-21
     language: en
+  - title: Charged with trying to import four kg of cannabis, remanded in custody
+    url: https://tvmnews.mt/en/news/charged-with-trying-to-import-four-kg-of-cannabis-remanded-in-custody/
+    publisher: TVMnews.mt
+    date: 2026-11-21
 open_questions:
     - The 4kg was described only as suspected cannabis, with no laboratory confirmation reported.
-    - The date and origin of the intercepted package, and who sent it, were not reported.
-    - The specific charges and number of counts were not stated; the accused pleaded not guilty to the allegations.
-    - The €96,000 figure is the police's estimated street value, not a market valuation.
-    - No next hearing date or bail decision beyond the remand in custody was reported.
+    - The country of origin and the sender of the UPS package were not reported.
+    - The prosecution described the allegation as importing drugs; the full charges and number of counts were not stated.
+    - The €96,000 figure is the prosecution's estimated street value, not a market valuation.
+    - No next hearing date was reported; the accused remains in custody after bail was refused.
+    - The arrest is described only as following the 19 November interception, without a separate date for it.
 ---
 
 A 31-year-old man was arrested after police intercepted a package containing
-suspected cannabis sent by post. [@1,4,5] The man was described as Maltese. [@4] The package held approximately 4kg of
-suspected cannabis. [@1,4] The man, a Żejtun resident, was arrested in Wied
-il-Għajn after a controlled delivery operation. [@1,4,5] Police said the cannabis
+suspected cannabis sent by post. [@1,4,5] The man was described as Maltese. [@4] He is Nigel Vella, 31, a self-employed man from Żejtun. [@6] The package held approximately 4kg of
+suspected cannabis. [@1,4] Customs authorities intercepted the UPS package from Luqa on 19 November. [@6] The man, a Żejtun resident, was arrested in Wied
+il-Għajn after a controlled delivery operation. [@1,4,5] He was waiting for the officers at that address, signalled to them, signed for the parcel and was arrested. [@6] Police called the number on the package and the accused answered, saying the address on it was in Marsascala. [@6] Police said the cannabis
 had an estimated street value of €96,000 and was intended for the local market.
 [@2,4,5] A search of his residence uncovered items related to drug use. [@1,4,5]
 
 Magistrate Joe Mifsud is leading a magisterial inquiry into the case. [@1,4,5] He
 was arraigned in court on Saturday before Magistrate Antoine Agius Bonnici and
-pleaded not guilty. [@3,4,5] He was remanded in custody. [@3] Lawyer Matthew Xuereb
-appeared for the accused. [@3] Police said investigations into the alleged
+pleaded not guilty. [@3,4,5,6] He was remanded in custody. [@3] Defence counsel asked for bail, citing the accused's clean conduct sheet and his cooperation with the police, the prosecution objected because investigations were ongoing, and Magistrate Antoine Agius Bonnici refused bail because of the possibility of disrupting the investigations. [@6] Lawyer Matthew Xuereb
+appeared for the accused. [@3] Inspectors Francesco Mizzi and Julian Scicluna prosecuted. [@6] Police said investigations into the alleged
 importation and trafficking were still ongoing. [@2,4]
