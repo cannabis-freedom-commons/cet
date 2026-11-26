@@ -40,40 +40,45 @@ sources:
     publisher: El Irreverente
     date: 2026-11-20
     language: es
+  - title: 'A la cárcel los 11 integrantes de los ‘Almacenistas’: se dedicarían al microtráfico en Ibagué | Ibagué | Caracol Radio'
+    url: https://caracol.com.co/2026/11/21/a-la-carcel-los-11-integrantes-de-los-almacenistas-se-dedicarian-al-microtrafico-en-ibague/
+    publisher: Caracol Radio
+    date: 2026-11-21
+    language: es
 open_questions:
-  - No separate date for the raids was given; 20 November 2026 is the publication date and is used as the incident date.
-  - No weight, plant count or area was published for the marijuana, so no cannabis quantity is recorded.
-  - The seized marijuana was reported together with cocaine, 2CB pills and other items, so no combined weight is counted as cannabis.
-  - The marijuana was not described as laboratory-confirmed.
-  - No individual roles, ages or details behind the charge of using minors were reported.
-  - No court outcome beyond pretrial detention in a prison facility was reported.
-  - The account rests on a single outlet reproducing the Fiscalía statement, with no independent second source found.
+    - Neither account gives a separate date for the raids; the reports were published on 20 and 21 November 2026, and 20 November is used as the incident date.
+    - No weight, plant count or area was published for the marijuana, so no cannabis quantity is recorded.
+    - The seized marijuana was reported together with cocaine, 2CB pills and other items, so no combined weight is counted as cannabis.
+    - The marijuana was not described as laboratory-confirmed.
+    - No ages or details behind the charge of using minors were reported; the sources list only general functional roles.
+    - The first account lists a revolver among the seized weapons, while the Caracol account mentions only a traumatic weapon.
+    - No court outcome beyond pretrial detention in a prison facility was reported.
+    - Both accounts reproduce the Fiscalía statement rather than independent reporting; no independent second source was found.
 ---
 
 National Police officers working with the Attorney General's Office captured 11
 alleged members of a suspected criminal organization known as Los Almacenistas
-accused of selling drugs in Ibagué's Santofimio neighbourhood. [@1]
+accused of selling drugs in Ibagué's Santofimio neighbourhood. [@1,2]
 Investigators said the suspects had organized since 2025 to sell drugs in the La
 Arenera sector in the south of Ibagué. [@1] Authorities linked the alleged group
-to 38 criminal events involving the sale of controlled substances. [@1] Police
-carried out nine search raids in which ten arrest warrants were executed. [@1]
+to 38 criminal events involving the sale of controlled substances. [@1,2] Police
+carried out nine search raids in which ten arrest warrants were executed. [@1,2]
 Police identified Edwin Eduardo Mendoza Torres as the alleged ringleader among
-those detained. [@1] Authorities added the flagrant arrest of Dylan Steven Díaz
-Balanta, bringing the total detained to 11. [@1]
+those detained. [@1,2] Authorities added the flagrant arrest of Dylan Steven Díaz
+Balanta, bringing the total detained to 11. [@1,2]
 
 Some members allegedly directed activities while others stored, portioned,
-distributed and sold drugs. [@1] The substances sold were mainly marijuana and
-cocaine in small quantities. [@1] Investigators seized a revolver, a traumatic
+distributed and sold drugs. [@1,2] The substances sold were mainly marijuana and
+cocaine in small quantities. [@1,2] Investigators seized a revolver, a traumatic
 weapon, marijuana, 2CB pills, a bottle of veterinary medicine and items for
-portioning and packaging drugs. [@1] The Fiscalía did not specify the exact
+portioning and packaging drugs. [@1,2] The Fiscalía did not specify the exact
 quantities of drugs seized or the characteristics of the veterinary medicine.
 [@1]
 
 An EDA prosecutor for Tolima presented those captured before a guarantees judge.
-[@1] They were charged according to individual responsibility with conspiracy,
-drug trafficking, firearms and use of minors offences. [@1] None of the 11
-defendants accepted the charges brought by the prosecution. [@1] After the
-hearings, a guarantees judge ordered their detention in a prison facility. [@1]
+[@1,2] They were charged according to individual responsibility with conspiracy,
+drug trafficking, firearms and use of minors offences. [@1,2] None of the 11
+defendants accepted the charges brought by the prosecution. [@1,2] After the
+hearings, a guarantees judge ordered their detention in a prison facility. [@1,2]
 The detainees will remain deprived of liberty while the case continues, which is
 not a conviction. [@1]
-
