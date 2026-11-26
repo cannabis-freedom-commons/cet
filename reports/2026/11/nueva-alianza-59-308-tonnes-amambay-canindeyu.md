@@ -78,6 +78,11 @@ sources:
     publisher: Diario HOY
     date: 2026-11-17
     language: es
+  - title: Operação na fronteira mobiliza Brasil e Paraguai para destruir plantações de maconha
+    url: https://www.gazetadevarginha.com.br/post/opera%C3%A7%C3%A3o-na-fronteira-mobiliza-brasil-e-paraguai-para-destruir-planta%C3%A7%C3%B5es-de-maconha
+    publisher: Gazeta de Varginha
+    date: 2026-11-03
+    language: pt
 media:
   - kind: photo
     url: https://www.adndigital.com.py/en-operativo-conjunto-destruyen-mas-de-300-toneladas-de-marihuana-en-casi-85-ha-de-cultivo/
@@ -98,7 +103,8 @@ media:
     publisher: RSM - Revista Sociedade Militar
     caption: 'SENAD agents sowing native seeds in areas degraded by illegal marijuana cultivation in Amambay during the 10th Operation Restaurar. Photo: SENAD/Paraguay'
 open_questions:
-  - No separate date for the Restaurar sowing was published; 17 November 2026 is the date SENAD disclosed the 10th edition.
+    - The advance announcement said the 59th phase began on Monday 2 November and would run until 13 November, while the closing balance dates the operation from 3 to 12 November.
+    - No separate date for the Restaurar sowing was published; 17 November 2026 is the date SENAD disclosed the 10th edition.
 ---
 
 Paraguay's Senad, with Brazil's Federal Police, finished phase 59 of Operation
@@ -107,7 +113,7 @@ of joint action in the Amambay and Canindeyú departments. [@1,3,4,5] The ten-da
 operation ran from 3 to 12 November, with Paraguay's National Anti-Drug
 Secretariat (Senad), the Internal Defence Operations Command (CODI), the
 Paraguayan Air Force and the Public Ministry, supported by Brazil's Federal
-Police. [@1,3,5]
+Police. [@1,3,5] Paraguay's Joint Task Force (FTC) took part alongside Senad and the Public Ministry. [@8]
 
 Senad's report said the action caused an estimated USD 46.2 million in economic
 damage to the criminal organisations, and that, beyond the eradicated
@@ -122,4 +128,4 @@ regional market. [@2,4,5,6]
 The final day of the operation was carried out in the settlement of Pacola, in
 the Karapái district, where the close of the interventions was confirmed. [@1,3]
 The operation is part of the series of joint actions called Nueva Alianza, aimed
-at hitting marijuana production centres in the border area. [@1,3] The teams applied broadcast sowing known as al voleo, scattering native forest seeds supplied by INFONA directly on the ground. [@7] SENAD conducted the 10th Operation Restaurar in Amambay, sowing native tree seeds on areas devastated by illegal marijuana cultivation. [@6]
+at hitting marijuana production centres in the border area. [@1,3,8] Nueva Alianza is a Brazil–Paraguay partnership that began in 2012. [@8] The teams applied broadcast sowing known as al voleo, scattering native forest seeds supplied by INFONA directly on the ground. [@7] SENAD conducted the 10th Operation Restaurar in Amambay, sowing native tree seeds on areas devastated by illegal marijuana cultivation. [@6] The 59th phase planned environmental recovery of land affected by the plantations, under the competent Paraguayan agencies. [@8]
