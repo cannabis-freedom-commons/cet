@@ -85,6 +85,11 @@ sources:
     publisher: Haber365
     date: 2026-11-23
     language: tr
+  - title: 'Uyuşturucu operasyonu: "4 bin 125 adet uyuşturucu hap ele geçirildi"'
+    url: https://www.odakgazetesi.com/uyusturucu-operasyonu-4-bin-125-adet-uyusturucu-hap-ele-gecirildi
+    publisher: Odak Gazetesi
+    date: 2026-11-23
+    language: tr
 open_questions:
   - The operations ran from 21 to 22 November 2026; 22 November, the last day, is used as the incident date.
   - The IHA account calls the 46 grams methamphetamine while the Anadolu Ajansı accounts call it a synthetic drug; it is excluded from the cannabis figures either way.
@@ -97,15 +102,15 @@ open_questions:
 
 Narcotics police in Aydın province arrested six suspects in three separate
 operations in the Efeler, Germencik and Didim districts between 21 and 22
-November 2026. [@1,4,5] The provincial police department said its narcotics branch
+November 2026. [@1,4,5,6] The provincial police department said its narcotics branch
 carried out the operations to prevent and track drug trafficking. [@2]
 Proceedings were opened against the six under article 188 of the Turkish Penal
 Code, which covers drug manufacturing and trading, and they were remanded to
-prison. [@1,4,5] After police processing the suspects were taken before a judge, who
+prison. [@1,4,5,6] After police processing the suspects were taken before a judge, who
 ordered them remanded, and they were transferred to prison. [@2,5]
 
 Searches found 17 grams of esrar, the Turkish word for cannabis, which is the
-cannabis quantity recorded here. [@1,4,5] The same searches also seized 4,125
+cannabis quantity recorded here. [@1,4,5,6] The same searches also seized 4,125
 synthetic pills, 46 grams of methamphetamine and 3 grams of cocaine, which are
 excluded from the cannabis figures. [@1,4] Officers additionally seized two
 precision scales, a pistol and 14 rounds of ammunition. [@3,4,5]
