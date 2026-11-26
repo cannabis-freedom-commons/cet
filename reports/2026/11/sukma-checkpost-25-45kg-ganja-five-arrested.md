@@ -82,37 +82,34 @@ sources:
     publisher: Nai Dunia
     date: 2026-11-22
     language: hi
-open_questions:
-    - No arrest of the alleged network organiser is reported; police say the operator has been identified and others are being sought.
-    - Whether the three arrests in Jagdalpur happened on 21 November or later is not stated; 21 November is the date given for the information and the checkpoint interception.
-    - One account reports that two of four suspects surrounded in a Jagdalpur cordon escaped into the forest, which does not plainly fit the five arrests reported.
-    - No court outcome, remand or charge sheet is reported; the case is at the investigation stage.
-    - The 1,462,500-rupee figure is given as the value of the 25.45 kg of ganja in one account and as the total for the ganja, two vehicles and phones in others.
-    - One account describes the two couriers arriving on a single two-wheeler; others report a motorcycle and a scooter.
-    - The names, ages and roles come from police statements; no independent account of the interrogation was published.
+  - title: ओडिशा से दो वाहनों में सुकमा आ रहा था 14.52 लाख का गांजा, एक आरोपी गिरफ्तार
+    url: https://navbharatlive.com/chhattisgarh/sukma/odisha-sukma-2-vahan-14-52-lakh-ganja-aaropi-giraftar-rkb06
+    publisher: Navbharat Live
+    date: 2026-11-21
+    language: hi
 ---
 
 Police stopped two men riding a black Pulsar motorcycle and a light green
-scooter from Malkangiri in Odisha towards Sukma on 21 November 2026. [@1] The
+scooter from Malkangiri in Odisha towards Sukma on 21 November 2026. [@1,5] The
 two tried to run when they saw the police and were caught. [@1] A search of
-their trolley bags found 25 kg 450 g of ganja packed in 12 packets. [@1,4] Police
-seized both two-wheelers and the mobile phones along with the ganja. [@1] The
+their trolley bags found 25 kg 450 g of ganja packed in 12 packets. [@1,4,5] Police
+seized both two-wheelers and the mobile phones along with the ganja. [@1,5] The seized Pulsar was numbered OD-30J-3459, the scooty OD-30J-2346, and the two phones were Vivo and Realme models. [@5] The
 pair were identified as Ravi Sodi, 19, of Kurkundi Baijangwada in Malkangiri
-district, Odisha, and a minor. [@1]
+district, Odisha, and a minor. [@1,5]
 
 Police caught the three in Jagdalpur, with help from Jagdalpur police, as they
 tried to get away from Sukma. [@1,4] The three held in Jagdalpur were Ashraf and Mohammad Kasif of Meerut and a juvenile from Noida. [@4] Five people, two of them minors, have been
 arrested in the case so far. [@1,4] Police valued the seized ganja, the two
 vehicles and the mobile phones at 1,462,500 rupees in total. [@1] The action was
 taken under 'Operation Aagaz', directed by Superintendent of Police Mayank
-Gurjar. [@1]
+Gurjar. [@1,5]
 
 Police said the network brought ganja from Malkangiri to Sukma by scooter and
 motorcycle, and other members then carried it as ordinary passengers on buses
 and trains to different cities. [@1,4] The ganja was delivered to Meerut, Noida
 and Delhi, where it was to be broken up and sold. [@1,4] Police said the gang recruited unemployed and poor young men with money to act as couriers, hiding the ganja in trolley bags, suitcases and ordinary bags. [@4] A case was registered at
 Sukma police station, crime number 99/2026, under sections 20(B)(ii)(C) and 29
-of the NDPS Act. [@1] Police said the network's main operator had been
+of the NDPS Act. [@1] The arrested accused was produced in court on 21 November. [@5] Police said the network's main operator had been
 identified from technical evidence. [@1,4] Sukma station house officer Roshan Rajput said the operator's financial dealings and other associates were being traced. [@4] Police said they were still looking for
 others involved in sending the ganja from Odisha and in delivering and selling
 it in Uttar Pradesh and Delhi. [@1] Superintendent of Police Mayank Gurjar said
