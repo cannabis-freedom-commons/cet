@@ -43,30 +43,34 @@ sources:
     publisher: ElOlfato.com
     date: 2026-11-21
     language: es
+  - title: Intentó arrojar un costal al ver a la Policía y terminó capturado con más de 100 dosis de marihuana en Ibagué
+    url: https://www.ecosdelcombeima.com/judicial/nota-198166-intento-arrojar-un-costal-al-ver-la-policia-y-termino-capturado-con-mas-de-100
+    publisher: Ecos del Combeima
+    date: 2026-11-21
+    language: es
 open_questions:
-  - No weight in grams or kilograms was published for the 111 doses, so no cannabis weight is recorded.
-  - No separate date for the street procedure was given; 21 November 2026 is the publication date and is used as the incident date.
-  - The detained man was identified only as a 25-year-old known as ‘El Costeño’; no full name was published.
-  - No detention measure, plea or court outcome beyond referral to the judicial authority was reported.
-  - The substances were described as marijuana by the police, with no laboratory confirmation reported.
-  - The account rests on a single outlet reproducing the police report, with no independent corroboration found.
+    - No weight in grams or kilograms was published for the 111 doses, so no cannabis weight is recorded.
+    - No separate date for the street procedure was given; 21 November 2026 is the publication date and is used as the incident date.
+    - The detained man was identified only as a 25-year-old known as ‘El Costeño’; no full name was published.
+    - No detention measure, plea or court outcome beyond referral to the judicial authority was reported.
+    - The substances were described as marijuana by the police, with no laboratory confirmation reported.
+    - Both accounts reproduce the same police report and are not independent reporting.
 ---
 
 A 25-year-old man known as ‘El Costeño’ was captured in flagrancia in the Chicó
-neighbourhood of Ibagué. [@1] According to police, the man threw a sack to the
+neighbourhood of Ibagué. [@1,2] According to police, the man threw a sack to the
 ground when he noticed uniformed officers approaching during a patrol. [@1]
 Officers recovered the discarded sack and found 111 doses of marijuana stored
-inside it. [@1]
+inside it. [@1,2] The 111 marijuana doses were held in a white plastic bag inside the sack he threw into the street. [@2]
 
 The procedure took place on Calle 160 during patrol duties carried out by
-officers of the North Police Station in Ibagué. [@1] The man was detained for
+officers of the North Police Station in Ibagué. [@1,2] The man was detained for
 alleged trafficking, manufacture or possession of narcotic drugs and was placed
-at the disposal of the judicial authority. [@1] Police reported that the
+at the disposal of the judicial authority. [@1,2] Police reported that the
 detainee already had three prior judicial annotations for alleged drug
-trafficking. [@1]
+trafficking. [@1,2]
 
 Major Arnold Leyton Mopan, commander of the North Police Station, said
-operations against local drug trafficking in the city would continue. [@1] The
+operations against local drug trafficking in the city would continue. [@1,2] The
 sack was described as a costal that the man had allegedly thrown down before
 officers searched it. [@1]
-
