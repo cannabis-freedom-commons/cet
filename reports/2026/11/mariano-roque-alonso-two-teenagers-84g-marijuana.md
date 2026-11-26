@@ -68,30 +68,28 @@ sources:
     publisher: ZP Guaraní
     date: 2026-11-23
     language: es
-open_questions:
-  - The article dates the event only as 'el domingo'; 22 November 2026 is used because it was the Sunday before the Monday 23 November publication.
-  - No formal charge or court outcome was reported; both adolescents remained held at the police station awaiting a hearing before the anti-narcotics prosecutor.
-  - The 84.07 grams came from a field narcotest, with no laboratory confirmation reported.
-  - No value or street price was published for the marijuana.
-  - Whether the 10 packets were intended for sale or for personal use is not stated, and no sale charge is reported.
-  - ZP Guaraní's account credits ABC Color and repeats the same police report, so the two accounts are not independent.
+  - title: Dos adolescentes aprehendidos con marihuana en Mariano Roque Alonso - SNT
+    url: https://www.snt.com.py/noticia/dos-adolescentes-aprehendidos-con-marihuana-en-mariano-roque-alonso/
+    publisher: SNT
+    date: 2026-11-23
+    language: es
 ---
 
 Police in Mariano Roque Alonso apprehended two adolescents, aged 15 and 17, on
-Sunday 22 November 2026 while they were riding a motorcycle. [@1] The marijuana
+Sunday 22 November 2026 while they were riding a motorcycle. [@1,3] The marijuana
 was seized in a preventive control by officers of the Subcomisaría 1ª de San
-Blas, the local police station. [@1] The procedure took place at about 15:30 on
+Blas, the local police station. [@1,3] The procedure took place at about 15:30 on
 the streets Jejuí and an unnamed street in the San Blas neighbourhood. [@1]
 Commissioner Rodolfo Sánchez said the officers were on a preventive patrol when
 they spotted the pair on the motorcycle. [@1]
 
 Checking their belongings, the officers found a lilac backpack carried between
-the two, holding a polyethylene bag with 10 packets of a herbal substance. [@1]
+the two, holding a polyethylene bag with 10 packets of a herbal substance. [@1,3]
 A narcotest was positive for marijuana, with a total weight of 84.07 grams. [@1]
 Staff of the Department Specialised in the Fight against Drug Trafficking
 carried out the field analysis, weighing and sealing of the substance. [@1]
 Police also seized a black iPhone 11 and the black Leopard GSX 150 motorcycle
-the pair were riding. [@1] The adolescents had no cash on them and carried only
+the pair were riding. [@1,3] The adolescents had no cash on them and carried only
 their personal documents and the backpack, the police chief said. [@1] They
 could not explain where the drug came from or who had given it to them. [@1]
 
@@ -105,5 +103,4 @@ the driver and the owner of the motorcycle to give statements. [@1] The child
 and adolescent defence service of Luque and Mariano Roque Alonso was also
 notified. [@1] A second account said the investigation was trying to establish
 where the marijuana came from and whether the adolescents had been in contact
-with people who supplied or distributed it. [@2]
-
+with people who supplied or distributed it. [@2,3]
