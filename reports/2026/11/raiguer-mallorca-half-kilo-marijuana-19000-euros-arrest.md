@@ -77,19 +77,17 @@ sources:
     publisher: MSN
     date: 2026-11-21
     language: es
-open_questions:
-  - The sources do not name the municipality in the Raiguer where the house was, or the arrested man.
-  - The marijuana is given only as more than 600 grams, or more than half a kilo in one account; no exact weight or plant count was published.
-  - No value or street price was published for the marijuana, the cash or the other items seized.
-  - No charge sheet, court appearance or detention order was reported, and the case was at the investigation stage.
-  - Both accounts reproduce the same Policía Nacional statement from the Baleares police headquarters and are not independent reporting.
-  - No cannabis plants were counted, although police described the property as a growing site with cultivation equipment.
+  - title: Detenido con medio kilo de marihuana, 19.000 euros escondidos en un sofá y 43 cartuchos de escopeta en Mallorca
+    url: https://www.msn.com/es-es/noticias/otras/detenido-con-medio-kilo-de-marihuana-19000-euros-escondidos-en-un-sof%C3%A1-y-43-cartuchos-de-escopeta-en-mallorca/ar-AA2hUVKu
+    publisher: MSN
+    date: 2026-11-21
+    language: es
 ---
 
 Policía Nacional officers arrested a Spanish man on suspicion of drug
 trafficking after searching a house in the Raiguer district of Mallorca. [@2,3]
 The investigation began after a complaint that a person was growing marijuana in
-a house in the Raiguer. [@1,4] The operation began at about 10:00 on Friday 20
+a house in the Raiguer. [@1,4,5] The operation began at about 10:00 on Friday 20
 November 2026. [@2,3] The drug unit obtained a court warrant to enter and search
 the property. [@2] Drug-unit officers, riot-unit officers and forensic
 specialists took part in the search. [@2]
@@ -102,9 +100,9 @@ took 43 shotgun cartridges and growing equipment including fans, hundreds of
 plant pots and water tanks. [@1,3]
 
 Investigators had noticed numerous air-conditioning compressors at the house
-which, on the power company's estimate, could serve a five-storey building. [@1,4]
+which, on the power company's estimate, could serve a five-storey building. [@1,4,5]
 They also found he had kept a high level of spending although he had had no
-declared means of living for more than two years. [@1,4] Behind a large
+declared means of living for more than two years. [@1,4,5] Behind a large
 refrigerator in the kitchen, a gap led to a hidden interior basement holding
 water tanks, air-conditioning units and signs of later electrical work. [@1,3] The
 man was held on suspicion of drug trafficking and electricity fraud. [@1]
