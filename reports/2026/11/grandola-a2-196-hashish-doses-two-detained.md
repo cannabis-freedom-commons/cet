@@ -107,6 +107,11 @@ sources:
     publisher: Notícias ao Minuto
     date: 2026-11-16
     language: pt
+  - title: Espanhóis detidos com jerricãs na A2 admitem contrabando e exigem libertação
+    url: https://www.jn.pt/justica/artigo/espanhois-detidos-com-jerricas-na-a2-admitem-contrabando-e-exigem-libertacao/18151125
+    publisher: Jornal de Notícias
+    date: 2026-11-22
+    language: pt
 media:
   - kind: photo
     url: https://www.gnr.pt/noticias.aspx?linha=32704
@@ -120,15 +125,15 @@ open_questions:
 
 Officers of the GNR National Traffic Unit and the Setúbal Traffic Detachment
 intercepted a Spanish-registered vehicle at kilometre 120 of the A2 motorway in
-Grândola at about 23:30 on Saturday 14 November. [@1,2,3,4,5,8,9,10,12,13] The car's two occupants, a
+Grândola at about 23:30 on Saturday 14 November. [@1,2,3,4,5,8,9,10,12,13,15] The pair had stopped on the motorway shoulder with a flat tyre and were unloading the jerricans under a cork oak when the patrol reached them. [@15] The car's two occupants, a
 23-year-old man and a 31-year-old woman, were detained and made arguidos, formal
-suspects under Portuguese procedure. [@1,2,3,4,5,6,9,10,11,12,13,14] Both remained detained until a first
+suspects under Portuguese procedure. [@1,2,3,4,5,6,9,10,11,12,13,14,15] Both suspects are residents of Ceuta. [@15] Both remained detained until a first
 judicial interrogation set for 10h00 on Monday 16 November to set coercion
-measures. [@1,3,4,5,9,10,12,13] The man was taken to Setúbal prison and the woman to Tires prison, where they will await the proceedings. [@14] The Judicial Court of Setúbal ordered preventive detention, the strictest coercion measure, for both arguidos on suspicion of drug trafficking. [@14]
+measures. [@1,3,4,5,9,10,12,13] The man was taken to Setúbal prison and the woman to Tires prison, where they will await the proceedings. [@14] The Judicial Court of Setúbal ordered preventive detention, the strictest coercion measure, for both arguidos on suspicion of drug trafficking. [@14,15] The court found the pair's task was to supply fuel and provisions to the crew of a vessel dedicated to drug trafficking. [@15] The court concluded the petrol-filled jerricans placed under the cork oak would be collected at that strategic location and taken to a drug-trafficking speedboat. [@15] He said they had removed the jerricans after the puncture to avoid detection and the evidence pointed only to smuggling carrying up to three years, which rules out preventive detention. [@15] Their lawyer Pedro Pestana said there was no plan linked to drug trafficking. [@15]
 
 During the police follow-up officers found 196 doses of hashish, 600 cigarettes
 in 30 packs, 20 torch-type lighters, six boxes of lighter refills and six
-mobile-phone chargers. [@1,2,3,4,5,7,9,10,11,12,13,14] The GNR seized 270 petrol jerricans of 25 litres
+mobile-phone chargers. [@1,2,3,4,5,7,9,10,11,12,13,14,15] The GNR seized 270 petrol jerricans of 25 litres
 each during the Saturday 14 November road-traffic operation. [@1,2,3,4,12,13] The report
 puts the total fuel load at 6,750 litres in the same vehicle on the A2 at
 Grândola. [@1,3,10,11] The light vehicle used by the suspects was also seized. [@1,3,13]
