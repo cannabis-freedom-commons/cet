@@ -1,0 +1,77 @@
+---
+code: 5225AV
+added_at: "2026-11-26T13:56:32.770321Z"
+date: 2026-11-22
+country: in
+place: Pamban Kundukal coast near Rameswaram, Ramanathapuram, Tamil Nadu
+coordinates: [9.2804, 79.2078]
+precision: locality
+type: arrest
+also: [seizure]
+title: Coast Guard seizes 77 kg ganja off Pamban; 2 held
+summary: >-
+  The Indian Coast Guard and Customs intercepted a country boat off the Pamban Kundukal coast on 22 November 2026 and arrested two crew members. Officers seized about 77 kg of ganja concealed in three gunny sacks and handed the men, boat and drugs to Customs.
+figures:
+  arrested: 2
+  kg_seized: 77
+  value:
+    amount: 2500000
+    currency: INR
+details:
+  agencies: [Indian Coast Guard, Customs Central Intelligence Unit]
+  agency_types: [coast-guard, customs]
+  products:
+    - {product: flower, kg: 77}
+  setting: [port]
+  case_stage: investigation
+  date_precision: exact
+  region: Tamil Nadu
+  route: {from: [in], to: [lk]}
+data_sources:
+  details.agencies: [1, 2]
+  details.agency_types: [2]
+  details.case_stage: [2]
+  details.products: [1, 2]
+  details.route: [2]
+  details.setting: [2]
+  figures.arrested: [1, 2]
+  figures.kg_seized: [1, 2]
+  figures.value: [2]
+status: verified
+created_by_model: muse/muse-spark-1.3#xhigh
+submission: 364cc1e8a336d4333a524bf28b20f449
+tags: [pamban, ramanathapuram, tamil-nadu, ganja]
+sources:
+  - title: Coast Guard intercepts 77 kg ganja near Pamban, 2 held
+    url: https://www.dtnext.in/news/tamilnadu/coast-guard-intercepts-77-kg-ganja-near-pamban-2-held
+    publisher: DT Next
+    date: 2026-11-23
+  - title: Coast Guard, Customs seize 77 kg ganja bound for Sri Lanka off Pamban; two held
+    url: https://www.realviewnews.com/article/coast-guard-customs-seize-ganja-pamban-two-held-55342b49
+    publisher: Real View News
+    date: 2026-11-23
+open_questions:
+  - The second account describes the interception as on Monday morning without giving a calendar date, while the first account dates it to 22 November 2026, which is used as the incident date.
+  - The first account says the men and seizure were brought to Mandapam, while the second account says they were brought to the Ramanathapuram Customs office.
+  - No charges, laboratory confirmation or court outcome were reported; the case was at the investigation stage.
+  - Both accounts reproduce official statements and are not independent reporting.
+---
+
+A joint team from the Indian Coast Guard station in Mandapam and the Tiruchi
+Customs intelligence wing intercepted a country boat moving suspiciously off the
+Pamban Kundukal coast near Rameswaram. [@2] The operation was launched on
+specific intelligence that narcotics were being transported to Sri Lanka by
+country boat from the Kundukal area. [@2] The two men on board were apprehended
+and identified as Aeronius, 33, and Gunasekaran, 42, both residents of Saveriyar
+Nagar in Thangachimadam. [@2]
+
+A search of the vessel recovered about 77 kg of ganja packed into parcels and
+concealed in three gunny sacks. [@2] The interception took place near Pamban in
+Ramanathapuram on 22 November 2026. [@1] Officials estimated the international
+market value of the seized ganja at around Rs 25 lakh. [@2]
+
+The Indian Coast Guard Station, Mandapam, conducted the operation in
+coordination with the Customs Central Intelligence Unit, Tiruchy. [@1] The
+seized contraband, boat and two crew members were brought to Mandapam and handed
+over to the Customs Central Intelligence Unit for further legal action. [@1]
+
