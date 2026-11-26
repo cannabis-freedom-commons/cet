@@ -59,6 +59,11 @@ sources:
     publisher: 中国禁毒
     date: 2026-11-17
     language: zh
+  - title: 看到立刻上报！四川网格员发现1米5高"怪草"，经核实为毒品原植物_搜狐网
+    url: https://m.sohu.com/a/1105183357_122219919?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334
+    publisher: 搜狐网
+    date: 2026-11-23
+    language: zh
 open_questions:
     - The article gives no separate date for the discovery or the eradication; 15 November 2026 is its publication date and is used as the incident date.
     - The plants were identified visually as cannabis; no laboratory confirmation was reported.
@@ -67,12 +72,12 @@ open_questions:
 ---
 
 Grid worker Xiaozhang was carrying out door-to-door inspection visits in a
-housing estate in Shengli Subdistrict in Emeishan, Leshan, Sichuan. [@1,2,3,5] When
+housing estate in Shengli Subdistrict in Emeishan, Leshan, Sichuan. [@1,2,3,5,7] When
 she reached the roof of a residential building, she noticed several strikingly
-tall herbaceous plants. [@1,4,5] The plants had straight upright stems and leaves
+tall herbaceous plants. [@1,4,5,7] The plants had straight upright stems and leaves
 spreading from the stem joints like an open palm divided into sections, unlike
-the estate's ordinary greenery. [@1,5] The tallest stood about 1.5 metres high,
-with palm-like foliage. [@1,3,4,5]
+the estate's ordinary greenery. [@1,5,7] The tallest stood about 1.5 metres high,
+with palm-like foliage. [@1,3,4,5,7]
 
 Using a mnemonic learned in anti-drug training, she compared the features and
 recognised the plants as cannabis, a drug-source plant, then immediately called
