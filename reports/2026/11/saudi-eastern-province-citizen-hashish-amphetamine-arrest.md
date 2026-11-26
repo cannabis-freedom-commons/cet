@@ -48,6 +48,11 @@ sources:
     publisher: صحيفة نبأ
     date: 2026-11-20
     language: ar
+  - title: إيقاف أربعة مواطنين بتهمة ترويج مخدرات في عسير والشرقية
+    url: https://jeddah24.net/local/2011/106292/
+    publisher: جدة 24
+    date: 2026-11-20
+    language: ar
 open_questions:
   - No separate date is given for the Eastern Province arrest; 20 November 2026 is the article's publication date and is used as the incident date.
   - No weight or quantity was published for the hashish or the amphetamine in the Eastern Province case.
@@ -59,15 +64,15 @@ open_questions:
 Saudi Arabia's General Directorate of Narcotics Control, the kingdom's national
 anti-drug agency, arrested a citizen in the Eastern Province on suspicion of
 promoting hashish and amphetamine, the two narcotic substances it named in the
-case. [@1,2,3] Officers stopped the suspect, completed the legal procedures against
-him and referred him to the Public Prosecution. [@1,2,3] Hashish, a cannabis resin,
+case. [@1,2,3,4] Officers stopped the suspect, completed the legal procedures against
+him and referred him to the Public Prosecution. [@1,2,3,4] Hashish, a cannabis resin,
 is the cannabis element of the arrest, while amphetamine is a separate
 non-cannabis drug and is not counted in the cannabis figures. [@1]
 
 The same security announcement reported a separate arrest of three citizens in
-Asir region over 1,048 tablets subject to medical-circulation regulation. [@1,2,3]
+Asir region over 1,048 tablets subject to medical-circulation regulation. [@1,2,3,4]
 The Directorate urged citizens and residents to report any information about
 drug smuggling or promotion, saying all reports would be handled in complete
 confidence and without any liability for the informant. [@1,2] It directed calls
 to 911 in Mecca, Medina, Riyadh and the Eastern Province, to 999 in the rest of
-the kingdom, and to its own 995 line, with the email 995@gdnc.gov.sa. [@1,2]
+the kingdom, and to its own 995 line, with the email 995@gdnc.gov.sa. [@1,2,4]
