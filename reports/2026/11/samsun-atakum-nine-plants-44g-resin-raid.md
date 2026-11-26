@@ -52,23 +52,21 @@ sources:
     publisher: Son Dakika
     date: 2026-11-23
     language: tr
-open_questions:
-  - The article gives no separate date for the raid, so 23 November 2026, its publication date, is used as the incident date.
-  - The suspect is not identified and no detention count is given, so no arrested figure is recorded.
-  - The account rests on a single İHA report carried by Son Dakika, with no independent corroboration found.
-  - The 44 grams is described only as kubar esrar, a pressed cannabis resin, without any laboratory analysis being reported.
-  - No charge, court outcome or value estimate was reported.
+  - title: Evini Kenevir Serasına Çeviren Şahsa Operasyon!
+    url: https://www.karshakimiyet.com/evini-kenevir-serasina-ceviren-sahisa-operasyon-124583h.htm
+    publisher: Kars Hakimiyet
+    date: 2026-11-23
+    language: tr
 ---
 
 Atakum district gendarmerie teams raided a home in Atakum, Samsun, after
 learning that a person was growing cannabis there with a climate-control system.
-[@1] The raid was carried out by teams of the Atakum district gendarmerie
+[@1,2] The raid was carried out by teams of the Atakum district gendarmerie
 command as part of work to prevent drug trafficking. [@1]
 
-The search found nine rooted cannabis plants, described as kök kenevir. [@1]
-Officers also seized 44 grams of kubar esrar, a pressed cannabis resin. [@1]
-Officers also seized one climate-control system used for the indoor grow. [@1]
+The search found nine rooted cannabis plants, described as kök kenevir. [@1,2]
+Officers also seized 44 grams of kubar esrar, a pressed cannabis resin. [@1,2]
+Officers also seized one climate-control system used for the indoor grow. [@1,2]
 
 Judicial proceedings over the incident were started, with no detention, charge
-or court outcome reported. [@1]
-
+or court outcome reported. [@1,2]
