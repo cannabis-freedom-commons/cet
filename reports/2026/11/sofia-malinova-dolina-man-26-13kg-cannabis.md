@@ -98,27 +98,32 @@ sources:
     publisher: Столица.bg
     date: 2026-11-21
     language: bg
+  - title: Дилър на дрога е задържан от служители на столичното Седмо
+    url: https://novini247.com/novini/dilar-na-droga-e-zadarjan-ot-slujiteli-na-stolichnoto-sedmo_11415551.html
+    publisher: Новини 24/7
+    date: 2026-11-21
+    language: bg
 ---
 
 A 26-year-old man was detained in a police operation in Sofia's Malinova Dolina
-quarter on 19 November 2026. [@1,3,5,6] The operation followed operational information
-about a man distributing drugs in Sofia. [@1,3,5,6] Criminal investigators detained
-him at about 15:30 on ulitsa Akademik Yordan Trifonov. [@1,3,5,6] A personal search
-found a bag of marijuana and a small sum of money on him. [@1,3,5,6] The operation was
+quarter on 19 November 2026. [@1,3,5,6,7] The operation followed operational information
+about a man distributing drugs in Sofia. [@1,3,5,6,7] Criminal investigators detained
+him at about 15:30 on ulitsa Akademik Yordan Trifonov. [@1,3,5,6,7] A personal search
+found a bag of marijuana and a small sum of money on him. [@1,3,5,6,7] The operation was
 run by officers of the Seventh district police department of the Sofia city
-police directorate (SDVR). [@2,3,6]
+police directorate (SDVR). [@2,3,6,7]
 
 In the flat he lived in, officers found six bags of loose plant matter, a bag
 with 10 tablets, a substance in lumps and powder, and a bag of resinous mass.
 [@1,3,5,6] They also seized an electronic scale, many empty sachets and nearly 9,800
-euros. [@1,3,5,6] In a cellar he used at the same address, investigators found more
+euros. [@1,3,5,6,7] In a cellar he used at the same address, investigators found more
 drugs, including 20 tablets, pressed plant mass and bags with plant matter and
 traces of it. [@1,3,5,6]
 
-An expert report put the seized marijuana at more than 1,333 grams. [@1,3,5,6] It put
-the hashish at more than 125 grams. [@1,4,5,6] The same report found 20.92 grams of
-cocaine. [@1,3,5,6] It also found more than 10 grams of ecstasy. [@1,3,5,6]
+An expert report put the seized marijuana at more than 1,333 grams. [@1,3,5,6,7] It put
+the hashish at more than 125 grams. [@1,4,5,6,7] The same report found 20.92 grams of
+cocaine. [@1,3,5,6,7] It also found more than 10 grams of ecstasy. [@1,3,5,6,7]
 
 A pre-trial case was opened under article 354a of the Penal Code. [@1,3,5,6] The files
 were reported to the Sofia City Prosecution, which charged the 26-year-old under
-the same article. [@1,3,5,6] He was ordered held for up to 72 hours. [@1,3,5,6]
+the same article. [@1,3,5,6,7] He was ordered held for up to 72 hours. [@1,3,5,6,7]
