@@ -52,15 +52,20 @@ sources:
     publisher: Srna
     date: 2026-11-22
     language: sr
-open_questions:
-  - 21 November 2026 is the date the second source gives for the search of the first house; the submitted source gives no separate operation date and was published on 22 November 2026.
-  - The 562 grams of cocaine and 1,012 grams of filler from the same searches are excluded from the cannabis figures.
-  - No amount was published for the cash suspected to come from drug resale.
-  - No laboratory confirmation for the 101.4 kilograms described as marijuana was reported.
+  - title: Zagrebačka policija zaplenila više od 100 kilograma marihuane, uhapšene dve osobe
+    url: https://naslovinet.rs/vesti/2026/11/22/zagrebacka-policija-zaplenila-vise-od-100-kilograma-marihuane-uhapsene-dve-osobe-2/
+    publisher: Naslovi
+    date: 2026-11-22
+    language: sr
+  - title: Zagrebačka policija zaplenila više od 100 kilograma marihuane, uhapšene dve osobe
+    url: https://www.politika.rs/sr/clanak/805232/zagrebacka-policija-zaplenila-vise-od-100-kilograma-marihuane-uhapsene-dve-osobe
+    publisher: Politika
+    date: 2026-11-22
+    language: sr
 ---
 
 Zagreb police arrested a 43-year-old man and a 39-year-old woman on suspicion of
-procuring drugs for further resale. [@1,3] The suspects hid the drugs in houses in
+procuring drugs for further resale. [@1,3,5] The suspects hid the drugs in houses in
 Graberje Ivanicko, where they mixed them with additives and repackaged them.
 [@1,3]
 
@@ -75,6 +80,6 @@ marijuana. [@1,3]
 
 After criminal processing, the suspects were handed over to detention and a
 criminal complaint was filed against them on suspicion of unauthorised
-production and trafficking of drugs. [@1,3] The 43-year-old man was also reported
+production and trafficking of drugs. [@1,3,4,5] The 43-year-old man was also reported
 for an offence under the law on civilian acquisition and possession of weapons,
 with a proposal to be filed to the municipal court in Velika Gorica. [@2]
