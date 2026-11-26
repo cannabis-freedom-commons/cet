@@ -64,6 +64,11 @@ media:
     media_url: https://leadership.ng/wp-content/uploads/2026/11/IMG-20261122-WA0066-750x563.jpg
     publisher: LEADERSHIP Newspapers
     caption: 'South African golfer Henlo with seized drugs in an NDLEA handout photo published with the Leadership report. Photo: NDLEA'
+  - kind: photo
+    url: https://www.yahoo.com/news/world/articles/pro-golfer-allegedly-agreed-smuggle-194110136.html
+    media_url: https://s.yimg.com/lo/mysterio/api/be63dffae1e9ec016bb3e14451385147c53c5a303125d1d2e8c03ce5296bc5ee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F8500373750e0eddfdb6e289f1349758f.jpg
+    publisher: Yahoo News
+    caption: 'Henlo Grobler in an NDLEA arrest photo published with the Yahoo account of the Lagos airport seizure. Photo: National Drug Law Enforcement Agency'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: a78de2054bbaca9959a15f8f19d38a07
@@ -242,31 +247,35 @@ sources:
     publisher: Midi Libre
     date: 2026-11-22
     language: fr
+  - title: 'Pro Golfer Allegedly Agreed to Smuggle 111 Lbs. of Marijuana for $287. Then He Got Caught at Airport: Police'
+    url: https://www.yahoo.com/news/world/articles/pro-golfer-allegedly-agreed-smuggle-194110136.html
+    publisher: Yahoo News
+    date: 2026-11-23
 ---
 
 The National Drug Law Enforcement Agency arrested a 25-year-old Kenyan chef,
 Abubakar Njambi, and a 37-year-old South African professional golfer, Grobler
 Henlo, at Murtala Muhammed International Airport in Ikeja, Lagos, in October
-2026. [@1,4,5,6,7,10,12,13,14,15,16,17,18,20,21,22,23,24,27,28,29,32,34,35,36,37,38,39,41] PGA South Africa lists a player by the name of Henlo Grobler. [@27,36] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
+2026. [@1,4,5,6,7,10,12,13,14,15,16,17,18,20,21,22,23,24,27,28,29,32,34,35,36,37,38,39,41,42] PGA South Africa lists a player by the name of Henlo Grobler. [@27,36,42] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
 the suspects were arrested at the airport in October. [@3,15] Henlo arrived from
 South Africa aboard a South African Airways flight on 11 October and was
 intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15,16,18,19,21,23,24,31,33,34,35,37] Njambi was arrested at the
 airport's departure boarding gate on Thursday 15 October 2026 as she tried to
-board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24,25,26,29,30,31,33,34,35,36,37,39,41] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18,40]
+board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24,25,26,29,30,31,33,34,35,36,37,39,41,42] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18,40]
 
 A search of two travelling boxes in Henlo's possession recovered 46 parcels of
 Loud, described as a potent cannabis strain, with a total weight of 50.40kg.
-[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
+[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
 had collected two other boxes bearing his tags from the conveyor belt and left.
-[@1,5,6,8,9,10,12,14,18,20,25,26,27,28,30,31,33,36,38,39,40,41] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
+[@1,5,6,8,9,10,12,14,18,20,25,26,27,28,30,31,33,36,38,39,40,41,42] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
 identification of ownership so each courier could deny the boxes if intercepted.
-[@2,5,11,13,14,15,17,18,23,25,29,34]
+[@2,5,11,13,14,15,17,18,23,25,29,34,42]
 
 Henlo, who flew business class while Njambi flew economy, said a South African
 associate named Shanel recruited him and linked him with syndicate members he
 never met. [@1,4,14,17] He said a driver handed him four travelling boxes and took him
 to the airport, where he was told to swap luggage tags with Njambi, and he was
-promised 5,000 South African rand on delivery. [@1,5,11,14,18,20,34] Njambi said a friend in
+promised 5,000 South African rand on delivery. [@1,5,11,14,18,20,34,42] Njambi said a friend in
 Kenya persuaded her to accept US$8,000 for the delivery. [@1,4,5,6,10,12,13,14,15,17,18,20,25,27,28,31,33,34] She said she left
 Kenya for South Africa on 4 October, met Henlo at the airport there on 11
 October, and after arriving in Lagos collected the boxes bearing his tags. [@1,5,25,32] She said a driver then took her to a hotel in the Lekki area of Lagos. [@4,18,25,40]
