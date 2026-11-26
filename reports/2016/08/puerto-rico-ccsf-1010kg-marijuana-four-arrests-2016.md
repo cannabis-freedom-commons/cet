@@ -71,35 +71,41 @@ sources:
     url: https://www.cbp.gov/newsroom/local-media-release/amo-takes-part-60-million-narcotics-seizure-caribbean
     publisher: U.S. Customs and Border Protection
     date: 2016-08-30
+  - title: Incautan 2,390 kilos de cocaína y 1,010 de marihuana en P.Rico y corredor Caribe
+    url: https://eldia.com.do/incautan-2390-kilos-de-cocaina-y-1010-de-marihuana-en-p-rico-y-corredor-caribe/
+    publisher: El Día
+    date: 2016-08-30
+    language: es
 open_questions:
-  - The $60 million estimate covers the cocaine and marijuana together, with no separate value for the marijuana, so no value figure is recorded.
-  - The release gives 1,010 kilograms of marijuana without a laboratory weight or a street value for that load.
-  - The boat was boarded in international waters under international protocols; neither opened release reports charges, a court appearance or an outcome for the four men.
-  - The CBP release attributes the sighting to a Joint Task Force South aircraft while the ICE release calls it a routine patrol aircraft; both describe the same 23 August sighting.
-  - The CBP release lists the nationalities as Jamaica and Antigua without splitting them by person; the ICE release's account, three from Jamaica and one from Antigua, is used.
-  - The ICE photos carry only the article headline as caption and the CBP photo is captioned as seized marijuana bales displayed at a news conference; neither agency states which of the week's seizures they show.
+    - The $60 million estimate covers the cocaine and marijuana together, with no separate value for the marijuana, so no value figure is recorded.
+    - The release gives 1,010 kilograms of marijuana without a laboratory weight or a street value for that load.
+    - The boat was boarded in international waters under international protocols; neither opened release reports charges, a court appearance or an outcome for the four men.
+    - The CBP release attributes the sighting to a Joint Task Force South aircraft while the ICE release calls it a routine patrol aircraft; both describe the same 23 August sighting.
+    - 'The sources disagree on the four arrestees'' nationalities: the ICE release says three from Jamaica and one from Antigua, the CBP release lists Jamaica and Antigua without splitting them by person, and EFE''s Spanish account says all four were residents of Antigua.'
+    - The ICE photos carry only the article headline as caption and the CBP photo is captioned as seized marijuana bales displayed at a news conference; neither agency states which of the week's seizures they show.
+    - EFE reported about 1,087 kilograms of cocaine in the 25 August seizure and a weekly total of 2,390 kilograms, against 1,078 and 2,386 kilograms in the agency releases.
 ---
 
 U.S. Immigration and Customs Enforcement's Homeland Security Investigations
 (HSI), working with the Caribbean Corridor Strike Force (CCSF), seized $60
 million worth of drugs in Puerto Rico in one week and arrested nine people for
-drug trafficking. [@1] From Aug. 23 to Aug. 30, HSI agents and their CCSF
+drug trafficking. [@1,3] From Aug. 23 to Aug. 30, HSI agents and their CCSF
 counterparts seized 2,386 kilograms of cocaine and 1,010 kilograms of marijuana.
-[@1]
+[@1,3]
 
 The marijuana came from a single boat: on Aug. 23 a patrol aircraft spotted a
 fast boat about 44 nautical miles northeast of Blanquilla, Venezuela, that
-appeared to be adrift. [@1] The U.S. Coast Guard cutter Joseph Napier
+appeared to be adrift. [@1,3] The U.S. Coast Guard cutter Joseph Napier
 intercepted the boat, and its boarding crew arrested four people and seized
-1,010 kilograms of marijuana. [@1] The four were Michael Clark, Cedrick Walton
+1,010 kilograms of marijuana. [@1,3] The four were Michael Clark, Cedrick Walton
 and David Mallard, all of Jamaica, and John Benn, of Antigua. [@1]
 
 The other arrests in the week came from cocaine seizures, including two
 Dominican nationals detained on Aug. 28 after a boat landed at Puerto Hermina
-near Quebradillas, where HSI agents seized 308 kilograms of cocaine. [@1] Three
+near Quebradillas, where HSI agents seized 308 kilograms of cocaine. [@1,3] Three
 more Dominican nationals were arrested on Aug. 25 after the Coast Guard
 intercepted a 26-foot vessel about 90 nautical miles north of San Juan carrying
-about 1,078 kilograms of cocaine. [@1]
+about 1,078 kilograms of cocaine. [@1,3] In a fourth intervention, authorities detected nearly 1,000 kilograms of cocaine in the early hours of 30 August in the Piñones area of Loíza, a municipality adjoining San Juan. [@3]
 
 The CBP Air and Marine Operations release, issued a day earlier, gives the same
 combined figures of 2,386 kilograms of cocaine and 1,010 kilograms of marihuana
@@ -110,4 +116,3 @@ aircraft. [@2] The CCSF is an initiative of the U.S. Attorney's Office for the
 District of Puerto Rico that brings together HSI, the Drug Enforcement
 Administration, the FBI, the Coast Guard, CBP and the Puerto Rico Police
 Department. [@1]
-
