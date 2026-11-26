@@ -52,6 +52,11 @@ media:
     media_url: https://static.thairath.co.th/media/Dtbezn3nNUxytg04ay0HV51Os5mcsK06fM4YUY2DJ1vUo4.webp
     publisher: Thairath
     caption: An officer inside the cannabis shop in Cherng Talay, Phuket, published with the report of the raid.
+  - kind: photo
+    url: https://www.novostiphuketa.asia/produkciyu-na-dva-milliona-bat-izyali-v-hode-reyda-v-magazine-kannabisa-v-boat-avenue-24470.php
+    media_url: https://www.novostiphuketa.asia/photo/listing/2026/1795385598_1.jpg
+    publisher: Новости Пхукета
+    caption: 'Officials during the repeat inspection of the cannabis shop in Boat Avenue in the early hours of 22 November 2026. Photo: PR Phuket'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 92d4b9c468111a82cafe40858eb2d741
@@ -86,31 +91,36 @@ sources:
     publisher: CH7ON
     date: 2026-11-23
     language: th
+  - title: Продукцию на два миллиона бат изъяли в ходе рейда в магазине каннабиса в Boat Avenue
+    url: https://www.novostiphuketa.asia/produkciyu-na-dva-milliona-bat-izyali-v-hode-reyda-v-magazine-kannabisa-v-boat-avenue-24470.php
+    publisher: Новости Пхукета
+    date: 2026-11-23
+    language: ru
 open_questions:
-  - No weight in kilograms was published for the seized cannabis flowers or for the hash extract; the only figure given was the officials' value of more than 2 million baht.
-  - 'Accounts differ on the time of the raid: Thairath says 1.45am, MGR Online and Rawai Phuket News about 1.20am on 22 November 2026.'
-  - The shop, its licence holder and the three detained employees are not identified by name.
-  - No court outcome was reported; the three employees had only preliminary charges and the food-labelling case was still under examination.
-  - The hash extract's legal classification under narcotics law had not been determined.
-  - Most published accounts reproduce the same provincial statement, so the details rest largely on one official account.
+    - No weight in kilograms was published for the seized cannabis flowers or for the hash extract; the only figure given was the officials' value of more than 2 million baht.
+    - 'Accounts differ on the time of the raid: Thairath says 1.45am, MGR Online and Rawai Phuket News about 1.20am on 22 November 2026.'
+    - The shop has been identified as LV Cannabis Boutique in Boat Avenue; its licence holder and the three detained employees are still not identified by name.
+    - No court outcome was reported; the three employees had only preliminary charges and the food-labelling case was still under examination.
+    - The hash extract's legal classification under narcotics law had not been determined.
+    - Most published accounts reproduce the same provincial statement, so the details rest largely on one official account.
 ---
 
 Phuket provincial officials led by deputy governor Romdon Haji-Awae raided a
 cannabis shop in Cherng Talay, Thalang district, Phuket, in the early hours of
-22 November 2026. [@1] Officers from the Phuket provincial administrative
+22 November 2026. [@1] The raided shop was the LV Cannabis Boutique in Boat Avenue. [@7] Officers from the Phuket provincial administrative
 special task force, the provincial public health office and Cherng Talay police
 took part. [@4] Officers detained three employees inside the shop and told them
-of preliminary charges. [@1] Many foreign tourists were eating and drinking
+of preliminary charges. [@1,7] Many foreign tourists were eating and drinking
 inside the large venue, which had VIP rooms for customers. [@1]
 
 Officers seized high-quality cannabis flowers that officials valued at more than
-2 million baht. [@1,5,6] The shop's cannabis licence had been suspended for 90 days
+2 million baht. [@1,5,6,7] The shop's cannabis licence had been suspended for 90 days
 from 23 October 2026 because it had not met service conditions, including
-selling without a doctor's prescription. [@2,5,6] Officers also found hash cannabis
+selling without a doctor's prescription. [@2,5,6,7] Officers also found hash cannabis
 extract, which the province said would be examined over whether it fell under
-narcotics law. [@1] The shop was also selling alcohol outside permitted hours
+narcotics law. [@1,7] The shop was also selling alcohol outside permitted hours
 and cannabis-infused food products without a food registration number or the
-required labelling. [@2,5,6]
+required labelling. [@2,5,6,7]
 
 The three employees were accused of jointly selling controlled cannabis flowers
 while the licence was suspended under the Protection and Promotion of Thai
