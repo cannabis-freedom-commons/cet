@@ -39,6 +39,11 @@ media:
     media_url: https://dmpnews.org/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-23-at-7.56.11-PM.jpeg
     publisher: DMP News
     caption: 'Photo published with the DMP News account of the two arrests and the 15 kg ganja seizure in Matuail. Photo: DMP News'
+  - kind: photo
+    url: https://www.vodbangla.com/news/59143/ixZpTWiHCf/
+    media_url: https://www.vodbangla.com/media/article_images/gaza_4WjMSqY.jpg
+    publisher: VOD Bangla
+    caption: 'Lead photograph published with the VOD Bangla account of the 15 kg ganja seizure and two arrests in Matuail. Photo: VOD Bangla'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 92d62480de98a8c347672003570dfb3c
@@ -54,6 +59,11 @@ sources:
     publisher: Daily24Express
     date: 2026-11-23
     language: bn
+  - title: এসআরইউ’র অভিযানে ১৫ কেজি গাঁজাসহ গ্রেপ্তার ২
+    url: https://www.vodbangla.com/news/59143/ixZpTWiHCf/
+    publisher: VOD Bangla
+    date: 2026-11-24
+    language: bn
 open_questions:
   - Both opened accounts reproduce the same DMP statement, so the account rests on one police source rather than independent reporting.
   - No value estimate, packaging detail or laboratory confirmation for the 15 kg of ganja was published.
@@ -62,16 +72,15 @@ open_questions:
 
 A team from the Transnational Crime Division of the Dhaka Metropolitan Police's
 Special Response Unit (SRU) arrested two people in the Kadamatali police station
-area of the capital on Monday 23 November 2026. [@1] The division said the
-anti-drug drive was carried out at about 1:35 in the afternoon. [@1] Those
-arrested were Sojib Mia, 42, and Rahima Begum, 44. [@1] Police described both as
-drug dealers. [@1] The arrest was made in front of the Matuail Mother and Child
+area of the capital on Monday 23 November 2026. [@1,3] The division said the
+anti-drug drive was carried out at about 1:35 in the afternoon. [@1,3] Those
+arrested were Sojib Mia, 42, and Rahima Begum, 44. [@1,3] Police described both as
+drug dealers. [@1,3] The arrest was made in front of the Matuail Mother and Child
 General Hospital in the Matuail area, which falls under Kadamatali police
-station in Dhaka. [@1]
+station in Dhaka. [@1,3]
 
 Officers recovered 15 kg of ganja, the local name for cannabis, from the custody
-of the two arrestees. [@2] The 15 kg figure is the Transnational Crime
-Division's own stated recovery from the scene. [@1] The division said the
+of the two arrestees. [@2,3] The 15 kg figure is the Transnational Crime
+Division's own stated recovery from the scene. [@1,3] The division said the
 process of registering a case against the two at Kadamatali police station was
-under way. [@1]
-
+under way. [@1,3]
