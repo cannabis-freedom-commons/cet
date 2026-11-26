@@ -91,23 +91,28 @@ sources:
     publisher: La Patria
     date: 2026-11-22
     language: es
+  - title: Fiscalía investiga tráfico de sustancias controladas tras secuestrar 721,4 kilos de marihuana húmeda en Beni
+    url: https://www.opinion.com.bo/policial/fiscalia-investiga-trafico-sustancias-controladas-secuestrar-7214-kilos-marihuana-humeda-beni/20261121175304999492.html
+    publisher: Opinión Bolivia
+    date: 2026-11-21
+    language: es
 ---
 
 Police in Bolivia's Beni department apprehended Romario D.T., a 26-year-old
 driver, during an anti-drug interdiction operation on the Riberalta–Rurrenabaque
-road. [@1,4,5,7] The interdiction operation was carried out by the Special Force to Fight Drug Trafficking (FELCN). [@6] The operation took place in the early hours of 19 November 2026,
-while officers were patrolling near Puerto Teresa del Río Yata. [@1,4,5,7] The load
-was counted and weighed at 721 kilograms and 400 grams of wet marijuana. [@1,4,5,6,7] The case's assigned prosecutor, Luis Carlos Sanguino Valenzuela, established that weight after the load was weighed. [@5,7]
+road. [@1,4,5,7,8] The interdiction operation was carried out by the Special Force to Fight Drug Trafficking (FELCN). [@6] The operation took place in the early hours of 19 November 2026,
+while officers were patrolling near Puerto Teresa del Río Yata. [@1,4,5,7,8] The load
+was counted and weighed at 721 kilograms and 400 grams of wet marijuana. [@1,4,5,6,7,8] The case's assigned prosecutor, Luis Carlos Sanguino Valenzuela, established that weight after the load was weighed. [@5,7,8]
 
 During the vehicle search officers found a load under a blue tarp holding
-several jute sacks of brick-shaped packages wrapped in masking tape. [@1,4,5,6,7] A
-Narco Test field test on the substance was positive for marijuana. [@1,4,5,6,7] The
+several jute sacks of brick-shaped packages wrapped in masking tape. [@1,4,5,6,7,8] A
+Narco Test field test on the substance was positive for marijuana. [@1,4,5,6,7,8] The
 prosecutor's office said the wet marijuana was being transported in a pickup at
-that point on the Riberalta–Rurrenabaque road. [@2,7]
+that point on the Riberalta–Rurrenabaque road. [@2,7,8]
 
 Beni's departmental prosecutor Orlando Aramayo Chávez said the Public
 Prosecutor's Office is investigating the case as trafficking in controlled
-substances. [@1,5,6,7] Officers read the driver his constitutional rights before the
+substances. [@1,5,6,7,8] Officers read the driver his constitutional rights before the
 arrest, and prosecutors ordered the pickup and the drugs seized. [@3,4,6]
 Investigators collected the initial report, photographs, vehicle search and
-field-test records, the arrest record and the seizure documents. [@1,5,7]
+field-test records, the arrest record and the seizure documents. [@1,5,7,8]
