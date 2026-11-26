@@ -79,32 +79,31 @@ sources:
     publisher: Reader
     date: 2026-11-20
     language: el
-open_questions:
-    - No charges, trial date or court outcome were reported for any of the three arrested.
-    - The 83-gram item was described only as an extract of raw cannabis, with no more specific product named.
-    - The homemade cannabis cigarette has no stated weight and is not included in the seized weight.
-    - No value or estimated street price was published for the cannabis or the other drugs.
-    - All three accounts reproduce the same police bulletin, so none is an independent account of these arrests.
+  - title: 'Σέρρες: Τρεις συλλήψεις σε δύο υποθέσεις ναρκωτικών με τη βοήθεια του αστυνομικού σκύλου «ROXY»'
+    url: https://www.dikastiko.gr/eidhsh/serres-treis-syllipseis-se-dyo-ypotheseis-narkotikon-me-ti-voitheia-toy-astynomikoy-skyloy-roxy/
+    publisher: Dikastiko.gr
+    date: 2026-11-20
+    language: el
 ---
 
 Police in Serres arrested a Greek man and woman who are siblings at midday on 19
-November 2026, after searching their home with the drug-detection dog ROXY. [@1,2,3] The siblings were a 35-year-old man and a 33-year-old woman. [@4]
+November 2026, after searching their home with the drug-detection dog ROXY. [@1,2,3,6] The siblings were a 35-year-old man and a 33-year-old woman. [@4]
 In a separate arrest that morning, officers detained another Greek woman after a
-search of her home, again assisted by ROXY. [@1,2,3,5] Both operations were carried
+search of her home, again assisted by ROXY. [@1,2,3,5,6] Both operations were carried
 out by the Serres Directorate for the Prosecution and Investigation of Crimes.
 [@1,2,3]
 
 At the siblings' home officers seized 83 grams of an extract of raw cannabis and
-6.6 grams of raw cannabis, along with a homemade cannabis cigarette. [@1,2,3] Police gave the total cannabis seized in the siblings' case as 132.6 grams of extracts and raw cannabis. [@5] They
+6.6 grams of raw cannabis, along with a homemade cannabis cigarette. [@1,2,3,6] Police gave the total cannabis seized in the siblings' case as 132.6 grams of extracts and raw cannabis. [@5] They
 also found 4 grams of hallucinogenic mushrooms, five ecstasy tablets, two and a
 quarter papers soaked in LSD, an electronic precision scale and 400 euros in
 cash. [@1,2,3,4,5] The man also had a package of 43 grams of raw cannabis and a mobile
 phone. [@1,2,3] At the second woman's home police seized 5.7 grams of cocaine and
 2.2 grams of raw cannabis, plus an electronic precision scale, two mobile phones
-and 285 euros in cash. [@1,2,3,5]
+and 285 euros in cash. [@1,2,3,5,6]
 
 Police said the second woman had also attached a cable to a pole of DEDDIE,
 Greece's electricity distribution network operator, to supply her home with
-power, an allegation of electricity theft separate from the drug case. [@1,2,3] The
+power, an allegation of electricity theft separate from the drug case. [@1,2,3,6] The
 sibling arrests were made by the wider directorate, while the second case was
 handled by its drug-prosecution unit. [@1,2,3] All three arrested were to be taken before the competent prosecutors. [@3]
