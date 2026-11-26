@@ -60,6 +60,11 @@ sources:
     url: https://lovinmalta.com/news/e96000-worth-of-suspected-cannabis-seized-after-arriving-in-malta-by-post/
     publisher: Lovin Malta
     date: 2026-11-21
+  - title: Man arrested after four kilogrammes of drugs worth €96,000 found in his possession
+    url: https://tvmnews.mt/en/news/man-arrested-after-four-kilogrammes-of-drugs-worth-e96000-found-in-his-possession/
+    publisher: TVMnews.mt
+    date: 2026-11-21
+    language: en
 open_questions:
     - The 4kg was described only as suspected cannabis, with no laboratory confirmation reported.
     - The date and origin of the intercepted package, and who sent it, were not reported.
@@ -69,14 +74,14 @@ open_questions:
 ---
 
 A 31-year-old man was arrested after police intercepted a package containing
-suspected cannabis sent by post. [@1,4] The man was described as Maltese. [@4] The package held approximately 4kg of
+suspected cannabis sent by post. [@1,4,5] The man was described as Maltese. [@4] The package held approximately 4kg of
 suspected cannabis. [@1,4] The man, a Żejtun resident, was arrested in Wied
-il-Għajn after a controlled delivery operation. [@1,4] Police said the cannabis
+il-Għajn after a controlled delivery operation. [@1,4,5] Police said the cannabis
 had an estimated street value of €96,000 and was intended for the local market.
-[@2,4] A search of his residence uncovered items related to drug use. [@1,4]
+[@2,4,5] A search of his residence uncovered items related to drug use. [@1,4,5]
 
-Magistrate Joe Mifsud is leading a magisterial inquiry into the case. [@1,4] He
+Magistrate Joe Mifsud is leading a magisterial inquiry into the case. [@1,4,5] He
 was arraigned in court on Saturday before Magistrate Antoine Agius Bonnici and
-pleaded not guilty. [@3,4] He was remanded in custody. [@3] Lawyer Matthew Xuereb
+pleaded not guilty. [@3,4,5] He was remanded in custody. [@3] Lawyer Matthew Xuereb
 appeared for the accused. [@3] Police said investigations into the alleged
 importation and trafficking were still ongoing. [@2,4]
