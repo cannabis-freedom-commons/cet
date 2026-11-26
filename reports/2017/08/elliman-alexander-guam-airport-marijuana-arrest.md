@@ -52,13 +52,10 @@ sources:
     url: https://www.celebstoner.com/news/drug-bust-news/2017/08/25/yvonne-elliman-arrested-for-drugs-in-guam/
     publisher: CelebStoner
     date: 2017-08-25
-open_questions:
-    - The incident date of 15 August 2017 is inferred from the reports that the couple arrived Tuesday and appeared in court Wednesday, with publication on 16 August; no separate arrival date is stated.
-    - CelebStoner dates the arrest to 16 August 2017, while the court reports place the arrival and arrest on Tuesday 15 August and the court appearance the next day.
-    - Only the separately stated 3.3 grams of suspected marijuana is counted as cannabis; the 3.5 grams of crystal-like material and pipe residue were suspected methamphetamine and are excluded from cannabis figures.
-    - CelebStoner describes eight ounces of methamphetamine, far more than the 3.5 grams reported at the time.
-    - CelebStoner says the singer was released on a $10,000 bond while her husband remained in jail, whereas the court reports say both were released on personal recognizance.
-    - No court outcome beyond the initial charges and release conditions was reported in the opened sources.
+  - title: Hawaii-born singer arrested for bringing drugs into Guam
+    url: https://www.hawaiinewsnow.com/story/36158164/hawaii-born-singer-arrested-for-bringing-drugs-into-guam/
+    publisher: Hawaii News Now
+    date: 2017-08-17
 media:
   - kind: photo
     url: https://www.celebstoner.com/news/drug-bust-news/2017/08/25/yvonne-elliman-arrested-for-drugs-in-guam/
@@ -76,7 +73,7 @@ Singer Yvonne Elliman-Alexander, 65, and her husband Allen Alexander, 66,
 arrived on Guam on Tuesday to perform a benefit concert for Mount Carmel School.
 [@1,3] The couple had previously performed at two other school benefits on the island. [@3] Guam Customs and Quarantine Agency drug-detector dogs alerted to Yvonne
 Elliman-Alexander and Allen Alexander when they arrived on Guam on Tuesday for a
-benefit concert. [@2] The two were arrested on arrival, and Elliman-Alexander
+benefit concert. [@2,4] The two were arrested on arrival, and Elliman-Alexander
 and Alexander appeared in the Superior Court of Guam on Wednesday afternoon.
 [@1]
 
@@ -87,13 +84,13 @@ residue in the singer's belongings. [@1] The leafy substance tested presumptive
 positive for marijuana, while the crystal-like substances tested presumptive
 positive for methamphetamines. [@1] Elliman-Alexander was charged with one count
 of possession of a Schedule II controlled substance on board an aircraft
-arriving in Guam as a first-degree felony. [@1,3] Alexander was charged with one
+arriving in Guam as a first-degree felony. [@1,3,4] Alexander was charged with one
 count of possession of a Schedule II controlled substance as a third-degree
-felony. [@1]
+felony. [@1,4]
 
 The prosecution asked that the pair be held on $10,000 cash bail as flight risks
 with no ties to Guam. [@1] A magistrate judge instead released the pair on a
-$10,000 personal recognizance bond. [@1] They were ordered not to leave Guam
+$10,000 personal recognizance bond. [@1,4] They were ordered not to leave Guam
 without court permission and surrendered their passports. [@1,3] They were also
 ordered to stay away from all alcohol and illegal drugs. [@1] They were required
 to check in with the probation office three times a week until the case was
