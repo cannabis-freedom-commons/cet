@@ -62,40 +62,44 @@ sources:
     publisher: LinkOristano
     date: 2026-11-21
     language: it
+  - title: 'Siamaggiore, cocaine and marijuana in the home: 29-year-old in trouble'
+    url: https://www.unionesarda.it/en/sardinia/siamaggiore-cocaine-and-marijuana-in-the-home-29-year-old-in-trouble-kj90jjwb
+    publisher: L'Unione Sarda
+    date: 2026-11-21
 open_questions:
-  - The outcome of the hearing set for 23 November 2026 is not yet reported.
-  - La Nuova Sardegna puts 2,650 euros in cash in its subheading and 2,300 euros in an upstairs safe in its text, while LinkOristano and L'Unione Sarda say 2,600 euros; this report uses 2,600 euros.
-  - 'Accounts differ on the time of day: L''Unione Sarda and LinkOristano say Friday afternoon, La Nuova Sardegna says Friday morning.'
-  - One account describes almost three kilograms of marijuana, another states three kilograms; the figure is given here as about three kilograms.
-  - No separate street value was published for the marijuana; La Nuova Sardegna's estimate of about 50,000 euros covers the whole haul, including the cocaine.
-  - The material was described as marijuana without reported laboratory confirmation, and the suspect said much of the flowering material was low-THC hemp.
-  - No cannabis plants were reported; officers found irrigation equipment prepared for cultivation but no crop.
+    - The outcome of the hearing set for 23 November 2026 is not yet reported.
+    - La Nuova Sardegna puts 2,650 euros in cash in its subheading and 2,300 euros in an upstairs safe in its text, while LinkOristano and L'Unione Sarda say 2,600 euros; this report uses 2,600 euros.
+    - 'Accounts differ on the time of day: L''Unione Sarda and LinkOristano say Friday afternoon, La Nuova Sardegna says Friday morning.'
+    - One account describes almost three kilograms of marijuana, another states three kilograms; the figure is given here as about three kilograms.
+    - No separate street value was published for the marijuana; La Nuova Sardegna's estimate of about 50,000 euros covers the whole haul, including the cocaine.
+    - The material was described as marijuana without reported laboratory confirmation, and the suspect said much of the flowering material was low-THC hemp.
+    - No cannabis plants were reported; officers found irrigation equipment prepared for cultivation but no crop.
+    - 'Accounts differ on where the thrown cocaine container landed: L''Unione Sarda says it went over a shed in the garden, while La Nuova Sardegna describes it landing on a canopy in the courtyard.'
 ---
 
 Carabinieri of the Oristano company arrested a 29-year-old man from Siamaggiore
-on 20 November 2026 on suspicion of possessing drugs for sale. [@3] Officers
+on 20 November 2026 on suspicion of possessing drugs for sale. [@3,4] Officers
 followed him as he drove his car to a plot of land he owns near the farming
-hamlet of Pardu Nou. [@3] They searched the land first and then his home. [@3]
+hamlet of Pardu Nou. [@3,4] They searched the land first and then his home. [@3,4]
 On the land the officers found an irrigation system already set up for growing
 cannabis. [@2] Inside an adjoining locked building they found boxes and bags
 full of marijuana, precision scales and material for packaging doses. [@2] The
 marijuana seized, divided into several packages, weighed about three kilograms.
-[@1]
+[@1,4]
 
 The man grabbed a plastic container from an open safe in the bathroom and threw
-it outside, where it landed on a canopy in the courtyard. [@2] The container
+it outside, where it landed on a canopy in the courtyard. [@2,4] The container
 held 253.24 grams of cocaine divided into several packets, which is not counted
 in the cannabis figures here. [@2] Officers also seized 2,600 euros in cash.
-[@1]
+[@1,4]
 
 A validation hearing was held at the court in Oristano on the morning of 21
-November 2026. [@3] Prosecutor Valerio Bagattini asked for custody in prison,
-while defence lawyer Fabio Costa sought a less severe measure. [@3] Judge Chiara
-Lai validated the arrest and ordered house arrest for the suspect. [@3] The
+November 2026. [@3,4] Prosecutor Valerio Bagattini asked for custody in prison,
+while defence lawyer Fabio Costa sought a less severe measure. [@3,4] Judge Chiara
+Lai validated the arrest and ordered house arrest for the suspect. [@3,4] The
 29-year-old declined to answer questions but said in brief spontaneous
 statements that he was sure much of the flowering material was cannabis light,
 low-THC hemp sold legally in Italy. [@2] The judge took account of his young
 age, his mother's willingness to take him in and a single dated criminal record,
 and allowed him to attend the Serd addiction service for a recovery programme.
 [@2] His direct trial was postponed to Monday 23 November. [@2]
-
