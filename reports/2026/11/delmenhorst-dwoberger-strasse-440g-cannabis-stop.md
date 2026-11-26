@@ -70,18 +70,23 @@ sources:
     publisher: news.de
     date: 2026-11-22
     language: de
+  - title: Polizei stellt 440 Gramm Cannabis in Delmenhorst sicher
+    url: https://suaragarut.id/de/polizei-cannabis-delmenhorst-sicherstellung
+    publisher: SuaraGarut.ID
+    date: 2026-11-23
+    language: de
 ---
 
 Police in Delmenhorst, Lower Saxony, stopped a BMW carrying two people on the
 Dwoberger Straße at about 23:00 on Saturday 21 November 2026, as it drove
-towards Oldenburger Straße. [@1,4,5,6,7] The driver was a 23-year-old woman and her
-passenger a 24-year-old man, both residents of Delmenhorst. [@3,4,5,7] During the
+towards Oldenburger Straße. [@1,4,5,6,7,8] The driver was a 23-year-old woman and her
+passenger a 24-year-old man, both residents of Delmenhorst. [@3,4,5,7,8] During the
 general traffic check the officers noticed a clear smell of cannabis from inside
-the vehicle. [@1,4,5] That raised suspicion that narcotics were in the car, so the
-officers searched the 24-year-old passenger and the BMW. [@1,4]
+the vehicle. [@1,4,5,8] That raised suspicion that narcotics were in the car, so the
+officers searched the 24-year-old passenger and the BMW. [@1,4,8]
 
-The search found about 440 grams of cannabis in the car. [@2,4,5,6,7] The 24-year-old
+The search found about 440 grams of cannabis in the car. [@2,4,5,6,7,8] The 24-year-old
 also had a readily accessible irritant spray device, and police seized both it
-and the cannabis. [@1,4,5,6,7] The police inspectorate for Delmenhorst, Oldenburg-Land
-and Wesermarsch announced the stop. [@1] Criminal proceedings were initiated
-against the 24-year-old passenger. [@3,4,5,7]
+and the cannabis. [@1,4,5,6,7,8] The police inspectorate for Delmenhorst, Oldenburg-Land
+and Wesermarsch announced the stop. [@1,8] Criminal proceedings were initiated
+against the 24-year-old passenger. [@3,4,5,7,8]
