@@ -63,6 +63,10 @@ sources:
     url: https://home.nzcity.co.nz/news/article.aspx?id=458592
     publisher: NZCity
     date: 2026-11-24
+  - title: Soldier admits giving cannabis to 'all the boys' at Burnham Military Camp
+    url: https://www.1news.co.nz/2026/11/23/soldier-admits-giving-cannabis-to-all-the-boys-at-burnham-military-camp/
+    publisher: 1News
+    date: 2026-11-23
 media:
   - kind: photo
     url: https://www.stuff.co.nz/nz-news/361062691/young-soldier-admits-giving-cannabis-all-boys-burn
@@ -77,7 +81,7 @@ media:
 ---
 
 Private Raniera Vercoe, 21, pleaded guilty to six charges at a court martial on
-Monday 23 November 2026. [@1,3,5] Vercoe was 19 when he brought cannabis to Burnham Military Camp. [@4] The charges covered selling and supplying cannabis
+Monday 23 November 2026. [@1,3,5,6] Vercoe was 19 when he brought cannabis to Burnham Military Camp. [@4] The charges covered selling and supplying cannabis
 to a soldier in November and December 2024, smoking it at Burnham Military Camp
 and in Rotorua between September 2024 and June 2025, supplying other soldiers,
 and possessing cannabis and a grinder in June 2025. [@1] He also admitted
@@ -87,7 +91,7 @@ and a military police search found cannabis, ziplock bags and scales and seized
 his phone. [@1,4,5]
 
 The summary of facts said messages showed Vercoe supplied at least one ounce, or
-28 grams, of cannabis between September 2024 and June 2025. [@1,4] The messages
+28 grams, of cannabis between September 2024 and June 2025. [@1,4,6] The messages
 outlined selling small amounts of cannabis on three occasions and discussed
 smoking cannabis. [@1,4] In a statement to military police, Vercoe said he did not
 sell cannabis but "would give it to all the boys", and that people put money in
@@ -103,4 +107,4 @@ was premeditation and that the offending occurred over 10 months. [@2] Judge Mos
 Moses applied a 25% discount for guilty pleas and 15% for other factors. [@2,4]
 Vercoe was ordered to serve three months in detention at the Services
 Correctional Establishment at Burnham and will then be dismissed from the New
-Zealand Defence Force. [@1,3,5]
+Zealand Defence Force. [@1,3,5,6]
