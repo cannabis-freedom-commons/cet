@@ -64,6 +64,11 @@ sources:
     publisher: Daily Naya Diganta
     date: 2026-11-22
     language: bn
+  - title: কাইনমারিতে ১০ কেজি গাঁজাসহ আটক ১, আদালতে প্রেরণ
+    url: https://www.tritiyamatra.com/news/60824/%E0%A6%95%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%86%E0%A6%9F%E0%A6%95-%E0%A7%A7-%E0%A6%86%E0%A6%A6%E0%A6%BE%E0%A6%B2%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B0%E0%A6%A3
+    publisher: Daily Tritiya Matra
+    date: 2026-11-22
+    language: bn
 open_questions:
   - No value or street price was published for the 10 kg of ganja.
   - The reports do not say where the ganja came from or where it was being taken.
@@ -75,19 +80,18 @@ open_questions:
 
 SRB-6, a Bangladesh police special response battalion, arrested 40-year-old Md.
 Oli Khan, described as a drug dealer, and seized 10 kg of ganja from him in an
-anti-drug operation in the Kainmari area of Mongla, Bagerhat. [@1] The operation
+anti-drug operation in the Kainmari area of Mongla, Bagerhat. [@1,5] The operation
 was carried out in Kainmari under Mongla police station at about 10pm on
-Saturday 21 November 2026. [@1] Oli Khan is the son of the late Jabbar Khan and
-a resident of the Kainmari area of Mongla. [@3]
+Saturday 21 November 2026. [@1,5] Oli Khan is the son of the late Jabbar Khan and
+a resident of the Kainmari area of Mongla. [@3,5]
 
 SRB-6 senior assistant director and media officer Syed Fazlur Rahman confirmed
-the arrest on the morning of Sunday 22 November. [@1] The raid followed secret
+the arrest on the morning of Sunday 22 November. [@1,5] The raid followed secret
 information and was carried out by a team of SRB-6's CPC Sadar Company as part
-of SRB Forces' zero-tolerance policy against drugs. [@1] The recovered ganja was
+of SRB Forces' zero-tolerance policy against drugs. [@1,5] The recovered ganja was
 seized before witnesses and a regular case was filed against Oli Khan under the
 Narcotics Control Act at Mongla police station. [@2]
 
 Mongla police station officer in charge Md. Atikur Rahman said the case under
-the Narcotics Control Act was filed by SRB-6. [@4] He was sent to the Bagerhat
-court on the morning of Sunday 22 November. [@4]
-
+the Narcotics Control Act was filed by SRB-6. [@4,5] He was sent to the Bagerhat
+court on the morning of Sunday 22 November. [@4,5]
