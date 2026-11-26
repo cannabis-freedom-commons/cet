@@ -55,6 +55,11 @@ media:
     media_url: https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/21/IMG_6906-RILWcr47I3klwAavWDaO9fO-1200x840@diario_abc.JPG
     publisher: Diario ABC
     caption: 'Marijuana plants inside a home in Encinas Reales where the two indoor plantations were found. Photo: ABC'
+  - kind: photo
+    url: https://www.eldebate.com/espana/la-voz-de-cordoba/provincia/20261121/guardia-civil-interviene-418-plantas-marihuana-detiene-persona-encinas-reales_483556.html
+    media_url: https://imagenes.eldebate.com/files/new_main_image/uploads/2026/11/21/6b016464c0a73.jpeg.webp
+    publisher: El Debate
+    caption: Seized marijuana plants from the indoor plantation dismantled in Encinas Reales.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 82ad122dfb284f0b724d03b09d627d86
@@ -90,25 +95,24 @@ sources:
     publisher: Diario ABC
     date: 2026-11-21
     language: es
-open_questions:
-  - No date is given for the search itself; 21 November 2026 is the publication date of the accounts and that date stands in for the incident date.
-  - No weight or street value was published for the 418 plants.
-  - The detainee's age, identity and any court appearance were not reported.
-  - The plants had not been destroyed at the time of reporting; they were held for analysis before destruction.
-  - Both accounts reproduce the Guardia Civil press release and are not independent reporting.
+  - title: La Guardia Civil interviene 418 plantas de marihuana y detiene a una persona en Encinas Reales
+    url: https://www.eldebate.com/espana/la-voz-de-cordoba/provincia/20261121/guardia-civil-interviene-418-plantas-marihuana-detiene-persona-encinas-reales_483556.html
+    publisher: El Debate
+    date: 2026-11-21
+    language: es
 ---
 
 The Guardia Civil arrested one person in Encinas Reales, a town in the Subbética
-of Córdoba province, on suspicion of cultivating and processing drugs. [@1,3,6] The
+of Córdoba province, on suspicion of cultivating and processing drugs. [@1,3,6,7] The
 investigation began in mid-September 2026, when officers learned that a strong
 smell of marijuana could be noticed near several houses in a neighbourhood of
 the town. [@2,4,6]
 
 Officers searched the house the smell came from and found two indoor marijuana
-plantations in two rooms fitted out for growing and drying the plants. [@1,3,6] The
+plantations in two rooms fitted out for growing and drying the plants. [@1,3,6,7] The
 rooms had all the equipment needed to grow and dry the plants, the force said.
 [@1] In total officers seized 418 marijuana plants and dismantled both
-installations. [@2,3,6]
+installations. [@2,3,6,7]
 
 The arrested person was accused of a crime against public health for cultivating
 and processing drugs and of electricity fraud, because the property had an
