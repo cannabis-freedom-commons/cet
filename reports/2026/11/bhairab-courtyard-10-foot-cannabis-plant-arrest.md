@@ -39,6 +39,11 @@ media:
     media_url: https://dbcnews.tv/_next/image?url=https%3A%2F%2Fassets.dbcnews.tv%2F173191%2FScreenshot-2026-11-23-154917.webp&w=640&q=75
     publisher: DBC News
     caption: The roughly 10-foot cannabis plant in the courtyard of the house in Bhairab, published with the report.
+  - kind: photo
+    url: https://thedhakadiary.com/news/31578
+    media_url: https://thedhakadiary.com/storage/media_image/0NALaWKYXEK8LZ2DxrUaToXrwhUPpmoJsfl9t9Tx.jpg
+    publisher: The Dhaka Diary
+    caption: 'The detained man with the recovered cannabis plant. Photo: সংগৃহীত'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 8385fa53a7b64430e42a7b5ad42dd2ed
@@ -49,11 +54,15 @@ sources:
     publisher: DBC News
     date: 2026-11-23
     language: bn
+  - title: ভৈরবে ‘শখের বশে’ বাড়িতে চাষ হচ্ছিল গাঁজা গাছ, অবশেষে রোপণকারী আটক
+    url: https://thedhakadiary.com/news/31578
+    publisher: The Dhaka Diary
+    date: 2026-11-23
+    language: bn
 open_questions:
-  - No weight, street value or laboratory confirmation for the plant was published.
-  - It was not stated whether the plant was uprooted and destroyed or kept as evidence.
-  - No case had been filed and no court outcome was reported; the inspector was still preparing to file one.
-  - Only one opened account of the operation was found.
+    - No weight, street value or laboratory confirmation for the plant was published.
+    - It was not stated whether the plant was uprooted and destroyed or kept as evidence.
+    - No case had been filed and no court outcome was reported; the inspector was still preparing to file one.
 ---
 
 An anti-drug task force of the Department of Narcotics Control recovered a
@@ -63,13 +72,12 @@ had branches, stood about 10 feet tall and was being grown in the open
 courtyard. [@1]
 
 The operation was carried out from about 12:30 pm to 2 pm on Monday 23 November
-in the Kalipur Purva Kanda Badsha Bill area of Bhairab upazila. [@1] The task
+in the Kalipur Purva Kanda Badsha Bill area of Bhairab upazila. [@1,2] The task
 force combined the Assistant Commissioner (Land) in Bhairab, members of Ansar, a
 local auxiliary force, and the 'Kha' circle of the department's Kishoreganj
-district office. [@1]
+district office. [@1] The Assistant Commissioner (Land) who carried out the detention was A H M Azimul Haque, acting on secret information. [@2]
 
 The department said the detained man was the son of the late Layes Mia of the
-same area. [@1] Chandan Gopal Sur, an inspector of the department's Bhairab
+same area. [@1,2] During questioning, he said he had planted the cannabis plant in his home yard out of hobby. [@2] Chandan Gopal Sur, an inspector of the department's Bhairab
 circle, acted as complainant and was preparing to file a regular case against
-him under the Narcotics Control Act at Bhairab police station. [@1]
-
+him under the Narcotics Control Act at Bhairab police station. [@1] After the detention, the accused was handed over along with the cannabis plant to the office of the Department of Narcotics Control. [@2]
