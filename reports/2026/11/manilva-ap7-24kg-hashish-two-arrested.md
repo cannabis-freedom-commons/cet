@@ -71,6 +71,11 @@ sources:
     publisher: Diario Sur
     date: 2026-11-23
     language: es
+  - title: Detenidas dos personas que transportaban 24 kilos de hachís en un vehículo por la AP-7 en Manilva - AZ Costa del Sol
+    url: https://www.azcostadelsol.com/sucesos/detenidas-dos-personas-que-transportaban-24-kilos-de-hachis-en-un-vehiculo-por-la-ap-7-en-manilva/
+    publisher: AZ Costa del Sol
+    date: 2026-11-23
+    language: es
 media:
   - kind: photo
     url: https://cadenaser.com/andalucia/2026/11/24/detenidos-en-manilva-tras-ser-sorprendidos-con-24-kilos-de-hachis-en-un-control-de-trafico-ser-malaga/
@@ -80,11 +85,11 @@ media:
 ---
 
 The intervention took place on Saturday 21 November at about 10:30 at kilometre
-point 142.800 of the AP-7 in Manilva. [@2,4,5] Officers from the Manilva post
+point 142.800 of the AP-7 in Manilva. [@2,4,5,8] Officers from the Manilva post
 stopped a vehicle occupied by two people and inspected the boot, where there
-were two suitcases. [@1,4,5] Just as the officers were about to open one of the
+were two suitcases. [@1,4,5,8] Just as the officers were about to open one of the
 suitcases, the driver ran off, crossed all the motorway lanes and fled into the
-countryside. [@1,4,5,7] Several officers chased the driver on foot for five minutes
+countryside. [@1,4,5,7,8] Several officers chased the driver on foot for five minutes
 through dense vegetation, brambles and over a two-metre fence, after he fell
 down a ravine several metres deep, and then caught him. [@1,6,7]
 
