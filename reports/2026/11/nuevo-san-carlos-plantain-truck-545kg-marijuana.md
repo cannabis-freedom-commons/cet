@@ -116,21 +116,26 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-16
     language: ar
+  - title: ضبط 545 كجم ماريجوانا داخل شحنة موز بجواتيمالا
+    url: https://ekhbary24.com/article/68729
+    publisher: إخباري 24
+    date: 2026-11-23
+    language: ar
 ---
 
 On the night of 14 November 2026, prosecutors and agents of the anti-narcotics
 information unit SGAIA inspected a truck carrying plantains at the
-inter-institutional checkpoint in Nuevo San Carlos, Retalhuleu. [@4,5,6,7,9] Suspecting
+inter-institutional checkpoint in Nuevo San Carlos, Retalhuleu. [@4,5,6,7,9,10] Suspecting
 concealed illicit goods, they moved the truck to a nearby police station for a
 fuller search. [@1,5,6,7,9]
 
 At Comisaría 34, officers found about 120 large packages of marijuana hidden
-among the fruit. [@3,5,6,7,8,9] Officers also confiscated the vehicle used to carry the load along with the seized drugs. [@8] A field test confirmed the material was marijuana. [@1,5,6,9]
+among the fruit. [@3,5,6,7,8,9,10] Officers also confiscated the vehicle used to carry the load along with the seized drugs. [@8] A field test confirmed the material was marijuana. [@1,5,6,9,10]
 Each package held about 10 pounds, for an approximate seized total of 545
-kilograms. [@2,5,6,9]
+kilograms. [@2,5,6,9,10]
 
 Officers arrested the driver, identified as Wilder L., aged 31, while he drove
-the truck on route CA-2 at kilometre 185.3 in Nuevo San Carlos. [@3,5,7,8,9] He was
-placed at the disposal of the competent court. [@4,5,6,9] He was placed at the disposal of the competent court to answer for illicit commerce, trafficking and storage, in addition to the pending case. [@8] A check showed he had an
+the truck on route CA-2 at kilometre 185.3 in Nuevo San Carlos. [@3,5,7,8,9,10] He was
+placed at the disposal of the competent court. [@4,5,6,9,10] He was placed at the disposal of the competent court to answer for illicit commerce, trafficking and storage, in addition to the pending case. [@8] A check showed he had an
 outstanding arrest order for encubrimiento propio issued on 2 December 2025 by a
-court in Coatepeque, Quetzaltenango. [@3,5,6,7,8,9]
+court in Coatepeque, Quetzaltenango. [@3,5,6,7,8,9,10]
