@@ -90,6 +90,11 @@ sources:
     publisher: MSN (İhlas Haber Ajansı)
     date: 2026-11-20
     language: tr
+  - title: Yozgat’ta 1 kilo esrar ele geçirildi | Osmaniye Haberleri ve Son Dakika Haberleri | Medya Gazete
+    url: https://www.medyagazete.com/haber/yozgatta-1-kilo-esrar-ele-gecirildi
+    publisher: Medya Gazete
+    date: 2026-11-20
+    language: tr
 media:
   - kind: photo
     url: https://www.mersinhaber.com/haber-yozgatta-duzenlenen-operasyonda-1-kilo-esrar-ele-gecirildi-1-kisi-tutuklandi/856070
@@ -101,6 +106,11 @@ media:
     media_url: https://www.malatyaguncel.com/d/news/577156_ilkha_01.jpg
     publisher: Malatya Haber
     caption: 'Image published with the report of the 1 kg 267 g of esrar seized from the suspect''s home in Yozgat. Photo: İLKHA (İlke Haber Ajansı).'
+  - kind: photo
+    url: https://www.medyagazete.com/haber/yozgatta-1-kilo-esrar-ele-gecirildi
+    media_url: https://www.medyagazete.com/images/contents/news/2026/11/yozgatta-1-kilo-esrar-ele-gecirildi-01m7x3janqzgje9bk5awr7p9a6-detail.webp
+    publisher: Medya Gazete
+    caption: Lead image published with the report of the 1 kg 267 g of esrar seized in the Yozgat operation and the suspect's remand.
 open_questions:
     - No separate date was published for the search and arrest; 20 November 2026, the date of the police announcement, is used.
     - No street value or estimate was published for the 1 kilogram 267 grams of esrar.
@@ -108,18 +118,18 @@ open_questions:
 ---
 
 Yozgat provincial police's anti-narcotics branch carried out an operation in the
-city centre as part of its work against drug sellers. [@2,4,5,6,7,8,9,10] Police said they had
+city centre as part of its work against drug sellers. [@2,4,5,6,7,8,9,10,11] Police said they had
 established that a man identified in reports only as L.K. kept drugs at his
-home. [@1,4,5,6,9,10] Officers carried out a judicial search at his home in the city
+home. [@1,4,5,6,9,10,11] Officers carried out a judicial search at his home in the city
 centre. [@3,6,7] Narcotics teams said they had reached the result through careful
 tracking and analysis. [@1]
 
 They seized 1 kilogram 267 grams of esrar, the everyday Turkish term for
-cannabis. [@2,4,5,6,7,8,9,10] One suspect was detained in connection with the seizure. [@3,5,7,8,9]
+cannabis. [@2,4,5,6,7,8,9,10,11] One suspect was detained in connection with the seizure. [@3,5,7,8,9,11]
 After processing at the police station he was taken to the courthouse. [@2] The
 provincial police directorate said the suspect was sent to the judicial
 authorities for manufacturing and trading narcotic or stimulant drugs, an
 offence under article 188 of the Turkish Penal Code. [@3,7,8] A judge remanded him
-in detention and he was taken to prison. [@3,4,5,6,7,8,9,10]
+in detention and he was taken to prison. [@3,4,5,6,7,8,9,10,11]
 
 The Yozgat police directorate said its work against drugs was continuing. [@3]
