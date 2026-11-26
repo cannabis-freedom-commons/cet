@@ -66,15 +66,23 @@ sources:
     publisher: Lalluram
     date: 2026-11-21
     language: hi
+  - title: मुजफ्फरपुर के गायघाट में 12.25 किलो गांजा बरामद, हिरासत में तस्कर व नाबालिग
+    url: https://www.youthindiatoday.com/articles/1225-kg-of-cannabis-seized-in-muzaffarpur-gaighat-smuggler-c1788d32
+    publisher: Youth India 24 News
+    date: 2026-11-21
+    language: hi
+open_questions:
+    - Accounts give the weight of the ganja as 12.422 kg, 12.292 kg and 12.25 kg ('sava 12 kilo'); the report uses 12.422 kg.
+    - No charge sheet, trial or sentence beyond the first court remand was reported.
 ---
 
 Police in the Gaighat police-station area of Muzaffarpur district, Bihar, raided
 a spot near Bhusra Man and seized 12.422 kilograms of ganja. [@1,5] The press conference account gives the amount as 12.292 kilograms, found in a bag, and puts its value at more than 1.5 million rupees. [@3] The rural superintendent of police, Rajesh Singh Prabhakar, told a press conference on Friday 20 November 2026 that police had a tip on 19 November that people carrying a consignment of ganja would pass through. [@3] Officers
-caught a young man and his minor younger brother at the spot. [@1] The rural superintendent said the two fled when they saw the police and were caught after a chase, with the ganja found in their bag. [@3,6] Gaighat police caught the two on a motorcycle during a vehicle check. [@4,6] The station
+caught a young man and his minor younger brother at the spot. [@1] The rural superintendent said the two fled when they saw the police and were caught after a chase, with the ganja found in their bag. [@3,6] Gaighat police caught the two on a motorcycle during a vehicle check. [@4,6,7] The station
 house officer, Jayaprakash Gupta, said police had a tip that two men were
 standing with a consignment of ganja on a motorcycle near Bhusra Man. [@2]
 
-Police identified the two as brothers from Bharatnagar village. [@2] He had been named in a 2020 Benibad police-station case, 62/20, over buying and selling narcotics. [@3] Arvind Kumar had earlier been jailed under the NDPS Act, was out on bail, and police were examining his property and financial position. [@6] The elder brother is described as a resident of the Benibad police-station area. [@3] Both were
+Police identified the two as brothers from Bharatnagar village. [@2] He had been named in a 2020 Benibad police-station case, 62/20, over buying and selling narcotics. [@3] Arvind Kumar had earlier been jailed under the NDPS Act, was out on bail, and police were examining his property and financial position. [@6,7] The elder brother is described as a resident of the Benibad police-station area. [@3,7] Both were
 produced in court on Friday, 20 November 2026, and the elder brother was sent to
 jail while the minor was sent to a juvenile reform home (बाल सुधार गृह). [@2,5,6]
 
