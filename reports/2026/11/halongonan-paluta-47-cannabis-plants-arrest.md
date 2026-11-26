@@ -119,32 +119,43 @@ sources:
     publisher: Tribun-Medan.com
     date: 2026-11-24
     language: id
+  - title: Ladang Ganja di Tapus Jae Terungkap, 47 Batang Akar Ganja Disita Polres Paluta
+    url: https://amp.sumut24.co/news/288865/ladang-ganja-di-tapus-jae-terungkap-47-batang-akar-ganja-disita-polres-paluta/
+    publisher: Sumut24.co
+    date: 2026-11-24
+    language: id
+open_questions:
+    - No precise weight was published for the dried cannabis in the sacks and ampoules; one account described it only as dozens of kilograms.
+    - The five-hectare area was reported by Tribun Medan and is not repeated in the other accounts of the police statement.
+    - No formal charge, court date or verdict was reported; the articles describe only the maximum penalty the suspect could face.
+    - Laboratory results for the seized plants and dried cannabis were still pending.
+    - Most accounts identify the suspect only by the initials TMS; detikSumut and 20Detik give his name as Toga Muslim Siregar.
 ---
 
 North Padang Lawas narcotics officers arrested a 29-year-old man identified as
 TMS at his home in Japinulik, Tapus Jae village, Halongonan district, at about
-06:30 WIB on 23 November 2026. [@1,7,8] An account quoting the police chief gives
+06:30 WIB on 23 November 2026. [@1,7,8,10] An account quoting the police chief gives
 his full name as Toga Muslim Siregar, 29. [@3,7] The operation developed from the
 arrest of Hanif Armadi Siregar in Batang Baruar the day before, on Sunday 22
-November 2026. [@1,7,8,9]
+November 2026. [@1,7,8,9,10]
 
 At the house officers found cannabis packets hidden in several places, including
-under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1,7,8] He
+under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1,7,8,10] He
 confessed and showed officers the plot he said was his. [@1] At the plot
 officers found 28 rooted cannabis plants still in the ground and 19 rooted
-stalks from a previous harvest, 47 plants in total. [@1,7,8,9] Police seized three
-sacks of cannabis from the house and plot. [@1] They also took one large and
+stalks from a previous harvest, 47 plants in total. [@1,7,8,9,10] Police seized three
+sacks of cannabis from the house and plot. [@1,10] They also took one large and
 three small ampoules of cannabis, the seed parcel and an OPPO mobile phone
-believed to be linked to transactions. [@1,8] Officers also seized dried cannabis
+believed to be linked to transactions. [@1,8,10] Officers also seized dried cannabis
 and cannabis seeds from the house. [@6]
 
 Tribun Medan reported the field covered five hectares on hillsides in
 Halongonan, with some plants just harvested. [@4,9] The police chief said the raid
 team rode trail motorcycles for three hours through dense forest on steep,
 damaged roads. [@4] TMS and the evidence were taken to the Paluta police station
-for further examination and investigation. [@2,8] Investigators said they were
+for further examination and investigation. [@2,8,10] Investigators said they were
 questioning witnesses and had sent evidence to the North Sumatra police forensic
-laboratory for testing. [@2,8] Police said he could face charges under Articles
+laboratory for testing. [@2,8,10] Police said he could face charges under Articles
 111(2) and 114(2) of the 2009 Narcotics Law, which carry a maximum of death or
 life imprisonment. [@4] Police said the disclosure was part of their effort to
 uncover sources of production and planting sites in the regency. [@5]
