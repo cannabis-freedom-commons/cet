@@ -58,19 +58,16 @@ sources:
     publisher: Aajkaal Daily News
     date: 2026-11-19
     language: gu
-open_questions:
-    - The raid has no separate calendar date in either report; 18 November 2026, the Divya Bhaskar publication date placing the operation about four hours earlier, is retained as the incident date while the corroborating Aajkaal Daily report was published on 19 November 2026.
-    - The 736 grams was described as ganja, with no laboratory confirmation reported.
-    - The 36,800-rupee figure is the police valuation of the ganja; the 72,400-rupee total also includes a motorcycle, a mobile phone and 600 rupees in cash.
-    - Police did not say where in Moti Khavdi the ganja was found or whether the man was accused of selling it.
-    - No charge sheet, plea, detention order or court outcome was reported; the case was at the investigation stage.
-    - The Aajkaal Daily account names a second man, Mohsin from Lalpur, as involved and absconding, but gives no surname, age, address or alleged role beyond the probe into the ganja's source and intended recipient.
-    - Both accounts reproduce police statements and no police press release was opened directly.
+  - title: 'મોટી ખાવડીમાંથી 736 ગ્રામ ગાંજા સાથે શખ્સ ઝડપાયો: ANWએ મોબાઈલ, રોકડ અને મોટરસાયકલ સહિત ₹72,400નો મુદ્દામાલ કબજે કર્યો - Jamnagar Anti Narcotics Wing Seizes Ganja in Moti Khavdi | Crime News'
+    url: https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/jamnagar-anti-narcotics-wing-seizes-ganja-moti-khavdi-139732017.html
+    publisher: Divya Bhaskar
+    date: 2026-11-19
+    language: gu
 ---
 
 Jamnagar's Anti Narcotics Wing raided Moti Khavdi village as part of the No
-Drugs In Jamnagar campaign against the narcotics trade in the district. [@1,2]
-Officers arrested one man and seized 736 grams of ganja from him. [@1,2] Police
+Drugs In Jamnagar campaign against the narcotics trade in the district. [@1,2,3]
+Officers arrested one man and seized 736 grams of ganja from him. [@1,2,3] Police
 also seized a motorcycle, a mobile phone and 600 rupees in cash, putting the
 total value of the seized property at 72,400 rupees. [@1,2] The ganja was valued
 at 36,800 rupees, the motorcycle at 30,000 rupees and the phone at 5,000 rupees.
