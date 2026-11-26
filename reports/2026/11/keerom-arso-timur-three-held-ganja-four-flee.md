@@ -69,30 +69,29 @@ sources:
     publisher: Antara News Papua
     date: 2026-11-24
     language: id
-open_questions:
-  - No total weight was published for the 12 packets and 18 bags; police said laboratory tests would establish it.
-  - Whether the three detainees have been formally named suspects or charged is not reported.
-  - The Papua New Guinea nationality of AS and JL rests on initial identity documents and has not been confirmed.
-  - Four other occupants of the car escaped; the reports do not say whether any were later arrested.
-  - The origin of the cannabis on the Papua New Guinea side of the border was still under investigation and is not established.
+  - title: Tiga Warga PNG Terciduk Bawa 30 Paket Ganja Menuju Jayapura, Empat Lainnya Kabur
+    url: https://www.ceposonline.com/kota-jayapura/2611240009/tiga-warga-png-terciduk-bawa-30-paket-ganja-menuju-jayapura-empat-lainnya-kabur
+    publisher: Cepos Online
+    date: 2026-11-24
+    language: id
 ---
 
 Police in Keerom Regency, Papua, detained three people travelling with two
 backpacks of dried cannabis after stopping a black Daihatsu Terios on the road
-from Kampung Suskun towards Kampung Wambes on Sunday 22 November 2026. [@1,4] The
+from Kampung Suskun towards Kampung Wambes on Sunday 22 November 2026. [@1,4,5] The
 three were F, 20, from Sentani in Jayapura Regency, and AS, 25, and JL, 17, who
-were initially identified as Papua New Guinea nationals. [@1,4] Four other
+were initially identified as Papua New Guinea nationals. [@1,4,5] Four other
 occupants ran into the bush and escaped, and police said they were still looking
-for them. [@1] The three and the car were taken to the Arso Timur police
+for them. [@1,5] The three and the car were taken to the Arso Timur police
 station, and the Keerom narcotics unit took over the case. [@1]
 
 Officers seized 12 medium-sized packets of cannabis, 18 plastic bags of dried
-cannabis leaf and two 10-kilogram rice sacks used to store the drug. [@1,4] No
+cannabis leaf and two 10-kilogram rice sacks used to store the drug. [@1,4,5] No
 weight was published for the cannabis; investigators said laboratory tests would
 establish the total and trace where it came from. [@1,4]
 
 The operation began after residents told the Arso Timur police at about 10.50
-WIT that a black minibus heading for Jayapura was carrying narcotics. [@1]
+WIT that a black minibus heading for Jayapura was carrying narcotics. [@1,5]
 Kompas.com reported that police stopped the car in Kampung Suskun on its way to
 Kampung Wambes, detained three people and that four others fled. [@2] The Arso
 Timur police chief, Iptu Jimmy Y. Saumen, confirmed the arrests and said his
