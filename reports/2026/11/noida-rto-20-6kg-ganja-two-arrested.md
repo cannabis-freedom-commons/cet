@@ -65,6 +65,11 @@ sources:
     publisher: Hindustan
     date: 2026-11-23
     language: hi
+  - title: नोएडा में 20 किलो गांजा बरामद, दो तस्कर गिरफ्तार; पुलिस और एंटी नारकोटिक्स सेल की संयुक्त कार्रवाई
+    url: https://www.bhaskarhindi.com/other/noida-mein-20-kilo-ganja-baramad-do-taskar-giraftar-police-aur-anti-narcotics-cell-ki-sanyukt-karvayi-1396022
+    publisher: Bhaskar Hindi
+    date: 2026-11-23
+    language: hi
 open_questions:
     - The exact spot of the blockade is described only as near the RTO office by a drainage area.
     - No laboratory confirmation for the seized bundles was reported.
@@ -72,21 +77,21 @@ open_questions:
 ---
 
 Noida Sector-24 police and the Anti-Narcotics Cell arrested two men for
-smuggling ganja. [@1,3,4] The arrests took place on 22 November 2026 after the
+smuggling ganja. [@1,3,4,5] The arrests took place on 22 November 2026 after the
 police team received intelligence about two suspicious people involved in the
 drug trade. [@2] Officers set up a blockade near the RTO office by a drainage
-area and arrested both suspects. [@2,4] The arrested men were identified as
+area and arrested both suspects. [@2,4,5] The arrested men were identified as
 30-year-old Ajay Kumar from Daurpur village in Aligarh and 50-year-old Rajesh
-Sah from Khagaria district in Bihar. [@2,3,4] A case was registered against both men
-at the Sector 24 police station. [@2,4] Police registered the case against both men under sections 8/20 of the Narcotic Drugs and Psychotropic Substances Act. [@3]
+Sah from Khagaria district in Bihar. [@2,3,4,5] A case was registered against both men
+at the Sector 24 police station. [@2,4,5] Police registered the case against both men under sections 8/20 of the Narcotic Drugs and Psychotropic Substances Act. [@3]
 
 Officers searching the suitcase found bundles of marijuana with a total weight
-of 20.6 kilograms. [@2,3,4] The Hindi account records the recovery as 20 kg 600
+of 20.6 kilograms. [@2,3,4,5] The Hindi account records the recovery as 20 kg 600
 grams of ganja from the accused. [@1] Police estimated the seized ganja to be
-worth about Rs 10 lakh. [@1,4] The men had carried the bundles in a suitcase by
-train from other states to Noida. [@2] The men brought the ganja from Odisha by Rajdhani Express in a trolley bag to sell in Delhi-NCR. [@4] Once in the city, they repacked the drug
+worth about Rs 10 lakh. [@1,4,5] The men had carried the bundles in a suitcase by
+train from other states to Noida. [@2,5] The men brought the ganja from Odisha by Rajdhani Express in a trolley bag to sell in Delhi-NCR. [@4] Once in the city, they repacked the drug
 into smaller packets for sale at inflated prices across Noida and the National
-Capital Region. [@2]
+Capital Region. [@2,5]
 
 The suspects told interrogators they bought marijuana cheaply in other states to
 sell for a profit in Noida and the NCR. [@2] Authorities also recovered copies
