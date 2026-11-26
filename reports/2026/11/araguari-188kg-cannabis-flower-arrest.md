@@ -47,28 +47,43 @@ sources:
     publisher: Metrópoles
     date: 2026-11-23
     language: pt
+  - title: Carreta com 188 kg de maconha fica presa em rua, motorista tenta fugir e é preso em Araguari
+    url: https://paranaibamais.com.br/seguranca/carreta-com-188-kg-de-maconha-fica-presa-em-rua-motorista-tenta-fugir-e-e-preso-em-araguari/
+    publisher: Paranaíba Mais
+    date: 2026-11-23
+    language: pt
 open_questions:
   - No separate date for the stop is given; 23 November 2026 is the article's publication date and is used as the incident date.
   - The driver was identified only by age and Santa Catarina origin; no name or charge beyond transfer to the Judicial Police was reported.
   - No court outcome, detention decision or laboratory confirmation beyond the police account was reported.
+media:
+  - kind: photo
+    url: https://paranaibamais.com.br/seguranca/carreta-com-188-kg-de-maconha-fica-presa-em-rua-motorista-tenta-fugir-e-e-preso-em-araguari/
+    media_url: https://paranaibamais.com.br/wp-content/uploads/2026/11/carreta-maconha-araguari.jpg
+    publisher: Paranaíba Mais
+    caption: 'The cannabis found in a ''secret compartment'' of the truck in Araguari. Photo: Reprodução/PMRv'
+  - kind: video
+    url: https://paranaibamais.com.br/seguranca/carreta-com-188-kg-de-maconha-fica-presa-em-rua-motorista-tenta-fugir-e-e-preso-em-araguari/
+    media_url: https://paranaibamais.com.br/wp-content/uploads/2026/11/NOVO-Tamanho-de-imagens-internas-e-destaque-1280-x-720-2026-11-23T174206.902.mp4?_=1
+    publisher: Paranaíba Mais
+    caption: Video of the truck stop and the seizure of cannabis in Araguari.
 ---
 
 Highway Military Police officers arrested a 34-year-old driver from Santa
 Catarina in Araguari, Minas Gerais, after he disobeyed a stop order and tried to
-flee on foot. [@1] Officers of the Road Tactical Group had ordered the
+flee on foot. [@1,2] The seizure took place in the Portal de Fátima neighbourhood of Araguari. [@2] Officers of the Road Tactical Group had ordered the
 tractor-trailer combination to stop during Operation Trânsito Seguro, and the
 driver fled toward the urban area before the truck became stuck in a narrow
-street. [@1]
+street. [@1,2]
 
 Officers found 188 kilograms of luxury cannabis flower hidden in the truck, a
 variety described as having higher commercial value on the illicit market than
-other forms of the drug. [@1] The force valued the load at more than R$13
+other forms of the drug. [@1,2] The cannabis was hidden in a secret compartment of the truck. [@2] The force valued the load at more than R$13
 million at estimated retail sale value, describing it as a loss to trafficking.
-[@1]
+[@1,2]
 
 The driver was taken with the seized drug to the Judicial Police and chose to
-remain silent. [@1] Teams from the 6th Highway Military Police Company, the 53rd
+remain silent. [@1,2] Teams from the 6th Highway Military Police Company, the 53rd
 Military Police Battalion in Araguari, the 9th Independent Environmental
 Military Police Company and the ROCCA dog patrol supported the operation, and
-the vehicle combination was also seized. [@1]
-
+the vehicle combination was also seized. [@1,2]
