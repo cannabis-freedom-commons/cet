@@ -43,18 +43,15 @@ sources:
     publisher: El Español
     date: 2026-02-03
     language: es
-open_questions:
-  - Only one accessible source reports this seizure, El Español, which cites reporting by Equatorial Guinean media and does not reproduce their original text.
-  - No day or exact date is given, only May 2024; the incident date is approximate and mid-May stands in for it.
-  - No weight, value or number of packages of hashish was published.
-  - 'The total number of people detained is unclear: one detention was made public, while the article also says an investigation into a trafficking network followed without identifying others.'
-  - The article says the authorities did not establish the exact origin of the substance or identify those who sent it, and only says the context coincides with the luggage scheme it describes.
-  - No charges, prosecutor's decision or court outcome was reported, and the suspect was not named.
-  - The article's photographs show luggage and emails from the Madrid-Barajas end of the scheme, not this Malabo seizure, so no photos of the event are listed.
+  - title: El PP relaciona a Zapatero con los vuelos de Plus Ultra desde Guinea cargados con fajos de billetes que desveló El Español
+    url: https://www.elespanol.com/espana/politica/20260301/pp-relaciona-zapatero-vuelos-plus-ultra-guinea-cargados-fajos-billetes-desvelo-espanol/1003744149584_0.html
+    publisher: El Español
+    date: 2026-03-01
+    language: es
 ---
 
 Gendarmerie officers at Malabo airport found a hashish consignment in luggage on
-a Plus Ultra Líneas Aéreas flight that had arrived from Madrid. [@1] The
+a Plus Ultra Líneas Aéreas flight that had arrived from Madrid. [@1,2] The
 detection at the airport led the authorities to open an investigation into a
 trafficking network. [@1]
 
@@ -71,4 +68,3 @@ the cargo terminal, customs and police controls. [@1]
 The route was operated with Plus Ultra aircraft and crews from its start in 2021
 until November 2025. [@1] Spain's UDEF financial crime unit later entered the
 airline's offices and detained several senior executives. [@1]
-
