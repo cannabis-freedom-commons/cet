@@ -47,6 +47,11 @@ media:
     media_url: https://i0.wp.com/www.mivzaklive.co.il/wp-content/uploads/2026/11/whatsapp-712-1.jpg?resize=768%2C356&ssl=1
     publisher: Mivzak Live
     caption: 'Additional police photos of the seized drugs and sealing machine in Bat Yam. Photo: Israel Police spokesperson'
+  - kind: photo
+    url: https://www.news08.net/%D7%99%D7%95%D7%AA%D7%A8-%D7%9E-40-%D7%A2%D7%95%D7%92%D7%99%D7%95%D7%AA-%D7%97%D7%A9%D7%99%D7%A9-%D7%A0%D7%AA%D7%A4%D7%A1%D7%95-%D7%91%D7%93%D7%99%D7%A8%D7%94-%D7%91%D7%91%D7%AA-%D7%99%D7%9D-%D7%91/
+    media_url: https://www.news08.net/wp-content/uploads/2026/11/11-344.jpeg
+    publisher: חדשות 08
+    caption: 'Suspected hashish cookies, suspected marijuana and packaging sealer seized in the Bat Yam apartment search. Photo: Israel Police spokesperson'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: e78b233022fbe712b0ddddcd43a957d6
@@ -57,29 +62,34 @@ sources:
     publisher: Mivzak Live
     date: 2026-11-23
     language: he
+  - title: 'יותר מ - 40 עוגיות חשיש נתפסו בדירה בבת ים: בן 28 נעצר בחשד לסחר בסמים - חדשות 08'
+    url: https://www.news08.net/%D7%99%D7%95%D7%AA%D7%A8-%D7%9E-40-%D7%A2%D7%95%D7%92%D7%99%D7%95%D7%AA-%D7%97%D7%A9%D7%99%D7%A9-%D7%A0%D7%AA%D7%A4%D7%A1%D7%95-%D7%91%D7%93%D7%99%D7%A8%D7%94-%D7%91%D7%91%D7%AA-%D7%99%D7%9D-%D7%91/
+    publisher: חדשות 08
+    date: 2026-11-23
+    language: he
 open_questions:
   - 22 November 2026 is inferred from a search described as taking place the previous evening before the 23 November 2026 publication.
   - No separate weight was published for the 40 hashish cakes; 1.5 kg is the reported minimum combined weight.
   - Whether the drugs were intended for distribution is a police suspicion, not an established fact.
   - No detention extension outcome, charges or court result beyond the planned hearing were reported.
   - The account rests on a single reported police statement with no independent corroboration published.
+  - It is unclear whether the reported more than 1.5 kg is the weight of the cookies alone or the combined weight of all seized drugs.
 ---
 
 Detectives from the Bat Yam station in the Ayalon area, together with Tel Aviv
 Yasam fighters, arrested a 28-year-old suspect on suspicion of producing and
-trafficking dangerous drugs. [@1] The suspect was arrested and taken for
+trafficking dangerous drugs. [@1,2] The suspect was arrested and taken for
 investigation at the Bat Yam police station. [@1] Police said they would ask a
 court in the morning to extend his detention based on the findings of the
 investigation. [@1]
 
 The search was carried out the previous evening under a judicial warrant in an
 apartment on Rabinowitz Street in Bat Yam, as part of proactive activity against
-drug possession and trafficking. [@1] The apartment searched was the suspect's
+drug possession and trafficking. [@1,2] The apartment searched was the suspect's
 own apartment, where officers found drugs of various types with a combined
 weight of more than 1.5 kg. [@1] Police said the drugs were suspected to have
 been intended for distribution. [@1]
 
 Officers seized more than 40 cakes containing suspected hashish, more than 200
 grams of material suspected to be marijuana, and a machine for sealing packages.
-[@1]
-
+[@1,2]
