@@ -77,6 +77,11 @@ sources:
     url: https://www.thehindu.com/news/cities/Madurai/77-kg-of-ganja-bound-for-sri-lanka-seized-off-pamban-two-held/article71735556.ece
     publisher: The Hindu
     date: 2026-11-23
+  - title: கஞ்சா பறிமுதல் இருவர் கைது
+    url: https://www.dinamalar.com/amp/news/tamil-nadu-district-news-ramanathapuram/two-arrested-for-confiscating-cannabis/4384334
+    publisher: Dinamalar
+    date: 2026-11-23
+    language: ta
 media:
   - kind: photo
     url: https://tamil.news18.com/tamil-nadu/77-kg-ganja-seized-near-pamban-nw-kpk-ws-l-2260254.html
@@ -84,20 +89,21 @@ media:
     publisher: News18 Tamil
     caption: Arrested persons in the Pamban 77 kg ganja case.
 open_questions:
-  - Accounts differ on whether the interception occurred on 22 November 2026 or on the morning of 23 November 2026.
-  - Accounts differ on whether the seized boat, men and ganja were taken to the Ramanathapuram Customs office or to Mandapam for handover to the Customs Central Intelligence Unit.
+    - Accounts differ on whether the interception occurred on 22 November 2026 or on the morning of 23 November 2026.
+    - Accounts differ on whether the seized boat, men and ganja were taken to the Ramanathapuram Customs office or to Mandapam for handover to the Customs Central Intelligence Unit.
+    - Accounts differ on the estimated value of the seized ganja, given as Rs 20 lakh in one account and around Rs 25 lakh in others.
 ---
 
 A joint team from the Indian Coast Guard station in Mandapam and the Tiruchi
 Customs intelligence wing intercepted a country boat moving suspiciously off the
-Pamban Kundukal coast near Rameswaram. [@2,5] The operation was launched on
+Pamban Kundukal coast near Rameswaram. [@2,5,9] The operation was launched on
 specific intelligence that narcotics were being transported to Sri Lanka by
-country boat from the Kundukal area. [@2,8] The two men on board were apprehended
+country boat from the Kundukal area. [@2,8,9] The two men on board were apprehended
 and identified as Aeronius, 33, and Gunasekaran, 42, both residents of Saveriyar
-Nagar in Thangachimadam. [@2,6,8]
+Nagar in Thangachimadam. [@2,6,8,9]
 
 A search of the vessel recovered about 77 kg of ganja packed into parcels and
-concealed in three gunny sacks. [@2,3,4,6,8] The interception took place near Pamban in
+concealed in three gunny sacks. [@2,3,4,6,8,9] The interception took place near Pamban in
 Ramanathapuram on 22 November 2026. [@1,3] Officials estimated the international
 market value of the seized ganja at around Rs 25 lakh. [@2,8]
 
