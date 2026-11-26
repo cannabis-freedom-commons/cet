@@ -58,28 +58,33 @@ sources:
     publisher: "0404"
     date: 2026-11-23
     language: he
+  - title: 'קריית אונו: קוקאין, אקסטזי וכ-31 אלף ש"ח נתפסו, חשוד נעצר'
+    url: https://www.mivzaklive.co.il/archives/1011524
+    publisher: Mivzak Live
+    date: 2026-11-23
+    language: he
 open_questions:
     - 22 November 2026 is inferred from a Sunday-evening raid reported on Monday 23 November 2026; no calendar date for the operation was stated.
     - All substances were described only as suspected, with no laboratory confirmation reported.
     - The 113 grams of suspected cocaine, 52 suspected ecstasy pills and four bottles of suspected rape drug are excluded from the cannabis figures.
     - No name, formal charge or court outcome beyond the planned detention-extension request was reported.
-    - Both accounts reproduce the police account of the raid and are not independent reporting.
+    - Both accounts reproduce the same police statement about the raid; no independent reporting beyond the police account was found.
 ---
 
 Detectives from the Masubim station in the Dan district raided an apartment on
 S.Y. Agnon Street in Kiryat Ono on Sunday evening in a proactive operation under
-a judicial search warrant. [@1,2] At the end of the search officers arrested a
+a judicial search warrant. [@1,2,3] At the end of the search officers arrested a
 Kiryat Ono resident in his 30s and took him to the police station for
-questioning, after which he was jailed. [@1,2]
+questioning, after which he was jailed. [@1,2,3]
 
 Police said the search uncovered several types of suspected drugs alongside tens
 of thousands of shekels in cash and electronic equipment. [@1] The cannabis
-seizure was 1.9 kg of material suspected to be cannabis. [@1,2] Officers also
-listed 113 grams of material suspected to be cocaine. [@1,2] They listed 52 pills
-suspected to be ecstasy. [@1,2] They listed four bottles containing material
-suspected to be a rape drug. [@1] They seized 31,550 shekels in cash. [@1,2] They
-also seized eight mobile phones, distribution bags and an electronic scale. [@1,2]
+seizure was 1.9 kg of material suspected to be cannabis. [@1,2,3] Officers also
+listed 113 grams of material suspected to be cocaine. [@1,2,3] They listed 52 pills
+suspected to be ecstasy. [@1,2,3] They listed four bottles containing material
+suspected to be a rape drug. [@1,3] They seized 31,550 shekels in cash. [@1,2,3] They
+also seized eight mobile phones, distribution bags and an electronic scale. [@1,2,3]
 
 On Monday morning police were to ask the court to extend the suspect's
-detention. [@1,2] He remained jailed after questioning pending that court hearing.
+detention. [@1,2,3] He remained jailed after questioning pending that court hearing.
 [@1]
