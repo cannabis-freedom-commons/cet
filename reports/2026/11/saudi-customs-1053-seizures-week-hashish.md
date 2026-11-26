@@ -44,11 +44,18 @@ sources:
     publisher: صحيفة صراحة الالكترونية
     date: 2026-11-21
     language: ar
+  - title: هيئة الزكاة والضريبة تضبط 1051 حالة تهريب تشمل مواد مخدرة وأسلحة
+    url: https://www.alestad.com/163886/%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B2%D9%83%D8%A7%D8%A9-%D9%88%D8%A7%D9%84%D8%B6%D8%B1%D9%8A%D8%A8%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-1051-%D8%AD%D8%A7%D9%84%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8/
+    publisher: الاستاد الاخباري
+    date: 2026-11-21
+    language: ar
+open_questions:
+    - The alestad account reports 1,051 cases, two fewer than the 1,053 given by Akhbaar 24, Okaz and Sra7h for the same weekly tally; no explanation for the difference is published.
 ---
 
 Saudi Arabia's customs authority recorded 1,053 seizures of smuggled goods at
-its land, sea and air ports in one week. [@2,3] The haul included narcotics, sums
-of money, prohibited goods and tobacco and its derivatives. [@1,3] The narcotics
+its land, sea and air ports in one week. [@2,3,4] The haul included narcotics, sums
+of money, prohibited goods and tobacco and its derivatives. [@1,3] The seizures also included weapons and their accessories. [@4] The narcotics
 covered 31 types, including hashish, cocaine, heroin, shabu (crystal meth) and
 Captagon pills. [@2,3] Okaz described the interceptions as part of continuous
 efforts to strengthen security and protect society from smuggling attempts. [@2]
