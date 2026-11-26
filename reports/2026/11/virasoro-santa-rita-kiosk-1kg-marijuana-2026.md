@@ -62,21 +62,26 @@ sources:
     publisher: VirasoroVirtual
     date: 2026-11-19
     language: es
+  - title: 'Allanamiento en Virasoro: secuestran 1,1 kilos de marihuana y detienen a dos personas'
+    url: https://virasorovirtual.com/2026-11-23-allanamiento-en-virasoro-secuestran-1-1-kilos-de-marihuana-y-detienen-a-dos-personas
+    publisher: VirasoroVirtual
+    date: 2026-11-23
+    language: es
 open_questions:
-  - No source gives the date of the raid; 19 November 2026 is inferred from the first accounts, published on the evening of that day, and the submitted account is dated 20 November.
-  - 'No exact weight was published: the two blocks are described as weighing more than one kilogram, so 1 kg is a minimum.'
-  - The plant material was identified as cannabis sativa by an orientative field test; no laboratory confirmation was reported.
-  - No suspects, charges or court decision were reported, and the police account did not say whether anyone was detained.
-  - The accounts reproduce the same police statement and are not independent reporting.
+    - The plant material was identified as cannabis sativa by an orientative field test; no laboratory confirmation was reported.
+    - This account gives the weight as about 1.1 kilograms, while the first reports described two blocks weighing more than one kilogram; no laboratory-confirmed exact weight was published.
+    - The first reports described the raid as a narcomenudeo (retail drug dealing) investigation, while this account says it began with a suspected gender-violence complaint; the connection between the two is not explained.
+    - No charges or court decision were reported for the two adults detained.
+    - This account and one of the earlier sources come from the same outlet, VirasoroVirtual, so they are not independent reporting.
 ---
 
 Corrientes police seized more than a kilogram of marijuana in a raid on a house
-in Gobernador Virasoro. [@1] The raid took place in barrio Santa Rita as part of
-an investigation into suspected narcomenudeo, retail drug dealing. [@1] It was
+in Gobernador Virasoro. [@1,5] The raid took place in barrio Santa Rita as part of
+an investigation into suspected narcomenudeo, retail drug dealing. [@1] The operation began in the early hours of Wednesday 19 November after a suspected gender-violence incident was reported at the address. [@5] It was
 carried out under a judicial order by the Comisaría Segunda, with the Unidad
-Fiscal taking part. [@1] The local outlet VirasoroVirtual reported that police
+Fiscal taking part. [@1,5] The local outlet VirasoroVirtual reported that police
 found two blocks described as cannabis sativa, phones and knives in a house in
-barrio Santa Rita, all left at the disposal of the courts. [@4]
+barrio Santa Rita, all left at the disposal of the courts. [@4,5]
 
 Officers found two packages, known as panes, holding plant material that weighed
 more than a kilogram. [@3] A field test gave a positive result for cannabis
@@ -84,8 +89,7 @@ sativa. [@3] Police also seized several mobile phones, knives and tools for
 cutting and portioning drugs. [@3]
 
 Everything seized was transferred to the Comisaría Distrito Segunda of
-Gobernador Virasoro and left formally at the disposal of the courts. [@3] The
+Gobernador Virasoro and left formally at the disposal of the courts. [@3] Two adults were later detained under further judicial orders and placed at the disposal of the courts. [@5] The
 official account did not say whether anyone was detained in the operation. [@3]
 El Litoral reported that officers found items in the house that confirmed a link
 to selling drugs. [@2]
-
