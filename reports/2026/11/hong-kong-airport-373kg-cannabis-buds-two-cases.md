@@ -47,6 +47,11 @@ media:
     media_url: https://gia.info.gov.hk/general/202611/22/P2026112200402_photo_1344432.jpg
     publisher: Government of the Hong Kong Special Administrative Region
     caption: 'Suspected cannabis buds seized from the two checked suitcases of the 46-year-old British transit passenger, shown in a Customs handout photo. Photo: Hong Kong Customs'
+  - kind: photo
+    url: http://www.vakiodaily.com/news/view/id/723827
+    media_url: http://www.vakiodaily.com/upload_images/news/20261123/big_6b03069459ddc.jpg
+    publisher: 華僑報 (Vakio Daily)
+    caption: 'Suspected cannabis buds seized in the first of the two airport cases. Photo: 香港中通社 (Hong Kong China News Agency)'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 39b6f8b0421e1a2ef557a1b100e6cb32
@@ -97,10 +102,15 @@ sources:
     publisher: 香港風火時報
     date: 2026-11-23
     language: zh
+  - title: 香港海關於機場偵破兩宗旅客販毒案件
+    url: http://www.vakiodaily.com/news/view/id/723827
+    publisher: 華僑報 (Vakio Daily)
+    date: 2026-11-23
+    language: zh
 ---
 
 Hong Kong Customs arrested two men in two drug trafficking cases detected at
-Hong Kong International Airport on 20 and 21 November 2026. [@1,6,7,8,9] In the first
+Hong Kong International Airport on 20 and 21 November 2026. [@1,6,7,8,9,10] In the first
 case, a 46-year-old British national who said he worked as a bodyguard was
 transiting from Bangkok to London when officers found about 35 kilograms of
 suspected cannabis buds in his two checked suitcases. [@1,5,6,8,9] Customs officers said
@@ -111,7 +121,7 @@ that had arrived from Bangkok, and on 21 November arrested a 39-year-old
 mainland Chinese man when he flew in from Bangkok via Taipei. [@1,5,6,7,9]
 
 The two cases together yielded about 37.3 kilograms of suspected cannabis buds,
-which Customs valued at about HK$8 million. [@1,5,6,7,8,9] Customs put the first case's 35
+which Customs valued at about HK$8 million. [@1,5,6,7,8,9,10] Customs put the first case's 35
 kilograms at about HK$7.5 million. [@2] The 2.3 kilograms found in the unclaimed
 bag were valued at about HK$500,000. [@3] Each of the two men was charged with
 one count of trafficking in a dangerous drug, and both cases were listed for
