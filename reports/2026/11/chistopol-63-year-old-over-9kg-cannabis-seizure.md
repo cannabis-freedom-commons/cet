@@ -46,26 +46,42 @@ sources:
     publisher: РТ Онлайн
     date: 2026-11-23
     language: ru
+  - title: В Чистополе у пенсионера изъяли девять килограммов конопли
+    url: https://tatarstan24.tv/news/32287.v-chistopole-u-pensionera-izyali-devyat-kilogrammov-konopli
+    publisher: Татарстан 24
+    date: 2026-11-23
+    language: ru
 open_questions:
-  - The exact date of the raid was not reported; 23 November 2026 is the publication date and is used as the incident date.
-  - The seizure of more than 9 kg is stated only as a lower bound, so the recorded 9.2825 kg uses 9 kg plus the separately stated 282.5 grams of marijuana.
-  - No court outcome beyond the opened criminal case and the stated 10-to-20-year penalty range was reported.
-  - The account rests on a single outlet report attributed to the Tatarstan interior ministry, with no independent corroboration found.
+    - The exact date of the raid was not reported; 23 November 2026 is the publication date and is used as the incident date.
+    - The seizure of more than 9 kg is stated only as a lower bound, so the recorded 9.2825 kg uses 9 kg plus the separately stated 282.5 grams of marijuana.
+    - No court outcome beyond the opened criminal case and the stated 10-to-20-year penalty range was reported.
+    - Both accounts reproduce the same statement from the Tatarstan interior ministry and are not independent reporting.
+    - The two accounts differ on whether the outbuilding seizure was nine kilograms or more than nine kilograms.
+media:
+  - kind: photo
+    url: https://tatarstan24.tv/news/32287.v-chistopole-u-pensionera-izyali-devyat-kilogrammov-konopli
+    media_url: https://tatarstan24.tv/public/news/32287/cover.png?v=1795423173872
+    publisher: Tatarstan 24
+    caption: Dried cannabis plant material in a green bowl, part of the drug seized from the 63-year-old man in Chistopol.
+  - kind: photo
+    url: https://tatarstan24.tv/news/32287.v-chistopole-u-pensionera-izyali-devyat-kilogrammov-konopli
+    media_url: https://tatarstan24.tv/public/news/32287/c755a7ab-a6fe-4e61-b28f-bd6f9a78324f.jpg
+    publisher: Tatarstan 24
+    caption: Cannabis plants hanging to dry in an outbuilding with a fan, the yard structure where the man stored and dried the drug.
 ---
 
 Police in Chistopol detained a 63-year-old local resident after seizing more
-than 9 kilograms of drugs from him. [@1] Officers who examined the man's private
+than 9 kilograms of drugs from him. [@1,2] Officers who examined the man's private
 house found plant material along with electronic scales and packaging material.
-[@1] During questioning, the detained man admitted that he had cultivated
-cannabis in a ravine not far from his home. [@1]
+[@1,2] During questioning, the detained man admitted that he had cultivated
+cannabis in a ravine not far from his home. [@1,2]
 
 He said that he had stored and dried the cannabis in a specially equipped
-outbuilding in his yard. [@1] He told police that he had grown and kept the drug
+outbuilding in his yard. [@1,2] He told police that he had grown and kept the drug
 because he wanted to earn money by selling it. [@1] Forensic experts established
-that part of the seizure was marijuana with a total mass of 282.5 grams. [@1]
+that part of the seizure was marijuana with a total mass of 282.5 grams. [@1,2]
 Officers separately seized numerous cannabis plant parts from his yard
-outbuildings which in total contained more than 9 kg of narcotic substance. [@1]
+outbuildings which in total contained more than 9 kg of narcotic substance. [@1,2]
 
-Police opened a criminal case over the seizure and cultivation. [@1] The man now
-faces a prison term of 10 to 20 years. [@1]
-
+Police opened a criminal case over the seizure and cultivation. [@1,2] The criminal case was opened under the article on attempted large-scale sale of narcotics. [@2] The man now
+faces a prison term of 10 to 20 years. [@1,2]
