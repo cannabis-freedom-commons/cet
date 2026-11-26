@@ -60,39 +60,47 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-23
     language: hi
+  - title: 'शिमला : तीन घरों से 8 किलो चरस बरामद, तीन आरोपी गिरफ्तार - हिन्दुस्थान समाचार'
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/23/CRIME-NDPS-ACT-CHARAS-ARREST.php
+    publisher: Hindusthan Samachar
+    date: 2026-11-23
+    language: hi
 open_questions:
-    - The article says three people were arrested but names four people in connection with the raids; Hari Vallabh's role and any recovery attributed to him are not specified.
     - The three stated recoveries of 1.7 kg, 900 grams and approximately 5.5 kg do not add exactly to the police's round total of 'around 8 kg'.
-    - No separate calendar date is given for the raids, which are described as early Sunday morning; the FIRs are dated 22 November 2026 and the article was published on 23 November.
+    - The raids are described as an early-morning operation at the start of the week with differing weekday accounts; the FIRs are dated 22 November 2026 and the articles were published on 23 November.
     - No court appearance, charge sheet or outcome beyond the arrests and registered FIRs was reported.
     - No laboratory confirmation that the seized substance was charas was reported.
     - No value or estimate was published for the seized charas.
-    - It is unclear which resident's house yielded the 5.5 kg of charas, Rs 1,05,690 in cash and weighing machine, with Hari Vallabh and Dila Ram named for the third recovery.
 media:
   - kind: photo
     url: https://www.bhaskar.com/local/himachal/shimla/news/theog-shimla-police-raid-charas-seizure-arrest-drug-trafficking-139774986.html
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/23/dbgifmagic_-_2026-11-23t150137_445_1795426257708.gif
     publisher: Dainik Bhaskar
     caption: 'Accused arrested with the seized charas in the Theog raid. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://www.hindusthansamachar.in/Encyc/2026/11/23/CRIME-NDPS-ACT-CHARAS-ARREST.php
+    media_url: https://www.hindusthansamachar.in/Encyc/2026/11/23/9924d2741dd34b86f493fed021896522_2118225311_H@@IGHT_0_W@@IDTH_600.jpg
+    publisher: Hindusthan Samachar
+    caption: 'Smuggler arrested on charas charges in the Theog raid. Photo: Hindusthan Samachar'
 ---
 
 Shimla Police arrested three people and recovered around 8 kg of charas during
 simultaneous raids at three residential premises in Bahani village under Theog
-police station. [@1,2,3] The raids followed specific intelligence inputs and formed
+police station. [@1,2,3,4] The raids followed specific intelligence inputs and formed
 part of an intensified campaign against drug trafficking. [@1,2]
 
 Officers recovered 1.7 kg of charas from the residence of Shyam Singh and 900
-grams from the house of Laxmi Nand. [@1,2] The biggest recovery was about 5.5 kg
+grams from the house of Laxmi Nand. [@1,2,4] The biggest recovery was about 5.5 kg
 of charas from the residence of Dila Ram, along with Rs 1,05,690 in cash and a
-weighing machine. [@1] Hari Vallabh was also named among the accused, though his
-parentage and the recovery attributed to him were not detailed. [@1] Three FIRs,
+weighing machine. [@1,4] Hari Vallabh was also named among the accused, though his
+parentage and the recovery attributed to him were not detailed. [@1] The Hindi account names the third householder as Hari Vallabh, son of late Dila Ram, indicating Dila Ram is the father's name. [@4] Three FIRs,
 numbered 179/26, 180/26 and 181/26, were registered at Theog police station on
-November 22 under Section 20 of the NDPS Act. [@1] All three accused were
+November 22 under Section 20 of the NDPS Act. [@1,4] All three accused were
 arrested and investigators were examining the source of the contraband and
 possible links in the supply network. [@1]
 
 Shimla Police said it had registered 27 cases involving commercial quantities of
-narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1,2]
+narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1,2,4]
 Police attributed the rise to a shift in enforcement strategy towards major
 suppliers, their hideouts and organised trafficking networks rather than
 street-level peddlers. [@1] Police said the crackdown would continue with
