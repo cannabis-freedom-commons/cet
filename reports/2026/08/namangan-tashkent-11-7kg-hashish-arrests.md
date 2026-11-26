@@ -25,6 +25,11 @@ media:
     media_url: https://t.me/uztubepodrobno/12070
     publisher: Podrobno.uz
     caption: Two-and-a-half-minute video report on the hashish seizures in Namangan and Tashkent region, embedded in the Podrobno.uz article from the outlet's Uztube Telegram channel.
+  - kind: photo
+    url: https://anhor.uz/ru/news/namangan-tashkent-12-kg-gashisha-izyato
+    media_url: https://cdn.anhor.uz/migrated/wp/362586/lg.webp
+    publisher: Anhor.uz
+    caption: Frame from the security-service video on the 11.7 kg hashish seizures in Namangan and Tashkent region, published with the Anhor.uz report.
 details:
   activity: [trafficking]
   agency_types: [police]
@@ -58,6 +63,11 @@ sources:
     publisher: Podrobno.uz
     date: 2026-08-01
     language: ru
+  - title: В Наманганской и Ташкентской областях изъяли почти 12 килограммов гашиша
+    url: https://anhor.uz/ru/news/namangan-tashkent-12-kg-gashisha-izyato
+    publisher: Anhor.uz
+    date: 2026-08-01
+    language: ru
 open_questions:
     - No separate date is given for the operation or the arrests; 1 August 2026 is the publication date of the accounts and stands in for the incident date.
     - The accounts do not state how many people were detained in total; the Namangan dealer, the two Andijan region residents and the Bekabad man are named, and the Nexia passenger was detained at the car check.
@@ -72,21 +82,21 @@ open_questions:
 ---
 
 Security service officers in Namangan stopped a Nexia car and found 944 grams of
-hashish in a plastic bag carried by a passenger. [@1,3] The passenger was a man
+hashish in a plastic bag carried by a passenger. [@1,3,4] The passenger was a man
 previously convicted of a drug-trafficking offence. [@1,3] A pre-investigation
 check found he had bought the drugs for $9,900 from a Namangan-based dealer, who
-was detained in a security operation. [@1,3] At the dealer's arrest officers
-seized $9,200 and 18.4 million Uzbek som. [@1,3]
+was detained in a security operation. [@1,3,4] At the dealer's arrest officers
+seized $9,200 and 18.4 million Uzbek som. [@1,3,4]
 
 In a later stage of the operation officers stopped a Lacetti carrying two
 Andijan region residents who had been supplying the detained men and seized 9 kg
-801 grams of hashish from it. [@1,3] In Tashkent region officers detained a local
+801 grams of hashish from it. [@1,3,4] In Tashkent region officers detained a local
 man at the moment he collected 977 grams of hashish that drug couriers had
-earlier hidden as a stash in Bekabad. [@1,3] The State Security Service put the
+earlier hidden as a stash in Bekabad. [@1,3,4] The State Security Service put the
 two seizures in Namangan region and the Tashkent region find at almost 12 kg of
-hashish in total. [@1,3]
+hashish in total. [@1,3,4]
 
 Criminal cases were opened over both, and investigative actions were under way.
-[@1,3]
+[@1,3,4]
 
 Officers of the State Security Service, the Interior Ministry and the customs service ran a joint multi-stage operation that intercepted attempts to distribute a large consignment of drugs illegally brought into Uzbekistan from a neighbouring state. [@2] The two operations together yielded 11 kilograms 722 grams of hashish, the figure the report treats as its total. [@2] The Bekabad suspect was born in 1985, the two Andijan residents in 1987 and 1998, and the Namangan dealer who sold the 944 grams was born in 1982. [@2] The Nexia passenger was born in 1978. [@2]
