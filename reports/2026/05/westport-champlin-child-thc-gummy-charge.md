@@ -42,6 +42,10 @@ sources:
     url: https://patch.com/connecticut/manchester/manchester-woman-34-accused-giving-juvenile-thc-infused-cannabis-gummy-cops
     publisher: Manchester, CT Patch
     date: 2026-05-13
+  - title: 'Woman, 34, Accused Of Giving Juvenile ''THC-Infused Cannabis Gummy'': Westport Police'
+    url: https://patch.com/connecticut/westport/woman-34-accused-giving-juvenile-thc-infused-cannabis-gummy-westport-police
+    publisher: Westport, CT Patch
+    date: 2026-05-13
 media:
   - kind: photo
     url: https://westportjournal.com/police-fire/cops-woman-gave-cannabis-gummy-to-juvenile-relative-at-st-vincents/
@@ -50,10 +54,10 @@ media:
     caption: 'Westport Police Department booking photo of Kimberly Champlin, used as the article''s lead image. Photo: Westport Police Department'
 ---
 
-Connecticut State troopers arrested Champlin on Tuesday. [@1,3] They transferred
+Connecticut State troopers arrested Champlin on Tuesday. [@1,3,4] Westport police obtained a warrant for Champlin's arrest, which led to her apprehension this week by state police Troop F. [@4] They transferred
 her to Westport police custody, authorities said. [@1,3] Police identified her as
 Kimberly Champlin. [@1,2] She was 34 years old and lived in Manchester,
-Connecticut. [@1,3] Authorities said she gave a cannabis edible to a younger
+Connecticut. [@1,3,4] Authorities said she gave a cannabis edible to a younger
 relative during the previous year. [@1] The edible was a THC-infused gummy, and
 the younger relative was receiving treatment at a behavioral-health center in
 Westport. [@1,3] The child was staying at St. Vincent’s Medical Center Behavioral
@@ -63,7 +67,7 @@ The center was on Long Lots Road. [@1] Staff members at the center contacted the
 Connecticut Department of Children and Families after learning about the
 incident. [@1] The department, referred to as DCF, then notified police on Oct.
 20, authorities said. [@1,2] Police charged Champlin with risk of injury to a
-child. [@1,2,3]
+child. [@1,2,3,4]
 
-She was released on a $10,000 bond. [@1,2,3] Her arraignment was scheduled for May
-29 at Stamford Superior Court. [@1,2,3]
+She was released on a $10,000 bond. [@1,2,3,4] Her arraignment was scheduled for May
+29 at Stamford Superior Court. [@1,2,3,4]
