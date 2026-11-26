@@ -68,6 +68,11 @@ sources:
     publisher: Villa María Ya
     date: 2026-11-22
     language: es
+  - title: Secuestraron cocaína y marihuana en Capital, Río Cuarto, Villa María y San Francisco • Canal C
+    url: https://canalc.com.ar/secuestraron-cocaina-marihuana-fpapatrullaje-cordoba/
+    publisher: Canal C
+    date: 2026-11-22
+    language: es
 open_questions:
   - No date is given for the individual checks; the prosecutors' office published the account on 22 November 2026 and the photographs with it are dated 20 November, so 22 November stands in as the incident date.
   - No weight, dose count or value was published for any of the marijuana seizures, so no cannabis quantity is recorded.
@@ -81,18 +86,17 @@ open_questions:
 Officers of the Special Interventions Company of the Fuerza Policial
 Antinarcotráfico, Córdoba's anti-narcotics force, were deployed in preventive
 patrols across the provincial territory under the Strategic Plan against Drug
-Trafficking. [@1] Officers seized several doses of marijuana from two people
+Trafficking. [@1,4] Officers seized several doses of marijuana from two people
 travelling through the San Francisco bus terminal and the Villa María riverfront
-promenade, or costanera. [@2] In Villa María the checks were carried out on that
+promenade, or costanera. [@2,4] In Villa María the checks were carried out on that
 costanera. [@3] In Córdoba city, operating groups seized several wrappers of
 cannabis sativa from two adult men in the Los Paraísos and Cerveceros
-neighbourhoods, on Calle Luis de Góngora at 1400 and Calle Luis Saavedra. [@1]
+neighbourhoods, on Calle Luis de Góngora at 1400 and Calle Luis Saavedra. [@1,4]
 
 A separate check in barrio Alberdi of Río Cuarto ended with the seizure of
 several doses of cocaine from an 18-year-old man and the impounding of a
 motorcycle for an infringement of article 111 of the Código de Convivencia; the
-cocaine is not counted as cannabis here. [@1] The prosecutors on duty in each
+cocaine is not counted as cannabis here. [@1,4] The prosecutors on duty in each
 operation ordered the corresponding case files drawn up and all the seized
 material sent to the judicial seat, for an infringement of National Narcotics
-Law No. 23.737. [@1]
-
+Law No. 23.737. [@1,4]
