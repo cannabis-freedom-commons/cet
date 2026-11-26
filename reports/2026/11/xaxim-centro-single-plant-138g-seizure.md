@@ -52,27 +52,30 @@ sources:
     publisher: Lê Notícias
     date: 2026-11-23
     language: pt
+  - title: Pé de maconha é encontrado em residência no Centro de Xaxim e apreendido pela PM
+    url: https://clicrdc.com.br/seguranca-publica/pe-de-maconha-e-encontrado-em-residencia-no-centro-de-xaxim-e-apreendido-pela-pm/
+    publisher: ClicRDC
+    date: 2026-11-23
+    language: pt
 open_questions:
-  - No value estimate for the 138 g of maconha was published.
-  - No arrest, charge beyond the personal-use occurrence record, or court outcome was reported.
-  - It is not reported what happened to the seized plant or whether any further procedure followed the occurrence record.
-  - The account rests on a single outlet report; no second account or agency statement was found.
+    - No value estimate for the 138 g of maconha was published.
+    - No arrest, charge beyond the personal-use occurrence record, or court outcome was reported.
+    - It is not reported what happened to the seized plant or whether any further procedure followed the occurrence record.
 ---
 
 Military police seized a single cannabis plant on the ground of a residence on
 Avenida Júlio Lunardi in the centre of Xaxim, in western Santa Catarina, on the
-afternoon of Sunday 22 November 2026. [@1] At about 13h30, a team from the 30th
+afternoon of Sunday 22 November 2026. [@1,2] At about 13h30, a team from the 30th
 Frontier Battalion of the Military Police (30º BPM/Fron) was dispatched through
 the Operations Centre (Copom) to check a report of suspected cultivation at that
-residence. [@1] At the address, officers met the 21-year-old resident, who
+residence. [@1,2] At the address, officers met the 21-year-old resident, who
 authorised the search and accompanied the team across the property. [@1]
 
-In the back of the lot, the team found a pot containing the plant. [@1] After
-seizure and weighing, the material totalled 138 g of maconha. [@1] When
+In the back of the lot, the team found a pot containing the plant. [@1,2] After
+seizure and weighing, the material totalled 138 g of maconha. [@1,2] When
 questioned, the young man denied owning the seedling and said that because the
 lot was open, another person could have left the pot there without his
-knowledge. [@1]
+knowledge. [@1,2]
 
 The team then recorded an occurrence report for possession or carrying of drugs
-for personal use so that the legal procedures could continue. [@1]
-
+for personal use so that the legal procedures could continue. [@1,2]
