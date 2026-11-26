@@ -30,6 +30,17 @@ sources:
     url: >-
       https://turkmenportal.com/en/news/32611-berdimuhamedowyn-gatnashmagynda-122-kilogramdan-gowrak-neshe-serishdeleri-yakyldy-----------------------------------------------------------------------------------------------------------
     locator: 2 December 2020; 122.5 kg destroyed; complex 100 km north of Ashgabat
+  - title: Президент Туркменистана сжег 123 килограмма наркотиков (видео)
+    url: https://centralasia.media/news:1665959
+    publisher: CentralAsia.media
+    date: 2020-12-04
+    language: ru
+media:
+  - kind: video
+    url: https://centralasia.media/news:1665959
+    media_url: https://www.youtube.com/watch?v=d4ecygv76Gs
+    publisher: CentralAsia.media
+    caption: Embedded footage of President Berdimuhamedov at the opening of the drug-disposal complex and the burning of seized narcotics.
 ---
 
-President Gurbanguly Berdimuhamedow opened a drug-disposal complex 100 km north of Ashgabat on 2 December 2020. More than 122.5 kg of narcotics seized by the Interior Ministry were burned in its furnaces. The government presented the facility as a sign of its commitment to drug control; it did not say which drugs made up the total. [@1]
+President Gurbanguly Berdimuhamedow opened a drug-disposal complex 100 km north of Ashgabat on 2 December 2020. More than 122.5 kg of narcotics seized by the Interior Ministry were burned in its furnaces. The Turkmen television information programme 'Vatan' attributed the figure of more than 122.5 kg destroyed by burning. [@2] The government presented the facility as a sign of its commitment to drug control; it did not say which drugs made up the total. [@1]
