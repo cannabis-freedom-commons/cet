@@ -85,6 +85,11 @@ sources:
     publisher: News4Nation
     date: 2026-11-21
     language: hi
+  - title: 32 KG गांजे की तस्करी कर भाई-बहन ले जा रहे थे दिल्ली, बिहार में दोनों हुए गिरफ्तार
+    url: https://inshorts.com/hi/news/%E0%A4%AD-%E0%A4%97%E0%A4%B2%E0%A4%AA-%E0%A4%B0-%E0%A4%AE---%E0%A4%AD-%E0%A4%88-%E0%A4%AC%E0%A4%B9%E0%A4%A8-32-kg-%E0%A4%97--%E0%A4%9C--%E0%A4%95--%E0%A4%B8-%E0%A4%A5-%E0%A4%97-%E0%A4%B0%E0%A4%AB-%E0%A4%A4-%E0%A4%B0-1795247139408
+    publisher: Inshorts
+    date: 2026-11-21
+    language: hi
 media:
   - kind: photo
     url: https://www.prabhatkhabar.com/state/bihar/bhagalpur/sultanganj-railway-station-two-arrested-including-woman-with-32-kg-ganja-worth-16-lakh
@@ -105,16 +110,16 @@ media:
 
 The Crime Intelligence Branch (CIB) unit at Jamalpur raided platform two of
 Sultanganj railway station on Friday 20 November 2026. [@1,5,6,7,8] GRP station in-charge Naseem Ahmed said the operation followed a secret tip, that a woman and a man had been arrested, and that the remaining details would be given at a press conference. [@8] The operation followed a special drive ordered by Eastern Railway general manager Geetika Pandey and supervised by Principal Chief Security Commissioner Amiya Nandan Sinha, and CIB Jamalpur received the tip at about 8 am on 20 November. [@6] Officers seized
-32.19 kg of ganja and arrested a woman and her brother. [@1,3,4,6,7,8,9] At about 11:55 on 20 November officers saw two men and two women crossing the tracks from platform one towards platform two with handbags and rucksacks, and caught a man and a woman with the eight bags under the footover bridge after the other two broke away into the crowd. [@6] The two who escaped were identified as Manisha Devi, Ranjit Kumar's wife, and Judge Kumar, Renu Devi's son. [@3,6] The four bags with Renu Devi held 17 kg 200 g and the four with Ranjit Kumar held 14 kg 990 g. [@3,6] The bags were searched under the NDPS Act in the presence of a gazetted officer, and the packets were hidden among old clothes. [@6] CIB Jamalpur
+32.19 kg of ganja and arrested a woman and her brother. [@1,3,4,6,7,8,9,10] At about 11:55 on 20 November officers saw two men and two women crossing the tracks from platform one towards platform two with handbags and rucksacks, and caught a man and a woman with the eight bags under the footover bridge after the other two broke away into the crowd. [@6] The two who escaped were identified as Manisha Devi, Ranjit Kumar's wife, and Judge Kumar, Renu Devi's son. [@3,6] The four bags with Renu Devi held 17 kg 200 g and the four with Ranjit Kumar held 14 kg 990 g. [@3,6] The bags were searched under the NDPS Act in the presence of a gazetted officer, and the packets were hidden among old clothes. [@6] CIB Jamalpur
 inspector SK Sudha said the team acted on a tip that a ganja consignment was
-being taken from Sultanganj to Delhi on the Vikramshila Express. [@1] The pair said they had carried the consignment by road from Cooch Behar in West Bengal and planned to take it to Anand Vihar in Delhi. [@3,6]
+being taken from Sultanganj to Delhi on the Vikramshila Express. [@1,10] The pair said they had carried the consignment by road from Cooch Behar in West Bengal and planned to take it to Anand Vihar in Delhi. [@3,6]
 
 Police put the value of the ganja at about 16 lakh rupees (1.6 million) on the
-international market. [@1,3,5,6,7,8,9] Hindustan names the woman as Renu Devi and her
+international market. [@1,3,5,6,7,8,9,10] Hindustan names the woman as Renu Devi and her
 brother as Ranjit Kumar, giving her home as Gopalpur in Navgachhia and his as
 the Tikapatti police station area of Purnia district. [@1,5] The CIB team said
 Renu Devi had already served a five-year sentence in a ganja smuggling case.
-[@1,4,7,8,9]
+[@1,4,7,8,9,10]
 
 The seizure was made under the supervision of RPF assistant security
 commissioner Ajay Kumar, and after the paperwork the ganja and both accused were
