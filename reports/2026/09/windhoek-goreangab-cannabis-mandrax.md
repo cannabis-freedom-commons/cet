@@ -32,10 +32,6 @@ data_sources:
 status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [windhoek, mandrax]
-open_questions:
-    - The informante_news account dates the search to Saturday; with a 13 September post date that would be 12 September, so the exact day remains uncertain and the report keeps 13 September.
-    - The Mandrax is noted for context and only cannabis is counted in the figures.
-    - The informante_news post reproduces a news account credited to a staff reporter and NamPol photos, not independent reporting of the police statement.
 sources:
   - title: Namibia police seize drugs worth N$2.2m in Windhoek
     url: https://mohalefm.co.ls/namibia-police-seize-drugs-worth-n2-2m-in-windhoek/
@@ -50,6 +46,10 @@ sources:
     publisher: informante_news (Instagram)
     date: 2026-09-13
     language: en
+  - title: 'Namibia Police: Goreagab N$2.2m Drug Arrest Seizes Cannabis, Mandrax'
+    url: https://www.wansom.ai/briefly/news/goreagab-n2-2m-drug-arrest-namibia-windhoek_e525e24e-7537-46e8-bdb4-0aa2de751e6c
+    publisher: Briefly by Wansom
+    date: 2026-09-13
 media:
   - kind: photo
     url: https://www.instagram.com/p/DdPJJ2EHC0q/
@@ -59,10 +59,10 @@ media:
 ---
 
 Namibian police arrested a 38-year-old woman after seizing suspected cannabis and Mandrax
-valued at more than N$2.2 million in Windhoek's Goreangab area. [@1,2,3]
+valued at more than N$2.2 million in Windhoek's Goreangab area. [@1,2,3,4]
 
 Police spokesperson Deputy Commissioner Kauna Shikwambi said officers recovered about
-10.2 kilograms of suspected cannabis and 17,717 Mandrax tablets in the operation. [@1,2,3] The
+10.2 kilograms of suspected cannabis and 17,717 Mandrax tablets in the operation. [@1,2,3,4] The
 suspect is expected to face charges related to dealing in drugs. [@1,3]
 
 The woman is facing charges under the Abuse of Dependency-Producing Substances and Rehabilitation Centres Act for allegedly dealing in prohibited dependency-producing substances, as well as a charge under the Prevention of Organised Crime Act. [@2,3]
