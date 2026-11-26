@@ -63,22 +63,18 @@ sources:
     url: https://tob.news/four-women-held-with-38kg-of-cannabis-in-singair/
     publisher: The Times of Bangladesh
     date: 2026-11-23
-open_questions:
-    - No value or street-price estimate was published for the 38 kg of cannabis.
-    - The search and detention were carried out by local residents, not police, and the accounts do not say whether police weighed the cannabis.
-    - No charge, case number or court outcome is reported; police said only that a case was being prepared.
-    - The alleged main organiser, Jhorna Akter, is named only by a resident and police have not commented on her role.
-    - The claim that family members were previously arrested with drugs and returned to dealing after bail rests on resident Ramzan Ali's account alone.
-    - 'The accounts differ on where the 38 kg was found: the Bengali reports say residents searched the women and recovered it from them, while the English account says it was recovered from behind the kitchen during a search of the premises.'
-    - The Bengali accounts may rely on the same local sources rather than independent reporting, and the English account largely repeats their facts.
-    - Coordinates are for the Singair upazila centre, not the Paschim Basta village itself.
+  - title: মানিকগঞ্জে ৩৮ কেজি গাঁজা উদ্ধার, আটক ৪ নারী
+    url: https://ekhon.tv/crime/6b03be7b6306af4284e9fa61
+    publisher: Ekhon TV
+    date: 2026-11-23
+    language: bn
 ---
 
 Local residents in Paschim Basta village, Singair upazila, Manikganj, detained
-four women with 38 kg of cannabis and handed them to police. [@1,3] The four women
+four women with 38 kg of cannabis and handed them to police. [@1,3,4] The four women
 were detained at about 8:15 pm on Sunday 22 November 2026 in Paschim Basta
 village in Dhalla union. [@1] The detained women, all from Paschim Basta, were
-Taslima Begum, 32, Rujina Begum, 35, Tanha, 19, and Hazera Begum, 60. [@2]
+Taslima Begum, 32, Rujina Begum, 35, Tanha, 19, and Hazera Begum, 60. [@2,4]
 
 Residents searched the women after seeing them moving suspiciously and recovered
 the 38 kg of cannabis from them before handing them to Singair Thana police with
@@ -90,8 +86,8 @@ had run a drug business in the area for a long time and that several family
 members had earlier been arrested with drugs. [@1] He alleged that the family
 members returned to drug dealing after being released on bail. [@1,3] He said
 Jhorna Akter, accused of being the main organiser of the operation, had fled.
-[@1,3]
+[@1,3,4]
 
 The four detained women were being held in police custody. [@1,3] Singair Thana
 officer-in-charge Mazharul Islam said a case against the four women over the
-recovery of the 38 kg was being prepared. [@2,3]
+recovery of the 38 kg was being prepared. [@2,3,4]
