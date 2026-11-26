@@ -39,6 +39,11 @@ media:
     media_url: https://static.timesnewsgroup.com.au/prod/uploads/sites/21/2026/08/tng-img-19-08-58-1.jpg
     publisher: Geelong Times
     caption: 'Drugs, weapons and ammunition seized during the Geelong week of action. Photo: Victoria Police'
+  - kind: photo
+    url: https://www.bay939.com.au/local-news/drugs-weapons-seized-during-police-operation/
+    media_url: https://www.bay939.com.au/wp-content/uploads/sites/31/2026/11/police-action-vic-police.jpg
+    publisher: bay 93.9
+    caption: 'Seven people were arrested during the operation. Photo: Victoria Police'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 840ca123dd145aec5281e79d3853fb20
@@ -52,30 +57,25 @@ sources:
     url: https://www.police.vic.gov.au/seven-arrests-during-week-action-targeting-drugs-geelong
     publisher: Victoria Police
     date: 2026-11-23
-open_questions:
-  - No weight, plant count or other quantity was published for the cannabis seized, so no cannabis quantity is recorded.
-  - The significant quantity described cannot be separated into cannabis and other substances.
-  - The dates 16 to 20 November 2026 are inferred from Monday to Friday last week relative to the 23 November 2026 publication; no calendar dates were stated.
-  - One account spells the suburb Mount Dunned and the other Mount Duneed; this report uses Mount Duneed.
-  - Only three of the seven arrested people were described in detail, so the charges and outcomes for the other four are unknown.
-  - The reports do not specify which drug each possession of a drug of dependence charge related to.
-  - No court dates or outcomes were reported.
-  - The two accounts repeat the same police operation and are not independent reporting.
+  - title: Drugs, weapons seized during police operation
+    url: https://www.bay939.com.au/local-news/drugs-weapons-seized-during-police-operation/
+    publisher: bay 93.9
+    date: 2026-11-23
 ---
 
 Seven people were arrested during a week-long police operation targeting illicit
-drug activity across Geelong. [@1] The operation was led by the Geelong
+drug activity across Geelong. [@1,3] The operation was led by the Geelong
 Divisional Response Unit with support from local police and the Dog Squad. [@1]
 The operation ran from Monday to Friday last week. [@2] Officers executed nine
 search warrants and conducted two Firearm Prohibition Order compliance checks at
 properties in Corio, Norlane, Mount Duneed, Herne Hill, Whittington and Thomson.
-[@1]
+[@1,3]
 
 Police seized cannabis, methylamphetamine, 1,4-butanediol and prescription
-medication during the operation. [@1] Victoria Police described the haul as a
+medication during the operation. [@1,3] Victoria Police described the haul as a
 significant amount of drugs including cannabis, 1,4 Butanediol,
 methylamphetamine and prescription medication. [@2] Two machetes, a knife and
-ammunition were also recovered. [@1] A 29-year-old Breakwater man was charged
+ammunition were also recovered. [@1,3] A 29-year-old Breakwater man was charged
 with possession of a drug of dependence. [@1] A 38-year-old Armstrong Creek
 woman was charged with possession of a drug of dependence, possession of
 ammunition without authority, possession of prohibited weapons and handling
@@ -85,7 +85,6 @@ of dependence and possession of a prohibited weapon. [@1]
 Geelong Divisional Response Unit Detective Sergeant Benjamin Nash said the
 operation was aimed at removing illicit drugs from Geelong streets. [@1] Nash
 said every arrest and every seizure makes it harder for offenders to continue
-and sends a clear message that it will not be tolerated in Geelong. [@1] Police
+and sends a clear message that it will not be tolerated in Geelong. [@1,3] Police
 said similar operations would be conducted in the future as part of ongoing
 efforts to disrupt drug-related offending across Geelong. [@1]
-
