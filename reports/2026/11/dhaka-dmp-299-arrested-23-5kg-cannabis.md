@@ -43,6 +43,10 @@ sources:
     publisher: ডিএমপি নিউজ (DMP News)
     date: 2026-11-21
     language: bn
+  - title: DMP arrests 299 in 24-hour drive, including 57 members of banned organisations
+    url: https://www.tbsnews.net/bangladesh/dmp-arrests-299-24-hour-drive-including-57-members-banned-organisations-1609451
+    publisher: The Business Standard
+    date: 2026-11-21
 open_questions:
   - The 299 arrests and 32 cases cover the whole 24-hour sweep across all alleged offences; how many were linked to cannabis was not stated.
   - The yaba tablets, crude bombs, petrol, gas lighter, mobile phones and motorcycle seized in the same drives are excluded from the cannabis figures.
@@ -53,19 +57,18 @@ open_questions:
 ---
 
 Dhaka Metropolitan Police arrested 299 people in 24 hours of regular drives
-across the capital. [@1] Police filed 32 cases with different police stations
-over the same period. [@1] The raids took place on Friday 20 November 2026 in
-different police station areas of Dhaka. [@2]
+across the capital. [@1,3] The 299 included 57 members of banned organisations. [@3] Police filed 32 cases with different police stations
+over the same period. [@1,3] The raids took place on Friday 20 November 2026 in
+different police station areas of Dhaka. [@2,3]
 
 Mirpur division recorded the most arrests with 73, followed by Tejgaon with 48,
 Uttara with 47, Wari with 37, Motijheel with 26, Ramna with 23, Lalbagh with 19
-and Gulshan with 18. [@1] The Detective Branch arrested four people and the
-Special Reserve Unit another four. [@1]
+and Gulshan with 18. [@1,3] The Detective Branch arrested four people and the
+Special Reserve Unit another four. [@1,3]
 
-Officers seized 23.5 kg of cannabis during the drives. [@1] The same operations
+Officers seized 23.5 kg of cannabis during the drives. [@1,3] The same operations
 recovered four unexploded crude bombs and fragments of four exploded bombs, 50
 yaba tablets, four bottles of liquid petrol and two polythene balls containing
-petrol. [@1] Police also seized a gas lighter, six mobile phones and a
-motorcycle. [@1] Legal proceedings against those arrested were under way, the
-DMP said. [@1]
-
+petrol. [@1,3] Police also seized a gas lighter, six mobile phones and a
+motorcycle. [@1,3] Legal proceedings against those arrested were under way, the
+DMP said. [@1,3]
