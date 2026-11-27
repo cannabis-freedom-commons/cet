@@ -48,6 +48,11 @@ sources:
     publisher: Il Mattino
     date: 2026-11-26
     language: it
+  - title: 'Hashish e marijuana dalla Spagna nascosti tra carta igienica e fazzoletti: tre arresti nel Casertano'
+    url: https://www.ilgazzettinovesuviano.com/2026/11/25/droga-spagna-hashish-marijuana-tre-arresti-aversa/
+    publisher: Il Gazzettino vesuviano
+    date: 2026-11-25
+    language: it
 open_questions:
   - No separate date for the custody operation was given; 26 November 2026 is the publication date and is used as the incident date.
   - No separate weights for hashish and marijuana within the reported 400 kilograms were published.
@@ -58,27 +63,26 @@ open_questions:
 
 Guardia di Finanza officers in Aversa executed prison custody orders against
 three people suspected of importing large quantities of hashish and marijuana
-for the national market. [@1] The three live in Naples, Marano di Napoli and
+for the national market. [@1,2] The three live in Naples, Marano di Napoli and
 Pozzuoli. [@1] Two of them, from Naples and Marano, had already been arrested in
 flagrante during the earlier investigation. [@1] The measures were ordered
 during the preliminary-investigations phase. [@1] The Naples North prosecution
 said the three must be presumed innocent until any final sentence. [@1]
 
 Over about nine months, investigators found several stores holding about 400
-kilograms of hashish and marijuana, which were then seized. [@1] Investigators
+kilograms of hashish and marijuana, which were then seized. [@1,2] Investigators
 also preventively seized a building in Giugliano in Campania said to serve as a
 logistics point for storing, keeping and concealing the drugs. [@1] The hashish
 and marijuana were imported from Spain by land, hidden in cover loads of
-consumer goods. [@1] Those loads included napkins, tissues and toilet paper.
-[@1]
+consumer goods. [@1,2] Those loads included napkins, tissues and toilet paper.
+[@1,2]
 
 Once in Italy, the drugs were also distributed in the Agro Aversano, especially
 among nightlife-goers. [@1] Investigators said the substance was sold in the
 Aversa area through a distribution network aimed particularly at young people
 and nightclub patrons. [@1] The routes used were Spain-Italy and
 Italy-Netherlands, with later transfers in the provinces of Naples and Salerno.
-[@1] The inquiry used phone and environmental wiretaps, call-record analysis,
+[@1,2] The inquiry used phone and environmental wiretaps, call-record analysis,
 CCTV images and surveillance, tailing and checks. [@1] The Aversa unit's work
 expanded beyond its district to several places in the province and the Naples
 metropolitan area. [@1]
-
