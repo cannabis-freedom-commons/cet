@@ -73,11 +73,19 @@ sources:
     publisher: Le Quotidien
     date: 2026-04-03
     language: fr
+  - title: Luxembourg under pressure from drug traffickers
+    url: https://en.paperjam.lu/article/luxembourg-under-pressure-from-drug-traffickers
+    publisher: Paperjam
+    date: 2026-03-31
 open_questions:
   - The exact date of the customs find is not given; 26 March 2026 is the date of the prosecutor's announcement, and the find itself is placed in early March.
   - Le Quotidien describes the 123 kg as cannabis resin, while the report records herbal cannabis; the accounts do not agree on the form of the drug.
+  - It is unclear whether the customs interception occurred on 26 March 2026 or earlier in March 2026.
+  - The number of people arrested in France and any charges or court outcomes were not reported.
+  - No cannabis figure is given for the 88 kilograms of cocaine seized a few days apart, which is not counted here.
+  - No figure for the exact gross weight above 123 kilograms was published.
 ---
 
-Luxembourg customs, after targeting work, stopped an air shipment from the United States that was bound for France and arrived at the Cargo Center at Luxembourg Airport. [@1,2,3,4,5] The goods were declared as decorative cushions. [@1,2,3,4,5,6] Inside, officers found drugs and seized more than 123 kilograms gross of cannabis. [@1,2,3,4,5,6] The customs find was made in early March 2026, the prosecutor said. [@7]
+Luxembourg customs, after targeting work, stopped an air shipment from the United States that was bound for France and arrived at the Cargo Center at Luxembourg Airport. [@1,2,3,4,5] The goods were declared as decorative cushions. [@1,2,3,4,5,6,8] Inside, officers found drugs and seized more than 123 kilograms gross of cannabis. [@1,2,3,4,5,6,8] The customs find was made in early March 2026, the prosecutor said. [@7]
 
-The public prosecutor in Luxembourg said on 26 March 2026 that the French authorities were told at once. [@1,2,3,5] The cannabis was placed under seal and was to be destroyed under the rules in force. [@1,3,5,6] The prosecutor said a quantity of that size could only match structured, large-scale distribution and the means of organised networks. [@1,2,3,5] The statement names no one arrested. [@1]
+The public prosecutor in Luxembourg said on 26 March 2026 that the French authorities were told at once. [@1,2,3,5] The final destination was France, where several arrests were made as part of the criminal investigation. [@8] The cannabis was placed under seal and was to be destroyed under the rules in force. [@1,3,5,6] The prosecutor said a quantity of that size could only match structured, large-scale distribution and the means of organised networks. [@1,2,3,5] The prosecutor estimated the retail value of the cannabis shipment at approximately 4.4 million euros. [@8] The statement names no one arrested. [@1]
