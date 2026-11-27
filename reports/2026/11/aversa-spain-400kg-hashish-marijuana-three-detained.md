@@ -53,36 +53,35 @@ sources:
     publisher: Il Gazzettino vesuviano
     date: 2026-11-25
     language: it
-open_questions:
-  - No separate date for the custody operation was given; 26 November 2026 is the publication date and is used as the incident date.
-  - No separate weights for hashish and marijuana within the reported 400 kilograms were published.
-  - No court outcome beyond the pre-trial custody order was reported.
-  - The account rests on a single outlet's report of the Guardia di Finanza investigation.
-  - It is not stated whether drugs seized in the two earlier flagrante arrests are included in the 400-kilogram total.
+  - title: Hashish e marijuana dalla Spagna, tre in carcere
+    url: https://ilgiornalepopolare.it/hashish-e-marijuana-dalla-spagna-tre-in-carcere/
+    publisher: Il Giornale Popolare
+    date: 2026-11-25
+    language: it
 ---
 
 Guardia di Finanza officers in Aversa executed prison custody orders against
 three people suspected of importing large quantities of hashish and marijuana
-for the national market. [@1,2] The three live in Naples, Marano di Napoli and
+for the national market. [@1,2,3] The three live in Naples, Marano di Napoli and
 Pozzuoli. [@1] Two of them, from Naples and Marano, had already been arrested in
 flagrante during the earlier investigation. [@1] The measures were ordered
-during the preliminary-investigations phase. [@1] The Naples North prosecution
+during the preliminary-investigations phase. [@1] The custody order was issued by the investigating judge (Gip) of the Tribunal of Naples North. [@3] The Naples North prosecution
 said the three must be presumed innocent until any final sentence. [@1]
 
 Over about nine months, investigators found several stores holding about 400
-kilograms of hashish and marijuana, which were then seized. [@1,2] Investigators
+kilograms of hashish and marijuana, which were then seized. [@1,2,3] Investigators
 also preventively seized a building in Giugliano in Campania said to serve as a
 logistics point for storing, keeping and concealing the drugs. [@1] The hashish
 and marijuana were imported from Spain by land, hidden in cover loads of
-consumer goods. [@1,2] Those loads included napkins, tissues and toilet paper.
-[@1,2]
+consumer goods. [@1,2,3] Those loads included napkins, tissues and toilet paper.
+[@1,2,3]
 
 Once in Italy, the drugs were also distributed in the Agro Aversano, especially
 among nightlife-goers. [@1] Investigators said the substance was sold in the
 Aversa area through a distribution network aimed particularly at young people
 and nightclub patrons. [@1] The routes used were Spain-Italy and
 Italy-Netherlands, with later transfers in the provinces of Naples and Salerno.
-[@1,2] The inquiry used phone and environmental wiretaps, call-record analysis,
-CCTV images and surveillance, tailing and checks. [@1] The Aversa unit's work
+[@1,2,3] The inquiry used phone and environmental wiretaps, call-record analysis,
+CCTV images and surveillance, tailing and checks. [@1,3] The Aversa unit's work
 expanded beyond its district to several places in the province and the Naples
 metropolitan area. [@1]
