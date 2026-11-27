@@ -37,27 +37,31 @@ sources:
     url: https://www.illawarramercury.com.au/story/9398623/police-seize-836-cannabis-plants-in-wollongong-warehouse-raid/
     publisher: Illawarra Mercury
     date: 2026-11-26
+  - title: Police seize hundreds of cannabis plants from 'sophisticated' grow house
+    url: https://www.southcoastregister.com.au/story/9398623/police-seize-836-cannabis-plants-in-wollongong-warehouse-raid/
+    publisher: South Coast Register
+    date: 2026-11-26
+  - title: Major Cannabis operation raided in the Northern Illawarra
+    url: https://www.wavefm.com.au/local-news/major-cannabis-operation-raided-in-the-northern-illawarra/
+    publisher: WaveFM
+    date: 2026-11-27
 open_questions:
-  - No exact number of plants beyond more than 800 was stated.
-  - No weight, value, area, or number of people involved was stated.
-  - No street or suburb for the grow house or the industrial unit was named.
-  - No arrests, charges or court outcome were reported.
-  - The reports give no separate date for the seizure; 26 November 2026 is the publication date used as the incident date.
-  - The whole account rests on a single outlet's reporting.
-  - The text gives a number of plants ("800 cannabis plants") but the figures have no plants_destroyed; check whether it belongs there.
+    - No street address was named for the industrial premises in Wollongong's northern suburbs.
+    - No value or estimated street value was published for the cannabis seized.
+    - The specific charges against the man and the date of his court appearance were not reported.
+    - The outcome of the court case was not reported.
 ---
 
 Police have seized more than 800 cannabis plants from an alleged grow house in
-Wollongong's northern suburbs. [@1] Police described the raided property as a
-sophisticated grow house. [@1]
+Wollongong's northern suburbs. [@1,2] Police described the raided property as a
+sophisticated grow house. [@1] Officers dismantled a sophisticated indoor hydroponic cannabis setup. [@3]
 
-The seizure involved hundreds of cannabis plants. [@1] The alleged grow house
-stood in Wollongong's northern suburbs. [@1] Cannabis plants were found in a
-Wollongong industrial unit. [@1] The photo of the plants found in the industrial
+The seizure involved hundreds of cannabis plants. [@1] The seizure comprised 836 cannabis plants and more than 320 grams of dried cannabis. [@3] The alleged grow house
+stood in Wollongong's northern suburbs. [@1] Police executed a search warrant at the industrial premises on the morning of 25 November 2026. [@3] Cannabis plants were found in a
+Wollongong industrial unit. [@1,2] A man allegedly tried to flee when police entered and was arrested. [@3] The photo of the plants found in the industrial
 unit was credited to the Wollongong Police District. [@1]
 
-Officers seized more than 800 cannabis plants from the property. [@1] Police
+Officers seized more than 800 cannabis plants from the property. [@1] The man was charged and refused bail to appear before court. [@3] Police
 treated the cultivation site as a sophisticated operation. [@1] The industrial
 unit held the cannabis plants the police photographed. [@1] Hundreds of plants
 were seized from the sophisticated grow house. [@1]
-
