@@ -52,23 +52,33 @@ sources:
     publisher: Vegabajadigital
     date: 2026-11-25
     language: es
-open_questions:
-  - No separate operation date was published, so the 25 November 2026 publication date is used for the incident.
-  - The hashish quantity was reported as approximate, so the 1.68 kg total sums the approximate kilo with 680 grams.
-  - The half gram of cocaine from the same search is excluded from the cannabis figures.
-  - No names were published for the two detainees beyond their ages.
-  - No outcome beyond release with charges was reported.
+  - title: 'Casi un kilo de hachís, armas y 10.000 euros: la Guardia Civil desmantela un punto de droga en Callosa de Segura'
+    url: https://www.informacion.es/sucesos/sucesos-en-alicante/2026/11/25/kilo-hachis-armas-10-000-136827157.html
+    publisher: Información
+    date: 2026-11-25
+    language: es
+media:
+  - kind: photo
+    url: https://www.informacion.es/sucesos/sucesos-en-alicante/2026/11/25/kilo-hachis-armas-10-000-136827157.html
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/288644d0-9573-498a-9757-fd800ce10124_16-9-discover-aspect-ratio_default_0_x960y360.webp
+    publisher: Información
+    caption: 'Guardia Civil officers during the operation against a drug sale point in Callosa de Segura. Photo: Información'
+  - kind: photo
+    url: https://www.informacion.es/sucesos/sucesos-en-alicante/2026/11/25/kilo-hachis-armas-10-000-136827157.html
+    media_url: https://estaticos-cdn.prensaiberica.es/clip/8246ffd1-9d20-442f-a6f8-546b34819779_source-aspect-ratio_default_0_x480y240.webp
+    publisher: Información
+    caption: 'Cash, substances, weapons and tools seized in the operation. Photo: Información'
 ---
 
 The Guardia Civil arrested a 31-year-old man and a 27-year-old woman in Callosa
-de Segura as alleged perpetrators of drug trafficking. [@1] The arrests followed
+de Segura as alleged perpetrators of drug trafficking. [@1,2] The arrests followed
 the dismantling of a retail drug sales point in the town. [@1] The detainees
 were placed at the disposal of the investigating section of the Orihuela trial
-court, which ordered their release with charges. [@1]
+court, which ordered their release with charges. [@1,2]
 
 Officers searching a home seized about one kilogram of hashish, 680 grams of
-marijuana and half a gram of cocaine. [@1] They also seized 9,605 euros in cash.
-[@1] Officers also found a compressed-air weapon, ammunition, bladed weapons,
+marijuana and half a gram of cocaine. [@1,2] They also seized 9,605 euros in cash.
+[@1,2] Officers also found a compressed-air weapon, ammunition, bladed weapons,
 precision scales and other items linked to preparing and distributing drugs.
 [@1]
 
@@ -77,7 +87,6 @@ in the foothills of the sierra to buy drugs. [@1] That influx was causing
 concern and insecurity among local residents. [@1] Investigators in Callosa de
 Segura set up a targeted operation to check activity in the area. [@1] Their
 inquiries confirmed alleged sales of several substances, mainly cocaine, hashish
-and marijuana. [@1] The search involved officers from the Torrevieja
+and marijuana. [@1,2] The search involved officers from the Torrevieja
 public-safety unit, the Alicante canine unit and the Callosa de Segura post,
 with help from the town Local Police. [@1]
-
