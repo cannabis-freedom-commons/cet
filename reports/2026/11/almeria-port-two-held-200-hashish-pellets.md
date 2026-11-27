@@ -61,6 +61,11 @@ sources:
     publisher: Attasiaa
     date: 2026-11-26
     language: ar
+  - title: توقيف شخصين قادمين من المغرب بـحوزتهما 200 كبسولة حشيش مخبأة بجسديهما بميناء ألميريا الإسباني - 24 ساعة
+    url: https://24saa.com/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D9%82%D8%A7%D8%AF%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A8%D9%80%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85/
+    publisher: 24 ساعة
+    date: 2026-11-26
+    language: ar
 open_questions:
     - No weight for the 200 pellets was published, so no cannabis weight is recorded.
     - The interception date was not stated separately; 25 November 2026, the publication date of the 20minutos and Costa accounts, is used as the incident date.
@@ -70,12 +75,12 @@ open_questions:
 
 Guardia Civil officers detained two people at the Port of Almería for suspected
 drug trafficking after finding 200 hashish pellets inside their bodies during a
-passenger and goods check on arrivals from Nador, Morocco. [@1,3] Officers of the
+passenger and goods check on arrivals from Nador, Morocco. [@1,3,4] Officers of the
 fiscal and border analysis unit interviewed the two couriers and, noting their
 nervous demeanour, asked them to undergo a voluntary X-ray examination at a
-medical centre, to which both agreed. [@1] The examination detected numerous
+medical centre, to which both agreed. [@1,4] The examination detected numerous
 rounded foreign bodies consistent with the wrappers, which were later expelled
-and seized by officers. [@1] One detained person carried 105 small hashish wrappers and the other carried 95. [@3]
+and seized by officers. [@1] One detained person carried 105 small hashish wrappers and the other carried 95. [@3,4]
 
 The pair were intercepted during a passenger and goods check on services
 arriving from Nador. [@2] Officers with the fiscal and border analysis unit
@@ -85,4 +90,4 @@ both people were arrested on suspicion of drug trafficking. [@2] The Guardia
 Civil said this method of concealment can be dangerous because any rupture of
 the packets can have serious consequences for the people who ingest them. [@2]
 The arrests form part of the force's wider operation against drug trafficking,
-cultivation and production in the province of Almeria. [@2]
+cultivation and production in the province of Almeria. [@2,4]
