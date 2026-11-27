@@ -77,18 +77,17 @@ sources:
     publisher: Infobae
     date: 2026-11-25
     language: es
-open_questions:
-  - No cannabis weight or street value was published; the quantities are plant counts only.
-  - The reports say the plants were seized, with no figure for any later destruction.
-  - No separate plant count was given for the other two plantations besides the 1,954 in the Las Gabias bunker.
-  - The grow shop's value was given only as 'several million euros', with no exact amount.
-  - No court outcome beyond the alleged leader's pre-trial detention was reported.
+  - title: VIDEO | Hallan 2,479 Plantas de Marihuana Debajo de Parque Infantil en Granada, España | N+
+    url: https://www.nmas.com.mx/internacional/watch-videos-hallan-2479-plantas-marihuana-debajo-parque-infantil-espana/
+    publisher: N+
+    date: 2026-11-26
+    language: es
 ---
 
 Guardia Civil officers arrested five people and kept three others under
-investigation. [@1,4] The find was in Las Gabias, near Granada, where officers
+investigation. [@1,4,5] The find was in Las Gabias, near Granada, where officers
 uncovered a sophisticated underground structure for growing and processing
-marijuana, concealed beneath a children's play park. [@1] The alleged head of
+marijuana, concealed beneath a children's play park. [@1,5] The alleged head of
 the organisation was remanded in custody. [@1] The operation was named
 Nazarí-Sabika 04. [@1,4] It was carried out on 17 November after more than a year
 of investigation and comprised 13 searches at properties in Granada city,
@@ -104,7 +103,7 @@ lighting, ventilation and climate control. [@1,4] The Guardia Civil described it
 as the largest and most sophisticated illegal growing bunker found to date in
 Granada province. [@1] Across the searches officers seized 2,479 marijuana
 plants from three plantations, two cars, two vans, a caravan, a trailer, a stun
-gun and 22,970 euros in banknotes. [@1,4] They also sealed a commercial grow shop
+gun and 22,970 euros in banknotes. [@1,4,5] They also sealed a commercial grow shop
 whose value investigators put at several million euros. [@1] A power tower
 supplied the plantation through an illegal grid connection whose load equalled
 the consumption of about 100 homes. [@1]
