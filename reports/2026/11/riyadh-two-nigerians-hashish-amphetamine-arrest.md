@@ -41,24 +41,23 @@ sources:
     url: https://www.lindaikejisblog.com/2026/11/two-nigerians-arrested-for-drug-trafficking-in-saudi-arabia.html
     publisher: Linda Ikeji's Blog
     date: 2026-11-26
-open_questions:
-  - No quantity, weight, plant count or value was published for the hashish, amphetamine or tablets.
-  - Only the publication date of 25 November 2026 is known; no separate date for the arrest was given.
-  - The two suspects were identified only as Nigerian nationals; no names or ages were published.
-  - No charge, detention measure or court outcome was reported; the case stood at referral to the competent authority.
-  - The English-language accounts repeat the Ajel announcement and provide no independent reporting.
+  - title: القبض على نيجيريين لترويجهما الحشيش وأقراص طبية بالرياض
+    url: https://slaati.com/2026/11/25/p2882443.html
+    publisher: صحيفة صدى الالكترونية
+    date: 2026-11-25
+    language: ar
 ---
 
 Patrols of the General Directorate of Mujahideen in the Riyadh region arrested
 two Nigerian nationals described as violators of the border-security system for
-promoting narcotic substances. [@1] The suspects were apprehended by patrol
+promoting narcotic substances. [@1,3] The suspects were apprehended by patrol
 officers of the General Directorate of Mujahideen, who reportedly found them in
 possession of the narcotic substances and medically regulated pills. [@2]
 
 Those arrested were accused of promoting two narcotic substances, hashish and
-amphetamine, alongside pills subject to medical circulation regulation. [@2]
+amphetamine, alongside pills subject to medical circulation regulation. [@2,3]
 Officers stopped and detained the two men, completed the statutory procedures
-against them and referred them to the competent authority. [@1]
+against them and referred them to the competent authority. [@1,3]
 
 The directorate urged anyone with information on smugglers and drug dealers to
 report on 911 in Makkah, Madinah, Riyadh and the Eastern Province. [@1] Callers
@@ -66,4 +65,3 @@ in the rest of Saudi Arabia were directed to use emergency 999 or 995 for such
 reports. [@2] The General Directorate of Mujahideen also urged residents to
 report suspected drug-related activities through designated emergency numbers.
 [@2]
-
