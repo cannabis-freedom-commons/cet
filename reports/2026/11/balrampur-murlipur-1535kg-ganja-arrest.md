@@ -53,11 +53,22 @@ sources:
     publisher: Live Hindustan
     date: 2026-11-21
     language: hi
+  - title: 'बलरामपुर में गांजे के साथ युवक गिरफ्तार: डेढ़ किलो गांजा जब्त, दो मोबाइल फोन पकड़े; केस दर्ज'
+    url: https://www.bhaskar.com/local/uttar-pradesh/balrampur/video/balrampur-police-arrest-youth-ganja-seizure-murlipur-crime-news-139755235.html?type=video
+    publisher: Dainik Bhaskar
+    date: 2026-11-21
+    language: hi
+media:
+  - kind: video
+    url: https://www.bhaskar.com/local/uttar-pradesh/balrampur/video/balrampur-police-arrest-youth-ganja-seizure-murlipur-crime-news-139755235.html?type=video
+    media_url: https://videos.bhaskarassets.com/2026/11/21/ca89c24b-f929-4bab-8f59-9b7308f1de03_1795251936999/mp4/v360.mp4
+    publisher: Dainik Bhaskar
+    caption: Dainik Bhaskar video report on the Balrampur youth arrested with ganja and two mobile phones.
 ---
 
 Kotwali Nagar police in Balrampur, Uttar Pradesh, arrested a youth with ganja
 near Murlipur-Mewalal Bandh and seized 1.535 kg of ganja and two mobile phones.
-[@1,3] Hindustan identified him as Manoj Kumar, 22, a resident of Dhandhara
+[@1,3,4] Hindustan identified him as Manoj Kumar, 22, a resident of Dhandhara
 Shivpura village in the Lalia police station area. [@2,3] A police team was
 checking the area around 8 pm on Friday evening. [@2,3] An informer at Masjid
 crossing said a youth was selling ganja near a bridge on the embankment leading
