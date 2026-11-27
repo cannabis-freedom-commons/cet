@@ -59,16 +59,22 @@ sources:
     publisher: Bangkokbiznews
     date: 2026-11-24
     language: th
+  - title: “ศุลกากร” จับมือญี่ปุ่นสกัดยาเสพติด ตรวจยึด “กัญชา–อีเฟดรีน” กว่า 15.39 ล้านบาท
+    url: https://today.line.me/th/v3/article/DRjM9zV
+    publisher: ข่าวหุ้นธุรกิจ | LINE TODAY
+    date: 2026-11-24
+    language: th
 open_questions:
-  - Left out products, as its quotation was not found in สยามรัฐ.
-  - Left out kg seized, as its quotation was not found in สยามรัฐ.
+    - No exporter, suspect or arrest was named, and no charge or court outcome was reported.
+    - The intended destination of the cannabis consignment was not disclosed.
+    - A separate seizure of 19,970 g of ephedrine hidden in coffee products bound for New Zealand on 20 November 2026, described in the same announcement, is a different non-cannabis incident left out here.
 ---
 
 Thai Customs officers seized 1,500 kilograms of dried cannabis flower at Laem
 Chabang Port in Chon Buri province on 18 November 2026, after inspecting an
-outbound consignment declared as paper-based cat litter. [@1,4] The flowers were
-packed in vacuum-sealed bags. [@3,4] Customs valued the shipment at more than 15
-million baht. [@1,4] The same shipment was reported as 1,500 kilogrammes of dried
+outbound consignment declared as paper-based cat litter. [@1,4,5] The flowers were
+packed in vacuum-sealed bags. [@3,4,5] Customs valued the shipment at more than 15
+million baht. [@1,4,5] The same shipment was reported as 1,500 kilogrammes of dried
 cannabis flowers worth approximately 15 million baht. [@2]
 
 The seizure was carried out jointly by the Customs Department's Enforcement
@@ -83,7 +89,7 @@ Protection and Promotion of Thai Traditional Medicine Wisdom Act 1999. [@2]
 
 Customs treated the case as a false declaration of restricted goods and an
 attempt to take goods out of the country while circumventing restrictions,
-offences under the Customs Act 2017 and traditional-medicine legislation. [@2]
+offences under the Customs Act 2017 and traditional-medicine legislation. [@2,5]
 Customs Department director-general Phantong Loykulnanta told officials to
 intensify anti-smuggling work with other law-enforcement agencies. [@2] The
 operation followed a policy by Deputy Prime Minister and Finance Minister Ekniti
