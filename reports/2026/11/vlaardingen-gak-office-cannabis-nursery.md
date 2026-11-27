@@ -43,6 +43,11 @@ media:
     media_url: https://images.ad.nl/ZGlvLzI4MDUyNjUwMi9maXQtd2lkdGgvNjI4/het-pand-waar-vroeger-het-gak-en-later-het-uwv-was-gevestigd-in-vlaardingen-en-waar-deze-week-een-hennepkwekerij-is-aangetroffen
     publisher: AD.nl
     caption: 'The former GAK and later UWV office building in Vlaardingen where a cannabis nursery was found this week. Photo: Privéfoto'
+  - kind: photo
+    url: https://www.rodi.nl/vlaardingen/politiek/123853/welke-veiligheidsrisicos-bracht-deze-hennepkwekerij-met-zich-mee-
+    media_url: https://images.pubble.cloud/worker/webp/default/840/149236/47c4eadf/content/2026/11/7654efc8-f242-4e8a-a001-36cd148c063c
+    publisher: Rodi Vlaardingen
+    caption: 'The former GAK and UWV office on Industrieweg in Vlaardingen where the cannabis nursery was found. Photo: Peter Spek'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: fa412bfb09bc1ea6b6eb5c0d1adeada1
@@ -78,12 +83,11 @@ sources:
     publisher: AD.nl
     date: 2026-11-19
     language: nl
-open_questions:
-    - No weight or estimated value for the plants or the growing equipment was published.
-    - No one had been arrested at the time of the AD publication on 18 November 2026; whether anyone was later charged or identified remains unknown.
-    - The AD account attributes the information to a Rotterdam police unit spokesperson, while the earlier accounts reproduced the same Flashphoto press-bureau report without naming the authority carrying out the dismantling.
-    - How the nursery was discovered and how long it had been operating were not reported.
-    - The dismantling began on the evening of Tuesday 17 November and continued into the night of Wednesday 18 November, so the event spans both dates.
+  - title: ‘Welke veiligheidsrisico’s bracht deze hennepkwekerij met zich mee?’
+    url: https://www.rodi.nl/vlaardingen/politiek/123853/welke-veiligheidsrisicos-bracht-deze-hennepkwekerij-met-zich-mee-
+    publisher: Rodi Vlaardingen
+    date: 2026-11-23
+    language: nl
 ---
 
 A very large cannabis nursery was dismantled on the evening of Tuesday 17
@@ -101,4 +105,4 @@ The nine-storey building was formerly used by the GAK, later the UWV and the
 municipal service Stadswerk. [@4] The nine-storey building was not owned by the municipality; it was sold at the end of 2019 to bakery-ingredients producer Royal Steensma BV of Leeuwarden, taken over by Dawn Foods in 2024. [@6] In recent years the building served as a joint
 knowledge, innovation and training centre for the food industry. [@1] The
 building stands next to the De Elementen homeless shelter and the Food
-Innovation Academy. [@3] The CDA sought clarification from mayor Frederik Zevenbergen over the discovery. [@6]
+Innovation Academy. [@3] The CDA sought clarification from mayor Frederik Zevenbergen over the discovery. [@6,7] He also questioned whether the municipality adequately supervises long-vacant buildings in the city. [@7] Venema asked who owns the building and who is responsible for managing and supervising its use. [@7] He asked whether the safety of people using the building and those nearby had been put at risk and whether the rest of the building was checked for problems and safety risks. [@7] CDA faction leader Corné Venema said the find was worrying because of the building's position beside the De Elementen homeless shelter and the Food Innovation Academy. [@7]
