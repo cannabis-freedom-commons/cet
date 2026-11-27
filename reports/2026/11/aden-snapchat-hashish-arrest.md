@@ -71,24 +71,29 @@ sources:
     publisher: صحيفة 4 مايو
     date: 2026-11-26
     language: ar
+  - title: شرطة عدن تضبط فتاة صاحبة حساب غزال في المعلا بحوزتها حشيش بعد تباهيها بالتعاطي على سناب شات
+    url: https://www.khlaasa.net/1539445
+    publisher: الخلاصة نت
+    date: 2026-11-26
+    language: ar
 ---
 
 Aden's anti-narcotics police and the National Security Forces, led by Colonel
-Miyas Al-Ja'dani, detained a young woman known on Snapchat as 'Ghazal'. [@4,5,6] The
+Miyas Al-Ja'dani, detained a young woman known on Snapchat as 'Ghazal'. [@4,5,6,7] The
 security media office dated its statement Wednesday 25 November 2026. [@3] She
 was accused of possessing hashish and of displaying her use of it on her
 Snapchat account. [@2,5,6] Officers caught her in Al-Ma'la district of Aden after a
 monitoring and tracking operation. [@4,6] The Security Media Centre said the
 arrest came after she posted photos and videos on her account boasting about
-taking hashish. [@4,6]
+taking hashish. [@4,6,7]
 
 The operation produced a substance suspected to be hashish, and a photo
 circulated after the arrest showing the items seized from her. [@1] The case
 file and the seized items were handed to the Security and Investigation
-Prosecution to refer the woman to justice. [@4,5,6]
+Prosecution to refer the woman to justice. [@4,5,6,7]
 
 Colonel Al-Ja'dani said social media was not a space for evading accountability
 and that anyone involved in possessing, promoting or using drugs would face
-legal action. [@4,5,6] He said the arrest was part of continuing security campaigns
+legal action. [@4,5,6,7] He said the arrest was part of continuing security campaigns
 by the anti-narcotics directorate aimed at drying up the supply and protecting
 young people. [@3,5]
