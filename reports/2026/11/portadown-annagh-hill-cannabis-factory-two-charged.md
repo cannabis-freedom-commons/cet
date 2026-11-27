@@ -52,6 +52,11 @@ media:
     media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/ac3b/live/a58db3b0-e8c3-11f1-ac76-db9e97f93d67.jpg.webp
     publisher: BBC News
     caption: Police say the operation spanned three floors.
+  - kind: photo
+    url: https://www.newsletter.co.uk/news/courts/two-men-due-in-court-over-substantial-cannabis-factory-discovery-9374967
+    media_url: https://www.newsletter.co.uk/jpim-static/image/2026/11/26/7/55/Cannabis-Factory-(4).jpeg?trim=0,4,342,0&crop=&width=990&quality=65
+    publisher: Belfast News Letter
+    caption: 'The cannabis factory discovered in the Annagh Hill industrial estate in Portadown. Photo: Pacemaker/PSNI'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: eb86b0d24fa75515cba5bd9cfd55e501
@@ -82,12 +87,16 @@ sources:
     url: https://www.irishpost.com/news/substantial-cannabis-factory-discovered-in-co-armagh-316424
     publisher: Irish Post
     date: 2026-11-26
+  - title: Two men due in court over 'substantial' cannabis factory discovery
+    url: https://www.newsletter.co.uk/news/courts/two-men-due-in-court-over-substantial-cannabis-factory-discovery-9374967
+    publisher: Belfast News Letter
+    date: 2026-11-26
 ---
 
 Police found a substantial cannabis factory at a commercial unit in the Annagh
 Hill industrial estate in Portadown in the early hours of Wednesday 25 November
 2026, after noting a strong smell of cannabis. [@2,4,5,7] Two men, aged 32 and 27, who
-were inside the property were arrested. [@1,4,5,6,7]
+were inside the property were arrested. [@1,4,5,6,7,8]
 
 The operation spanned three floors and contained plants police said had an
 estimated street value of £200,000. [@1,4,6] PSNI Chief Inspector Flannigan said the
@@ -96,6 +105,6 @@ reached the local community. [@1,4,6]
 
 The men were charged with cultivating cannabis, possession of a Class B
 controlled drug, possession with intent to supply and being concerned in the
-supply of a Class B drug. [@1,5,6,7] They were expected to appear before Lisburn
-Magistrates Court on Thursday 26 November. [@3,5,6,7] PSNI said the charges would be
-reviewed by the Public Prosecution Service. [@3,5,7]
+supply of a Class B drug. [@1,5,6,7,8] They were expected to appear before Lisburn
+Magistrates Court on Thursday 26 November. [@3,5,6,7,8] PSNI said the charges would be
+reviewed by the Public Prosecution Service. [@3,5,7,8]
