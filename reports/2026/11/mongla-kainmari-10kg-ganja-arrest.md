@@ -69,28 +69,26 @@ sources:
     publisher: Daily Tritiya Matra
     date: 2026-11-22
     language: bn
-open_questions:
-  - No value or street price was published for the 10 kg of ganja.
-  - The reports do not say where the ganja came from or where it was being taken.
-  - No outcome of the Narcotics Control Act case beyond the filing of the case and his being sent to the Bagerhat court has been reported.
-  - The accounts repeat the same SRB-6 media statement, so they are not independent of each other; the court step is reported only by Naya Diganta.
-  - The same Janmobhumi roundup reports a separate SRB-6 arrest in Bagerhat town the previous night, an 18-year-old with 9.8 kg of ganja, a different event left out here.
-  - 'Left out, as its quotation was not found in Daily Ajker Songram: He was handed over to Mongla police station with the seized drugs for further legal action.'
+  - title: মোংলায় ১০ কেজি গাঁজাসহ মাদক কারবারি গ্রেপ্তার
+    url: https://www.eimattro.com/news/details/1795335379611/
+    publisher: এইমাত্র
+    date: 2026-11-22
+    language: bn
 ---
 
 SRB-6, a Bangladesh police special response battalion, arrested 40-year-old Md.
 Oli Khan, described as a drug dealer, and seized 10 kg of ganja from him in an
-anti-drug operation in the Kainmari area of Mongla, Bagerhat. [@1,5] The operation
+anti-drug operation in the Kainmari area of Mongla, Bagerhat. [@1,5,6] The operation
 was carried out in Kainmari under Mongla police station at about 10pm on
 Saturday 21 November 2026. [@1,5] Oli Khan is the son of the late Jabbar Khan and
-a resident of the Kainmari area of Mongla. [@3,5]
+a resident of the Kainmari area of Mongla. [@3,5,6] Kainmari lies in Chila Union of Mongla upazila. [@6]
 
 SRB-6 senior assistant director and media officer Syed Fazlur Rahman confirmed
 the arrest on the morning of Sunday 22 November. [@1,5] The raid followed secret
 information and was carried out by a team of SRB-6's CPC Sadar Company as part
-of SRB Forces' zero-tolerance policy against drugs. [@1,5] The recovered ganja was
+of SRB Forces' zero-tolerance policy against drugs. [@1,5,6] The recovered ganja was
 seized before witnesses and a regular case was filed against Oli Khan under the
-Narcotics Control Act at Mongla police station. [@2]
+Narcotics Control Act at Mongla police station. [@2,6]
 
 Mongla police station officer in charge Md. Atikur Rahman said the case under
 the Narcotics Control Act was filed by SRB-6. [@4,5] He was sent to the Bagerhat
