@@ -68,6 +68,9 @@ sources:
   - title: Men charged following cannabis factory discovery in Portadown
     url: https://www.psni.police.uk/latest-news/men-charged-following-cannabis-factory-discovery-portadown
     publisher: Police Service of Northern Ireland
+  - title: Cannabis factory find after police officers follow their noses
+    url: https://www.msn.com/en-gb/news/other/cannabis-factory-find-after-police-officers-follow-their-noses/ar-AA2icicY
+    publisher: MSN
 open_questions:
   - No count or weight of the plants was published; police gave only an estimated street value of £200,000.
   - 'No court outcome was reported: the men were due before Lisburn Magistrates Court on 26 November 2026 and the charges were subject to Public Prosecution Service review.'
@@ -77,17 +80,16 @@ open_questions:
 
 Police found a substantial cannabis factory at a commercial unit in the Annagh
 Hill industrial estate in Portadown in the early hours of Wednesday 25 November
-2026, after noting a strong smell of cannabis. [@2] Two men, aged 32 and 27, who
-were inside the property were arrested. [@1]
+2026, after noting a strong smell of cannabis. [@2,4] Two men, aged 32 and 27, who
+were inside the property were arrested. [@1,4]
 
 The operation spanned three floors and contained plants police said had an
-estimated street value of £200,000. [@1] PSNI Chief Inspector Flannigan said the
+estimated street value of £200,000. [@1,4] PSNI Chief Inspector Flannigan said the
 operation was capable of producing large quantities of cannabis that would have
-reached the local community. [@1]
+reached the local community. [@1,4]
 
 The men were charged with cultivating cannabis, possession of a Class B
 controlled drug, possession with intent to supply and being concerned in the
 supply of a Class B drug. [@1] They were expected to appear before Lisburn
 Magistrates Court on Thursday 26 November. [@3] PSNI said the charges would be
 reviewed by the Public Prosecution Service. [@3]
-
