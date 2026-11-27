@@ -43,11 +43,15 @@ sources:
     publisher: HMTV
     date: 2026-11-25
     language: te
+  - title: కడ్తాల్‌లో 5.935 కిలోల గంజాయి పట్టివేత
+    url: https://www.dishadaily.com/telangana/rangareddy/5935-kg-of-ganja-seized-in-kadthal-603644
+    publisher: Disha Daily
+    date: 2026-11-25
+    language: te
 open_questions:
-  - No separate calendar date for the checks was given; Wednesday coincides with the 25 November 2026 publication date used here.
-  - No value estimate was published for the 5.935 kg of ganja.
-  - No court outcome beyond remand to jail was reported.
-  - The account rests on a single outlet report of the police action.
+    - No separate calendar date for the checks was given; Wednesday coincides with the 25 November 2026 publication date used here.
+    - No value estimate was published for the 5.935 kg of ganja.
+    - No court outcome beyond remand to jail was reported.
 ---
 
 Kadthal police in Rangareddy district arrested one person and seized 5.935
@@ -55,18 +59,17 @@ kilograms of ganja during Wednesday checks on the outskirts of Maisigandi in
 Kadthal mandal. [@1] Police held the Wednesday checks near MRG Garden on the
 outskirts of Maisigandi village and arrested a man who was moving ganja. [@1]
 The checks followed information received by Kadthal Sub-Inspector B.
-Chandrashekhar. [@1] Officers took 26-year-old Dhanavath Venkatesh of Lokya
+Chandrashekhar. [@1,2] Officers took 26-year-old Dhanavath Venkatesh of Lokya
 Thanda in Nalgonda district into custody while he was moving ganja on a Yamaha
-Fascino two-wheeler. [@1]
+Fascino two-wheeler. [@1,2]
 
-A search of his bag found 5.935 kilograms of ganja packed in five packets. [@1]
+A search of his bag found 5.935 kilograms of ganja packed in five packets. [@1,2]
 Police also seized his mobile phone, two-wheeler, bag and a digital weighing
-machine. [@1] During questioning, he reportedly said he had bought the ganja in
-Odisha state and was selling it in areas around Hyderabad. [@1]
+machine. [@1,2] During questioning, he reportedly said he had bought the ganja in
+Odisha state and was selling it in areas around Hyderabad. [@1,2]
 
 Police registered a case under the NDPS Act, produced him before a court, and
-the magistrate ordered him to be sent to jail. [@1] Kadthal Inspector V.
+the magistrate ordered him to be sent to jail. [@1,2] Kadthal Inspector V.
 Saidireddy urged everyone to stay away from the transport, sale and use of
 intoxicants such as ganja. [@1] He asked the public to inform police immediately
-if they learn of such activity. [@1]
-
+if they learn of such activity. [@1,2]
