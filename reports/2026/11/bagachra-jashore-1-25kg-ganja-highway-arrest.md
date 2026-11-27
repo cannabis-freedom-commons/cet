@@ -60,12 +60,11 @@ sources:
     publisher: Ekusheysangbad
     date: 2026-11-21
     language: bn
-open_questions:
-    - No value or street estimate was published for the 1.25 kg of ganja.
-    - No charge section, case number or court date was published; the case was at the investigation stage.
-    - Whether Ikramul Islam was produced before a court or remanded, and which station is investigating, is not reported.
-    - The 1.25 kg was described as ganja, with no laboratory confirmation reported.
-    - The accounts draw on the same highway police statement and are not independent reporting.
+  - title: নাভারণ হাইওয়ে পুলিশের চেকপোস্টে গাঁজাসহ আটক ১, মোটরসাইকেল জব্দ
+    url: https://patradoot.net/%E0%A6%A8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%9A/
+    publisher: patradoot
+    date: 2026-11-21
+    language: bn
 media:
   - kind: photo
     url: https://www.gramerkagoj.com/country-news/317926
@@ -75,10 +74,10 @@ media:
 ---
 
 Navaron Highway Police arrested Ikramul Islam, a young man from the Benapole
-area, in Bagachra, Jashore, with 1.25 kg of ganja. [@1,3,4] The arrest took place at
+area, in Bagachra, Jashore, with 1.25 kg of ganja. [@1,3,4,5] The arrest took place at
 about noon on Saturday 21 November 2026 at a temporary checkpoint in front of
 Dr. Mashiar Rahman Degree Women's College at Baguri, on the Jashore-Satkhira
-highway. [@1,3,4] He is the son of Shirajul Islam of Raghunathpur Eastpara village
+highway. [@1,3,4,5] He is the son of Shirajul Islam of Raghunathpur Eastpara village
 in the Benapole port area. [@1,3,4]
 
 Highway police said they had set up the checkpoint at Baguri Beltala under
@@ -86,8 +85,8 @@ Sergeant Miraj Hossain to control illegal vehicle movement and keep order on the
 highway. [@1,3,4] When officers signalled a motorcycle to stop, the rider tried to
 flee and police detained him with the motorcycle. [@1,3] A search of a bag hanging
 from the motorcycle found 1.25 kg of ganja. [@1,3,4] Police seized the 100cc Walton
-motorcycle used to carry the ganja. [@2,3]
+motorcycle used to carry the ganja. [@2,3,5]
 
 Officer-in-charge Keramat Ali of Navaron Highway Thana said Ikramul was handed
-to Sharsha Thana after legal process. [@1,3,4] Sergeant Miraj Hossain filed the case
+to Sharsha Thana after legal process. [@1,3,4,5] Sergeant Miraj Hossain filed the case
 as complainant, the officer-in-charge said. [@2]
