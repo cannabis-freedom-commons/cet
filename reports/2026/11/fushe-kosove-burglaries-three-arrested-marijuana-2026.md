@@ -57,27 +57,24 @@ sources:
     publisher: Kallxo
     date: 2026-11-19
     language: sq
-open_questions:
-  - No weight or plant count was published for the marijuana seized, which was described only as a considerable amount.
-  - The seized material was described as a substance suspected to be marijuana, with no laboratory confirmation reported.
-  - No separate date was given for the searches at the four locations; 18 November 2026 is the date the operation began.
-  - Only initials were released for the three suspects, and no plea or court outcome was reported.
-  - The 60,000-euro figure is police's initial estimate of the burglaries' damage, not a value for the drugs, and no amount was published for the cash seized.
-  - The accounts reproduce the same Kosovo Police statement, so they are not independent reporting of the operation.
+  - title: 'Three arrested for a series of serious thefts in Kosovo Polje: Damage greater than 60.000 euros, a police officer''s official weapon stolen'
+    url: https://kossev.info/en/uhapseno-troje-zbog-serije-teskih-kradja-u-kosovom-polju-steta-veca-od-60-000-evra-ukradeno-i-sluzbeno-oruzje-policajca/
+    publisher: KoSSev
+    date: 2026-11-19
 ---
 
 Kosovo Police arrested three Kosovo citizens, identified only as A.B., F.H. and
 M.K., after a two-month investigation by the investigation unit of the Fushë
 Kosovë police station. [@1] The three are suspected of at least eight burglaries
-of apartments in Fushë Kosovë during October and November 2026. [@1] The police
+of apartments in Fushë Kosovë during October and November 2026. [@1,3] The police
 operation began on 18 November 2026. [@1] By order of the justice authorities
-officers searched four locations. [@1] At those locations police found and
+officers searched four locations. [@1,3] At those locations police found and
 seized gold jewellery, cash, a pistol, a vehicle suspected of use in the crimes,
 two telephones and a considerable amount of a substance suspected to be
-marijuana. [@2] Cases were initiated against the suspects for aggravated theft,
+marijuana. [@2,3] Cases were initiated against the suspects for aggravated theft,
 unauthorised possession of weapons and unauthorised possession of narcotics.
-[@2] After being interviewed, the three were sent to 48-hour detention by
-decision of the state prosecutor. [@1]
+[@2,3] After being interviewed, the three were sent to 48-hour detention by
+decision of the state prosecutor. [@1,3]
 
 Police said initial estimates put the material damage from the burglaries at
 more than 60,000 euros, including cash, gold jewellery, valuables and a police
@@ -85,4 +82,3 @@ officer's service weapon. [@1] Further investigations led officers to a jeweller
 in the Dardania neighbourhood of Pristina where the stolen jewellery was
 allegedly sold, and its owner was taken to a police station. [@1] Another
 quantity of gold was found and seized in Prizren. [@1]
-
