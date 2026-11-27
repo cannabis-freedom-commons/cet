@@ -208,6 +208,11 @@ sources:
     url: https://www.chosun.com/english/national-en/2026/11/27/JNHIPT4TINCHFI3QQILWW3VTIY/
     publisher: The Chosun Daily
     date: 2026-11-27
+  - title: 건물 한 층에 3700명분… 서울 한복판 친구집은 '대마 공장'이었다
+    url: https://www.chosun.com/national/national_general/2026/11/27/WTHEEYPQHRFXRE57LBUTNDZNOU/
+    publisher: 조선일보
+    date: 2026-11-27
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008832708
@@ -235,10 +240,10 @@ November. [@7,10,13,14]
 
 ## The grow
 
-The two men, both 29, were friends. [@17,19,22,23,24,26,32,34] They are accused of leasing the fourth
+The two men, both 29, were friends. [@17,19,22,23,24,26,32,34,35] They are accused of leasing the fourth
 floor of a building in a Seongbuk residential area and growing cannabis there with specialised
 facilities, in large volumes, from around January last year until recently.
-[@1,4,5,6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29,32,34] Investigators put the time at about 22
+[@1,4,5,6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29,32,34,35] Investigators put the time at about 22
 months, one year and ten months of professional growing. [@23,25,26,32] They bought the equipment
 through overseas direct-purchase websites. [@6,7,10,14,15,19,20,21,22,24,25,27,28,29,33]
 
