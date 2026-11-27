@@ -1,0 +1,103 @@
+---
+code: D5B1J6
+added_at: "2026-11-27T04:03:44.814764Z"
+date: 2026-11-26
+country: es
+place: Sanlúcar de Barrameda, Cádiz, Spain
+coordinates: [36.779, -6.3542]
+precision: locality
+type: seizure
+also: [arrest, raid]
+title: Seven held as 35 kg of marijuana seized in Sanlúcar cocaine raid
+summary: >-
+  Guardia Civil and Policía Nacional arrested seven people in Cádiz province and seized 35.35 kilograms of dried marijuana buds alongside 1,823 kilograms of cocaine in Operation Luna Llena-Manantia. Two underground hideouts were found, one a former indoor marijuana plantation, and 171,300 euros in cash was taken.
+figures:
+  arrested: 7
+  kg_seized: 35.35
+  cash:
+    amount: 171300
+    currency: EUR
+details:
+  agencies: [es-guardia-civil, es-policia-nacional]
+  agency_types: [police, anti-narcotics]
+  products:
+    - {product: flower, kg: 35.35}
+  activity: [cultivation, trafficking]
+  setting: [farm]
+  case_stage: investigation
+  date_precision: publication
+  region: Cádiz
+data_sources:
+  details.activity: [1]
+  details.agencies: [1]
+  details.agency_types: [1]
+  details.case_stage: [1]
+  details.products: [1]
+  details.setting: [1]
+  figures.arrested: [1]
+  figures.cash: [1]
+  figures.kg_seized: [1]
+media:
+  - kind: photo
+    url: https://www.lavozdigital.es/provincia/red-escondia-cocaina-dos-zulos-sanlucar-reciclado-20261126093703-ntv.html
+    media_url: https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2026/11/26/WhatsApp%20Image%202026-11-26%20at%2009.16.52-R8v4IrobPQuN813F3alwLII-1200x840@abc.jpeg
+    publisher: La Voz Digital
+    caption: 'One of the underground zulos (hideouts) found on the registered properties in the Sanlúcar area. Photo: La Voz.'
+status: verified
+created_by_model: opencode-go/hy4-flash-free#high
+submission: 8b12b757d943f5f3d8709514495872d0
+tags: [sanlucar, cadiz, guardia-civil, marijuana, luna-llena-manantia]
+sources:
+  - title: La red que escondía cocaína en dos zulos en Sanlúcar se había 'reciclado' del tráfico de hachís y la marihuana
+    url: https://www.lavozdigital.es/provincia/red-escondia-cocaina-dos-zulos-sanlucar-reciclado-20261126093703-ntv.html
+    publisher: La Voz Digital
+    date: 2026-11-26
+    language: es
+  - title: Cae una red de narcos en Cádiz con más de 1.800 kilos de cocaína ocultos en zulos subterráneos
+    url: https://www.diariodecadiz.es/noticias-provincia-cadiz/cae-red-narcos-cadiz-1_0_2008582379.html
+    publisher: Diario de Cádiz
+    date: 2026-11-26
+    language: es
+  - title: Un nuevo golpe al narco en el Guadalquivir destapa dos zulos y 1.800 kilos de cocaína
+    url: https://www.lavanguardia.com/local/andalucia/20261126/11693826/nuevo-golpe-narco-guadalquivir-destapa-dos-zulos-1-800-kilos-cocaina.html
+    publisher: La Vanguardia
+    date: 2026-11-26
+    language: es
+open_questions:
+  - No exact date is given for the operation itself; the article says it took place in the previous week and was published on 26 November 2026, so the publication date is used.
+  - The 35.35 kilograms is a police figure for dried buds ready for distribution; no laboratory confirmation or street value for the cannabis was reported.
+  - The 1,823 kilograms of cocaine, the cash and the vehicles belong to the whole operation and are not broken down between cannabis and cocaine, so only the stated cannabis weight is counted.
+  - No charges, court dates or outcomes beyond the arrests and the judicial direction of the searches were reported.
+  - The accounts reproduce the same Guardia Civil and Policía Nacional statement, so they are not independent reporting.
+  - One hideout had previously been an indoor marijuana plantation, but no cannabis plants destroyed in this operation were reported.
+---
+
+Guardia Civil and Policía Nacional dismantled a large-scale cocaine trafficking
+organisation in a joint operation in the province of Cádiz. [@1] Seven people
+were arrested, six of them with previous drug-trafficking records, in the
+operation named Luna Llena-Manantia. [@1] The operation was directed by the duty
+judge of the Mixed Court number 4 of Sanlúcar de Barrameda. [@1] The inquiry
+began after a van carrying 33 bundles of cocaine was intercepted on the AP-4
+motorway near Los Palacios, Seville, and its only occupant was arrested. [@1]
+With judicial authorisation officers carried out eleven simultaneous searches of
+homes in Sanlúcar de Barrameda and Chipiona, where the other six people were
+detained. [@1]
+
+Alongside 1,823 kilograms of cocaine, officers seized 35.35 kilograms of dried
+marijuana buds, vacuum-packed and ready for distribution, and 171,300 euros in
+cash. [@1] Officers also impounded nine vehicles, eleven motorcycles and a jet
+ski. [@2] Two underground hideouts, or zulos, built and fitted out to conceal
+the drugs were found on registered properties. [@1] One had previously been used
+to grow marijuana and held 20 further bundles of cocaine packaged identically to
+those in the van. [@3]
+
+The network was based around the mouth of the Guadalquivir river and had reused
+the infrastructure and contacts it already maintained for marijuana cultivation
+and maritime hashish trafficking to expand into large-scale cocaine transport
+and distribution. [@1] Its logistics structure allowed it to bring, store, guard
+and move the drug from Cádiz to points across Europe. [@1] The group used
+surveillance cameras, drones, watchmen and lookouts known as aguadores to
+protect its activities. [@1] The operation was run jointly by the EDOA
+(Organised Crime and Anti-Drug Unit) of the Guardia Civil in Cádiz and the GRECO
+(Organised Crime Response Group) of the Policía Nacional in Cádiz. [@1]
+
