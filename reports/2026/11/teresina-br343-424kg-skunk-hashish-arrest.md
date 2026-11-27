@@ -50,28 +50,31 @@ sources:
     publisher: Cidades na Net
     date: 2026-11-25
     language: pt
+  - title: PRF apreende 42 kg de skunk e haxixe escondidos em picape na BR-343 em Teresina | Portal R10
+    url: https://www.portalr10.com/blogs-e-colunas/185259/prf-apreende-42-kg-de-skunk-e-haxixe-escondidos-em-picape-na-br-343-em-teresina/
+    publisher: Portal R10
+    date: 2026-11-25
+    language: pt
 open_questions:
-  - The component weights stated (about 35.375 kg of skunk plus about 7 kg of hashish) add to 42.375 kg, while the reported total is approximately 42.4 kg; the rounded total is used.
-  - The account rests on a single outlet citing the PRF, with no second opened report found; the PRF statement itself was not opened separately.
-  - No laboratory confirmation for the skunk and hashish was reported.
-  - The driver was identified only as a 51-year-old man; no name or later court outcome was reported.
+    - The component weights stated (about 35.375 kg of skunk plus about 7 kg of hashish) add to 42.375 kg, while the reported total is approximately 42.4 kg; the rounded total is used.
+    - No laboratory confirmation for the skunk and hashish was reported.
+    - The driver was identified only as a 51-year-old man; no name or later court outcome was reported.
 ---
 
 The Federal Highway Police seized approximately 42.4 kg of cannabis-like
 substances on the afternoon of Tuesday 24 November 2026 during an inspection on
-the BR-343 in Teresina, Piaui. [@1] A 51-year-old man was arrested on suspicion
-of drug trafficking. [@1] The stop was recorded at about 17:00 at km 332 of the
+the BR-343 in Teresina, Piaui. [@1,2] A 51-year-old man was arrested on suspicion
+of drug trafficking. [@1,2] The stop was recorded at about 17:00 at km 332 of the
 highway during the inspection of a Volkswagen Saveiro pickup. [@1]
 
 Officers found a compartment in the pickup's bodywork holding 30 skunk tablets
 weighing about 35.375 kg. [@1] Officers also found 12 pots of paste-form hashish
-totalling about 7 kg in the same compartment. [@1] The seized drug is described
+totalling about 7 kg in the same compartment. [@1,2] The seized drug is described
 as high-concentration, more potent than common marijuana and of high added
 value. [@1]
 
 Questioned about the load, the driver said he did not know about the drug and
-did not know how it had been placed in the compartment. [@1] The man was
+did not know how it had been placed in the compartment. [@1,2] The man was
 arrested in flagrante for drug trafficking. [@1] The man, the drugs and the
 vehicle were taken to the Federal Police Superintendence in Teresina for the
-applicable procedures. [@1]
-
+applicable procedures. [@1,2]
