@@ -78,17 +78,30 @@ sources:
     publisher: Government of the Hong Kong Special Administrative Region
     date: 2026-11-26
     language: zh
+  - title: 機場海關拘23歲泰國抵港內地男 檢160萬元大麻花
+    url: https://www.stheadline.com/breaking-news/3641530/%E6%A9%9F%E5%A0%B4%E6%B5%B7%E9%97%9C%E6%8B%9823%E6%AD%B2%E6%B3%B0%E5%9C%8B%E6%8A%B5%E6%B8%AF%E5%85%A7%E5%9C%B0%E7%94%B7-%E6%AA%A2160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E8%8A%B1
+    publisher: 星島頭條
+    date: 2026-11-26
+    language: zh
+  - title: 涉攜160萬元大麻花 內地男旅客昨提堂
+    url: https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20261128-1128_00176_245/%E6%B6%89%E6%94%9C160%E8%90%AC%E5%85%83%E5%A4%A7%E9%BA%BB%E8%8A%B1--%E5%85%A7%E5%9C%B0%E7%94%B7%E6%97%85%E5%AE%A2%E6%98%A8%E6%8F%90%E5%A0%82
+    publisher: 東方日報
+    date: 2026-11-28
+    language: zh
+open_questions:
+    - No outcome of the first court appearance on 27 November 2026, such as remand, bail or an adjournment, was reported.
+    - The 7.3 kilograms were described as suspected cannabis buds, and no laboratory confirmation of the drug was reported.
 ---
 
 Hong Kong Customs detected a drug trafficking case at Hong Kong International
-Airport on 26 November 2026. [@1,3,4,5] Officers seized about 7.3 kilograms of
-suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4,5] The
+Airport on 26 November 2026. [@1,3,4,5,6] Officers seized about 7.3 kilograms of
+suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4,5,6] The
 suspect was a 23-year-old mainland Chinese man who had arrived from Bangkok,
-Thailand. [@1,3,4,5] Officers found the buds in his carry-on baggage during clearance
-and arrested him. [@1,3,4,5]
+Thailand. [@1,3,4,5,6] Officers found the buds in his carry-on baggage during clearance
+and arrested him. [@1,3,4,5,6]
 
-He was charged with one count of trafficking in a dangerous drug. [@2,3,4,5] The case
-was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4,5] Customs
+He was charged with one count of trafficking in a dangerous drug. [@2,3,4,5,6] The case
+was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4,5,6] The case was brought before West Kowloon Magistrates' Court on 27 November 2026. [@7] Customs
 said it would keep selecting passengers from high-risk regions for clearance
 checks to combat cross-border drug trafficking. [@1,3,4] Trafficking in a dangerous
 drug carries a maximum penalty of a HK$5 million fine and life imprisonment
