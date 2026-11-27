@@ -49,6 +49,11 @@ sources:
     url: https://rcmp.ca/en/manitoba/news/2026/03/4351723
     publisher: Manitoba RCMP
     date: 2026-03-31
+  - title: Winnipeg lawyer faces charges in cannabis smuggling case
+    url: https://www.winnipegsun.com/news/winnipeg/winnipeg-lawyer-faces-charges-in-cannabis-smuggling-case/article_c03bbb3c-6a94-4930-ba64-945cb007652d.html
+    publisher: Winnipeg Sun
+    date: 2026-04-01
+    archived: https://web.archive.org/web/20260403081317id_/https://www.winnipegsun.com/news/winnipeg/winnipeg-lawyer-faces-charges-in-cannabis-smuggling-case/article_c03bbb3c-6a94-4930-ba64-945cb007652d.html
 open_questions:
   - No weight or form of the cannabis allegedly smuggled into the jail was published, so no cannabis quantity is recorded.
   - The sources give the conspiracy-to-possess-a-firearm charge as restricted in one account and as prohibited or restricted in the other; the report uses the CTV wording and notes the difference.
@@ -56,12 +61,12 @@ open_questions:
 ---
 
 The Manitoba Integrated Law Enforcement Team arrested 43-year-old Winnipeg man
-Chad Sutherland on March 27, 2026. [@2] Officers had identified Sutherland as a
+Chad Sutherland on March 27, 2026. [@2,3] Officers had identified Sutherland as a
 suspect when he was working as a criminal defence lawyer in Winnipeg. [@2] He
 was charged with conspiracy to distribute cannabis into Headingley Correctional
-Centre. [@2] He was also charged with conspiracy to commit mischief and
+Centre. [@2,3] He was also charged with conspiracy to commit mischief and
 conspiracy to possess a restricted firearm. [@1] Sutherland remains in custody.
-[@1] The charges have not been tested in court. [@1]
+[@1,3] The charges have not been tested in court. [@1]
 
 The year-long investigation stemmed from an incident on March 30, 2025, when
 correctional officers noticed a cannabis smell inside Headingley Correctional
@@ -76,4 +81,3 @@ In April 2025, the Law Society of Manitoba revoked Sutherland's practising
 certificate after he failed to comply with conditions previously imposed on him.
 [@1] The law society later found him guilty of professional misconduct on Jan.
 22 and suspended him indefinitely from practising in the province. [@1]
-
