@@ -76,26 +76,34 @@ sources:
     publisher: 파이낸셜뉴스
     date: 2026-11-25
     language: ko
+  - title: 부산 창원서 필로폰·대마 맞교환한 마약사범 13명 전원 구속
+    url: https://breaknews.com/1254233
+    publisher: 브레이크뉴스
+    date: 2026-11-26
+    language: ko
+open_questions:
+    - The account does not say whether the 13 have appeared in court or been formally charged.
+    - No price or street value was given for the 56.3 grams of cannabis or the methamphetamine.
 ---
 
 Busan Saha Police Station said it arrested 13 people, including a man in his 50s
 identified as A, for violating the Narcotics Control Act on psychotropic drugs.
-[@1,3,4] All 13 suspects are men whose alleged roles included
+[@1,3,4,5] All 13 suspects are men whose alleged roles included
 methamphetamine-cannabis trading, purchase, sale, use, possession and brokerage.
 [@1] The group allegedly traded methamphetamine for cannabis in the Changwon
-area between June and September 2026. [@1,3,4] The deals took place inside vehicles
+area between June and September 2026. [@1,3,4,5] The deals took place inside vehicles
 parked on roads near a terminal in Changwon. [@2,4]
 
-Police seized 56.3 grams of cannabis during the investigation. [@2,4] Police also
+Police seized 56.3 grams of cannabis during the investigation. [@2,4,5] Police also
 seized 28.46 grams of methamphetamine, described as enough for 948 people to use
-at once. [@2]
+at once. [@2,5]
 
 Those involved had met during prison terms for similar offences or through
-acquaintances and continued offending after release. [@1,3] A worked as a
+acquaintances and continued offending after release. [@1,3,5] A worked as a
 junk-shop employee and led an outwardly stable working life that avoided
-suspicion. [@1,3,4] A allegedly exchanged cannabis for methamphetamine over several
-years with a seller identified as B and used the methamphetamine received. [@1]
+suspicion. [@1,3,4,5] A allegedly exchanged cannabis for methamphetamine over several
+years with a seller identified as B and used the methamphetamine received. [@1,5]
 Police said the arrests cut off a link that would have spread drugs into the
-local community. [@1] Police said they will trace the source of the cannabis A
-exchanged and investigate other accomplices. [@1,3,4] Police said they will continue
-joint prevention campaigns with district offices and public health centres. [@1,3]
+local community. [@1,5] Police said they will trace the source of the cannabis A
+exchanged and investigate other accomplices. [@1,3,4,5] Police said they will continue
+joint prevention campaigns with district offices and public health centres. [@1,3,5]
