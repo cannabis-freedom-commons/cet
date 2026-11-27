@@ -71,6 +71,11 @@ sources:
     publisher: El Norte de Castilla
     date: 2026-11-26
     language: es
+  - title: Detienen a un vehículo con el conductor drogado y sin carnet y una pasajera con hachís y cocaína
+    url: https://www.elconfidencial.com/espana/castilla-y-leon/2026-11-26/detenida-mujer-hachis-cocaina-palencia-1tna-1tps_4473471/
+    publisher: El Confidencial
+    date: 2026-11-26
+    language: es
 open_questions:
   - Europa Press says the vehicle was observed 'días atrás' (days earlier); the accounts give no calendar date for the stop, so 26 November 2026 is used as the incident date.
   - The accounts do not say whether the driver faced a drug charge or what penalty he might receive.
@@ -79,20 +84,19 @@ open_questions:
 ---
 
 Guardia Civil officers in Palencia detained a woman who was travelling as a
-passenger in a car carrying hashish and cocaine. [@2] She was detained as the
+passenger in a car carrying hashish and cocaine. [@2,4] She was detained as the
 alleged perpetrator of a delito contra la salud pública, an offence against
 public health. [@1] The driver was investigated after testing positive for drugs
 and because his driving authorisation was no longer valid after he lost the
-points on his licence. [@2]
+points on his licence. [@2,4]
 
 The stop came during a Guardia Civil surveillance plan for the rest areas of the
 A-62 motorway, when the Unidad de Seguridad Ciudadana (Citizen Security Unit)
-observed a vehicle committing an infringement and identified its occupants. [@1]
+observed a vehicle committing an infringement and identified its occupants. [@1,4]
 Noting a nervous attitude, the officers approached the vehicle and examined its
-interior. [@1] Inside they found 280.9 grams of hashish and 9.36 grams of
-cocaine, the latter excluded from the cannabis figures. [@1] The detention took
+interior. [@1,4] Inside they found 280.9 grams of hashish and 9.36 grams of
+cocaine, the latter excluded from the cannabis figures. [@1,4] The detention took
 place at a service station on the A-62. [@3]
 
 The woman and the prohibited substances were placed at the disposal of the
-judicial authorities. [@1]
-
+judicial authorities. [@1,4]
