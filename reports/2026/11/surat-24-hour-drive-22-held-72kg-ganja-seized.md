@@ -47,22 +47,21 @@ sources:
     url: https://bilkulonline.com/2026/11/23/gujarat-17-drug-cases-registered-across-surat-in-24-hours-22-accused-booked/?amp=1
     publisher: Bilkul Online
     date: 2026-11-23
-open_questions:
-  - No separate calendar date for the 24-hour drive was reported; 23 November 2026 is the publication date and is used as the incident date.
-  - The cannabis total of 72.030529 kg is the sum of 72.025799 kg of ganja and 4.73 g of hybrid ganja; the 22.556 g of mephedrone from the same drive is excluded from the cannabis figures.
-  - The reported value of Rs 36,88,787 covers all seized substances including mephedrone; ganja was valued at Rs 36,03,322 and hybrid ganja at Rs 16,555.
-  - No court outcome, detention measure or plea was reported; the case was at the investigation stage.
-  - Both accounts rest on police and Special Operations Group statements with no independent account found.
+  - title: Surat Police Arrests 22 Drug Peddlers in 17 NDPS Cases in 24 Hours | Gujarati News | Sandesh
+    url: https://sandesh.com/gujarat/news/surat/police-zero-tolerance-drug-drive-22-peddlers-arrested
+    publisher: Sandesh
+    date: 2026-11-24
+    language: gu
 ---
 
 Surat City Police ran a 24-hour mega combing drive across the whole city to
 advance the Drugs Free Surat City campaign. [@1] Police registered 17 cases
-under the NDPS Act and arrested 22 people during the drive. [@2] Of the 17
+under the NDPS Act and arrested 22 people during the drive. [@2,3] Of the 17
 cases, 14 involved ganja with 19 accused, two involved mephedrone with two
 accused, and one hybrid-ganja case involved one accused. [@2] The accused
 included 10 Gujarat residents, five from Odisha, four from Uttar Pradesh, two
-from Maharashtra and one from Rajasthan. [@2] They included labourers, people in
-other occupations and a person running a paan stall. [@2] Those held ranged from
+from Maharashtra and one from Rajasthan. [@2,3] They included labourers, people in
+other occupations and a person running a paan stall. [@2] Police arrested Ankitsinh Chauhan, who ran an eatery with a paan stall in the Jahangirpura area. [@3] Police suspected that Ankitsinh mixed drugs into food or mava-gutka to make people addicted to it. [@3] Those held ranged from
 18-year-old youths to 55-year-old women. [@1]
 
 Officers seized 72 kg and 25.799 grams of ganja, 22.556 grams of mephedrone and
@@ -72,8 +71,7 @@ cases, while Zones 2 and 5 recorded three each and Zones 3 and 6 recorded two
 each. [@2] Zone 4 and Zone 7 recorded one case each, at Pandesara and Pal. [@2]
 
 The operation was conducted under the police's zero-tolerance policy towards
-drugs. [@2] All station officers were given a 24-hour drive that produced 17
+drugs. [@2,3] All station officers were given a 24-hour drive that produced 17
 NDPS cases and 22 arrests. [@1] Police said the two-year zero-tolerance policy
 had produced about 270 cases by 31 October, the most NDPS cases in Gujarat this
 year. [@1]
-
