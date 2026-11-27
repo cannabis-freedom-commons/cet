@@ -274,26 +274,30 @@ sources:
     publisher: iNyheter
     date: 2026-11-22
     language: nb
+  - title: Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out
+    url: https://capitalfm.africa/mexican-drug-lord-on-fbis-10-most-wanted-list-arrested-in-shoot-out/
+    publisher: Capital FM
+    date: 2026-11-22
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28,29,30,31] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27,31] He led the Beltran Leyva organisation,
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28,29,30,31,35] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27,31] He led the Beltran Leyva organisation,
 allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18,23,25,28,31] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16,19,26,27] The operation also
 detained his cousin German, alias Serafin, described as the group's
-second-in-command, and his brother-in-law Jose, its financial operator. [@6,21,26,27,31,34]
+second-in-command, and his brother-in-law Jose, its financial operator. [@6,21,26,27,31,34,35]
 Army and National Guard special forces carried out the arrest with US
-intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24,26,27,29,31,33,34] The troops used stealth and surprise to reach the area, establishing a perimeter around the dealer's location and moving in from multiple directions, according to Mexico's US embassy. [@28,29]
+intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24,26,27,29,31,33,34,35] The troops used stealth and surprise to reach the area, establishing a perimeter around the dealer's location and moving in from multiple directions, according to Mexico's US embassy. [@28,29,35]
 
-Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21,24,34] Four
+Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21,24,34,35] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
-overall toll of eleven deaths. [@2,12,13,21,23,24,28,31,34] The defence minister said on Monday that four soldiers and 16 members of organised crime had been killed in the firefight during the arrest. [@29,30] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
-before entering the house where the arrests were made. [@2,10,19,21,22,26] Three detainees were
+overall toll of eleven deaths. [@2,12,13,21,23,24,28,31,34,35] The defence minister said on Monday that four soldiers and 16 members of organised crime had been killed in the firefight during the arrest. [@29,30] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
+before entering the house where the arrests were made. [@2,10,19,21,22,26,35] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
-[@6,21,26,33] Forces seized a Barrett .50-calibre rifle, ten other firearms, a grenade
+[@6,21,26,33,35] Forces seized a Barrett .50-calibre rifle, ten other firearms, a grenade
 launcher, two hand grenades, ammunition, tactical equipment, drugs and cash.
-[@6,12,21,23] Special forces seized six vehicles during the operation, two of them fitted with bullet-proof armour and gun turrets. [@29]
+[@6,12,21,23,35] Special forces seized six vehicles during the operation, two of them fitted with bullet-proof armour and gun turrets. [@29]
 
 US prosecutors charged Meza Flores with leading a continuing criminal
 enterprise, narcoterrorism, money laundering and firearms offences, and with
@@ -302,7 +306,7 @@ marijuana and fentanyl for importation into the United States. [@3,10,14,30] Mex
 wanted notice for him charges conspiracy to distribute one thousand kilograms or
 more of marijuana for importation into the United States. [@4] The FBI said his
 organisation moved large quantities of heroin, methamphetamine, cocaine,
-fentanyl and marijuana into the United States. [@1,12,16,18,19,20,22,26,27,28,30,33] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
+fentanyl and marijuana into the United States. [@1,12,16,18,19,20,22,26,27,28,30,33] The US Drug Enforcement Administration called the arrest a major success against one of Mexico's violent criminal networks, which it said had trafficked heroin, methamphetamine, cocaine, fentanyl and large quantities of cannabis into the United States for decades. [@13] Driscoll also said Meza-Flores and his organisation were accused of kidnapping, extortion, torture and murder. [@10,35] Then-acting FBI Director Brian Driscoll said El Chapo Isidro had spent 20 years flooding the US with fentanyl, cocaine, heroin and other drugs, first as an independent trafficker and later as head of the Meza-Flores cartel. [@10] He also faced a Mexican
 arrest warrant for organised crime and offences against health. [@5,10,21] He was also subject to an extradition order to the United States. [@10,21] Attorney General Ernestina Godoy said Mexico is going to put Meza on trial in this country when asked whether he would be sent to the United States. [@30] Security Minister Omar Garcia Harfuch said on Monday that Washington had requested Meza's extradition after his capture on Friday in Sinaloa. [@30] The FBI
 added him to its Ten Most Wanted list on 4 February 2025 and the US State
 Department offered a reward of up to five million dollars for information
