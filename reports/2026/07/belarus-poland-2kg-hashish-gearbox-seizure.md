@@ -83,11 +83,16 @@ sources:
     publisher: REFORM.news
     date: 2026-07-11
     language: ru
+  - title: В Беларусь из Польши пытались ввезти почти 2 кг гашиша. Получателями оказались подростки
+    url: https://news.zerkalo.io/accidents/131727.html
+    publisher: Zerkalo
+    date: 2026-07-11
+    language: ru
 ---
 
 Officers of Belarus's Operational Customs seized about 2 kg of hashish brought
-into the country from Poland. [@1,5,6] The hashish had been hidden inside a gearbox
-housing. [@1,5,6] The couriers said they had taken the box from an unknown person in
+into the country from Poland. [@1,5,6,7] The hashish had been hidden inside a gearbox
+housing. [@1,5,6,7] The couriers said they had taken the box from an unknown person in
 the neighbouring country who asked them to pass goods for personal use to a man
 in Minsk, and claimed they did not know it contained drugs. [@2,5,6] Sputnik
 described the concealment as the casing of a gearbox for a motorcycle. [@3]
@@ -95,9 +100,9 @@ Grodno Plus said the detainees claimed they did not know the contents and that
 the goods were for a man in Minsk. [@4]
 
 Investigators established that the intended recipients of the consignment were
-two minors. [@1,5,6] A criminal case was opened against one of the people who
+two minors. [@1,5,6,7] A criminal case was opened against one of the people who
 brought in the hashish under part 2 of article 328-1 of Belarus's Criminal Code.
-[@1,5] The article carries up to 10 years' imprisonment. [@1,6]
+[@1,5,7] The article carries up to 10 years' imprisonment. [@1,6]
 
 Operational Customs said further measures and urgent investigative actions were
-under way to identify all members of a transnational criminal group. [@1,6]
+under way to identify all members of a transnational criminal group. [@1,6,7]
