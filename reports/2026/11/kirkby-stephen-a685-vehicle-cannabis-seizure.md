@@ -33,6 +33,10 @@ sources:
     url: https://cannabisinsider.co.uk/news/cannabis-seized-eden-police-a685-stop
     publisher: Cannabis Insider
     date: 2026-11-23
+  - title: Cannabis found in vehicle after police stop on major road
+    url: https://www.thewestmorlandgazette.co.uk/news/26752838.cannabis-found-vehicle-police-stop-major-road/
+    publisher: The Westmorland Gazette
+    date: 2026-11-23
 open_questions:
   - The article gives no separate date for the stop; 23 November 2026 is its publication date and stands in for the incident date.
   - No weight or quantity for the cannabis found in the vehicle was published.
@@ -42,14 +46,13 @@ open_questions:
 ---
 
 Police found cannabis in a vehicle after a stop check on the A685 near Kirkby
-Stephen, in Cumbria. [@1] Eden Police, the force covering the Kirkby Stephen
+Stephen, in Cumbria. [@1,3] Eden Police, the force covering the Kirkby Stephen
 area, said officers found the drug during another patrol shift. [@1] In its
 update the force described the stop as another vehicle found to contain cannabis
-at a check on the A685 near Kirkby Stephen. [@1]
+at a check on the A685 near Kirkby Stephen. [@1,3]
 
 The discovery was made during a routine patrol of the area, according to the
 force's update. [@2] Police asked people with information about drug dealing,
 drug use or motorists driving under the influence of drugs to come forward,
 anonymously to Crimestoppers or by calling 101. [@1] Information can also be
 given anonymously to Crimestoppers, police said. [@1]
-
