@@ -144,19 +144,19 @@ sources:
     publisher: iNews.id
     date: 2026-11-25
     language: id
-open_questions:
-    - No precise weight was published for the dried cannabis in the sacks and ampoules; one account described it only as dozens of kilograms.
-    - No formal charge, court date or verdict was reported; the articles describe only the maximum penalty the suspect could face.
-    - Laboratory results for the seized plants and dried cannabis were still pending.
-    - Most accounts identify the suspect only by the initials TMS; detikSumut and 20Detik give his name as Toga Muslim Siregar.
+  - title: Tembus hutan 3 jam naik motor trail, Kapolres Paluta gerebek ladang ganja 5 hektare di Halongonan
+    url: https://www.msn.com/id-id/berita/other/tembus-hutan-3-jam-naik-motor-trail-kapolres-paluta-gerebek-ladang-ganja-5-hektare-di-halongonan/ar-AA2i8E7h
+    publisher: Tribun-Medan.com
+    date: 2026-11-24
+    language: id
 ---
 
 North Padang Lawas narcotics officers arrested a 29-year-old man identified as
 TMS at his home in Japinulik, Tapus Jae village, Halongonan district, at about
-06:30 WIB on 23 November 2026. [@1,7,8,10,11] An account quoting the police chief gives
+06:30 WIB on 23 November 2026. [@1,7,8,10,11,13] An account quoting the police chief gives
 his full name as Toga Muslim Siregar, 29. [@3,7] The operation developed from the
 arrest of Hanif Armadi Siregar in Batang Baruar the day before, on Sunday 22
-November 2026. [@1,7,8,9,10,11]
+November 2026. [@1,7,8,9,10,11,13]
 
 At the house officers found cannabis packets hidden in several places, including
 under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1,7,8,10,11] He
@@ -169,7 +169,7 @@ believed to be linked to transactions. [@1,8,10] Officers also seized dried cann
 and cannabis seeds from the house. [@6]
 
 Tribun Medan reported the field covered five hectares on hillsides in
-Halongonan, with some plants just harvested. [@4,9,11,12] The 5-hectare field was reported as camouflaged with patchouli plants. [@12] The police chief said the raid
+Halongonan, with some plants just harvested. [@4,9,11,12,13] The 5-hectare field was reported as camouflaged with patchouli plants. [@12] The police chief said the raid
 team rode trail motorcycles for three hours through dense forest on steep,
 damaged roads. [@4,11] TMS and the evidence were taken to the Paluta police station
 for further examination and investigation. [@2,8,10] Investigators said they were
