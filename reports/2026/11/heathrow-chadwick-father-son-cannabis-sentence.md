@@ -70,6 +70,11 @@ sources:
     url: https://punchng.com/father-son-jailed-for-smuggling-500000-cannabis-into-uk/
     publisher: Punch Newspapers
     date: 2026-11-25
+  - title: Southampton father and Bournemouth son jailed for smuggling around £500,000 of cannabis from Thailand
+    url: https://www.hellorayo.co.uk/hits-radio/south-coast/news/southampton-bournemouth-father-son-jailed-cannabis-smuggling-thailand
+    publisher: Hits Radio South Coast
+    date: 2026-11-25
+    language: en
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cqn4e1dm3dk8o
@@ -81,19 +86,24 @@ media:
     media_url: https://ichef.bbci.co.uk/news/800/cpsprodpb/353b/live/10a4cb00-e8c6-11f1-ac76-db9e97f93d67.png.webp
     publisher: BBC News
     caption: 'Two suitcases packed with packages of cannabis seized from the father and son after their flight from Bangkok. Photo: NCA'
+  - kind: photo
+    url: https://www.hellorayo.co.uk/hits-radio/south-coast/news/southampton-bournemouth-father-son-jailed-cannabis-smuggling-thailand
+    media_url: https://cdn.apollo.audio/one/media/6b06/bb2a/47a0/3cee/fd3d/f508/nca-drug-smuggling-father-song.jpg?quality=80&format=jpg&width=960
+    publisher: Hits Radio South Coast
+    caption: 'NCA handout of the father and son jailed for smuggling Thai cannabis into Heathrow. Photo: NCA'
 ---
 
 Alec Peter Chadwick, 39, and Riley Peter Emerson-Chadwick, 20, were arrested by
 Border Force officers at Heathrow Airport after boarding a plane from Bangkok,
-Thailand, in July. [@1,2,3,4,5] Officers found 33.5 kg of cannabis in Emerson-Chadwick's
-luggage and 16.75 kg in his father's luggage. [@1,2,3,4,5] The pair appeared at
+Thailand, in July. [@1,2,3,4,5,6] Officers found 33.5 kg of cannabis in Emerson-Chadwick's
+luggage and 16.75 kg in his father's luggage. [@1,2,3,4,5,6] The pair appeared at
 Wimbledon Magistrates' Court on 15 July 2026 and pleaded guilty to smuggling
-cannabis. [@1,2,3]
+cannabis. [@1,2,3,6]
 
-The cannabis was worth £500,000. [@1,2,3,4,5] At Isleworth Crown Court, unemployed
+The cannabis was worth £500,000. [@1,2,3,4,5,6] At Isleworth Crown Court, unemployed
 Chadwick, of Millbrook, Southampton, was sentenced to two years and eight months
-in prison. [@1,2,3,4,5] Emerson-Chadwick, a labourer of Christchurch, Bournemouth, was
-sentenced to two years. [@1,2,3,4,5]
+in prison. [@1,2,3,4,5,6] Emerson-Chadwick, a labourer of Christchurch, Bournemouth, was
+sentenced to two years. [@1,2,3,4,5,6]
 
 The National Crime Agency, which led the investigation, said there had been an
 explosion in the number of drug couriers trying to smuggle cannabis into the UK.
