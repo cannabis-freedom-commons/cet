@@ -47,28 +47,32 @@ sources:
     publisher: يوليو
     date: 2026-11-25
     language: ar
+  - title: حشيش وكحول مهرب.. تفاصيل ضبط المتهمين بإدارة ملهى ليلي داخل عقار بالدقي | فيديو
+    url: https://www.soralive.com/95289
+    publisher: صورة لايف
+    date: 2026-11-26
+    language: ar
 open_questions:
-  - No weight, packaging or value was stated for the seized hashish.
-  - No raid date separate from the 25 November 2026 publication date was given.
-  - No names, charges or court outcome beyond the prosecution investigation were reported.
-  - The whole account rests on a single outlet's report of the police action.
-  - The reports do not say whether anyone was injured or whether force was used.
+    - No weight, packaging or value was stated for the seized hashish.
+    - No raid date separate from the 25 and 26 November 2026 publication dates was given.
+    - No names, charges or court outcome beyond the prosecution investigation were reported.
+    - Both accounts reproduce the same Interior Ministry statement rather than independent reporting.
+    - The reports do not say whether anyone was injured or whether force was used.
 ---
 
 Egypt's Interior Ministry security forces detained four people accused of
-managing an unlicensed nightclub in Dokki, Giza. [@1] Two of the four detainees
-had prior criminal records. [@1] Questioned about the seizure, the four admitted
+managing an unlicensed nightclub in Dokki, Giza. [@1,2] Two of the four detainees
+had prior criminal records. [@1,2] Questioned about the seizure, the four admitted
 managing the nightclub without the required licences and possessing the seized
-items. [@1] Police completed the legal procedures against the detainees, and the
-public prosecution took over the investigation. [@1]
+items. [@1,2] Police completed the legal procedures against the detainees, and the
+public prosecution took over the investigation. [@1,2]
 
 The case began when a video circulated on social media in which residents
 complained that a nightclub inside a residential building in Giza was disturbing
-them. [@1] Investigators traced the club and found it was operating without a
-licence in the Dokki police district of Giza Governorate. [@1]
+them. [@1,2] Investigators traced the club and found it was operating without a
+licence in the Dokki police district of Giza Governorate. [@1,2]
 
 Officers searched the detainees and the premises and seized two bladed weapons.
-[@1] The same search also seized a quantity of hashish, whose weight and
-packaging were not stated. [@1] Officers also seized three bottles of smuggled
-alcoholic drinks from the same premises. [@1]
-
+[@1,2] The same search also seized a quantity of hashish, whose weight and
+packaging were not stated. [@1,2] Officers also seized three bottles of smuggled
+alcoholic drinks from the same premises. [@1,2]
