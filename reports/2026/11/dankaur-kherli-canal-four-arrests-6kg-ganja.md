@@ -49,19 +49,22 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-21
     language: hi
+  - title: 'नोएडा में पुलिस की बड़ी कार्रवाई: दनकौर में छह किलो गांजा के साथ चार तस्कर गिरफ्तार, नॉलेज पार्क में फायरिंग का आरोपी धरा'
+    url: https://royalbulletin.in/delhi-ncr/noida/noida-police-arrest-four-drug-peddlers-with-six-kg-ganja-in-dankaur-one-held-for-firing-in-knowledge-park/article-258760
+    publisher: Royal Bulletin
+    date: 2026-11-21
+    language: hi
 open_questions:
-  - The article gives the time as noon on Saturday but no calendar date; 21 November 2026 is inferred from the stated weekday and the publication date.
-  - Only one outlet's account was available, with no independent report or police statement confirming the arrests or the six-kilogram figure.
-  - The captured text leaves open what happened after the arrests, including any charges or court proceedings.
-  - The number of other people linked to the smuggling network was not stated.
+    - The time of the Dankaur arrests is reported only as noon on Saturday, while both accounts corroborate the date 21 November 2026.
+    - What happened after the arrests, including any charges or court proceedings, is not yet reported beyond police saying legal action had started.
+    - The number of other people linked to the smuggling network was not stated.
 ---
 
 Dankaur Kotwali police in Greater Noida, Uttar Pradesh, arrested four people
-near a canal called Kherli canal on suspicion of ganja smuggling. [@1] Police
+near a canal called Kherli canal on suspicion of ganja smuggling. [@1,2] The four were identified as 29-year-old Yogesh and 28-year-old Deepak Kumar of Aligarh and 24-year-old Pawan and 28-year-old Dilip of Agra. [@2] The four were arrested on the road leading from Kherli canal towards Jamalpur. [@2] Dankaur station in-charge Manoj Kumar Singh said the operation on 21 November was based on local intelligence and a confidential tip. [@2] Police
 said the arrests were made at about noon on Saturday. [@1] The four were
 described as ganja smugglers. [@1]
 
 Officers seized about six kilograms of ganja from the four men, according to the
-police account. [@1] Police said the men used to supply ganja in Delhi-NCR, the
+police account. [@1,2] Police said legal proceedings had been started against all four men. [@2] Each of the four men was carrying one and a half kilograms of ganja. [@2] Police said the men used to supply ganja in Delhi-NCR, the
 National Capital Region that includes Greater Noida. [@1]
-
