@@ -85,27 +85,32 @@ sources:
     publisher: ANSA
     date: 2026-11-23
     language: it
+  - title: 'Sequestrati oltre 6 kg di marijuana e due arresti: in manette anche un 75enne'
+    url: https://www.ilrisveglio-online.it/2026/11/23/nel-torinese-bilancini-precisione-sequestro/
+    publisher: Il Risveglio
+    date: 2026-11-23
+    language: it
 ---
 
 Carabinieri from the Susa station arrested a 75-year-old Bussoleno resident in
 flagrante in the early hours of 19 November 2026. [@1,2,5] Officers had come to the
 man's home the previous afternoon for a routine notification of legal documents.
 [@1,2,3,5] From outside the home they smelled a strong odour of marijuana that grew
-stronger when the front door was opened. [@1,2,4,5] Another person was in the kitchen
+stronger when the front door was opened. [@1,2,4,5,7] Another person was in the kitchen
 smoking a joint and threw it to the ground on seeing the carabinieri. [@1,3,5] The
 75-year-old was transferred to the Lorusso e Cutugno prison in Turin on the
 order of the judicial authority while his criminal responsibility is determined.
 [@1,4,6]
 
 The house search uncovered about 6.35 kilograms of marijuana in the Bussoleno
-home and an adjoining tool shed. [@1,3,5] Officers found part of the drug stored in
-glass jars and bags in the kitchen and part drying in the tool shed. [@1,2,3,5] The
+home and an adjoining tool shed. [@1,3,5,7] Officers found part of the drug stored in
+glass jars and bags in the kitchen and part drying in the tool shed. [@1,2,3,5,7] The
 shed housed a homemade greenhouse equipped with a lamp, hygrometer, electric
-heater and fan. [@1,2,4,5] Officers also seized two precision scales, a manual plant
+heater and fan. [@1,2,4,5,7] Officers also seized two precision scales, a manual plant
 trimmer, dozens of bags for packaging and 640 euros in cash believed to be
-proceeds of the unlawful activity. [@1,2,3,5]
+proceeds of the unlawful activity. [@1,2,3,5,7]
 
 The man is under grave suspicion of unlawful production and possession of
-narcotic or psychotropic substances. [@1,3,5] The operation was part of a wider
+narcotic or psychotropic substances. [@1,3,5,7] The operation was part of a wider
 territorial control plan by the Turin provincial Carabinieri command to counter
-drug dealing. [@1]
+drug dealing. [@1,7]
