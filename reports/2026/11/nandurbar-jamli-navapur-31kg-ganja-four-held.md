@@ -63,26 +63,28 @@ sources:
     publisher: Tarun Bharat Live
     date: 2026-11-22
     language: mr
-open_questions:
-  - The two operations are separate cases at Akkalkuwa and Navapur police stations, reported together because police announced them on the same day.
-  - Saam TV reports one arrest and three people taken into custody; the legal status of the three in the road case is not stated.
-  - No count of cannabis plants is given, only the weight of the plants seized.
-  - The Rs 15,23,000 total includes a motorcycle, so it is not a cannabis-only value.
-  - The coordinates mark Akkalkuwa town, not Jamli village, which has no published coordinates.
-  - The second outlet names the third man Banti Navkya Chaudhary, aged 21, where the first gives Banti Kokani; the report uses the first account's names.
-  - No court outcome, detention order or charge sheet is reported.
-  - Both Marathi accounts appear to draw on the same police statement and are not independent reporting.
+  - title: 'अक्कलकुवा, नवापुरात दोन कारवाया; 30 किलो गांजा जप्त: अक्कलकुव्यातील शेतात 27 किलो 910 ग्रॅम गांजाची झाडे केली हस्तगत - Two operations in Akkalkuwa, Navapur; 30 kg of ganja seized, 27 kg 910 grams of ganja plants seized from a field in Akkalkuwa'
+    url: https://divyamarathi.bhaskar.com/local/maharashtra/jalgaon/nandurbar/news/two-operations-in-akkalkuwa-navapur-30-kg-of-ganja-seized-27-kg-910-grams-of-ganja-plants-seized-from-a-field-in-akkalkuwa-dbp-139762622.html
+    publisher: Divya Marathi
+    date: 2026-11-22
+    language: mr
+media:
+  - kind: photo
+    url: https://divyamarathi.bhaskar.com/local/maharashtra/jalgaon/nandurbar/news/two-operations-in-akkalkuwa-navapur-30-kg-of-ganja-seized-27-kg-910-grams-of-ganja-plants-seized-from-a-field-in-akkalkuwa-dbp-139762622.html
+    media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/5483/2026/11/22/246_17952649046b01918896a64_app_17952642916b018f23d770d_1002882150v1.jpg
+    publisher: Divya Marathi
+    caption: 'Police officers standing behind parcels of seized ganja at Akkalkuwa police station. Photo: Divya Marathi'
 ---
 
 Nandurbar district's Local Crime Branch carried out two separate cannabis
 operations in Akkalkuwa and Navapur talukas, seizing property police valued at
-Rs 15,23,000. [@1] One man was arrested for growing cannabis in a cotton field
+Rs 15,23,000. [@1,3] One man was arrested for growing cannabis in a cotton field
 and three others were taken into custody for carrying ganja by motorcycle. [@1]
 
 The cultivation raid took place on 19 November 2026 at Jamli village in
 Akkalkuwa taluka, after the Local Crime Branch received a tip about cannabis
-planted among cotton. [@2] Officers seized cannabis plants weighing 27 kg 910 g,
-which police valued at Rs 12,95,500. [@1] Sanga Naik was arrested over the Jamli
+planted among cotton. [@2,3] Officers seized cannabis plants weighing 27 kg 910 g,
+which police valued at Rs 12,95,500. [@1,3] Sanga Naik was arrested over the Jamli
 plantation. [@1] A case was registered at Akkalkuwa police station under the
 NDPS Act. [@2]
 
@@ -96,4 +98,3 @@ police station under the NDPS Act. [@2]
 
 Superintendent of Police Ashwini Sanap had instructed the branch to act against
 illegal liquor, firearms and drugs ahead of the festive season. [@2]
-
