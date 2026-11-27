@@ -41,31 +41,29 @@ sources:
     publisher: Times of Bangladesh
     date: 2026-11-21
     language: bn
-open_questions:
-  - 21 November 2026 is used as the incident date because the detention happened on Saturday morning and the press release and publication followed on Saturday night the same day.
-  - No amount was published for the cash seized alongside the mobile phone.
-  - The seized material is described only as ganja, with no laboratory confirmation reported.
-  - No court outcome beyond the planned production before the court on Sunday was reported.
-  - The whole account rests on a single outlet's report of an SRB-14 press release, with no independent second account found.
+  - title: শেরপুরে বাসে তল্লাশি, সাড়ে ১১ কেজি গাঁজাসহ গ্রেপ্তার ১
+    url: https://www.dhakatoday.com/news/94804/%E0%A6%B6%E0%A7%87%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%A4%E0%A6%B2%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B6%E0%A6%BF,-%E0%A6%B8%E0%A6%BE%E0%A7%9C%E0%A7%87-%E0%A7%A7%E0%A7%A7-%E0%A6%95%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%97%E0%A6%BE%E0%A6%81%E0%A6%9C%E0%A6%BE%E0%A6%B8%E0%A6%B9-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A7%A7
+    publisher: Dhaka Today
+    date: 2026-11-21
+    language: bn
 ---
 
 SRB-14 members set up a special checkpoint on the Sherpur-Roumari road and
 searched vehicles on the basis of secret information. [@1] They stopped a
 Cumilla-to-Roumari Nur Paribahan passenger bus and first detained passenger
-Joynal Abedin. [@1] The detention took place on Saturday morning in front of the
-Haji Filling Station at Bhatshala in Sadar Upazila. [@1] The detained man was
+Joynal Abedin. [@1,2] The detention took place on Saturday morning in front of the
+Haji Filling Station at Bhatshala in Sadar Upazila. [@1,2] The detained man was
 41-year-old Joynal Abedin. [@1] He is the son of Mokhsed Ali from Jigabari in
 Erendabari Union, Fulchhari, Gaibandha. [@1]
 
 Acting on information given by him, officers recovered 11 kg 460 grams of ganja
-from a trolley bag kept in the bus locker. [@1] SRB also seized a mobile phone
+from a trolley bag kept in the bus locker. [@1,2] SRB also seized a mobile phone
 and cash said to have been used for buying and selling drugs. [@1] SRB then
-handed Joynal with the ganja to Sherpur Sadar police station. [@1] A case was
-filed against him at the station. [@1] He was to be produced before the court on
+handed Joynal with the ganja to Sherpur Sadar police station. [@1,2] A case was
+filed against him at the station. [@1,2] He was to be produced before the court on
 Sunday, according to Sadar station officer-in-charge Khokon Chandra Ghosh. [@1]
 
 Jamalpur SRB-14 CPC-1 company commander Major Labid Ahmed said the trader had
 long collected drugs including ganja from border areas and sold them in Jamalpur
 and other parts of the country. [@1] He said SRB operations against drugs would
 continue. [@1]
-
