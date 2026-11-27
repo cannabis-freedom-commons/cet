@@ -44,30 +44,50 @@ sources:
     publisher: La Voz de Michoacán
     date: 2026-11-25
     language: es
+  - title: Detienen a mujer que intentó ingresar 105 vapeadores con extracto de marihuana desde El Paso a Ciudad Juárez
+    url: https://www.infobae.com/mexico/2026/11/26/detienen-a-mujer-que-intento-ingresar-105-vapeadores-con-extracto-de-marihuana-desde-el-paso-a-ciudad-juarez/
+    publisher: Infobae
+    date: 2026-11-25
+    language: es
 open_questions:
-  - No separate date is given for the inspection; 25 November 2026 is the article's publication date.
-  - No laboratory result or weight was reported for the 105 vapes described as containing alleged marijuana; the article calls the substance cannabis-derived but does not say whether it was plant-derived or synthetic.
-  - No one was reported arrested or charged; the devices were referred to the competent authorities for investigation.
-  - The 100 conventional e-cigarettes seized with the alleged-cannabis vapes are excluded from this report's cannabis component.
+    - No separate date is given for the inspection; 25 November 2026 is the article's publication date.
+    - No laboratory result or weight was reported for the 105 vapes described as containing alleged marijuana; the article calls the substance cannabis-derived but does not say whether it was plant-derived or synthetic.
+    - The woman driving the vehicle was reported detained and referred for proceedings, but she was not named and no charge or court outcome was reported.
+    - The 100 conventional e-cigarettes seized with the alleged-cannabis vapes are excluded from this report's cannabis component.
 media:
   - kind: photo
     url: https://www.lavozdemichoacan.com.mx/mexico/seguridad-pais/aseguran-205-vapeadores-aduana-ciudad-juarez/
     media_url: https://www.lavozdemichoacan.com.mx/wp-content/uploads/2026/11/FotoJet-5-21.jpg
     publisher: La Voz de Michoacán
     caption: Boxes holding the 205 seized vapes and e-cigarettes at Ciudad Juárez customs.
+  - kind: photo
+    url: https://www.infobae.com/mexico/2026/11/26/detienen-a-mujer-que-intento-ingresar-105-vapeadores-con-extracto-de-marihuana-desde-el-paso-a-ciudad-juarez/
+    media_url: https://www.infobae.com/resizer/v2/CMAFSR3M45GKLOWIK4FHR7Y6ZA.jpg?auth=867e50c2b80deafcb5b54cc3e3cefa4d273f313d0a36f889af9049d4cc1fd7f7&smart=true&width=992&height=558&quality=85
+    publisher: Infobae
+    caption: 'Counted vapes with marijuana extract from the Ciudad Juarez seizure. Photo: ANAM via Infobae'
+  - kind: photo
+    url: https://www.infobae.com/mexico/2026/11/26/detienen-a-mujer-que-intento-ingresar-105-vapeadores-con-extracto-de-marihuana-desde-el-paso-a-ciudad-juarez/
+    media_url: https://www.infobae.com/resizer/v2/5TR5CRCSPJDQJOBE3WLTSFUSAM.jpg?auth=f20d5c42dd03fa67b2c040e5232a82bf1b274a183ac4eb2c0c7e71b32a6e3c0f&smart=true&width=350&height=468&quality=85
+    publisher: Infobae
+    caption: 'Boxes holding the 205 seized vapes and e-cigarettes at Ciudad Juarez customs. Photo: ANAM via Infobae'
+  - kind: photo
+    url: https://www.infobae.com/mexico/2026/11/26/detienen-a-mujer-que-intento-ingresar-105-vapeadores-con-extracto-de-marihuana-desde-el-paso-a-ciudad-juarez/
+    media_url: https://www.infobae.com/resizer/v2/SBI7U6O2KVAXHO7XUHV4W2DIEE.jpg?auth=2feddb18355764042ab9785211779ee10dc04c640008ef1c38acad6904a5c4e9&smart=true&width=350&height=233&quality=85
+    publisher: Infobae
+    caption: 'Seized vapes in Ciudad Juarez. Photo: ANAM via Infobae'
 ---
 
 Customs staff at Ciudad Juárez referred a vehicle arriving from El Paso, Texas,
-to an inspection bay. [@1,2] The vehicle was driven by a woman travelling with a
-minor. [@1,2] The minor received attention under the protocols of the
+to an inspection bay. [@1,2,3] The vehicle was driven by a woman travelling with a
+minor. [@1,2] The authorities sent the case to the competent authorities for proceedings against the driver. [@3] The woman driving the vehicle was detained. [@3] The minor received attention under the protocols of the
 participating institutions. [@1]
 
 The Agencia Nacional de Aduanas de México (ANAM), with the Guardia Nacional and
 the Secretaría de Seguridad y Protección Ciudadana, seized the devices at Ciudad
-Juárez customs. [@1,2] Non-intrusive inspection equipment and a physical search
+Juárez customs. [@1,2,3] Non-intrusive inspection equipment and a physical search
 found two boxes holding the devices. [@1] One box held 105 vapes with alleged
 marijuana and the other 100 conventional e-cigarettes, for 205 devices in all.
-[@1,2] The find was made at the Puente Internacional Reforma during checks on
+[@1,2,3] The find was made at the Puente Internacional Reforma during checks on
 goods entering Mexico. [@1]
 
 Mexico prohibits the import of e-cigarettes, vapes and similar devices on
