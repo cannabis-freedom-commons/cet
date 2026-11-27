@@ -67,6 +67,16 @@ media:
     media_url: https://i.blogs.es/00e179/captura-de-pantalla-2026-11-26-a-las-09.17.49/1366_2000.jpeg
     publisher: Xataka
     caption: 'Guardia Civil screenshot from the Las Gabias operation, placed in the section on the illegal power connection and the grow shop. Image: Guardia Civil'
+  - kind: photo
+    url: https://www.leafie.co.uk/cannabis/underground-cannabis-farm-childrens-playground/
+    media_url: https://www.leafie.co.uk/wp-content/uploads/2026/11/cannabis-bunker-childrens-playground-spain.jpg
+    publisher: leafie
+    caption: The underground cannabis bunker concealed beneath a children's playground in Las Gabias, Granada.
+  - kind: photo
+    url: https://www.leafie.co.uk/cannabis/underground-cannabis-farm-childrens-playground/
+    media_url: https://www.leafie.co.uk/wp-content/uploads/2026/11/operacion_nazari_granada_05-800x450.jpg
+    publisher: leafie
+    caption: 'Inside the underground cannabis bunker found beneath the children''s playground. Photo: Guardia Civil'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 34caebd538fb906b9d472e4d37785847
@@ -107,13 +117,18 @@ sources:
     publisher: Hoy
     date: 2026-11-26
     language: es
+  - title: Spanish police find cannabis farm under children's playground - leafie
+    url: https://www.leafie.co.uk/cannabis/underground-cannabis-farm-childrens-playground/
+    publisher: leafie
+    date: 2026-11-26
+    language: en
 ---
 
 Guardia Civil officers arrested five people and kept three others under
-investigation. [@1,4,5,6] The find was in Las Gabias, near Granada, where officers
+investigation. [@1,4,5,6,8] The find was in Las Gabias, near Granada, where officers
 uncovered a sophisticated underground structure for growing and processing
-marijuana, concealed beneath a children's play park. [@1,5,6] The alleged head of
-the organisation was remanded in custody. [@1,6,7] The operation was named
+marijuana, concealed beneath a children's play park. [@1,5,6,8] The alleged head of
+the organisation was remanded in custody. [@1,6,7,8] The operation was named
 Nazarí-Sabika 04. [@1,4,6,7] It was carried out on 17 November after more than a year
 of investigation and comprised 13 searches at properties in Granada city,
 Albolote, Jun, Las Gabias and Maracena. [@2,4] A second account dates the same
@@ -123,19 +138,19 @@ The entrance was camouflaged under artificial turf with a swing, a playhouse and
 a small mat, while the rest of the ground was covered with decorative white
 stone. [@1,6,7] Beneath the turf a hydraulic folding gate opened onto a ramp
 allowing vehicles into a bunker of about 180 square metres and five metres high.
-[@1,6] Two rooms inside held 1,954 cannabis plants and were equipped with
-lighting, ventilation and climate control. [@1,4,6] The Guardia Civil described it
+[@1,6,8] Two rooms inside held 1,954 cannabis plants and were equipped with
+lighting, ventilation and climate control. [@1,4,6,8] The Guardia Civil described it
 as the largest and most sophisticated illegal growing bunker found to date in
-Granada province. [@1,6,7] Across the searches officers seized 2,479 marijuana
+Granada province. [@1,6,7,8] Across the searches officers seized 2,479 marijuana
 plants from three plantations, two cars, two vans, a caravan, a trailer, a stun
-gun and 22,970 euros in banknotes. [@1,4,5,6,7] They also sealed a commercial grow shop
-whose value investigators put at several million euros. [@1,6,7] A power tower
+gun and 22,970 euros in banknotes. [@1,4,5,6,7,8] They also sealed a commercial grow shop
+whose value investigators put at several million euros. [@1,6,7,8] A power tower
 supplied the plantation through an illegal grid connection whose load equalled
-the consumption of about 100 homes. [@1,6,7]
+the consumption of about 100 homes. [@1,6,7,8]
 
 Those detained and under investigation were suspected of cultivating and
 processing drugs, electricity fraud, unlawful possession of a prohibited weapon
-and belonging to a criminal group. [@1,6] Investigators said the organisation also
+and belonging to a criminal group. [@1,6,8] Investigators said the organisation also
 supplied infrastructure and specialised equipment to other drug-trafficking
-groups nationwide. [@1] The alleged leader owned the grow shop and used it to
+groups nationwide. [@1,8] The alleged leader owned the grow shop and used it to
 supply his own plantation and other growing sites around Spain. [@1,6]
