@@ -43,23 +43,27 @@ sources:
     publisher: Eemskrant.nl
     date: 2026-11-25
     language: nl
+  - title: Hennepkwekerij met ruim 300 planten ontdekt, bewoner aangehouden
+    url: https://noordernieuws.nl/2026/11/hennepkwekerij-met-ruim-300-planten-ontdekt-bewoner-aangehouden/
+    publisher: NoorderNieuws
+    date: 2026-11-25
+    language: nl
 open_questions:
-  - The sources give only 'more than 300' plants, so no exact plant count above 300 was published; 300 is recorded as the stated lower bound.
-  - No charges, court outcome, detention period or identity beyond age and residence were reported.
-  - No weight, value or laboratory confirmation for the plants was published.
-  - The account rests on a single local report of the police account.
+    - The sources give only 'more than 300' plants, so no exact plant count above 300 was published; 300 is recorded as the stated lower bound.
+    - No charges, court outcome, detention period or identity beyond age and residence were reported.
+    - No weight, value or laboratory confirmation for the plants was published.
 ---
 
 On Wednesday morning 25 November 2026, police found a cannabis nursery in a shed
-directly beside a house on Marcus Buschstraat in Delfzijl. [@1] The 30-year-old
+directly beside a house on Marcus Buschstraat in Delfzijl. [@1,2] The 30-year-old
 man who lives in the house was arrested during the operation and transferred to
-the cell complex in the city of Groningen. [@1] During the same operation,
-officers also seized the car belonging to the arrested resident. [@1]
+the cell complex in the city of Groningen. [@1,2] During the same operation,
+officers also seized the car belonging to the arrested resident. [@1,2]
 
 According to the police account, the nursery contained more than 300 cannabis
-plants. [@1] The growing installation inside the shed was still in operation at
-the moment the police entered. [@1] Investigators found that the electricity
-needed to run the nursery had been tapped illegally. [@1]
+plants. [@1,2] The growing installation inside the shed was still in operation at
+the moment the police entered. [@1,2] Investigators found that the electricity
+needed to run the nursery had been tapped illegally. [@1,2]
 
 Police said that taking money and goods obtained through crime away from
 offenders forms an important part of their overall approach to criminality. [@1]
@@ -67,4 +71,3 @@ The force invited anyone with information about this particular nursery, or
 anyone suspecting that another nursery is operating nearby, to call the police
 on 0900-8844. [@1] Anonymous tips can be made to Meld Misdaad Anoniem, the Dutch
 anonymous crime-reporting line, on 0800-7000. [@1]
-
