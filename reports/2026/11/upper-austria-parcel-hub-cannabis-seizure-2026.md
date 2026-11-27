@@ -77,26 +77,33 @@ sources:
     publisher: VOL.AT (via MSN)
     date: 2026-11-26
     language: de
+  - title: Millonen wert - Eine Tonne Drogen in Logistikzentrum gefunden
+    url: https://www.krone.at/4390771
+    publisher: Kronen Zeitung
+    date: 2026-11-26
+    language: de
+open_questions:
+    - The reports do not name the town in Upper Austria where the logistics centre is located.
 ---
 
 Austrian customs seized large quantities of drugs in a series of checks at a
-parcel-delivery logistics centre in Upper Austria over recent weeks. [@2,5,6,7] The
+parcel-delivery logistics centre in Upper Austria over recent weeks. [@2,5,6,7,8] The
 Finance Ministry said the drugs had a street value in the double-digit millions
-of euros. [@1,5,6,7] The ministry's final tally was about 900 kilograms of marijuana,
+of euros. [@1,5,6,7,8] The ministry's final tally was about 900 kilograms of marijuana,
 62.35 kilograms of cannabis resin and 26.55 kilograms of cocaine, the last of
-which is not counted in the cannabis figures. [@2] No arrests were reported and
+which is not counted in the cannabis figures. [@2,8] No arrests were reported and
 those behind the shipments had not been identified. [@4,5]
 
 The first large find came on 15 July 2026, when a routine check at the logistics
 centre uncovered more than 120 kilograms of cannabis flower and about 1.2
-kilograms of cocaine. [@2,5] The drugs travelled on a Spanish lorry in 27
+kilograms of cocaine. [@2,5,8] The drugs travelled on a Spanish lorry in 27
 shipments, vacuum-packed and treated with odour-neutralising materials to hinder
-detection. [@2,5,6] Most parcels were addressed to recipients in Greece, with others
-bound for Hungary, Romania and Austria. [@2,5,6,7] Two days later officers found 62
+detection. [@2,5,6,8] Most parcels were addressed to recipients in Greece, with others
+bound for Hungary, Romania and Austria. [@2,5,6,7,8] Two days later officers found 62
 more parcels containing cannabis at the same site, and on 20 July 2026 they
-seized 42 boxes of drugs from another Spanish lorry. [@2,5]
+seized 42 boxes of drugs from another Spanish lorry. [@2,5,8]
 
 Further finds followed almost daily in the days that followed. [@3,5] Finance
 Minister Markus Marterbauer called the find a blow against drug crime in Europe
 and a preventively important step. [@2] Customs officers documented and secured
-the seized substances. [@2]
+the seized substances. [@2,8]
