@@ -73,6 +73,11 @@ sources:
     publisher: RGH News
     date: 2026-11-21
     language: hi
+  - title: “ऑपरेशन आघात” के तहत रायगढ़ पुलिस की बड़ी कार्रवाई, पांच अंतरराज्यीय गांजा तस्कर गिरफ्तार
+    url: https://raigarhtopnews.com/major-action-by-raigarh-police-under-operation-aaghat-five-inter-state-cannabis-smugglers-arrested/
+    publisher: raigarhtopnews.com
+    date: 2026-11-21
+    language: hi
 open_questions:
     - The first tip-off is dated to 20 November 2026 in one account published on 21 November 2026, while the existing account uses the 22 November 2026 publication date; the second station action is described only as occurring during the same operation.
     - No court outcome, formal charge or plea is reported beyond the two cases being registered under Section 20(b) of the NDPS Act and the accused being sent to judicial remand.
@@ -81,7 +86,7 @@ open_questions:
 
 Police in Raigarh arrested four men and a 16-year-old boy in two separate
 operations outside the city's railway station and seized 25.175 kg of ganja in
-all. [@1,3] The drive was part of Operation Aaghat under SSP Shashi Mohan Singh's direction. [@4] Police said the suspects had bought the ganja in Sambalpur, Odisha,
+all. [@1,3,5] The drive was part of Operation Aaghat under SSP Shashi Mohan Singh's direction. [@4,5] Police said the suspects had bought the ganja in Sambalpur, Odisha,
 and reached Raigarh by train, planning to travel on to Pune; the case belongs to
 the Kotwali police station area. [@2]
 
@@ -89,7 +94,7 @@ In the first operation, acting on a tip, officers surrounded three men sitting
 with ganja in bags and a trolley bag under a peepal tree beside the Shiv temple
 near the parking in front of the railway station. [@2] Officers found 20.434 kg
 of ganja packed in 20 packets on them, which police valued at about 4 lakh
-rupees, and seized three mobile phones worth 80,000 rupees. [@2,3,4] The three were
+rupees, and seized three mobile phones worth 80,000 rupees. [@2,3,4,5] The three were
 identified as Amol Baban Dhotre, 29; Sagar Laxman Gaikwad, 18; and Shubham Nandu
 Gunjal, 23, all residents of Pune district. [@2,3,4]
 
@@ -98,14 +103,14 @@ the station's motorcycle stand with ganja in a bag. [@2] One was identified as
 Imtiyaz Rafiq Inamdar, 21, of Chakan Manik Chowk in Pune district, and the other
 turned out to be a minor aged 16 years and 2 months. [@2,3,4] Five packets holding
 4.741 kg of ganja valued at about 92,000 rupees were found in Imtiyaz's bag, and
-one mobile phone worth 10,000 rupees was seized. [@2,3,4] Police said the suspects
+one mobile phone worth 10,000 rupees was seized. [@2,3,4,5] Police said the suspects
 in both cases had bought the ganja in Sambalpur and reached Raigarh by train,
 and were looking for buyers outside the station to pay for the journey to Pune.
-[@2]
+[@2,5]
 
 Across both operations police seized 25.175 kg of ganja valued at about 4.92
 lakh rupees and four mobile phones worth about 90,000 rupees, property worth
 5.82 lakh rupees in all. [@2] A case was registered under the NDPS Act, India's
-drug law, in both matters and the accused were sent to judicial remand. [@2,3] The two cases were registered as crime numbers 582/2026 and 583/2026 under Section 20(b) of the NDPS Act. [@4]
+drug law, in both matters and the accused were sent to judicial remand. [@2,3,5] The two cases were registered as crime numbers 582/2026 and 583/2026 under Section 20(b) of the NDPS Act. [@4,5]
 Superintendent of Police Shashi Mohan Singh said police would keep acting
-against traffickers involved in the illegal drug trade. [@2] RPF Raigarh gave special assistance in the operation. [@4]
+against traffickers involved in the illegal drug trade. [@2,5] RPF Raigarh gave special assistance in the operation. [@4,5]
