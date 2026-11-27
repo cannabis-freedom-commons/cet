@@ -87,18 +87,23 @@ sources:
     publisher: Salzburger Nachrichten
     date: 2026-11-22
     language: de
+  - title: Mechaniker entdeckte Cannabispackerl in Kunden-Pkw
+    url: https://www.vol.at/mechaniker-entdeckte-cannabispackerl-in-kunden-pkw/11388086
+    publisher: VOL.AT
+    date: 2026-11-22
+    language: de
 ---
 
 A workshop employee in Völkermarkt noticed a larger package of cannabis herb in
-the boot of a car that was in the workshop for inspection. [@4,5,7,9] He reported the
+the boot of a car that was in the workshop for inspection. [@4,5,7,9,10] He reported the
 find to police at about 10:20 on 20 November 2026. [@1,5] By the time officers
 reached the workshop the car had been driven away, and an initial search was
 unsuccessful. [@2] Police got the driver to come back by saying that a tool had
-been left in the car. [@3,6,8,9] Officers stopped and provisionally arrested the two
+been left in the car. [@3,6,8,9,10] Officers stopped and provisionally arrested the two
 occupants, a 26-year-old man from Klagenfurt and a 25-year-old woman from the
 Völkermarkt district. [@3,5,8]
 
-The package seen earlier was no longer in the car when it returned. [@3,6,8,9] The
+The package seen earlier was no longer in the car when it returned. [@3,6,8,9,10] The
 woman said she knew nothing about the cannabis, while the man initially refused
 to cooperate. [@3,8] The Klagenfurt public prosecutor's office ordered a
 court-approved search of the man's home. [@3] During the search investigators
