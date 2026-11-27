@@ -55,6 +55,11 @@ sources:
     url: https://www.nessma.tv/en/amp/tunisia/actu/ben-arous-two-drug-dealers-arrested-five-cannabis-bars-seized/602806
     publisher: Nessma
     date: 2026-11-21
+  - title: فرقة الأبحاث والتفتيش ببن عروس تحجز 5 صفائح زطلة والاحتفاظ بمروّجين
+    url: https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/1537630/%D9%81%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D8%AD%D8%A7%D8%AB-%D9%88%D8%A7%D9%84%D8%AA%D9%81%D8%AA%D9%8A%D8%B4-%D8%A8%D8%A8%D9%86-%D8%B9%D8%B1%D9%88%D8%B3-%D8%AA%D8%AD%D8%AC%D8%B2-5-%D8%B5%D9%81%D8%A7%D8%A6%D8%AD-%D8%B2%D8%B7%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D8%B8-%D8%A8%D9%85%D8%B1%D9%88-%D8%AC%D9%8A%D9%86
+    publisher: Mosaique FM
+    date: 2026-11-21
+    language: ar
 open_questions:
     - No weight was given for the five slabs, so no kilogram figure is recorded.
     - The two suspects were not named and no formal charge or court outcome was reported.
@@ -63,18 +68,18 @@ open_questions:
 
 The National Guard's research and investigation brigade in Ben Arous arrested
 two men suspected of promoting drugs in a residential neighbourhood of Boumhel
-on 21 November 2026. [@1,4] Officers laid an ambush after information that the two
+on 21 November 2026. [@1,4,5] Officers laid an ambush after information that the two
 frequented a residential area of Boumhel and caught them when they tried to
 flee, Al Chourouk reported. [@2]
 
 A search of the two men turned up five slabs of cannabis resin, known locally as
-zatla, and a car suspected of being used to transport the drugs. [@1,4] La Presse
+zatla, and a car suspected of being used to transport the drugs. [@1,4,5] La Presse
 de Tunisie likewise reported five plaquettes of cannabis (zatla) and a car
 believed to have served to carry the drugs. [@3]
 
-Both men confessed to the acts attributed to them during questioning. [@1,4] The
+Both men confessed to the acts attributed to them during questioning. [@1,4,5] The
 public prosecutor at the Ben Arous Primary Court authorised their detention on
-suspicion of promoting drugs. [@1,4] La Presse de Tunisie said their placement in
+suspicion of promoting drugs. [@1,4,5] La Presse de Tunisie said their placement in
 custody was ordered for suspicion of drug trafficking after the prosecution was
 consulted. [@3] Al Chourouk said the operation formed part of continuing
 security efforts against drug trafficking and promotion. [@2]
