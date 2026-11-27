@@ -61,13 +61,18 @@ sources:
     url: https://almontasaf.net/news153679.html
     publisher: المنتصف نت
     language: ar
+  - title: بعد استعراضها بتعاطي الحشيش على "سناب شات".. أمن عدن يعلن ضبط صاحبة حساب "غزال" متلبسة بحيازة المخدرات
+    url: https://almasdaronline.com/articles/354408
+    publisher: المصدر أونلاين
+    date: 2026-11-26
+    language: ar
 ---
 
 Aden's anti-narcotics police and the National Security Forces, led by Colonel
-Miyas Al-Ja'dani, detained a young woman known on Snapchat as 'Ghazal'. [@4] The
+Miyas Al-Ja'dani, detained a young woman known on Snapchat as 'Ghazal'. [@4,5] The
 security media office dated its statement Wednesday 25 November 2026. [@3] She
 was accused of possessing hashish and of displaying her use of it on her
-Snapchat account. [@2] Officers caught her in Al-Ma'la district of Aden after a
+Snapchat account. [@2,5] Officers caught her in Al-Ma'la district of Aden after a
 monitoring and tracking operation. [@4] The Security Media Centre said the
 arrest came after she posted photos and videos on her account boasting about
 taking hashish. [@4]
@@ -75,11 +80,10 @@ taking hashish. [@4]
 The operation produced a substance suspected to be hashish, and a photo
 circulated after the arrest showing the items seized from her. [@1] The case
 file and the seized items were handed to the Security and Investigation
-Prosecution to refer the woman to justice. [@4]
+Prosecution to refer the woman to justice. [@4,5]
 
 Colonel Al-Ja'dani said social media was not a space for evading accountability
 and that anyone involved in possessing, promoting or using drugs would face
-legal action. [@4] He said the arrest was part of continuing security campaigns
+legal action. [@4,5] He said the arrest was part of continuing security campaigns
 by the anti-narcotics directorate aimed at drying up the supply and protecting
-young people. [@3]
-
+young people. [@3,5]
