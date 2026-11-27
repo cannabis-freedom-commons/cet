@@ -37,6 +37,11 @@ media:
     media_url: https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2026/11/25/6b070bbd3454e8-18039234.jpeg
     publisher: 20minutos
     caption: 'The 200 seized hashish pellets intercepted at the Port of Almería. Photo: Guardia Civil / Europa Press.'
+  - kind: photo
+    url: https://www.attasiaa.com/%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A3%D9%84%D9%85%D9%8A%D8%B1%D9%8A%D8%A7/
+    media_url: https://www.attasiaa.com/wp-content/uploads/2026/11/%D8%AA%D9%88%D9%82%D9%8A%D9%81-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D9%82%D8%A7%D8%AF%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A8%D9%80%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85%D8%A7-200-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A9-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%85%D8%AE%D8%A8%D8%A3%D8%A9-%D8%A8%D8%AC%D8%B3%D8%AF%D9%8A%D9%87%D9%85%D8%A7-%D8%A8%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A3%D9%84%D9%85%D9%8A%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A1-1536x804.jpg
+    publisher: Attasiaa
+    caption: The 200 hashish capsules seized at the Port of Almería from two travellers arriving from Morocco.
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 693dd1eb41523221b96208f394f418c4
@@ -51,24 +56,26 @@ sources:
     url: https://costaspainnews.es/two-held-after-drug-pellets-found-inside-bodies-at-port/
     publisher: Costa News Spain
     date: 2026-11-25
+  - title: توقيف شخصين قادمين من المغرب بحوزتهما حشيش بألميريا
+    url: https://www.attasiaa.com/%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A3%D9%84%D9%85%D9%8A%D8%B1%D9%8A%D8%A7/
+    publisher: Attasiaa
+    date: 2026-11-26
+    language: ar
 open_questions:
-  - No weight for the 200 pellets was published, so no cannabis weight is recorded.
-  - The interception date was not stated separately; 25 November 2026, the publication date of the 20minutos and Costa accounts, is used as the incident date.
-  - The names, ages, nationalities and court outcome for the two detainees were not reported; the case is recorded at the investigation stage.
-  - The accounts reproduce the same Guardia Civil statement and are not independent confirmations of the figures.
-  - 'Left out, as its quotation was not found in 20minutos: One detained person carried 105 small hashish wrappers and the other carried 95.'
-  - 'Left out, as its quotation was not found in Darb24: X-ray scans revealed 200 hashish capsules hidden inside their bodies.'
-  - Left out route, as its quotation was not found in Darb24.
+    - No weight for the 200 pellets was published, so no cannabis weight is recorded.
+    - The interception date was not stated separately; 25 November 2026, the publication date of the 20minutos and Costa accounts, is used as the incident date.
+    - The names, ages, nationalities and court outcome for the two detainees were not reported; the case is recorded at the investigation stage.
+    - The accounts reproduce the same Guardia Civil statement and are not independent confirmations of the figures.
 ---
 
 Guardia Civil officers detained two people at the Port of Almería for suspected
 drug trafficking after finding 200 hashish pellets inside their bodies during a
-passenger and goods check on arrivals from Nador, Morocco. [@1] Officers of the
+passenger and goods check on arrivals from Nador, Morocco. [@1,3] Officers of the
 fiscal and border analysis unit interviewed the two couriers and, noting their
 nervous demeanour, asked them to undergo a voluntary X-ray examination at a
 medical centre, to which both agreed. [@1] The examination detected numerous
 rounded foreign bodies consistent with the wrappers, which were later expelled
-and seized by officers. [@1]
+and seized by officers. [@1] One detained person carried 105 small hashish wrappers and the other carried 95. [@3]
 
 The pair were intercepted during a passenger and goods check on services
 arriving from Nador. [@2] Officers with the fiscal and border analysis unit
@@ -79,4 +86,3 @@ Civil said this method of concealment can be dangerous because any rupture of
 the packets can have serious consequences for the people who ingest them. [@2]
 The arrests form part of the force's wider operation against drug trafficking,
 cultivation and production in the province of Almeria. [@2]
-
