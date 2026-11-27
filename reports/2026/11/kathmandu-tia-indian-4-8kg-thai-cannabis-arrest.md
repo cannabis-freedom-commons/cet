@@ -52,11 +52,15 @@ sources:
     url: https://www.msn.com/en-in/news/other/indian-national-arrested-in-nepal-for-possessing-48-kg-marijuana/ar-AA2ickgl
     publisher: News18
     date: 2026-11-25
+  - title: Indian national arrested at airport with nearly 5 kg of Thai cannabis
+    url: https://www.hamropatro.com/en/news/detail/1795679169614105580-indian-national-arrested-at-airport-with-nearly-5-kg-of
+    publisher: Hamro Patro
+    date: 2026-11-26
 ---
 
 Nepal's Narcotics Control Bureau arrested an Indian national at Tribhuvan
 International Airport in Kathmandu with nearly five kilograms of Thai cannabis.
-[@1,3] Police identified the man as 29-year-old Abdul Nausad, a resident of
+[@1,3,4] Police identified the man as 29-year-old Abdul Nausad, a resident of
 Mulariya in Kerala, India, carrying Thai cannabis flown into Nepal by air. [@1,3]
 He had arrived in Kathmandu from Thailand via Malaysia on a Batik Air flight.
 [@1]
