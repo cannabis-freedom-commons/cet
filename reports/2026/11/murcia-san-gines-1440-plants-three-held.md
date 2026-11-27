@@ -108,6 +108,11 @@ sources:
     publisher: La Razón / MSN
     date: 2026-11-23
     language: es
+  - title: Tres detenidos en Murcia por tener una plantación con 1.440 cultivos de marihuana y 113 kilos de cogollos
+    url: https://www.laverdad.es/murcia/ciudad-murcia/tres-detenidos-murcia-tener-plantacion-1440-cultivos-20261123103053-nt.html
+    publisher: La Verdad
+    date: 2026-11-23
+    language: es
 open_questions:
     - No separate date is given for the raid; 23 November 2026 is the publication date and stands in for the incident date.
     - The buds weighed almost 113 kilograms; the exact weight was not stated, so 113 kg is recorded as reported.
@@ -117,16 +122,16 @@ open_questions:
 ---
 
 The National Police dismantled an intensive marijuana plantation inside an
-industrial warehouse in the Polígono Industrial Oeste in San Ginés, Murcia. [@1,2,5,6] Officers from UDYCO, the UPR, the GAC and the Scientific Police took part in the operation. [@7] The warehouse held 99 high-intensity lights, 15 air filters, 45 fans, 12 air extractors and five industrial air-conditioning units. [@7]
+industrial warehouse in the Polígono Industrial Oeste in San Ginés, Murcia. [@1,2,5,6,9] Officers from UDYCO, the UPR, the GAC and the Scientific Police took part in the operation. [@7] The warehouse held 99 high-intensity lights, 15 air filters, 45 fans, 12 air extractors and five industrial air-conditioning units. [@7]
 Officers arrested three men as alleged perpetrators of offences against public
-health and electricity fraud. [@1,3] The three detainees were placed at judicial
+health and electricity fraud. [@1,3,9] The three detainees were placed at judicial
 disposition after being accused of drug trafficking and electricity fraud. [@1,4,5,6]
 
 Officers seized 1,440 marijuana plants at different growth stages during the
-entry and search. [@1,3] Officers also seized 99 high-intensity lamps, 15 air
-filters, 45 fans, 12 extractors and five industrial air-conditioning units. [@1,4,5,6]
+entry and search. [@1,3,9] Officers also seized 99 high-intensity lamps, 15 air
+filters, 45 fans, 12 extractors and five industrial air-conditioning units. [@1,4,5,6,9]
 Officers seized almost 113 kilograms of marijuana buds ready for distribution
-and 9,000 euros in cash allegedly linked to the criminal activity. [@1,3]
+and 9,000 euros in cash allegedly linked to the criminal activity. [@1,3,9]
 
 The investigation located the warehouse through operations against
 drug-trafficking organisations operating in the Region of Murcia. [@1,4] Officers
