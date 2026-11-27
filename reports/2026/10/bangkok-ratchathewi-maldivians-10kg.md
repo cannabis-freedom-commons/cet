@@ -65,6 +65,11 @@ sources:
     url: https://edition.mv/news/54694
     publisher: The Edition
     date: 2026-10-07
+  - title: Maldivian duo arrested from Bangkok with over 12 kilos of crystal meth and cannabis
+    url: https://english.sun.mv/109339
+    publisher: SunOnline International
+    date: 2026-10-07
+    archived: https://web.archive.org/web/20261007075445id_/https://english.sun.mv/109339
 media:
   - kind: photo
     url: https://www.pattayamail.com/news/bangkok-police-seize-2-37kg-of-crystal-meth-and-10kg-of-cannabis-from-maldives-suspects-567488
@@ -76,26 +81,46 @@ media:
     media_url: https://edition.mv/cdn-cgi/image/width=774,height=532,fit=cover,format=webp/https://images.mihaaru.com/photos/2026/10/07/449616_3_29d87d7ce66a8e7e5e7c5ad8f2c8476c5edae213_large.webp
     publisher: The Edition
     caption: Mohamed Visham pictured after arrest in Thailand with the seized drugs.
+  - kind: photo
+    url: https://english.sun.mv/109339
+    media_url: https://s3-ap-southeast-1.amazonaws.com/sun.assets/uploads/l_2026_10_07_123632_pa5ur2bnzv8j1mosdcgxyk3lftqwie7694h_EN_.png
+    publisher: SunOnline International
+    caption: 'Thai police photos of the drugs and parcels seized in the Bangkok arrest of two Maldivian men. Photo: Thai Police'
+  - kind: photo
+    url: https://english.sun.mv/109339
+    media_url: https://s3-ap-southeast-1.amazonaws.com/sun.assets/uploads/l_2026_10_07_123839_g7zj4563kvwxeh2dfitp9q18bcyarnumsol_EN_.png
+    publisher: SunOnline International
+    caption: 'Thai police photos of the seized parcels and drugs in the Bangkok Maldivian case. Photo: Thai Police'
+  - kind: photo
+    url: https://english.sun.mv/109339
+    media_url: https://s3-ap-southeast-1.amazonaws.com/sun.assets/uploads/l_2026_10_07_123808_pay3h8d2rs51wvzbm4n7goutfe9cklix6jq_EN_.png
+    publisher: SunOnline International
+    caption: 'Thai police photos of the stainless-steel tumblers and cannabis seized in Bangkok. Photo: Thai Police'
+  - kind: photo
+    url: https://english.sun.mv/109339
+    media_url: https://s3-ap-southeast-1.amazonaws.com/sun.assets/uploads/l_2026_10_07_123722_guqkcs8ay1lh3tzvnpwb6djm5of2i4r79xe_EN_.png
+    publisher: SunOnline International
+    caption: 'Thai police photos of the drugs seized from the two Maldivian men in Bangkok. Photo: Thai Police'
 ---
 
 Two Maldivian men were arrested in Bangkok after police found 2.37 kg of
 crystal methamphetamine hidden in stainless-steel tumblers and about 10
-kg of cannabis buds wrapped in children's clothing. [@1,5] [@2] [@3]
+kg of cannabis buds wrapped in children's clothing. [@1,5,6] [@2] [@3]
 
 Police identified them as Ali Rashid, 46, and Mohamed Wisam, 34; the
 investigation began on 5 October when a Pratunam cargo office refused
 their taped boxes over a strong smell, and officers later traced the
 parcels to beneath a dormitory in Soi Phetchaburi 11, Ratchathewi, watching
-the pair call a tuk-tuk to move them. [@1,4,5] [@2] The meth was packed 200–
+the pair call a tuk-tuk to move them. [@1,4,5,6] [@2] The meth was packed 200–
 300 g per tumbler; the cannabis was taped inside bundles of children's
 clothes and toy cars across five large boxes, seized with the men at
 Phaya Thai station. [@1] Both denied knowing the contents, saying a
 friend asked them to send the parcels, and were charged with joint
 possession with intent to sell while police probe transnational links.
-[@1,4] [@3] Wisam was previously a main suspect in a 2020 case of 72 kg of
+[@1,4,6] [@3] Wisam was previously a main suspect in a 2020 case of 72 kg of
 heroin smuggled into the Maldives, dismissed for insufficient evidence.
 [@3]
 
-The pair told police the parcels were bound for cargo services in India, a detail not reported elsewhere. [@4] The two were charged under Thailand's Category 1 narcotics rules, which cover methamphetamine, over joint possession and intent to sell without permission. [@4] The men were taken to Phaya Thai Police Station for prosecution, and officers seized the five large shipping boxes holding the parcels. [@4]
+The pair told police the parcels were bound for cargo services in India, a detail not reported elsewhere. [@4] The two were charged under Thailand's Category 1 narcotics rules, which cover methamphetamine, over joint possession and intent to sell without permission. [@4] The men were taken to Phaya Thai Police Station for prosecution, and officers seized the five large shipping boxes holding the parcels. [@4,6]
 
 Visham was previously suspected as a leading figure in the 72 kg drug case smuggled into the Maldives by sea in December 2020 aboard the boat Masjaree-2. [@5] In that earlier case charges were raised against 10 people including Visham, but the state later withdrew all but the charges against three individuals. [@5]
