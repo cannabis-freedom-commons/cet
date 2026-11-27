@@ -49,6 +49,11 @@ sources:
     publisher: Infobae
     date: 2026-11-25
     language: es
+  - title: Intentó cruzar a Juárez vapes y marihuana en esferas navideñas
+    url: https://diario.mx/juarez/2026/nov/25/intento-cruzar-a-juarez-vapes-y-marihuana-en-esferas-navidenas-1150418.html
+    publisher: El Diario
+    date: 2026-11-25
+    language: es
 open_questions:
     - No separate date is given for the inspection; 25 November 2026 is the article's publication date.
     - No laboratory result or weight was reported for the 105 vapes described as containing alleged marijuana; the article calls the substance cannabis-derived but does not say whether it was plant-derived or synthetic.
@@ -84,11 +89,11 @@ participating institutions. [@1]
 
 The Agencia Nacional de Aduanas de México (ANAM), with the Guardia Nacional and
 the Secretaría de Seguridad y Protección Ciudadana, seized the devices at Ciudad
-Juárez customs. [@1,2,3] Non-intrusive inspection equipment and a physical search
-found two boxes holding the devices. [@1] One box held 105 vapes with alleged
+Juárez customs. [@1,2,3,4] Non-intrusive inspection equipment and a physical search
+found two boxes holding the devices. [@1] The devices were hidden inside assembled golden festive spheres designed to disguise their contents and commercial packing boxes. [@4] One box held 105 vapes with alleged
 marijuana and the other 100 conventional e-cigarettes, for 205 devices in all.
-[@1,2,3] The find was made at the Puente Internacional Reforma during checks on
-goods entering Mexico. [@1]
+[@1,2,3,4] The find was made at the Puente Internacional Reforma during checks on
+goods entering Mexico. [@1,4]
 
 Mexico prohibits the import of e-cigarettes, vapes and similar devices on
 public-health grounds, ANAM said. [@1] The devices were seized and handed to the
