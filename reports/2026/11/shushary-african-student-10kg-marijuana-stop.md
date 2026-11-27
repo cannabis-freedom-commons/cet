@@ -46,6 +46,16 @@ media:
     media_url: https://max.ru/mvd78/AaISzkibT4g
     publisher: Телеканал Санкт-Петербург
     caption: Video posted by the Interior Ministry directorate for St Petersburg and Leningrad Oblast on the Shushary stop and marijuana find.
+  - kind: photo
+    url: https://78.ru/news/2026-11-25/studenta-iz-afriki-s-10-kg-narkotikov-v-bagazhnike-zaderzhali-na-trasse-m11-pod-peterburgom
+    media_url: https://static.78.ru/images/uploads/media/2026/11/25/1795590436900.jpg?width=800
+    publisher: 78.ru
+    caption: 'Interior Ministry handout accompanying the account of the detailed car inspection at the M-11 stop near Shushary. Photo: ГУ МВД РФ по СПБ и ЛО'
+  - kind: video
+    url: https://78.ru/news/2026-11-25/studenta-iz-afriki-s-10-kg-narkotikov-v-bagazhnike-zaderzhali-na-trasse-m11-pod-peterburgom
+    media_url: https://static.78.ru/images/uploads/media/2026/11/25/1795590505704.mp4
+    publisher: 78.ru
+    caption: 'Interior Ministry video of the traffic stop and marijuana find near Shushary. Video: ГУ МВД РФ по СПБ и ЛО'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: cc580bd981177503d655e363898eac97
@@ -61,28 +71,33 @@ sources:
     publisher: Телеканал Санкт-Петербург
     date: 2026-11-25
     language: ru
+  - title: Студента из Африки с 10 кг наркотиков в багажнике задержали на трассе М-11 под Петербургом
+    url: https://78.ru/news/2026-11-25/studenta-iz-afriki-s-10-kg-narkotikov-v-bagazhnike-zaderzhali-na-trasse-m11-pod-peterburgom
+    publisher: 78.ru
+    date: 2026-11-25
+    language: ru
 open_questions:
-  - The published weight of about 10 kg includes the packaging; no net weight of the cannabis was given.
-  - Only one of the 36 packets was reported as tested and confirmed to contain cannabis.
-  - The African country, the university and the suspect's name were not published.
-  - The measure of restraint had not been decided at publication and no court outcome was reported.
-  - All the accounts reviewed reproduce the same Interior Ministry press release, so they are not independent reports.
+    - The published weight of about 10 kg includes the packaging; no net weight of the cannabis was given.
+    - Only one of the 36 packets was reported as tested and confirmed to contain cannabis.
+    - The African country, the university and the suspect's name were not published.
+    - The measure of restraint had not been decided at publication and no court outcome was reported.
+    - All the accounts reviewed reproduce the same Interior Ministry press release, so they are not independent reports.
+    - The accounts disagree on the time of day of the stop, placing it in the evening or at about 6 a.m. on 24 November.
 ---
 
 At about 6 a.m. on Tuesday 24 November 2026, traffic inspectors stopped a Kia
 Quoris for a document check at the 681st kilometre of the M-11 Neva highway near
 the settlement of Shushary in St Petersburg's Pushkinsky District. [@1] The
 driver was a 27-year-old citizen of an African country studying at a university
-in the capital. [@1] He became noticeably nervous during the check, so the
-inspectors searched the car. [@1]
+in the capital. [@1,3] He became noticeably nervous during the check, so the
+inspectors searched the car. [@1,3]
 
 In the boot they found 36 vacuum-sealed polymer packets of green plant material
-weighing about 10 kilograms together with the packaging. [@1] Testing the
+weighing about 10 kilograms together with the packaging. [@1,3] Testing the
 contents of one packet showed that it was the narcotic drug cannabis
-(marijuana). [@1] The Interior Ministry's regional directorate said a criminal
+(marijuana). [@1,3] The Interior Ministry's regional directorate said a criminal
 case was opened under part 3 of article 30 and paragraph г of part 4 of article
 228.1 of the Russian Criminal Code and the suspect was detained. [@1] The case
 was described as an attempt to sell drugs on a large scale. [@2]
 
 The ministry said the measure of restraint would be announced separately. [@1]
-
