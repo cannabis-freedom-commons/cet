@@ -68,21 +68,26 @@ sources:
     publisher: Bastillepost 巴士的報
     date: 2026-11-26
     language: en
+  - title: 海關機場檢獲160萬元大麻花 23歲內地男被捕
+    url: https://www.dotdotnews.com/a/202611/26/AP6b0822a2e4b091a65a30c611.html
+    publisher: 點新聞 dotdotnews
+    date: 2026-11-26
+    language: zh
 ---
 
 Hong Kong Customs detected a drug trafficking case at Hong Kong International
-Airport on 26 November 2026. [@1,3] Officers seized about 7.3 kilograms of
-suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3] The
+Airport on 26 November 2026. [@1,3,4] Officers seized about 7.3 kilograms of
+suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4] The
 suspect was a 23-year-old mainland Chinese man who had arrived from Bangkok,
-Thailand. [@1,3] Officers found the buds in his carry-on baggage during clearance
-and arrested him. [@1,3]
+Thailand. [@1,3,4] Officers found the buds in his carry-on baggage during clearance
+and arrested him. [@1,3,4]
 
-He was charged with one count of trafficking in a dangerous drug. [@2,3] The case
-was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3] Customs
+He was charged with one count of trafficking in a dangerous drug. [@2,3,4] The case
+was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4] Customs
 said it would keep selecting passengers from high-risk regions for clearance
-checks to combat cross-border drug trafficking. [@1,3] Trafficking in a dangerous
+checks to combat cross-border drug trafficking. [@1,3,4] Trafficking in a dangerous
 drug carries a maximum penalty of a HK$5 million fine and life imprisonment
-under the Dangerous Drugs Ordinance. [@1,3] Customs said it would continue to step
-up enforcement against drug trafficking through intelligence analysis. [@1,3] The
+under the Dangerous Drugs Ordinance. [@1,3,4] Customs said it would continue to step
+up enforcement against drug trafficking through intelligence analysis. [@1,3,4] The
 department reminded travellers not to accept offers to carry controlled items
 into or out of Hong Kong or to carry unknown items for others. [@1,3]
