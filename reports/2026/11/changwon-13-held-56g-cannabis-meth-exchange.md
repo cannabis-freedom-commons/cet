@@ -41,6 +41,16 @@ media:
     media_url: https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=3&simg=202611251027100764109a8c8bf58f1211447475.jpg&nmt=12
     publisher: 로이슈
     caption: Police handout photo published with the report on the seizure. Photo provided by Busan police.
+  - kind: photo
+    url: https://www.fnnews.com/news/202611251053364473
+    media_url: https://image.fnnews.com/resource/media/image/2026/11/25/202611251509012781_l.avif
+    publisher: 파이낸셜뉴스
+    caption: 'Drug suspects being arrested (마약사범 검거 장면). Photo: Yonhap News, supplied by Busan Saha Police Station.'
+  - kind: photo
+    url: https://www.fnnews.com/news/202611251053364473
+    media_url: https://image.fnnews.com/resource/media/image/2026/11/25/202611251509033375_l.avif
+    publisher: 파이낸셜뉴스
+    caption: 'Police seized items (경찰 압수품) from the case. Photo: Yonhap News, supplied by Busan Saha Police Station.'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 20bbe3cb6a48a36c85f39fc01ee79a26
@@ -61,33 +71,31 @@ sources:
     publisher: 아이뉴스24
     date: 2026-11-25
     language: ko
-open_questions:
-  - No separate arrest date was given; 25 November 2026 is the publication date of both accounts and is used as the incident date, while the alleged trading ran from June to September 2026.
-  - The 28.46 grams of methamphetamine from the same search is described only to explain the mixed event and is excluded from cannabis figures.
-  - The form of the 56.3 grams of cannabis was reported only as cannabis, with no detail on whether it was dried flower, resin or another product.
-  - No court outcome, later charge or detention review was reported; the case stood at the investigation stage.
-  - No value estimate for the seized cannabis was published.
-  - Both accounts reproduce the Busan Saha police announcement and are not independent investigations.
+  - title: 도심 번화가 주차 차량서 필로폰·대마 맞교환…13명 구속
+    url: https://www.fnnews.com/news/202611251053364473
+    publisher: 파이낸셜뉴스
+    date: 2026-11-25
+    language: ko
 ---
 
 Busan Saha Police Station said it arrested 13 people, including a man in his 50s
 identified as A, for violating the Narcotics Control Act on psychotropic drugs.
-[@1,3] All 13 suspects are men whose alleged roles included
+[@1,3,4] All 13 suspects are men whose alleged roles included
 methamphetamine-cannabis trading, purchase, sale, use, possession and brokerage.
 [@1] The group allegedly traded methamphetamine for cannabis in the Changwon
-area between June and September 2026. [@1,3] The deals took place inside vehicles
-parked on roads near a terminal in Changwon. [@2]
+area between June and September 2026. [@1,3,4] The deals took place inside vehicles
+parked on roads near a terminal in Changwon. [@2,4]
 
-Police seized 56.3 grams of cannabis during the investigation. [@2] Police also
+Police seized 56.3 grams of cannabis during the investigation. [@2,4] Police also
 seized 28.46 grams of methamphetamine, described as enough for 948 people to use
 at once. [@2]
 
 Those involved had met during prison terms for similar offences or through
 acquaintances and continued offending after release. [@1,3] A worked as a
 junk-shop employee and led an outwardly stable working life that avoided
-suspicion. [@1,3] A allegedly exchanged cannabis for methamphetamine over several
+suspicion. [@1,3,4] A allegedly exchanged cannabis for methamphetamine over several
 years with a seller identified as B and used the methamphetamine received. [@1]
 Police said the arrests cut off a link that would have spread drugs into the
 local community. [@1] Police said they will trace the source of the cannabis A
-exchanged and investigate other accomplices. [@1,3] Police said they will continue
+exchanged and investigate other accomplices. [@1,3,4] Police said they will continue
 joint prevention campaigns with district offices and public health centres. [@1,3]
