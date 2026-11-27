@@ -104,13 +104,19 @@ sources:
     publisher: Eenadu
     date: 2026-11-21
     language: te
+  - title: Pune Police seize 250 kg ganja worth Rs 1.25 crore, two arrested
+    url: https://www.bignewsnetwork.com/news/279454876/pune-police-seize-250-kg-ganja-worth-rs-125-crore-two-arrested
+    publisher: Big News Network
+    date: 2026-11-26
+open_questions:
+    - The ANI account appended to the Pune article rounds the seized cash to Rs 21,000, while the Achampet reports give Rs 21,640.
 ---
 
 Police in Achampet, Nagarkurnool district, Telangana, detained two suspected
 cannabis sellers and nine young men found consuming cannabis, the deputy
 superintendent of police said at a press conference on Saturday. [@4,10] The
 operation was carried out by EAGLE Force, Telangana's dedicated
-drug-law-enforcement unit, together with Achampet Town Police. [@2,3,5,9] The team had
+drug-law-enforcement unit, together with Achampet Town Police. [@2,3,5,9,11] The team had
 monitored the town for several months because of increasing ganja consumption
 among young people in Achampet and neighbouring villages. [@2] Police said they had increased surveillance of ganja sales and supply and set up teams to identify and raid sale points. [@8] The two men had planned the sales together and aimed them at students and young people under 25. [@8] The surveillance was led by N. Buchaiah, a deputy superintendent of police with EAGLE Force's Regional Narcotics Control Cell in Mahabubnagar. [@6,9] The two sellers
 were identified as Md Rasool Basha, 26, and Puttasaga Rajesh, 26, taken into
@@ -125,7 +131,7 @@ case was registered as Crime No. 305/2026. [@1] The consumers' case was
 registered as Crime No. 304/2026. [@1]
 
 Police said the men bought the ganja from a man named Hari in Kalimela village,
-Malkangiri district, Odisha, at 5,000 rupees a kilogram. [@1,3,6] On 17 November Rajesh rode a motorcycle to Bhadrachalam and paid Hari 28,000 rupees for the 7.44 kg seized on Saturday, police said. [@4] After his release on bail he returned to Kalimela, bought 1 kg for 5,000 rupees and sold it in 5-gram packets at 500 rupees each to more than 50 young men in and around Achampet, making about 30,000 rupees, police said. [@3,9] He was caught there by police in Chhattisgarh and held in judicial custody in Dantewada jail for about five months and 20 days, police said. [@7,9,10] In November 2025 he travelled to Odisha and bought 16 kg of ganja for 25,000 rupees, police said. [@7,9] Police said Rasool Basha had worked as a Zepto delivery executive in Hyderabad, where he built contacts with cannabis users. [@7] They packed it
+Malkangiri district, Odisha, at 5,000 rupees a kilogram. [@1,3,6] On 17 November Rajesh rode a motorcycle to Bhadrachalam and paid Hari 28,000 rupees for the 7.44 kg seized on Saturday, police said. [@4] After his release on bail he returned to Kalimela, bought 1 kg for 5,000 rupees and sold it in 5-gram packets at 500 rupees each to more than 50 young men in and around Achampet, making about 30,000 rupees, police said. [@3,9,11] He was caught there by police in Chhattisgarh and held in judicial custody in Dantewada jail for about five months and 20 days, police said. [@7,9,10,11] In November 2025 he travelled to Odisha and bought 16 kg of ganja for 25,000 rupees, police said. [@7,9,11] Police said Rasool Basha had worked as a Zepto delivery executive in Hyderabad, where he built contacts with cannabis users. [@7] They packed it
 into 5-gram packets and sold each for 500 rupees in Achampet. [@1] The two
 sellers were booked under the Narcotic Drugs and Psychotropic Substances Act and
 sent to judicial remand. [@3] All 11 were produced in court and sent to remand. [@10]
