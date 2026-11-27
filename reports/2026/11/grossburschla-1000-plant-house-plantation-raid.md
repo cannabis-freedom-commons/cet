@@ -44,6 +44,11 @@ media:
     media_url: https://berliner-zeitung-msp-prod.imgix.net/2026/11/26/5e8e1f29-176d-4a2f-aca6-bfe9e07a26e3.jpg?rect=511%2C0%2C723%2C482&w=1024&auto=format
     publisher: Ostdeutsche Allgemeine
     caption: 'Cannabis plants and packaged marijuana found in the empty house in Großburschla. Photo: Landespolizeiinspektion Gotha'
+  - kind: photo
+    url: https://www.insuedthueringen.de/inhalt.plantage-im-dorf-1000-cannabispflanzen-in-wohnhaus-entdeckt.94550618-58b4-4386-8ab1-019f553ec1b7.html
+    media_url: https://www.insuedthueringen.de/media.media.7a7ea0df-36e6-4f62-985e-61fd92c0bb0f.16x9_1024.jpg
+    publisher: inSüdthüringen
+    caption: 'Around 1,000 cannabis plants seized from the empty house in Großburschla. Photo: Polizei'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: c976330afdbece3daac8faa20b3c36d3
@@ -54,21 +59,19 @@ sources:
     publisher: Ostdeutsche Allgemeine
     date: 2026-11-26
     language: de
-open_questions:
-  - No names were published for the three arrested men, who were identified only by ages 19, 28 and 38.
-  - No outcome was reported for the 38-year-old after the provisional arrest; warrants were reported only for the 19-year-old and 28-year-old.
-  - The calendar date of the Friday arrest warrants was not stated; 20 November 2026 is the Friday between the 19 November raid and the 26 November publication.
-  - The year of the 19 November raid was not stated directly and is taken as 2026 from the 26 November 2026 publication.
-  - No street value or total weight was published for the 1,000 plants beyond the count and the 30 kg of packaged marijuana.
-  - No formal charges were reported; the case was still under investigation with two men in pre-trial detention.
+  - title: 'Plantage im Dorf: 1000 Cannabispflanzen in Wohnhaus entdeckt'
+    url: https://www.insuedthueringen.de/inhalt.plantage-im-dorf-1000-cannabispflanzen-in-wohnhaus-entdeckt.94550618-58b4-4386-8ab1-019f553ec1b7.html
+    publisher: inSüdthüringen
+    date: 2026-11-26
+    language: de
 ---
 
 Criminal police found a cannabis plantation with around 1,000 plants on 19
-November in an empty house in the centre of Großburschla. [@1] The house had
+November in an empty house in the centre of Großburschla. [@1,2] The house had
 stood empty for a long time before residents alerted police. [@1] Three men aged
 19, 28 and 38 were provisionally arrested, as reported by the
 Landespolizeiinspektion Gotha. [@1] Residents had noticed unusual movements in
-the house for about a year and contacted police in Eisenach. [@1] A court issued
+the house for about a year and contacted police in Eisenach. [@1,2] A court issued
 arrest warrants on Friday against the 19-year-old and the 28-year-old. [@1] Both
 men are held in a prison. [@1] The investigation is ongoing. [@1]
 
@@ -79,4 +82,3 @@ Around 30 kilograms of packaged marijuana lay ready for collection in the house.
 extensive cultivation equipment. [@1] The operators tapped the electricity for
 the operation illegally before the meter. [@1] The plants were in different
 stages of growth. [@1]
-
