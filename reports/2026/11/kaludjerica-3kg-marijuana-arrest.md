@@ -81,20 +81,25 @@ sources:
     publisher: Politika Online
     date: 2026-11-20
     language: sr
+  - title: 'АКЦИЈА НОВОБЕОГРАДСКЕ ПОЛИЦИЈЕ: Заплењени кокаин и марихуана'
+    url: https://www.novosti.rs/c/hronika/hapsenja-i-istraga/1673124/akcija-novobeogradske-policije-zaplenjeni-kokain-marihuana
+    publisher: Novosti
+    date: 2026-11-20
+    language: sr
 ---
 
 Police arrested A. M., a 33-year-old man, in Kaluđerica on suspicion of
-unauthorised production and trafficking of narcotic drugs. [@2,4,5] The arrest was
+unauthorised production and trafficking of narcotic drugs. [@2,4,5,6] The arrest was
 made by Novi Beograd police station officers together with the Higher Public
-Prosecution in Belgrade. [@3,4,5] Officers searched a flat and a car the suspect
-used in Kaluđerica. [@1,4,5]
+Prosecution in Belgrade. [@3,4,5,6] Officers searched a flat and a car the suspect
+used in Kaluđerica. [@1,4,5,6]
 
 Police said they found more than three kilograms of marijuana, packed in four
-vacuum bags and 262 smaller packets. [@1,4,5] They also found about 9.8 grams of
-cocaine in 11 packets and three precision scales, which were seized too. [@1,4,5]
+vacuum bags and 262 smaller packets. [@1,4,5,6] They also found about 9.8 grams of
+cocaine in 11 packets and three precision scales, which were seized too. [@1,4,5,6]
 
 The suspect was ordered held for up to 48 hours and was to be brought before the
-prosecution with a criminal complaint. [@1,4,5] The Ministry of Internal Affairs
+prosecution with a criminal complaint. [@1,4,5,6] The Ministry of Internal Affairs
 said the investigation was continuing and that all the evidence found would be
 examined. [@1] Information from the investigation indicated the substances were
 intended for further distribution. [@1] Police sources described the operation
