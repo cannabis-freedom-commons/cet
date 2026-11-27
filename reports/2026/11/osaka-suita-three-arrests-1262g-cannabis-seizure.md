@@ -94,15 +94,20 @@ sources:
     publisher: 朝日新聞
     date: 2026-11-26
     language: ja
+  - title: 覚醒剤や大麻など営利目的で共同所持の疑い 男3人を逮捕 秘匿性の高いSNSで客を募り密売を繰り返していたか
+    url: https://www.msn.com/ja-jp/news/other/%E8%A6%9A%E9%86%92%E5%89%A4%E3%82%84%E5%A4%A7%E9%BA%BB%E3%81%AA%E3%81%A9%E5%96%B6%E5%88%A9%E7%9B%AE%E7%9A%84%E3%81%A7%E5%85%B1%E5%90%8C%E6%89%80%E6%8C%81%E3%81%AE%E7%96%91%E3%81%84-%E7%94%B73%E4%BA%BA%E3%82%92%E9%80%AE%E6%8D%95-%E7%A7%98%E5%8C%BF%E6%80%A7%E3%81%AE%E9%AB%98%E3%81%84sns%E3%81%A7%E5%AE%A2%E3%82%92%E5%8B%9F%E3%82%8A%E5%AF%86%E5%A3%B2%E3%82%92%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%8B/ar-AA2igyQM
+    publisher: MBSニュース
+    date: 2026-11-26
+    language: ja
 ---
 
 Osaka Prefectural Police announced on 26 November 2026 the arrest of three men,
 including 29-year-old unemployed Rikito Komori from Minoh, on suspicion of joint
-for-profit possession of stimulants and other drugs. [@1,4] The allegation is that
+for-profit possession of stimulants and other drugs. [@1,4,8] The allegation is that
 the three conspired on 14 October to possess about 93 grams of stimulants, about
 1,260 grams of cannabis and other drugs for profit in a room of an apartment in
-Suita. [@1,6] Police did not disclose whether the suspects admitted or denied the
-allegations. [@1,5,6] A second account describes the 26 November action as the
+Suita. [@1,6,8] Police did not disclose whether the suspects admitted or denied the
+allegations. [@1,5,6,8] A second account describes the 26 November action as the
 arrest and re-arrest of the three on suspected violations of the Stimulants
 Control Act and the Narcotics Control Act for trafficking and for-profit
 possession. [@2,3,4,6]
@@ -119,4 +124,4 @@ to recruit customers through social media and send drugs by courier. [@1,7] Buye
 believe the Osaka-based group delivered illegal drugs nationwide in at least
 2,000 transactions worth over 100 million yen. [@1,3,4,5] Police believe other people
 were also involved and are continuing to clarify the full scope of the group.
-[@1,5]
+[@1,5,8]
