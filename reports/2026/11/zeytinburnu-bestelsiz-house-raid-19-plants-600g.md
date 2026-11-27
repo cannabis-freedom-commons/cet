@@ -54,26 +54,23 @@ sources:
     publisher: Son Dakika
     date: 2026-11-24
     language: tr
-open_questions:
-  - No separate date for the raid was given; 24 November 2026 is the publication date and is used as the incident date.
-  - The detained suspect was not named and no age or other identifying detail was published.
-  - No charge, prosecutor referral or court outcome was reported; the case was at the detention stage.
-  - It is unclear whether the 600 grams includes the two ready-to-sell fişek doses or is separate from them.
-  - The source does not specify whether the 600 grams of esrar is herbal cannabis or resin and reports no laboratory analysis.
-  - No value estimate for the plants or drugs was published.
-  - The account rests on a single IHA report carried by Son Dakika with no independent second account found.
+  - title: Zeytinburnu'nda 19 kök kenevir, 600 gram esrar ele geçirildi; 1 şüpheli gözaltına alındı - Haberler
+    url: https://www.haberler.com/3-sayfa/zeytinburnu-nda-19-kok-kenevir-600-gram-esrar-ele-20458178-haberi/
+    publisher: Haberler
+    date: 2026-11-24
+    language: tr
 ---
 
 Istanbul Provincial Gendarmerie Command teams raided a house in Beştelsiz
 Mahallesi in Zeytinburnu in an operation directed against drug dealers and
-trafficking. [@1] Officers detained the one suspect found inside the house
-during the raid and took that person into custody. [@1] Officers searched the
+trafficking. [@1,2] Officers detained the one suspect found inside the house
+during the raid and took that person into custody. [@1,2] Officers searched the
 rooms of the house and recorded the drugs, equipment and other items found
 there. [@1]
 
 The search found 19 cannabis plants, described in Turkish as kök kenevir
-bitkisi. [@1] Officers seized 600 grams of cannabis, described in Turkish as
-esrar. [@1] Officers also seized two individually wrapped doses described as
+bitkisi. [@1,2] Officers seized 600 grams of cannabis, described in Turkish as
+esrar. [@1,2] Officers also seized two individually wrapped doses described as
 ready-to-sell fişek esrar. [@1] Alongside the drugs, officers seized one
 telephone, one pistol, a single 9 mm pistol cartridge and various
 climate-control materials. [@1]
@@ -83,4 +80,3 @@ against drug dealers in Istanbul. [@1] The climate-control materials were found
 in the same house search as the plants and the dried cannabis. [@1] The account
 places the house in Beştelsiz Mahallesi in Zeytinburnu and attributes the raid
 to Istanbul's provincial gendarmerie command. [@1]
-
