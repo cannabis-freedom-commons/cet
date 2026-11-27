@@ -49,12 +49,16 @@ sources:
     url: https://pnggossip.com/news/g131016.html
     archived: https://web.archive.org/web/20260609060538/https://pnggossip.com/news/g131016.html
     date: 2013-10-16
+  - title: Record haul of marijuana found in PNG; four arrested
+    url: https://www.rnz.co.nz/news/pacific/224401/record-haul-of-marijuana-found-in-png-four-arrested
+    publisher: RNZ
+    date: 2013-10-11
 open_questions:
   - The original report, published 10 October, dates the interception only to the previous weekend; 5 October is approximate.
   - The reports name none of the four charged suspects and give no court outcome.
   - Both accounts rest on the same police statements reported by The National.
 ---
 
-Police in Kerema intercepted four suspects paddling a dugout canoe on the Murua River after villagers grew suspicious, and the men led officers to a campsite at Lorope holding eleven bags with 84.5 kilograms of marijuana. [@1] It was the biggest marijuana haul recorded in the country at the time, and the National Drug and Vice Squad would give no street value for fear of encouraging more smuggling. [@1,2]
+Police in Kerema intercepted four suspects paddling a dugout canoe on the Murua River after villagers grew suspicious, and the men led officers to a campsite at Lorope holding eleven bags with 84.5 kilograms of marijuana. [@1,3] It was the biggest marijuana haul recorded in the country at the time, and the National Drug and Vice Squad would give no street value for fear of encouraging more smuggling. [@1,2,3]
 
-The four were part of a group of 13 that had smuggled the drug from Goroka in the Eastern Highlands via Morobe; the other nine fled into the bush as Kerema police approached the campsite. [@1] The four were taken to Kerema police station and charged, then held at the Boroko police cells to face the Boroko District Court in Port Moresby. [@1] Officers believed the packs were bound for the overseas market or for gun trading, and found phone messages they linked to bigger operators. [@1]
+The four were part of a group of 13 that had smuggled the drug from Goroka in the Eastern Highlands via Morobe; the other nine fled into the bush as Kerema police approached the campsite. [@1,3] The four were taken to Kerema police station and charged, then held at the Boroko police cells to face the Boroko District Court in Port Moresby. [@1,3] Officers believed the packs were bound for the overseas market or for gun trading, and found phone messages they linked to bigger operators. [@1,3]
