@@ -51,6 +51,11 @@ sources:
     publisher: Редакция МВД
     date: 2026-10-12
     language: ru
+  - title: Белорусские правоохранители перекрыли канал поставки наркотиков из Польши - Гродно Плюс
+    url: https://grodnoplustv.by/index.php/novosti/item/30163-belorusskie-pravookhraniteli-perekryli-kanal-postavki-narkotikov-iz-polshi
+    publisher: Гродно Плюс
+    date: 2026-07-09
+    language: ru
 open_questions:
   - No separate date for the forest loading or Skidel detention was published; 8 July 2026 is the publication date and is used as the incident date, while the later Ministry account places the balloon launches on a June night.
   - The number of people detained in the forest and in the Audi was not stated, so only the named 66-year-old courier is counted as arrested.
@@ -58,11 +63,12 @@ open_questions:
   - The 60 kg figure is the stated capacity of the car hideout, not a seized cannabis weight, and is not counted in figures.
   - The reported $4 million valuation, about 40 kg of 4-CMC and other synthetic amounts cover the combined or synthetic part of the case and are left out of cannabis figures.
   - Claims that Polish and Ukrainian security services supervised laboratories in Poland are unverified police claims and are not stated as fact.
+  - The fish-farm package was described as holding more than 320 briquettes of hashish and synthetics together, while a separate count gave 326 hashish bricks for a balloon load, leaving the exact hashish share of that load unclear.
 ---
 
 Police detained 66-year-old Belarusian Valery Smolensky from Lepel after he went
 to a forest to load drugs. [@1] Officers watched his every step and arrested him
-red-handed as soon as he drove out of the forest onto the road. [@1] Officers
+red-handed as soon as he drove out of the forest onto the road. [@1,4] Officers
 also detained the people who were in the forest and in a nearby car, described
 as previously convicted for drug trafficking. [@1] The Interior Ministry
 newspaper later placed the courier detention in Skidel, carried out by
@@ -73,15 +79,14 @@ kilograms of drugs. [@1] In Skidel officers seized 11 kg of hashish and 54 kg of
 4-CMC from the courier. [@3] Officers later found a 14 kg hashish forest cache
 that had not fitted into the overfilled car hideout and was meant for a second
 run to Russia. [@3] A separate balloon found by a fish-farm watchman in Grodno
-District had landed on water and contained 326 bricks of hashish. [@1] Inside
+District had landed on water and contained 326 bricks of hashish. [@1,4] Inside
 that balloon officers found GPS trackers with a SIM card from a Lithuanian
-mobile operator. [@1] Forensic experts confirmed that the brown substance in the
+mobile operator. [@1,4] Forensic experts confirmed that the brown substance in the
 seized lot was the dangerous narcotic hashish. [@1]
 
 Belarus was used as a transit corridor with Russia as the final delivery point.
-[@2] Police presented the case as Belarus used as a transit corridor for
+[@2,4] Police presented the case as Belarus used as a transit corridor for
 delivery onward to Russia and valued the transit lot at $4 million. [@1] Police
 said the balloons were fitted with a GPS tracker and mobile phone, met by local
 accomplices, and couriers such as Valery were to carry the drugs on to Russia,
 mainly synthetics. [@1]
-
