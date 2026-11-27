@@ -295,6 +295,10 @@ sources:
     url: https://local12.com/news/nation-world/golfer-grobler-henlo-111-pounds-marijuana-loud-nigeria-airport-kenyan-chef-abubakar-faiza-smuggling-plot-lagos-cannibas
     publisher: WKRC
     date: 2026-11-24
+  - title: NDLEA Arrests S'African Golfer, Kenyan Chef Over 50kg Cannabis Smuggling Plot
+    url: https://www.nigerianeye.com/2026/11/ndlea-arrests-safrican-golfer-kenyan.html
+    publisher: NigerianEye
+    date: 2026-11-22
 ---
 
 The National Drug Law Enforcement Agency arrested a 25-year-old Kenyan chef,
@@ -303,15 +307,15 @@ Henlo, at Murtala Muhammed International Airport in Ikeja, Lagos, in October
 2026. [@1,4,5,6,7,10,12,13,14,15,16,17,18,20,21,22,23,24,27,28,29,32,34,35,36,37,38,39,41,42,43,44,46,47,48,49] PGA South Africa lists a player by the name of Henlo Grobler. [@27,36,42] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
 the suspects were arrested at the airport in October. [@3,15,49] Henlo arrived from
 South Africa aboard a South African Airways flight on 11 October and was
-intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15,16,18,19,21,23,24,31,33,34,35,37,43,44,46,47,50] Njambi was arrested at the
+intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15,16,18,19,21,23,24,31,33,34,35,37,43,44,46,47,50,51] Njambi was arrested at the
 airport's departure boarding gate on Thursday 15 October 2026 as she tried to
-board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24,25,26,29,30,31,33,34,35,36,37,39,41,42,43,45,46,47,49,50] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18,40,45,50]
+board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24,25,26,29,30,31,33,34,35,36,37,39,41,42,43,45,46,47,49,50,51] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18,40,45,50]
 
 A search of two travelling boxes in Henlo's possession recovered 46 parcels of
 Loud, described as a potent cannabis strain, with a total weight of 50.40kg.
-[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43,44,45,46,47,49,50] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
+[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43,44,45,46,47,49,50,51] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
 had collected two other boxes bearing his tags from the conveyor belt and left.
-[@1,5,6,8,9,10,12,14,18,20,25,26,27,28,30,31,33,36,38,39,40,41,42,43,45,49,50] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
+[@1,5,6,8,9,10,12,14,18,20,25,26,27,28,30,31,33,36,38,39,40,41,42,43,45,49,50,51] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
 identification of ownership so each courier could deny the boxes if intercepted.
 [@2,5,11,13,14,15,17,18,23,25,29,34,42,44,45,46,47,50]
 
