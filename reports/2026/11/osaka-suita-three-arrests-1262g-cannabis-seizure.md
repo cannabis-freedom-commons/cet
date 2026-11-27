@@ -89,6 +89,11 @@ sources:
     publisher: FNNプライムオンライン
     date: 2026-11-26
     language: ja
+  - title: SNSで募り覚醒剤を発送、2千人に販売か 密売グループの3人逮捕 [大阪府]：朝日新聞
+    url: https://www.asahi.com/articles/ASVCV2JZDVCVPTIL00PM.html
+    publisher: 朝日新聞
+    date: 2026-11-26
+    language: ja
 ---
 
 Osaka Prefectural Police announced on 26 November 2026 the arrest of three men,
@@ -110,7 +115,7 @@ other drugs alongside the stimulants and cannabis. [@2,3,4]
 
 The drug-control unit began investigating after cannabis was found in the Katano
 station area in February 2024. [@1] The group used the Suita apartment as a base
-to recruit customers through social media and send drugs by courier. [@1] Komori allegedly couriered drugs to three recipients in Tokyo and Yamaguchi prefectures from May 2026. [@5] Police
+to recruit customers through social media and send drugs by courier. [@1,7] Buyers were instructed to transfer payment to a designated bank account. [@7] For courier shipments, the group allegedly packed the drugs in small boxes and plastic bags and declared them mainly as small goods such as accessories. [@7] Komori allegedly couriered drugs to three recipients in Tokyo and Yamaguchi prefectures from May 2026. [@5] One of the men was also suspected of conspiring with others between May and August to sell a total of about 9 grams of stimulants, cannabis and other drugs for 118,000 yen to three people in their 20s to 50s in Yamaguchi and Tokyo. [@7] Police
 believe the Osaka-based group delivered illegal drugs nationwide in at least
 2,000 transactions worth over 100 million yen. [@1,3,4,5] Police believe other people
 were also involved and are continuing to clarify the full scope of the group.
