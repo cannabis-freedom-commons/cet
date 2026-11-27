@@ -55,6 +55,11 @@ sources:
     url: https://europecrime.com/article/valledoria-drug-deal-marijuana-cocaine-arrest
     publisher: EuropeCrime
     date: 2026-11-23
+  - title: Marijuana e cocaina in casa, arrestato a Valledoria
+    url: https://www.rainews.it/amp/tgr/sardegna/articoli/2026/11/marijuana-e-cocaina-in-casa-arrestato-a-valledoria-43343b03-f15f-4a17-9b57-2ff08dc73654.html
+    publisher: RaiNews
+    date: 2026-11-23
+    language: it
 open_questions:
   - Wednesday evening gives no calendar date; 18 November 2026 is inferred as the Wednesday before the 23 November publication.
   - The marijuana weight was reported as approximate (circa 70 grams).
@@ -66,21 +71,20 @@ open_questions:
 
 Carabinieri of the Sassari Company stopped a man in Valledoria on Wednesday
 evening after noticing him smoking a joint with another person during a
-territorial patrol. [@1] The check ended in an arrest for possession of drugs
-for the purpose of dealing. [@1] The man was arrested in flagrante on suspicion
+territorial patrol. [@1,3] The check ended in an arrest for possession of drugs
+for the purpose of dealing. [@1,3] The man was arrested in flagrante on suspicion
 of possessing drugs for dealing. [@1] On the order of the Sassari prosecutor, he
 was taken home and placed under house arrest pending the validation hearing.
-[@1]
+[@1,3]
 
 Officers extended the checks to the man’s home, where they recovered about 70
-grams of marijuana and 5 grams of cocaine. [@1] During the operation officers
+grams of marijuana and 5 grams of cocaine. [@1,3] During the operation officers
 also found cutting substance, five precision scales and material used to prepare
-and package doses. [@1] All the material together with the drugs was seized by
-the officers. [@1] A second account describes the same home search as finding
+and package doses. [@1,3] All the material together with the drugs was seized by
+the officers. [@1,3] A second account describes the same home search as finding
 the marijuana and cocaine along with cutting agents, five precision scales and
 packaging material. [@2]
 
 The other person present at the check was reported to the Prefecture as a drug
 user. [@1] That companion was reported to the Prefect as a consumer under
 article 75 of Presidential Decree 309/1990. [@2]
-
