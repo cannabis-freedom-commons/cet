@@ -74,6 +74,11 @@ media:
     media_url: https://asset.tribunnews.com/5U1Ye5IRafDMM0nZRLHSaGh26fk=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/medan/foto/bank/originals/Momen-Kapolres-Paluta-AKBP-Dhery-Fajariandono-memimpin-operasi-pengungkapan.jpg
     publisher: Tribun Medan
     caption: Padang Lawas Utara police chief AKBP Dhery Fajariandono leading the operation that uncovered the 5-hectare harvested cannabis field; one suspected field owner was arrested.
+  - kind: photo
+    url: https://www.inews.id/regional/sumut/tersamarkan-tanaman-nilam-ladang-ganja-5-hektare-terbongkar-di-paluta
+    media_url: https://img.inews.id/media/1050/files/inews_new/2026/11/25/ladang_ganja.jpg
+    publisher: iNews
+    caption: 'Police find of about 5 hectares of cannabis field in the Raunik hills after arresting a man with initials TMS. Photo: iNews'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 1152c9e46eedd8d438408ea53d68972d
@@ -134,9 +139,13 @@ sources:
     publisher: Tribun Medan
     date: 2026-11-24
     language: id
+  - title: Tersamarkan Tanaman Nilam, Ladang Ganja 5 Hektare Terbongkar di Paluta
+    url: https://www.inews.id/regional/sumut/tersamarkan-tanaman-nilam-ladang-ganja-5-hektare-terbongkar-di-paluta
+    publisher: iNews.id
+    date: 2026-11-25
+    language: id
 open_questions:
     - No precise weight was published for the dried cannabis in the sacks and ampoules; one account described it only as dozens of kilograms.
-    - The five-hectare area was reported by Tribun Medan and is not repeated in the other accounts of the police statement.
     - No formal charge, court date or verdict was reported; the articles describe only the maximum penalty the suspect could face.
     - Laboratory results for the seized plants and dried cannabis were still pending.
     - Most accounts identify the suspect only by the initials TMS; detikSumut and 20Detik give his name as Toga Muslim Siregar.
@@ -160,7 +169,7 @@ believed to be linked to transactions. [@1,8,10] Officers also seized dried cann
 and cannabis seeds from the house. [@6]
 
 Tribun Medan reported the field covered five hectares on hillsides in
-Halongonan, with some plants just harvested. [@4,9,11] The police chief said the raid
+Halongonan, with some plants just harvested. [@4,9,11,12] The 5-hectare field was reported as camouflaged with patchouli plants. [@12] The police chief said the raid
 team rode trail motorcycles for three hours through dense forest on steep,
 damaged roads. [@4,11] TMS and the evidence were taken to the Paluta police station
 for further examination and investigation. [@2,8,10] Investigators said they were
