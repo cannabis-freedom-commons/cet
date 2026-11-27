@@ -41,6 +41,10 @@ sources:
     publisher: ThePrint Hindi
     date: 2026-11-26
     language: hi
+  - title: Four Arrested In Jammu Drug Bust, 21.8 Kg Cannabis Seized
+    url: https://www.rediff.com/news/report/over-21-kg-cannabis-seized-four-peddlers-arrested-in-jammu/20261125.htm
+    publisher: Rediff
+    date: 2026-11-25
 open_questions:
   - The cannabis was described only as suspected ganja, with no laboratory confirmation reported.
   - The names and ages of the four detainees and the charges against them were not published.
@@ -49,20 +53,19 @@ open_questions:
 
 Jammu police arrested four suspected drug smugglers during an evening checking
 drive in the Janipur area on Wednesday 25 November 2026, recovering suspected
-ganja from their possession. [@1] A team from Janipur police station stopped a
-car near Paloura Talab during the drive after finding it suspicious. [@1] The
+ganja from their possession. [@1,2] A team from Janipur police station stopped a
+car near Paloura Talab during the drive after finding it suspicious. [@1,2] The intercepted car was a Maruti Suzuki Ignis. [@2] The
 four detained people were described as suspected smugglers of narcotic
 substances. [@1]
 
 Officers who searched the stopped vehicle said they recovered about 21 kilograms
-800 grams of suspected narcotic substance from inside the car. [@1] The seized
+800 grams of suspected narcotic substance from inside the car. [@1,2] The seized
 quantity was described as 21.8 kilograms of suspected ganja found in the
 smugglers' possession. [@1] The seizure from the four suspects totalled 21.8
 kilograms by the officials' reported weight. [@1]
 
 Police seized the recovered narcotic substance and also took the car used to
 transport it into custody. [@1] Police registered a case in connection with the
-interception, the recovery and the four arrests. [@1] The checking operation
+interception, the recovery and the four arrests. [@1,2] The checking operation
 that produced the arrests took place in Jammu's Janipur locality on Wednesday
-evening. [@1]
-
+evening. [@1] The arrests were made as part of the ongoing anti-narcotics drive under Operation Sanjeevani. [@2]
