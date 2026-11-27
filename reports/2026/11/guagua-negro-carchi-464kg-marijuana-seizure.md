@@ -47,6 +47,11 @@ media:
     media_url: https://www.vistazo.com/binrepository/772x434/0c0/768d432/none/12727/MCEL/imagen-hxsgqwxwiaawe6x_2775692_20261122110241.jpg
     publisher: Vistazo
     caption: 'Marijuana found inside the pickup that crashed at the San Gabriel toll in Carchi after a police chase. Photo: Policía Nacional'
+  - kind: photo
+    url: https://www.ecuavisa.com/seguridad/policia-decomisa-464-kilos-marihuana-carchi-20261122-0010.html
+    media_url: https://assets.ecuavisa.com/images-formats/1200x675/t_2-p_9-fpx_600-fpy_876/jpeg/2026/11/22/una_camioneta_transportaba_marihuana.jpeg
+    publisher: ECUAVISA
+    caption: 'Pickup truck that carried almost half a tonne of suspected marijuana. Photo: Policía Nacional'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 86f61f96e78b8e218243fb3ff250afae
@@ -72,6 +77,11 @@ sources:
     publisher: Teleamazonas
     date: 2026-11-23
     language: es
+  - title: Policía decomisa 464 kilos de marihuana en Carchi, valorados en USD 360 mil | Ecuavisa
+    url: https://www.ecuavisa.com/seguridad/policia-decomisa-464-kilos-marihuana-carchi-20261122-0010.html
+    publisher: ECUAVISA
+    date: 2026-11-22
+    language: es
 ---
 
 National Police officers seized 464.709 kilograms (464,709 grams) of marijuana
@@ -83,11 +93,11 @@ from the Mobile Anti-Narcotics Special Group (GEMA) and the National Canine Unit
 
 Police said the driver ignored their signals and a pursuit continued until the
 vehicle crashed at the San Gabriel toll, after which he ran off and was not
-found. [@1,3,4] A detector dog alerted to several bundles of plant material, which
+found. [@1,3,4,5] A detector dog alerted to several bundles of plant material, which
 tests identified as marijuana. [@1,4] The haul comprised 464.709 grams of
 marijuana, which police said was about 929,418 doses, along with the pickup.
-[@1] Police put the estimated national-market value of the marijuana at 360,149
-dollars. [@1,4]
+[@1,5] Police put the estimated national-market value of the marijuana at 360,149
+dollars. [@1,4,5]
 
 Authorities had acted on a tip about a possible shipment of controlled
 substances from Carchi toward the country's central provinces and located a
