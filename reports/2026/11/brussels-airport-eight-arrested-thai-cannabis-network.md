@@ -74,27 +74,26 @@ sources:
     publisher: Transport Online
     date: 2026-11-25
     language: nl
-open_questions:
-  - No exact amount was published for the cash seized at the eight searches.
-  - The network’s illicit gains were given only as several million euros, with no precise valuation.
-  - The 2.4-tonne total is an aggregate across Belgium, the Netherlands, Luxembourg and Turkey, with no country-by-country breakdown.
-  - No names, charges or court outcomes for the eight detainees were reported while the investigation continued.
-  - The May 2025 shipment of about 600 kg was described as suspected, and the sources do not say whether that consignment was intercepted.
+  - title: 'Trafic de drogue via Brussels Airport: huit suspects arrêtés, ils travaillent dans l''aéroport'
+    url: https://www.bruxellestoday.be/faits-divers/trafic-drogue-brussels-airport-huit-suspects-arretes.html
+    publisher: BruxellesToday
+    date: 2026-11-24
+    language: fr
 ---
 
 Belgian federal police arrested eight suspects on Monday 23 November 2026 while
 dismantling an international network suspected of importing cannabis from
-Thailand via Brussels Airport. [@1,4] Five of those arrested worked for companies
-at Brussels Airport and two were former employees. [@2,4] The operation, supported
-by Europol, involved eight searches. [@1,4] Officers seized four luxury vehicles,
-a substantial amount of cash, and numerous mobile phones and laptops. [@2,4]
+Thailand via Brussels Airport. [@1,4,5] Five of those arrested worked for companies
+at Brussels Airport and two were former employees. [@2,4,5] The operation, supported
+by Europol, involved eight searches. [@1,4,5] Officers seized four luxury vehicles,
+a substantial amount of cash, and numerous mobile phones and laptops. [@2,4,5]
 
 The investigation began in May 2025 after a shipment of 600 kg of cannabis was
-sent from Thailand to Brussels Airport. [@2,4] A few weeks later 833 kilograms of
-the drug was seized and linked to the same organisation. [@1,4] In total 2.4
+sent from Thailand to Brussels Airport. [@2,4,5] A few weeks later 833 kilograms of
+the drug was seized and linked to the same organisation. [@1,4,5] In total 2.4
 tonnes of cannabis was seized between 2025 and 2026 in Belgium, the Netherlands,
-Luxembourg and Turkey. [@1,4] Federal police estimated the criminal organisation’s
-illicit gains at several million euros. [@1,4]
+Luxembourg and Turkey. [@1,4,5] Federal police estimated the criminal organisation’s
+illicit gains at several million euros. [@1,4,5]
 
 The investigation was conducted under the supervision of an investigating judge,
 with Europol support, and remains ongoing under the judicial authorities. [@2]
