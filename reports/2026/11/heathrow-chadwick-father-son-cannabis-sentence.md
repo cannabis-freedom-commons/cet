@@ -57,27 +57,27 @@ sources:
     url: https://uk.news.yahoo.com/father-son-jailed-smuggling-500-101432997.html
     publisher: Yahoo News UK
     date: 2026-11-25
-open_questions:
-    - The sentencing is given as Tuesday 24 November; the year 2026 is inferred from publication on 25 November 2026.
-    - The combined 50.25 kg is the sum of the two weights the report gives separately, 33.5 kg and 16.75 kg; no combined total was published.
-    - The £500,000 figure is the value stated in the report and is not attributed to a named authority or court.
-    - How much of the two prison terms the pair will serve before release was not reported.
+  - title: Man, Son Jailed In UK For Smuggling In £500,000 Worth Of Cannabis From Thailand
+    url: https://saharareporters.com/2026/11/25/man-son-jailed-uk-smuggling-ps500000-worth-cannabis-thailand
+    publisher: Sahara Reporters
+    date: 2026-11-25
+    language: en
 ---
 
 Alec Peter Chadwick, 39, and Riley Peter Emerson-Chadwick, 20, were arrested by
 Border Force officers at Heathrow Airport after boarding a plane from Bangkok,
-Thailand, in July. [@1,2] Officers found 33.5 kg of cannabis in Emerson-Chadwick's
-luggage and 16.75 kg in his father's luggage. [@1,2] The pair appeared at
+Thailand, in July. [@1,2,3] Officers found 33.5 kg of cannabis in Emerson-Chadwick's
+luggage and 16.75 kg in his father's luggage. [@1,2,3] The pair appeared at
 Wimbledon Magistrates' Court on 15 July 2026 and pleaded guilty to smuggling
-cannabis. [@1,2]
+cannabis. [@1,2,3]
 
-The cannabis was worth £500,000. [@1,2] At Isleworth Crown Court, unemployed
+The cannabis was worth £500,000. [@1,2,3] At Isleworth Crown Court, unemployed
 Chadwick, of Millbrook, Southampton, was sentenced to two years and eight months
-in prison. [@1,2] Emerson-Chadwick, a labourer of Christchurch, Bournemouth, was
-sentenced to two years. [@1,2]
+in prison. [@1,2,3] Emerson-Chadwick, a labourer of Christchurch, Bournemouth, was
+sentenced to two years. [@1,2,3]
 
 The National Crime Agency, which led the investigation, said there had been an
 explosion in the number of drug couriers trying to smuggle cannabis into the UK.
-[@1] The agency warned that couriers are usually approached on social media by
+[@1,3] The agency warned that couriers are usually approached on social media by
 organised crime groups offering a 'free' holiday and spending money in exchange
-for taking cannabis home. [@1]
+for taking cannabis home. [@1,3]
