@@ -67,6 +67,11 @@ sources:
     publisher: APA (via MSN)
     date: 2026-11-26
     language: de
+  - title: Eine Tonne Drogen in Logistikzentrum gefunden
+    url: https://www.msn.com/de-at/nachrichten/other/eine-tonne-drogen-in-logistikzentrum-gefunden/ar-AA2igjCJ
+    publisher: Kronen Zeitung (via MSN)
+    date: 2026-11-26
+    language: de
 open_questions:
   - The customs checks began on 15 July 2026 and continued over several weeks; no end date is given, so 26 November 2026, the announcement date, is used as the incident date.
   - The location of the logistics centre is given only as Upper Austria; no town or district was named.
@@ -76,9 +81,9 @@ open_questions:
 ---
 
 Austrian customs seized large quantities of drugs in a series of checks at a
-parcel-delivery logistics centre in Upper Austria over recent weeks. [@2,5] The
+parcel-delivery logistics centre in Upper Austria over recent weeks. [@2,5,6] The
 Finance Ministry said the drugs had a street value in the double-digit millions
-of euros. [@1,5] The ministry's final tally was about 900 kilograms of marijuana,
+of euros. [@1,5,6] The ministry's final tally was about 900 kilograms of marijuana,
 62.35 kilograms of cannabis resin and 26.55 kilograms of cocaine, the last of
 which is not counted in the cannabis figures. [@2] No arrests were reported and
 those behind the shipments had not been identified. [@4,5]
@@ -87,8 +92,8 @@ The first large find came on 15 July 2026, when a routine check at the logistics
 centre uncovered more than 120 kilograms of cannabis flower and about 1.2
 kilograms of cocaine. [@2,5] The drugs travelled on a Spanish lorry in 27
 shipments, vacuum-packed and treated with odour-neutralising materials to hinder
-detection. [@2,5] Most parcels were addressed to recipients in Greece, with others
-bound for Hungary, Romania and Austria. [@2,5] Two days later officers found 62
+detection. [@2,5,6] Most parcels were addressed to recipients in Greece, with others
+bound for Hungary, Romania and Austria. [@2,5,6] Two days later officers found 62
 more parcels containing cannabis at the same site, and on 20 July 2026 they
 seized 42 boxes of drugs from another Spanish lorry. [@2,5]
 
