@@ -203,16 +203,16 @@ sources:
     publisher: Kataeb.org
     date: 2026-11-17
     language: ar
-open_questions:
-    - The army gave 215 tonnes as a combined figure for hashish and marijuana, with no separate weight for each.
-    - No area cleared and no count of the greenhouses, tents or farms destroyed was published.
-    - The army said searches to arrest those involved were continuing; no arrests, charges or court steps have been reported.
-    - Ekhbary 24 attributes all 215 tonnes to the Marjehin plain and then reports a further 15 tonnes destroyed in Boudai, unlike the army statement's split of 200 tonnes in Marjehin and 15 tonnes in Boudai that this report uses.
+  - title: 'بعلبك الهرمل في عهدة الأمان: الجيش والأجهزة الأمنية يرسمان معالم الاستقرار - MTV Lebanon'
+    url: https://www.mtv.com.lb/news/1758971
+    publisher: MTV Lebanon
+    date: 2026-11-17
+    language: ar
 ---
 
 The Lebanese Army announced the destruction of 215 tonnes of cannabis and
 marijuana in the Hermel and Baalbek regions during a three-day operation against
-drug trafficking. [@1,4,12,14,15,18,19,20,22,23,24,26] The 13 November date was the publication date of the army statement, not the date of a single operation lasting one day. [@20] The army said the operation was part of security
+drug trafficking. [@1,4,12,14,15,18,19,20,22,23,24,26,27] The 13 November date was the publication date of the army statement, not the date of a single operation lasting one day. [@20] The army said the operation was part of security
 follow-up to combat narcotics and pursue people undermining security. [@1,3,11,12,13,14,24] The statement announcing the destructions was issued by Army Command – Guidance Directorate. [@12,24]
 
 One army unit destroyed 200 tonnes of cannabis resin and marijuana, along with
