@@ -58,17 +58,11 @@ sources:
     publisher: CongoActu
     date: 2026-11-09
     language: fr
-open_questions:
-  - The article does not say whether the grower has been charged or brought before a court.
-  - No figure was published for the number of plants involved or the area cultivated.
-  - Only the day of the operation is reported; the article was published on 9 November 2026.
-  - Only one source, Linfodrome, republished by MSN, was found for this operation; the original page could not be opened again and the account rests on the MSN copy.
-  - The article does not name the suspect or say where he was held.
-  - The article does not say whether the suspect has been charged or brought before a court beyond the police custody ordered by the prosecutor.
-  - The article gives the operation as part of Épervier spécial but does not link it to a numbered phase or to a campaign report in the tracker.
-  - KOACI gives the suspect's initials only (Z.T.P.) and does not say where he was held after the operation.
-  - The CongoActu page is an explicit republication of Linfodrome, saying it reproduces information published by linfodrome.com, so it is not an independent second account.
-  - CongoActu gives no plant count, cultivated area, suspect name or court outcome, and says nothing beyond the Linfodrome account.
+  - title: 'Côte d’Ivoire : Un cultivateur interpellé avec 5 kg de cannabis à Toulépleu'
+    url: https://www.ivoirematin.com/fr/news/Societe/cote-divoire-un-cultivateur-interpelle-avec-5-kg-de-cannabis-a-toulepleu_n_126404.html
+    publisher: Ivoirematin
+    date: 2026-11-09
+    language: fr
 media:
   - kind: photo
     url: https://www.koaci.com/article/2026/11/09/cote-divoire/societe/cote-divoire-toulepleu-cinq-kilos-de-cannabis-saisis-dans-un-village-un-cultivateur-interpelle_202401.html
@@ -79,14 +73,14 @@ media:
 
 Officers of the anti-drug squad (Groupe de répression anti-drogue, GRAD) based
 in Guiglo arrested a cannabis grower in the village of Méo, in Toulépleu
-department in western Côte d'Ivoire, on Sunday 8 November 2026. [@1,2,3,4]
+department in western Côte d'Ivoire, on Sunday 8 November 2026. [@1,2,3,4,5]
 
-The officers accuse the grower of selling cannabis illegally. [@1,2,4] They seized
-five blocks of cannabis weighing five kilograms in all. [@1,2,3,4]
+The officers accuse the grower of selling cannabis illegally. [@1,2,4,5] They seized
+five blocks of cannabis weighing five kilograms in all. [@1,2,3,4,5]
 
 The operation is part of a continuing crackdown on drug trafficking in western
 Côte d'Ivoire. [@1,2]
 
 The officers acted under a police drive named Épervier spécial, which aims to dismantle drug dens and shut down distribution networks in their area. [@2,3] The suspect, a 30-year-old Ivorian cultivator living in Méo, was placed in police custody on the instructions of the public prosecutor at the Guiglo court of first instance, and an investigation was opened. [@2]
 
-An investigation was opened to establish what happened and who was responsible. [@3] The operation began at about 9am on 8 November as a search for narcotics. [@3]
+An investigation was opened to establish what happened and who was responsible. [@3,5] The operation began at about 9am on 8 November as a search for narcotics. [@3]
