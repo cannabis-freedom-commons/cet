@@ -62,6 +62,11 @@ media:
     media_url: https://www.thephuketnews.com/photo/listing/2026/1795325592_1-org.jpg
     publisher: The Phuket News
     caption: 'The raid on the cannabis shop in Cherng Talay. Photo: PR Phuket'
+  - kind: photo
+    url: https://www.bangkokpost.com/thailand/general/3359445/police-arrest-weed-shop-staff-over-licence-breach
+    media_url: https://static.bangkokpost.com/media/content/20261123/c1_3359445_261123040629_1200.jpg
+    publisher: Bangkok Post
+    caption: 'Authorities raid a cannabis shop in Phuket''s Thalang district, with seized cannabis buds worth an estimated 2 million baht. Photo: Phuket Public Relations Office'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 92d4b9c468111a82cafe40858eb2d741
@@ -120,6 +125,10 @@ sources:
     publisher: อีจัน
     date: 2026-11-24
     language: th
+  - title: Police arrest weed shop staff over licence breach
+    url: https://www.bangkokpost.com/thailand/general/3359445/police-arrest-weed-shop-staff-over-licence-breach
+    publisher: Bangkok Post
+    date: 2026-11-23
 ---
 
 Phuket provincial officials led by deputy governor Romdon Haji-Awae raided a
@@ -127,13 +136,13 @@ cannabis shop in Cherng Talay, Thalang district, Phuket, in the early hours of
 22 November 2026. [@1,8,10] The raided shop was the LV Cannabis Boutique in Boat Avenue. [@7] Officers from the Phuket provincial administrative
 special task force, the provincial public health office and Cherng Talay police
 took part. [@4,8] Officers detained three employees inside the shop and told them
-of preliminary charges. [@1,7,10] Many foreign tourists were eating and drinking
+of preliminary charges. [@1,7,10,12] Many foreign tourists were eating and drinking
 inside the large venue, which had VIP rooms for customers. [@1]
 
 Officers seized high-quality cannabis flowers that officials valued at more than
-2 million baht. [@1,5,6,7,8,9,10,11] The shop's cannabis licence had been suspended for 90 days
+2 million baht. [@1,5,6,7,8,9,10,11,12] The shop's cannabis licence had been suspended for 90 days
 from 23 October 2026 because it had not met service conditions, including
-selling without a doctor's prescription. [@2,5,6,7,8,10,11] Officers also found hash cannabis
+selling without a doctor's prescription. [@2,5,6,7,8,10,11,12] Officers also found hash cannabis
 extract, which the province said would be examined over whether it fell under
 narcotics law. [@1,7,9,10] The shop was also selling alcohol outside permitted hours
 and cannabis-infused food products without a food registration number or the
