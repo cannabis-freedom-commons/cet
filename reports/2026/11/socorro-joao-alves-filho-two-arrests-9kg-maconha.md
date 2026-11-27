@@ -66,11 +66,11 @@ sources:
     publisher: A8 Sergipe
     date: 2026-11-22
     language: pt
-open_questions:
-  - The two suspects were not named and no ages were published.
-  - No charges, custody decision or court outcome was reported; the case was registered at the Central de Flagrantes.
-  - Police did not say who owned the house or whether either man had a prior record.
-  - The seizure weights are described as approximate.
+  - title: A Polícia Militar apreendeu mais de 16 quilos de maconha e prendeu três homens suspeitos de tráfico de drogas em Sergipe
+    url: https://www.instagram.com/reel/DgCwa5tg0ei/
+    publisher: jornalsergipeverdade
+    date: 2026-11-22
+    language: pt
 ---
 
 Two men were arrested in the act on suspicion of drug trafficking and illegal
@@ -80,14 +80,14 @@ Officers of the Radio Patrol Police Battalion (BPRP) were patrolling the area
 when they received information about a disturbance and possible sale and
 consumption of drugs at a residence. [@1] On arriving, the officers found the
 two men on the porch apparently consuming cannabis, and through the window of
-one of the bedrooms they saw a box of cannabis tablets on the bed. [@1,4]
+one of the bedrooms they saw a box of cannabis tablets on the bed. [@1,4,5]
 
 In the search of the house officers found 7.6 kg of pressed maconha, 1.6 kg of
 flower-type maconha and seven grams of cocaine, within a total of about 9.2 kg
-of maconha seized. [@1,4] Officers also seized a .38 revolver, five intact rounds,
-a spent cartridge case of the same calibre and two mobile phones. [@3,4]
+of maconha seized. [@1,4,5] Officers also seized a .38 revolver, five intact rounds,
+a spent cartridge case of the same calibre and two mobile phones. [@3,4,5]
 
 One of the suspects said he owned the illicit material, while the other said he
-kept the objects at the house in exchange for payment. [@1,4] Both men were taken
+kept the objects at the house in exchange for payment. [@1,4,5] Both men were taken
 in the act to the Central de Flagrantes, the station where arrests in the act
 are registered, together with the seized material. [@2,4]
