@@ -62,6 +62,11 @@ sources:
     publisher: detikNews
     date: 2026-11-26
     language: id
+  - title: Bandar Pemasok Narkoba ke Kampung Ambon Ditangkap, Ganja Rp 2,5 M Disita
+    url: https://news.detik.com/berita/d-8768705/bandar-pemasok-narkoba-ke-kampung-ambon-ditangkap-ganja-rp-2-5-m-disita
+    publisher: detikNews
+    date: 2026-11-25
+    language: id
 media:
   - kind: photo
     url: https://news.detik.com/berita/d-8770423/6-fakta-bandar-narkoba-pemasok-ke-kampung-ambon-ditangkap-di-sumut
@@ -82,27 +87,27 @@ media:
 
 West Jakarta Metro Police arrested 35-year-old RA in Mandailing Natal, North
 Sumatra, as the alleged dealer supplying cannabis to Kampung Ambon in
-Cengkareng, West Jakarta. [@1,2,4] RA, a resident of Payakumbuh, West Sumatra, was
-detained on 21 November 2026. [@1,4] Police said the arrest followed earlier
-cannabis cases uncovered in the Kampung Ambon area. [@1] That earlier inquiry in Kampung Ambon involved the arrests of M with 700 grams of marijuana, SS with 1.6 kilograms and W with 7 kilograms before officers identified RA. [@2,3,4] A team led by West
+Cengkareng, West Jakarta. [@1,2,4,5] RA, a resident of Payakumbuh, West Sumatra, was
+detained on 21 November 2026. [@1,4,5] Police said the arrest followed earlier
+cannabis cases uncovered in the Kampung Ambon area. [@1,5] That earlier inquiry in Kampung Ambon involved the arrests of M with 700 grams of marijuana, SS with 1.6 kilograms and W with 7 kilograms before officers identified RA. [@2,3,4] A team led by West
 Jakarta narcotics chief AKBP Vernal A Sambo was sent to trace the supply source.
 [@1] Questioning pointed to Mandailing Natal as the source of the cannabis
 circulating in Kampung Ambon. [@1,3]
 
 From RA officers seized 63 large packages of dried cannabis weighing about 64
 kilograms, believed ready for distribution to several areas including West
-Jakarta. [@1,2,3,4] Officers also seized a white Toyota Calya allegedly used to
-support drug distribution. [@1,2,3,4] The network moved cannabis overland by relay,
+Jakarta. [@1,2,3,4,5] Officers also seized a white Toyota Calya allegedly used to
+support drug distribution. [@1,2,3,4,5] The network moved cannabis overland by relay,
 switching private cars and interprovincial passenger vehicles across Sumatra to
 hinder tracking. [@1,2,3] Vehicles were switched again through South Sumatra before the cannabis reached Jakarta. [@3] A delivery could start in Mandailing Natal in one car and switch vehicles upon arrival in Padang, West Sumatra. [@3] Packages were taped tightly and wrapped to smell like
 durian or salted fish so the cannabis odour would not emerge. [@1,2,3] Police
 estimated the street value of the 64 kilograms at about Rp2.546 billion if sold
-in small retail packages. [@1,4]
+in small retail packages. [@1,4,5]
 
 Police described Mandailing Natal as the suspected site of planting, packing and
 distribution before shipment to Jakarta. [@1] Nasriadi said the network appeared
 local, working with illegal growers in the Mandailing Natal mountains. [@1] RA
 was charged under Article 114 paragraph (2), subsidiary Article 111 paragraph
 (2), of Law Number 35 of 2009 on Narcotics in conjunction with Law Number 1 of
-2026. [@1,4] Police were still tracing possible other members, from packers and
+2026. [@1,4,5] Police were still tracing possible other members, from packers and
 couriers to retailers in the destination areas. [@1]
