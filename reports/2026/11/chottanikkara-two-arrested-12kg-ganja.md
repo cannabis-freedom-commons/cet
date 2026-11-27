@@ -40,31 +40,34 @@ sources:
     url: https://www.rediff.com/news/report/kochi-police-arrest-two-with-12-kg-ganja-in-anti-drug-drive/20261126.htm
     publisher: Rediff
     date: 2026-11-26
+  - title: Two people arrested with 12 kg ganja in Keralam's Kochi
+    url: https://www.msn.com/en-in/news/other/two-people-arrested-with-12-kg-ganja-in-keralams-kochi/ar-AA2ih3C3
+    publisher: MSN (Press Trust of India)
+    date: 2026-11-26
 open_questions:
-  - The 12 kg figure was reported only as approximate, using approximately and around.
-  - No laboratory confirmation for the material described as ganja was reported.
-  - No charges, custody ruling or court outcome for the two arrested men were reported; police said buyers were still being traced.
-  - No total street value for the 12 kg was published; only per-kilogram purchase and sale prices of Rs 5,000 and Rs 30,000 were given.
-  - The article also describes a separate 2.5 kg charas seizure in Nedumbassery and the remand of Muhammed Sirajuddin, a different event left out of this report.
-  - The account rests on a single opened PTI report republished by Rediff; no second independent account of this arrest was found.
+    - The 12 kg figure was reported only as approximate, using approximately and around.
+    - No laboratory confirmation for the material described as ganja was reported.
+    - No charges, custody ruling or court outcome for the two arrested men were reported; police said buyers were still being traced.
+    - No total street value for the 12 kg was published; only per-kilogram purchase and sale prices of Rs 5,000 and Rs 30,000 were given.
+    - The article also describes a separate 2.5 kg charas seizure in Nedumbassery and the remand of Muhammed Sirajuddin, a different event left out of this report.
+    - Both opened accounts reprint the same PTI statement (Rediff and MSN); no independent account of this arrest was found.
 ---
 
 Kochi police arrested Jehidul Islam (32) and Feroze Mia (44) in Chottanikkara on
-Thursday 26 November 2026. [@1] Both men are natives of Murshidabad in West
-Bengal. [@1] A special investigation team led by the Ernakulam Rural District
-Police Chief together with Chottanikkara police made the arrests. [@1] Officers
+Thursday 26 November 2026. [@1,2] Both men are natives of Murshidabad in West
+Bengal. [@1,2] A special investigation team led by the Ernakulam Rural District
+Police Chief together with Chottanikkara police made the arrests. [@1,2] Officers
 took the duo into custody at a waiting shed near the KEL corporate office on the
 Kochi-Madura National Highway while they were allegedly waiting to hand the
-narcotics to someone else. [@1]
+narcotics to someone else. [@1,2]
 
-Officers seized around 12 kilograms of ganja in the operation. [@1] Police say
+Officers seized around 12 kilograms of ganja in the operation. [@1,2] Police say
 the ganja was brought from Odisha by train, concealed under clothes in two
-trolley bags. [@1] Police say the duo bought cannabis in Odisha for Rs 5,000 per
-kg and sold it in Kerala for Rs 30,000 per kg. [@1] Police say the two would
-return home on the same day the sale was carried out. [@1]
+trolley bags. [@1,2] Police say the duo bought cannabis in Odisha for Rs 5,000 per
+kg and sold it in Kerala for Rs 30,000 per kg. [@1,2] Police say the two would
+return home on the same day the sale was carried out. [@1,2]
 
 The arrests were made as part of Operation Toofan, the government's anti-drug
-drive. [@1] Police say they had been watching the smuggling operation for some
-time after receiving confidential information. [@1] Police say they are
-investigating who the buyers of the cannabis from the two were. [@1]
-
+drive. [@1,2] Police say they had been watching the smuggling operation for some
+time after receiving confidential information. [@1,2] Police say they are
+investigating who the buyers of the cannabis from the two were. [@1,2]
