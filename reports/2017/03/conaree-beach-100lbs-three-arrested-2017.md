@@ -46,25 +46,25 @@ sources:
     url: https://www.sknvibes.com/news/newsdetails.cfm/100049
     publisher: SKNVibes
     date: 2017-03-06
-open_questions:
-  - The names, charges and court outcomes for the three people in custody were not reported.
-  - SKNVibes dates the vessel encounter as Friday (Feb. 3) in its lead sentence but reports it alongside the 6 March police release for the 3 March seizure, so 3 March 2017 is used as the incident date.
-  - No valuation, packaging detail or laboratory weight beyond 100 lbs was published.
-  - No second independent weight or custody update for the three arrested people could be found.
+  - title: COMBINED OPERATION NETS LARGE QUANTITY OF MARIJUANA, THREE PERSONS ARRESTED
+    url: https://sknis.gov.kn/2017/03/06/combined-operation-nets-large-quantity-of-marijuana-three-persons-arrested/
+    publisher: St. Kitts & Nevis Information Service
+    date: 2017-03-06
+    language: en
 ---
 
 Three people were in police custody after police seized marijuana on Friday 3
-March 2017. [@2] The arrests resulted from a combined operation between the
+March 2017. [@2,4] The arrests resulted from a combined operation between the
 Anti-Drug Unit of the police and the St Kitts Nevis Defence Force Coast Guard.
-[@2] Police said 100 lbs of marijuana was delivered to Conaree Beach and
-retrieved by the three people, who were then arrested. [@2]
+[@2,4] Police said 100 lbs of marijuana was delivered to Conaree Beach and
+retrieved by the three people, who were then arrested. [@2,4]
 
 The 100 lbs, about 45.36 kg, is the cannabis quantity recorded for this event.
 [@2] The seizure photograph published with the case is identified as
 Marijuana-Seized-Friday-03-March. [@1]
 
 The Coast Guard conducted a maritime interdiction for the suspected delivery
-vessel. [@2] SKNVibes identified the two men aboard the fishing vessel as
+vessel. [@2,4] SKNVibes identified the two men aboard the fishing vessel as
 Michael Samuel and Alex Samuel, both of Conaree Village. [@3] The vessel was
 described as the 22-foot blue and white fishing vessel FV PROGRESS, registration
 V-4495-BE. [@3] The Coast Guard intercepted that vessel near Nags Head, escorted
@@ -72,4 +72,3 @@ it to the Coast Guard base in Basseterre, and found nothing illegal aboard. [@3]
 A police release on 6 March stated that the two men and the fishing vessel were
 released, while three people remained in custody as the alleged retrievers of
 marijuana delivered on a Conaree beach. [@3]
-
