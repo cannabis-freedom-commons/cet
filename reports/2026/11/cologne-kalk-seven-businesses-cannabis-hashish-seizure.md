@@ -66,6 +66,11 @@ sources:
     publisher: Kölner Stadt-Anzeiger
     date: 2026-11-26
     language: de
+  - title: Polizei findet Drogen und schließt mehrere Geschäfte
+    url: https://www.msn.com/de-de/nachrichten/other/polizei-findet-drogen-und-schlie%C3%9Ft-mehrere-gesch%C3%A4fte/ar-AA2iiJnz
+    publisher: t-online
+    date: 2026-11-26
+    language: de
 open_questions:
   - No weight, value or plant count was published for the cannabis and hashish found in the seven businesses.
   - The police statement does not name anyone charged over the cannabis or say how many of the criminal proceedings concern it.
@@ -75,18 +80,18 @@ open_questions:
 
 With nearly 100 officers, Cologne police checked businesses, people and vehicles
 on the evening of 25 November 2026 under the 'Fokus Sicherheit' project,
-supported by staff from the city's public order office. [@1,5] The control teams
-examined seven businesses, among them cafés, bars and kiosks. [@4] Officers
+supported by staff from the city's public order office. [@1,5,6] The control teams
+examined seven businesses, among them cafés, bars and kiosks. [@4,6] Officers
 examining those businesses found cannabis and hashish alongside suspected
-cocaine and ecstasy tablets. [@2,5] A police dog also found a bag of cannabis in a
-backyard. [@2,5]
+cocaine and ecstasy tablets. [@2,5,6] A police dog also found a bag of cannabis in a
+backyard. [@2,5,6]
 
 Police opened several criminal proceedings, including on suspicion of drug
 trafficking and of violations of the weapons law. [@2,5] The city's public order
 office sealed a kiosk where partially hidden illegal vapes and snus were found.
-[@3] The city's public order office also shut two cafés, citing unreliable operators and a suspected sham business registration and illegal gambling. [@5] Officers also seized three knives, a stolen e-bike, suspected counterfeit
+[@3,6] The city's public order office also shut two cafés, citing unreliable operators and a suspected sham business registration and illegal gambling. [@5,6] Officers also seized three knives, a stolen e-bike, suspected counterfeit
 brand products and nearly €1,000 in cash. [@1,5] Part of the Kalk-Mülheimer Straße
-was closed during the checks. [@1,5]
+was closed during the checks. [@1,5,6]
 
 A 27-year-old paid a fine on the spot because an arrest warrant was outstanding
 against him. [@2,5] Officers stopped a French-registered car carrying five people, found 41 suspected counterfeit Apple products and nearly €1,000 in cash inside it, and the 44-year-old driver had to post a security deposit. [@5]
