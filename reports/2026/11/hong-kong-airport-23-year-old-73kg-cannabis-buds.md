@@ -88,20 +88,22 @@ sources:
     publisher: 東方日報
     date: 2026-11-28
     language: zh
-open_questions:
-    - No outcome of the first court appearance on 27 November 2026, such as remand, bail or an adjournment, was reported.
-    - The 7.3 kilograms were described as suspected cannabis buds, and no laboratory confirmation of the drug was reported.
+  - title: 海關機場檢獲值約160萬元懷疑大麻花 內地男被控販毒
+    url: https://www.bastillepost.com/hongkong/article/17270016-%E6%B5%B7%E9%97%9C%E6%A9%9F%E5%A0%B4%E6%AA%A2%E5%80%BC%E7%B4%84160%E8%90%AC%E5%85%83%E6%87%B7%E7%96%91%E5%A4%A7%E9%BA%BB%E8%8A%B1-%E5%85%A7%E5%9C%B0%E7%94%B7%E8%A2%AB%E6%8E%A7%E8%B2%A9%E6%AF%92
+    publisher: Bastillepost 巴士的報
+    date: 2026-11-26
+    language: zh
 ---
 
 Hong Kong Customs detected a drug trafficking case at Hong Kong International
 Airport on 26 November 2026. [@1,3,4,5,6] Officers seized about 7.3 kilograms of
-suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4,5,6] The
+suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4,5,6,8] The
 suspect was a 23-year-old mainland Chinese man who had arrived from Bangkok,
-Thailand. [@1,3,4,5,6] Officers found the buds in his carry-on baggage during clearance
-and arrested him. [@1,3,4,5,6]
+Thailand. [@1,3,4,5,6,8] Officers found the buds in his carry-on baggage during clearance
+and arrested him. [@1,3,4,5,6,8]
 
-He was charged with one count of trafficking in a dangerous drug. [@2,3,4,5,6] The case
-was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4,5,6] The case was brought before West Kowloon Magistrates' Court on 27 November 2026. [@7] Customs
+He was charged with one count of trafficking in a dangerous drug. [@2,3,4,5,6,8] The case
+was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4,5,6,8] The case was brought before West Kowloon Magistrates' Court on 27 November 2026. [@7] Customs
 said it would keep selecting passengers from high-risk regions for clearance
 checks to combat cross-border drug trafficking. [@1,3,4] Trafficking in a dangerous
 drug carries a maximum penalty of a HK$5 million fine and life imprisonment
