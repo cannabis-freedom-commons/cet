@@ -41,23 +41,39 @@ sources:
     publisher: Leral.net
     date: 2025-06-27
     language: fr
+  - title: 'Rosso Sénégal : Un individu arrêté pour trafic international de chanvre indien'
+    url: https://www.dakaractu.com/Rosso-Senegal-Un-individu-arrete-pour-trafic-international-de-chanvre-indien_a262869.html
+    publisher: Dakaractu
+    date: 2025-06-27
+    language: fr
 open_questions:
-  - The suspect was not named and no age, nationality or residence was reported.
-  - No charge, court hearing or later outcome was reported beyond custody and an ongoing police investigation.
-  - No value estimate was published for the 2.25 kg seized.
-  - The account rests on a single opened report of the police operation; no second independent account was found.
+    - The suspect was not named and no age, nationality or residence was reported.
+    - No charge, court hearing or later outcome was reported beyond custody and an ongoing police investigation.
+    - No value estimate was published for the 2.25 kg seized.
+    - The available accounts all derive from the same national police post, so there is no independent corroboration of the operation.
+media:
+  - kind: photo
+    url: https://www.dakaractu.com/Rosso-Senegal-Un-individu-arrete-pour-trafic-international-de-chanvre-indien_a262869.html
+    media_url: https://www.dakaractu.com/photo/art/default/89587815-63323699.jpg?v=1751020514
+    publisher: Dakaractu
+    caption: 'Packages of seized chanvre indien hanging against a wall in the national police handout photograph. Watermark: Police nationale.'
+  - kind: photo
+    url: https://www.dakaractu.com/Rosso-Senegal-Un-individu-arrete-pour-trafic-international-de-chanvre-indien_a262869.html
+    media_url: https://www.dakaractu.com/photo/art/default/89587815-63323700.jpg?v=1751020527
+    publisher: Dakaractu
+    caption: 'The detained man in an orange shirt standing indoors in the national police handout photograph. Watermark: Police nationale.'
 ---
 
 Officers of the Commissariat spécial de Rosso arrested a man at Ndiatène on 26
 June 2025 on suspicion of trafficking chanvre indien, the French term for
-cannabis, between Senegal and Mauritania. [@1] The operation followed
+cannabis, between Senegal and Mauritania. [@1,2] The operation followed
 information about trafficking from Ndiatène toward market-garden perimeters on
-the Mauritanian side. [@1] The suspect was placed in custody in Rosso while
-police pursued a fuller investigation. [@1] Early findings cited by police point
+the Mauritanian side. [@1,2] The suspect was placed in custody in Rosso while
+police pursued a fuller investigation. [@1,2] Police said the investigation was continuing in order to identify any accomplices. [@2] Early findings cited by police point
 to his role in moving drugs abroad as part of an organised network. [@1]
 
 Officers caught the man with three pieces of Fogny-type cannabis weighing 2.25
-kg in total. [@1]
+kg in total. [@1,2]
 
 Police presented the arrest as part of strengthened border controls and
 surveillance of transit routes around Rosso, Senegal, to curb drug trafficking
@@ -65,4 +81,3 @@ in the area. [@1] The national police reaffirmed its commitment to protect the
 population and invited anyone with information on such networks to come forward.
 [@1] Citizens can call the free numbers 17 or 800 00 12 12 to help fight drug
 trafficking. [@1]
-
