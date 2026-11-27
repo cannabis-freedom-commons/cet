@@ -67,6 +67,11 @@ sources:
     publisher: El Popular
     date: 2026-11-23
     language: es
+  - title: Asegura metanfetamina, ketamina y cannabis en el AICM; iban a varios países
+    url: https://amp.milenio.com/policia/asegura-en-el-aicm-metanfetamina-ketamina-y-cannabis-en-paquetes
+    publisher: Milenio
+    date: 2026-11-22
+    language: es
 media:
   - kind: photo
     url: https://latinus.us/mexico/2026/11/22/aseguran-cargamentos-de-metanfetamina-ketamina-y-cannabis-en-la-aduana-del-aicm-183159.html
@@ -88,22 +93,27 @@ media:
     media_url: https://www.infobae.com/resizer/v2/UKH77TOZBNGDRNTJ7JQCVUGWJM.jpg?auth=7744de4137c109174b0b76ef001ccb006d247ae037b7fc7cce2376b83a05e590&smart=true&width=992&height=558&quality=85
     publisher: Infobae
     caption: 'Postal packages from the AICM customs operation, which the outlets say were detected with X-ray screening and physical inspections. Photo: ANAM (@AduanasMx) via Infobae'
+  - kind: photo
+    url: https://amp.milenio.com/policia/asegura-en-el-aicm-metanfetamina-ketamina-y-cannabis-en-paquetes
+    media_url: https://images.milenio.com/hopSaC2v4hbo6jCI6o9dhufhW3s=/345x195/uploads/media/2026/11/22/elementos-fuerzas-federales-aseguraron-diversas_1_107_1096_692.jpeg
+    publisher: Milenio
+    caption: 'Federal forces with the illicit substances seized in the AICM postal customs operation. Photo: Milenio.'
 ---
 
 Officers from Mexico's National Customs Agency, the Attorney General's Office,
 the Navy, the Security Ministry and Correos de México seized illicit substances
 at the mechanized postal customs section of Mexico City International Airport.
-[@1,3,4,6] The detections followed non-intrusive X-ray screening and selective
+[@1,3,4,6,7] The detections followed non-intrusive X-ray screening and selective
 physical inspections aimed at increasingly sophisticated concealment methods in
-postal shipments. [@1,4,6] All of the substances were confirmed by laboratory
+postal shipments. [@1,4,6,7] All of the substances were confirmed by laboratory
 analysis. [@1,5] The seized goods were formally handed to Attorney General's
-Office staff to continue the corresponding investigations. [@1,2,4,5]
+Office staff to continue the corresponding investigations. [@1,2,4,5,7]
 
 Officers found 1.86 kilos of cannabis derivatives held in 24 glass jars in an
-import shipment from California, United States. [@1,2,3,4,5] In the same postal
+import shipment from California, United States. [@1,2,3,4,5,7] In the same postal
 operation officers found 3.06 kilos of methamphetamine hydrochloride hidden
 inside a parcel containing air pumps in an export shipment bound for Cyprus.
-[@1,3] Officers also found 1.090 kilos of methamphetamine hydrochloride hidden in
+[@1,3,7] Officers also found 1.090 kilos of methamphetamine hydrochloride hidden in
 a box with an inflatable mattress and a steel-plate-covered container bound for
 Santiago, Chile, and 0.525 kilos hidden among board games in a shipment bound
 for Buenos Aires, Argentina. [@1,3,6] Officers also seized 1.260 kilos of ketamine
