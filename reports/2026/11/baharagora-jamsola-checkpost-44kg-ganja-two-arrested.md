@@ -80,15 +80,10 @@ sources:
     publisher: Sharp Bharat News
     date: 2026-11-23
     language: hi
-open_questions:
-    - The PTI account says the arrests were on Monday 23 November while the local account places the interception on Sunday evening 22 November; the report uses 22 November as the incident date.
-    - No laboratory confirmation for the seized ganja was reported.
-    - The local account says the consignment was allegedly meant for Kharagpur in West Bengal, which the police-statement account does not confirm.
-    - No charge framing, bail hearing or trial date was reported after the two were sent to jail.
-    - The Rs 22 lakh figure is the police estimate of the seized ganja's value.
-    - Dainik Bhaskar gives 45 kg of ganja and Rs 20,060 in cash, while PTI, Prabhat Khabar and Bharat Samvad give 44 kg and Rs 20,760; the report uses 44 kg and Rs 20,760.
-    - The first accused's name is given as Bhamawati Sahu in one account and Bhavgrahi Sahu in another, though both give his age as 40 and place him in Naktideul police station area, Sambalpur district.
-    - One account says the car was searched in the presence of the Baharagora sub-divisional officer Raja Ram Singh Munda, while another says a magistrate was deputed for the search.
+  - title: 'Jharkhand: Two drug peddlers arrested with ganja worth Rs 22 lakh'
+    url: https://www.msn.com/en-in/news/other/jharkhand-two-drug-peddlers-arrested-with-ganja-worth-rs-22-lakh/ar-AA2i2qRO
+    publisher: News18 / MSN (PTI)
+    date: 2026-11-23
 media:
   - kind: photo
     url: https://www.bhaskar.com/local/jharkhand/jamshedpur/news/jamsola-border-jamshedpur-ganja-seized-police-arrest-drug-smuggling-139777360.html
@@ -108,25 +103,25 @@ media:
 ---
 
 Jharkhand police arrested two ganja peddlers with contraband worth around Rs 22
-lakh in East Singhbhum district. [@1,3,7] The accused were Bhavgrahi Sahu (40) and
+lakh in East Singhbhum district. [@1,3,7,8] The accused were Bhavgrahi Sahu (40) and
 Dhruv Charan Behera (50), both residents of the Naktideul police station area in
 Sambalpur district, Odisha, and police registered a case against them under the
-NDPS Act. [@1,3]
+NDPS Act. [@1,3,8]
 
 Police recovered 44 packets of ganja weighing around 1 kg each, concealed in a
 specially modified compartment created inside the vehicle by cutting its body.
-[@1,3,7] Police estimated the seized ganja to be worth around Rs 22 lakh. [@1,3]
+[@1,3,7,8] Police estimated the seized ganja to be worth around Rs 22 lakh. [@1,3,8]
 Police also seized the vehicle, Rs 20,760 in cash and two mobile phones from
-their possession. [@1,3,7] The car was coming from Odisha and was intercepted and
-searched in the presence of a magistrate deputed for the purpose. [@1,3]
+their possession. [@1,3,7,8] The car was coming from Odisha and was intercepted and
+searched in the presence of a magistrate deputed for the purpose. [@1,3,8]
 
 Police acted on specific intelligence about drug smuggling through the
 Baharagora police station area on Sunday night, after which SSP Ehtesham
-Waquarib directed SP (Rural) Subham Kumar Khandelwal to take action. [@1,3]
+Waquarib directed SP (Rural) Subham Kumar Khandelwal to take action. [@1,3,8]
 Khandelwal formed a police team led by Ghatsila Sub-Divisional Police Officer
-Vikash Anand Laguri to conduct the operation. [@1,3,7] The rural police said the check was part of an ongoing campaign against the illegal narcotics trade. [@4] The team ran a
+Vikash Anand Laguri to conduct the operation. [@1,3,7,8] The rural police said the check was part of an ongoing campaign against the illegal narcotics trade. [@4] The team ran a
 vehicle-checking drive at the Baharagora-Jamsola checkpost on National Highway
-49. [@1,3,7] A local account places the interception on NH-49 near Bonabura
+49. [@1,3,7,8] A local account places the interception on NH-49 near Bonabura
 (Jamshola) in the Baharagora police station area of East Singhbhum. [@2] That
 account describes the intercepted vehicle as a Mahindra Xylo coming from Odisha.
 [@2] A first information report was registered as Baharagora police station case number 68/2026 of 22 November 2026 under the NDPS Act and the Bharatiya Nyaya Sanhita. [@6] Police said they had information about other members of the gang and were contacting other districts to arrest them. [@5] Police said the pair brought ganja from Odisha's Phulbani district and supplied it in West Bengal and Bihar. [@5] The accused told police they had been involved in the trafficking for about three years. [@5] The two were sent to jail after questioning on 23 November. [@5]
