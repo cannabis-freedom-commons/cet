@@ -56,6 +56,11 @@ sources:
     publisher: Videocittà
     date: 2026-11-26
     language: it
+  - title: 'Lanciano, blitz antidroga dei Carabinieri: sequestrati mezzo chilo di hashish e marijuana, un arresto'
+    url: https://ilgiornaledichieti.it/cronaca-il-giornale-di-chieti/lanciano-blitz-antidroga-dei-carabinieri-sequestrati-mezzo-chilo-di-hashish-e-marijuana-un-arresto/
+    publisher: Il Giornale di Chieti
+    date: 2026-11-26
+    language: it
 open_questions:
   - The hashish and marijuana quantities are given as approximate figures of about 400 and about 100 grams.
   - 'Accounts differ on where the car was stopped: one names the SS 524, another the provincial road between Lanciano and Fossacesia.'
@@ -65,20 +70,19 @@ open_questions:
 ---
 
 Carabinieri in Lanciano arrested a young man already known to police on 19
-November 2026 on suspicion of holding drugs for trafficking. [@1] The operation
+November 2026 on suspicion of holding drugs for trafficking. [@1,4] The operation
 was run by the operational and radio unit of the Lanciano carabinieri company.
-[@3] Officers noticed a suspicious car on the SS 524 during a territory control
-service and decided on a closer check. [@1] ChietiToday places the stop on the
+[@3,4] Officers noticed a suspicious car on the SS 524 during a territory control
+service and decided on a closer check. [@1,4] ChietiToday places the stop on the
 provincial road between Lanciano and Fossacesia. [@2]
 
 Searching the man, the car and then his home, officers found about 400 grams of
-hashish in blocks and about 100 grams of marijuana. [@1] They also seized a
-precision scale and material for packaging doses. [@2] The drugs and equipment
+hashish in blocks and about 100 grams of marijuana. [@1,4] They also seized a
+precision scale and material for packaging doses. [@2,4] The drugs and equipment
 were seized pending laboratory analysis and the decisions of the judicial
-authorities. [@1]
+authorities. [@1,4]
 
-The man was held under house arrest until the validation hearing. [@2] At that
+The man was held under house arrest until the validation hearing. [@2,4] At that
 hearing the judge of the Lanciano court validated the arrest and ordered him to
-reside in his home municipality. [@1] The case is at the preliminary
-investigation stage. [@3]
-
+reside in his home municipality. [@1,4] The case is at the preliminary
+investigation stage. [@3,4]
