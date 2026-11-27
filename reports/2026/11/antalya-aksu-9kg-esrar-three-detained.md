@@ -61,6 +61,11 @@ sources:
     publisher: Son Dakika
     date: 2026-11-26
     language: tr
+  - title: 'Antalya''da şüpheli iki araca baskın: 9 kilo esrar ve 3 gözaltı'
+    url: https://www.yenialanya.com/antalyada-supheli-iki-araca-baskin-9-kilo-esrar-ve-3-gozalti
+    publisher: Yeni Alanya
+    date: 2026-11-26
+    language: tr
 open_questions:
     - No separate date for the vehicle searches was given; 26 November 2026 is the publication date and is used as the incident date.
     - No breakdown of the 9 kilograms between the two vehicles was published.
@@ -71,15 +76,15 @@ open_questions:
 
 Antalya police detained three suspects, identified only as A.D., I.E. and A.K.,
 in connection with a vehicle search in Fettahlı Mahallesi in the Aksu district.
-[@1,2] The three were detained on suspicion of trading in and supplying narcotic
+[@1,2,3] The three were detained on suspicion of trading in and supplying narcotic
 or stimulant substances, the Turkish charge of uyuşturucu veya uyarıcı madde
-ticareti yapmak ve sağlamak. [@1]
+ticareti yapmak ve sağlamak. [@1,3]
 
 Officers searching two vehicles in Fettahlı Mahallesi seized 9 kilograms of
-esrar, the cannabis seized in this event. [@1,2] The search was carried out by
+esrar, the cannabis seized in this event. [@1,2,3] The search was carried out by
 teams of the Antalya Police Directorate anti-narcotics branch, the Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, as part of its province-wide enforcement work.
-[@1,2]
+[@1,2,3]
 
 The branch describes that work as aimed at drying up the source of narcotics
 across the province and at preventing their trade and use. [@1] The account was
