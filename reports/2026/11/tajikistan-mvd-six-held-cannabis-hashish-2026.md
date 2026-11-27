@@ -65,32 +65,36 @@ sources:
     publisher: TopTJ.com
     date: 2026-11-26
     language: ru
+  - title: Tajik police seize over 160 kilograms of drugs, detain six suspects
+    url: https://asiaplus.news/en/2026/11/26/tajikistans-interior-ministry-seizes-large-shipment-of-heroin-and-opium-six-people-detained/
+    publisher: Asia-Plus
+    date: 2026-11-26
 open_questions:
   - The $3 million estimate covers all the seized drugs together; no separate value was published for the cannabis or hashish.
   - The accounts give 15 November as the day of the operation but do not say where the drugs were found or how the four stages were divided.
   - Both Russian accounts derive from the same Interior Ministry statement; TopTJ credits Asia-Plus as its source.
   - No trial date or court outcome for the six detainees was reported.
   - The article also mentions a separate 5 November case with nine detainees and 24 kg of hashish in Matchinsky district and first-half 2026 national seizure totals; neither belongs to this event.
+  - The reports transliterate several names differently (Hisor or Gissar, Bobojon-Ghafourov or Bobodjon-Gafurov, Jamal or Jamol, Jaihoun or Dzhayhun); they appear to be the same places and people.
 ---
 
 Officers of the Drug Control Department of Tajikistan's Interior Ministry
 detained six people suspected of belonging to a transnational drug-trafficking
-group. [@1] The detentions took place in Dushanbe, Gissar and the
-Bobodjon-Gafurov district of Sughd region. [@1] The ministry said four of the
+group. [@1,3] The detentions took place in Dushanbe, Gissar and the
+Bobodjon-Gafurov district of Sughd region. [@1] The ministry named the detainees as Ulughbek Zuhurov, Homid Ashrapov, Badakhshon Shoyev, Fayoziddin Rahimov, Faridoun Rahimov and Qosym Abdulloyev. [@3] The ministry said four of the
 detainees were residents of Bobodjon-Gafurov district and the other two came
-from Dushanbe and Bokhtar, and that all six had previous convictions. [@1]
+from Dushanbe and Bokhtar, and that all six had previous convictions. [@1] The ministry alleges that after his release from prison in 2024 Abdulloyev received and distributed more than two tonnes of drugs, using part of the proceeds to pay for a Hajj pilgrimage for 15 members of his family. [@3]
 
 During a four-stage operation on 15 November 2026 the department seized 77 kg of
 heroin, 77 kg of opium, 5 kg of cannabis and 2 kg of hashish, according to the
-ministry. [@1] The 5 kg of cannabis and 2 kg of hashish are the cannabis
+ministry. [@1,3] The 5 kg of cannabis and 2 kg of hashish are the cannabis
 products recorded here; the 77 kg of heroin and 77 kg of opium seized in the
 same operation are not counted in those figures. [@1] The ministry said the
 entire haul could be worth more than $3 million, a combined estimate it did not
-break down by substance. [@2]
+break down by substance. [@2,3]
 
 The Interior Ministry opened a criminal case under Part 4 of Article 200 of
 Tajikistan's Criminal Code, covering illicit trafficking of narcotic drugs for
 sale, and said the six detainees were held in custody. [@1] The ministry said
 two alleged leaders of the group remained at large, an Afghan citizen known as
-Jamol and a man from the Dzhayhun district known as Hikmat. [@1]
-
+Jamol and a man from the Dzhayhun district known as Hikmat. [@1,3] The ministry named the wanted leaders as Muhibullo, an Afghan national known as Jamal, and Abdullo Mahmadov of Jaihoun district, known as Hikmat. [@3]

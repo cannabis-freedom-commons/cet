@@ -68,6 +68,10 @@ sources:
     url: https://thekabultribune.com/en/0011834
     publisher: The Kabul Tribune
     date: 2026-11-05
+  - title: Tajik police seize over 160 kilograms of drugs, detain six suspects
+    url: https://asiaplus.news/en/2026/11/26/tajikistans-interior-ministry-seizes-large-shipment-of-heroin-and-opium-six-people-detained/
+    publisher: Asia-Plus
+    date: 2026-11-26
 open_questions:
   - The article gives no separate date for the detention or seizure; 5 November 2026 is its publication date and is used as the incident date.
   - The destination country for the alleged onward smuggling was not named.
@@ -83,7 +87,7 @@ open_questions:
 Tajikistan's Interior Ministry reported the detention of nine people on
 suspicion of smuggling drugs abroad. [@1,2,3] The ministry says all nine belonged to
 one drug group that had moved more than half a tonne of drugs abroad over the
-past year. [@1] The suspects were named as 44-year-old Muzafar Azamov,
+past year. [@1,4] The suspects were named as 44-year-old Muzafar Azamov,
 40-year-old Farkhod Nordzhigitov, 44-year-old Abdushukur Dzhuraboev and
 41-year-old Bilol Turonov from Matchinsky district, 38-year-old Safarali Nurov,
 47-year-old Jamshed Uzakov and 31-year-old Faridun Tolibov from Dushanbe, and
@@ -93,7 +97,7 @@ he created the group in 2025 after release from prison and names several other
 people as helpers in transport and sale. [@1]
 
 Officers found and seized 24 kg of hashish from a cache in Matchinsky district.
-[@1,3] The ministry said the drugs had been brought by smugglers from Afghanistan
+[@1,3,4] The ministry said the drugs had been brought by smugglers from Afghanistan
 into Tajikistan for onward shipment abroad. [@1] The ministry's message does not
 say to which country the drugs were being sent. [@1] Azamov states that from
 2025 until now the group transported hashish 20 to 25 times, totalling about 550
