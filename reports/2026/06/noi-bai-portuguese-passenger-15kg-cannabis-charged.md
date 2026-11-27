@@ -48,6 +48,16 @@ media:
     media_url: https://media.baotayninh.vn/upload/image/202611/medium/1406908_screenshot_2026_11_26_png_20094826.png
     publisher: Báo và phát thanh, truyền hình Tây Ninh
     caption: 'Customs handout screenshot published with the account of Portuguese passenger Ivo Miguel Dos Santos Silva, who flew Bangkok-Noi Bai. Photo: Cục Hải quan (Customs Department)'
+  - kind: video
+    url: https://vietnammedia.vnanet.vn/video/phat-hien-hon-40-kg-can-sa-van-chuyen-trai-phep-qua-san-bay-noi-bai-210436.htm
+    media_url: https://storageovp.vnews.gov.vn//mediacache/TS/2026_11/26//8G4W641YKOXS//hls//master.m3u8?=639312955664596156
+    publisher: Trung tâm Nội dung số và Truyền thông - TTXVN (VNA)
+    caption: 'The 56-second VNA video report on the two Noi Bai cannabis seizures announced by Vietnam''s Customs Department on 26 November 2026. Video: VNA (TTXVN)'
+  - kind: photo
+    url: https://vietnammedia.vnanet.vn/video/phat-hien-hon-40-kg-can-sa-van-chuyen-trai-phep-qua-san-bay-noi-bai-210436.htm
+    media_url: https://storageovp.vnews.gov.vn/mediacache/attach/crawler/2026/11/26/b2c931e2-833d-41de-ad2d-1ab6badb1906-772.webp
+    publisher: Trung tâm Nội dung số và Truyền thông - TTXVN (VNA)
+    caption: 'Still from the VNA video on the two Noi Bai cannabis seizures announced on 26 November 2026. Photo: VNA (TTXVN)'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: c925877e0e15dde15de8c5f9eaecc945
@@ -68,12 +78,11 @@ sources:
     publisher: Thuế & Hải quan Online - Tạp chí Kinh tế - Tài chính
     date: 2026-11-26
     language: vi
-open_questions:
-  - No individual weights for the 12 bags and no value estimate for the 15.47 kg were published.
-  - The prosecution decisions carry 3 June 2026 dates in their numbers but the article says they were issued on 3 November 2026, which the accounts do not explain.
-  - No trial date, verdict or sentence is reported; the case stood at the charge stage.
-  - The penalty for an Article 250(2) charge is not stated.
-  - The outlets carry the Customs Department's account and are not independent reporting.
+  - title: Phát hiện hơn 40 kg cần sa vận chuyển trái phép qua sân bay Nội Bài
+    url: https://vietnammedia.vnanet.vn/video/phat-hien-hon-40-kg-can-sa-van-chuyen-trai-phep-qua-san-bay-noi-bai-210436.htm
+    publisher: Trung tâm Nội dung số và Truyền thông - TTXVN (VNA)
+    date: 2026-11-26
+    language: vi
 ---
 
 Customs officers at Noi Bai International Airport checked Portuguese passenger
@@ -92,5 +101,4 @@ The Customs Department announced the two airport cases together on 26 November
 narcotics. [@2] It said Hanoi investigation police had issued prosecution
 decisions against two foreign nationals over the more than 40 kg of dried
 cannabis. [@3] The two cases together involved more than 40 kg of dried
-cannabis, customs said. [@1]
-
+cannabis, customs said. [@1,4]
