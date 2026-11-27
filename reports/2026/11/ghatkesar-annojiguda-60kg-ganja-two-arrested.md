@@ -91,6 +91,11 @@ sources:
     publisher: Andhrajyothy
     date: 2026-11-08
     language: te
+  - title: న్యూ ఇయర్ కు ముందే.. మాదకద్రవ్యాల రవాణా
+    url: https://www.andhrajyothy.com/2026/crime/hyderabad-drug-trafficking-snapchat-smuggling-1579962.html
+    publisher: Andhrajyothy
+    date: 2026-11-26
+    language: te
 open_questions:
   - Only one account of the check could be opened; no police statement or second outlet reporting this same seizure was found.
   - The 60 kilograms is given as a round figure for 60 packets, with no exact weighed total.
@@ -128,7 +133,7 @@ and Mohd Imran Uddin, 35, of Toor Colony, Chandrayangutta [@3,5]; they admitted 
 rear seat. [@5] Questioning showed they had bought it in Odisha from Purnachandra Mahapatra, alias Happy,
 to supply Yasmin Chand Sayyad, alias Chand Bhai, who runs a shop in Dharavi, Mumbai; both are still at
 large. [@1,4] Police said the pair bought at about 7,000 rupees a kilogram to sell at 15,000, and had taken
-two earlier loads from the same supplier. [@1,6,7]
+two earlier loads from the same supplier. [@1,6,7,8]
 
 Amer had been involved in five NDPS Act cases and detained twice under the Preventive Detention Act;
 Imran Uddin had four earlier cases, two under the NDPS Act. [@1,3,6] Officers seized the car and two
