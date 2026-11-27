@@ -43,6 +43,16 @@ sources:
     publisher: Cooperativa.cl
     date: 2026-09-29
     language: es
+  - title: 'Incautan casi 700 kilos de droga en Antofagasta: el avalúo es de más de $4.500 millones'
+    url: https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/09/30/incautan-casi-700-kilos-de-droga-en-en-antofagasta-el-avaluo-es-de-mas-de-4-mil-millones.shtml
+    publisher: BioBioChile
+    date: 2026-09-30
+    language: es
+  - title: 'Camioneta robada y $2.463 millones en droga: hallan más de 492 kilos en ruta utilizada para evadir controles en Antofagasta'
+    url: https://www.t13.cl/noticia/nacional/camioneta-robada-2463-millones-droga-hallan-mas-492-kilos-ruta-utilizada-para-e-30-9-2026
+    publisher: T13
+    date: 2026-09-30
+    language: es
 open_questions:
   - 29 September 2026 is inferred from the early-Tuesday timing and the 29 and 30 September publication dates; no calendar date for the pampa interception was stated.
   - The combined value of about 4,500 million pesos and the dose count of more than 3.2 million cover cocaine, marijuana and coca paste from parallel operations together; no separate value for the 484 kilos of marijuana was published.
@@ -53,20 +63,19 @@ open_questions:
 
 Carabineros' OS-7 unit was patrolling unauthorised crossings in the pampa of the
 Antofagasta region in the early hours of Tuesday 29 September 2026 when officers
-spotted a pickup truck. [@1] Its occupants fled into the desert when they saw
-the patrol, leaving the truck abandoned. [@1] Inside the truck officers found
-484 kilos 660 grams of marijuana. [@1] The truck's occupants escaped. [@2]
+spotted a pickup truck. [@1] The abandoned vehicle was a fully tinted Ford F-150 carrying large blue sacks. [@3] Its occupants fled into the desert when they saw
+the patrol, leaving the truck abandoned. [@1,3] Inside the truck officers found
+484 kilos 660 grams of marijuana. [@1,3] The truck's occupants escaped. [@2]
 
 The truck also carried 8 kilos 90 grams of coca paste, which is not counted in
-the cannabis figures. [@1] The pickup had an outstanding theft report in
-Santiago and was travelling with cloned plates. [@1] The second account places
-the interception during OS-7 checks on route B-475. [@2] The inquiries were
+the cannabis figures. [@1,4] Carabineros valued that load of marijuana and coca paste at more than 2,463 million pesos. [@3] The pickup had an outstanding theft report in
+Santiago and was travelling with cloned plates. [@1,3] The second account places
+the interception during OS-7 checks on route B-475. [@2,4] The inquiries were
 carried out jointly by the local prosecution service and Carabineros' OS-7 unit.
 [@1]
 
 Police presented the find together with separate cocaine seizures, putting the
 combined haul of cocaine, marijuana and coca paste at about 700 kilos valued at
-some 4,500 million pesos. [@1] Prosecutor Cristian Aguilar said the seizures
+some 4,500 million pesos. [@1,3] Prosecutor Cristian Aguilar said the seizures
 showed trafficking now runs through cities, roads and the pampa, not only the
 border. [@1]
-
