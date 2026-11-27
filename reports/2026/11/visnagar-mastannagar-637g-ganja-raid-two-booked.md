@@ -47,22 +47,26 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-22
     language: gu
+  - title: 'વિસનગરના મકાનમાંથી 637 ગ્રામ ગાંજો મળ્યો: FSL ટીમ સાથે પોલીસે રેડ કરી; ₹37,350નો મુદ્દામાલ કબજે, બે સામે NDPS હેઠળ ગુનો - Visnagar Police Raid: Ganja Seized; NDPS Case Against Two | Crime News'
+    url: https://www.divyabhaskar.co.in/amp/local/gujarat/mehsana/visnagar/news/visnagar-police-raid-ganja-seizure-ndps-case-139764711.html
+    publisher: Divya Bhaskar
+    date: 2026-11-22
+    language: gu
 open_questions:
-  - No separate date for the raid was published; 22 November 2026 is the article's publication date.
-  - The available account names no suspects and does not say whether anyone was arrested or detained.
-  - No court outcome was reported.
-  - No separate value for the ganja alone was published; 37,350 rupees is the total seized property.
-  - The account rests on a single outlet report.
+    - No separate date for the raid was published; 22 November 2026 is the article's publication date.
+    - The accounts name Yasimsha and Thakor Manuji but do not say whether anyone was arrested or detained.
+    - No court outcome was reported.
+    - The account rests on a single outlet's report, in canonical and AMP pages of the same article.
+    - Yasimsha's statement that he brought about 1.5 kg of ganja from Manuji about 15 days earlier was not independently verified.
 ---
 
 Police together with an FSL team raided a house in Visnagar and found 637 grams
 of ganja there. [@1] The raided premises was a residential house in Mastannagar,
-Visnagar. [@1]
+Visnagar. [@1,2] The house stands by the Delhiya lake embankment in Mastannagar. [@2] The house belonged to Yasimsha alias Munaf Babusha Fakir, who police suspected of storing and selling ganja after a tip received during patrol. [@2]
 
 From the house, police seized 637 grams of ganja. [@1] Police also seized a
-digital weighing scale and 27 ziplock bags. [@1] Police valued the total seized
-property at 37,350 rupees. [@1]
+digital weighing scale and 27 ziplock bags. [@1,2] Officers found a black plastic bag by an ice box in a room containing ganja, a digital scale and 27 transparent ziplock bags, which the FSL officer's narcotics kit confirmed as ganja. [@2] Police valued the total seized
+property at 37,350 rupees. [@1] The ganja weighed 637 grams valued at 31,850 rupees, within total seized property of 37,350 rupees including the scale, a mobile phone and an electricity bill. [@2]
 
 Police registered a case against two people under the NDPS Act over the seizure.
-[@1]
-
+[@1,2] Visnagar police registered the case against Yasimsha and Thakor Manuji under sections 8(C), 20(B)(2)(A) and 29 of the NDPS Act, 1985 and started further investigation. [@2] In preliminary questioning Yasimsha said he had brought about one and a half kilograms of ganja about 15 days earlier from Thakor Manuji of Manasa, who was absent during the raid. [@2]
