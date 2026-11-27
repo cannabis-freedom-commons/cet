@@ -56,6 +56,11 @@ sources:
     publisher: Horizons
     date: 2026-11-25
     language: fr
+  - title: 挫败通过与摩洛哥接壤边境走私超过21公担大麻脂的企图 | 阿尔及利亚新闻社
+    url: https://www.aps.dz/cn/algerie/actualite-nationale/mwwc8om1-%E6%8C%AB%E8%B4%A5%E9%80%9A%E8%BF%87%E4%B8%8E%E6%91%A9%E6%B4%9B%E5%93%A5%E6%8E%A5%E5%A3%A4%E8%BE%B9%E5%A2%83%E8%B5%B0%E7%A7%81%E8%B6%85%E8%BF%8721%E5%85%AC%E6%8B%85%E5%A4%A7%E9%BA%BB%E8%84%82%E7%9A%84%E4%BC%81%E5%9B%BE
+    publisher: Algérie Presse Service (APS)
+    date: 2026-11-25
+    language: zh
 open_questions:
   - The army gave no names, charges, detention measures or court outcomes for the 37 people arrested.
   - The 21 quintals and 22 kilograms is a weekly total from several interceptions, with no single date or place given for them.
@@ -67,17 +72,17 @@ open_questions:
 ---
 
 Algeria's National People's Army said its combined detachments arrested 37 drug
-traffickers during a week of operations ending 24 November 2026. [@1,3] The army
+traffickers during a week of operations ending 24 November 2026. [@1,3,4] The army
 said the detachments, coordinating with the security services, foiled attempts
 to bring 21 quintals and 22 kilograms (2,122 kg) of kif traité, treated
-cannabis, across the borders with Morocco. [@2,3] The intercepted kif was intended
+cannabis, across the borders with Morocco. [@2,3,4] The intercepted kif was intended
 for local and regional distribution networks, according to the defence
 ministry's operational balance. [@2] The same operations also yielded 231,888
-psychotropic tablets, which are not counted as cannabis here. [@1,3]
+psychotropic tablets, which are not counted as cannabis here. [@1,3,4]
 
 The army presented the results as its weekly operational balance against
 criminal networks and irregular migration, covering operations by army units and
-other corps across the country rather than a single raid. [@1,3] The statement
+other corps across the country rather than a single raid. [@1,3,4] The statement
 described the material both as kif traité and as cannabis resin coming from
 Morocco. [@2] The defence ministry said the seizures came as drug flows
 targeting national security and young people intensified on the country's
