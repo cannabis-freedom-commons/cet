@@ -58,27 +58,25 @@ sources:
     publisher: Análisis Urbano
     date: 2026-08-19
     language: es
-open_questions:
-  - The sources give only 'more than four tonnes', so the 4,000 kilograms recorded is a lower bound rather than a measured weight.
-  - El Tiempo describes the load as a plant substance that 'resembles' marijuana; no laboratory confirmation figure was published.
-  - No value for the load was given, and the army's 63-tonne total for the Amazon region in 2026 covers all drugs, so no cannabis value or total is recorded.
-  - The articles give no separate date for the interception; 19 August 2026 is the date the army announced it and El Tiempo and Análisis Urbano published.
-  - Infobae attributes the load to the Rodrigo Cadete structure while El Tiempo says investigators had not established that; ownership and who organised the transport remain open.
-  - A separate operation in the same announcement, the dismantling of an explosives workshop in Solita where two people were arrested, is a different event left out of this report.
+  - title: Más de cuatro toneladas de marihuana son incautadas en Colombia – Telemundo Miami (51)
+    url: https://www.telemundo51.com/noticias/mundo/incautan-mas-de-cuatro-toneladas-de-marihuana-en-el-sur-de-colombia-noticias-sur-de-la-florida-miami-dade-broward/2816389/
+    publisher: Telemundo Miami (51)
+    date: 2026-08-19
+    language: es
 ---
 
 Army troops of the 12th Brigade and investigators of the Caquetá police
 intelligence unit, the Sijín, intercepted a vehicle carrying more than four
-tonnes of marijuana at kilometre 45 of the Neiva–Florencia road. [@1] The road
+tonnes of marijuana at kilometre 45 of the Neiva–Florencia road. [@1,4] The road
 connects Huila with Caquetá and is used to move large loads of drugs towards
-collection points and distribution routes. [@1] El Tiempo put the load at more
+collection points and distribution routes. [@1,4] El Tiempo put the load at more
 than 4,000 kilograms of plant material that, by its characteristics, resembled
 marijuana. [@2] No arrests were reported in connection with the intercepted
 vehicle. [@3]
 
 The Army said a preliminary investigation suggested the load belonged to the
 Rodrigo Cadete structure, a faction of the Residual Organized Armed Group, or
-GAO-r, active in the area. [@1] Análisis Urbano reported that the Army
+GAO-r, active in the area. [@1,4] Análisis Urbano reported that the Army
 attributed the seizure to that structure and called it a blow to its illegal
 income. [@3] El Tiempo reported that the authorities were still investigating
 whether the load belonged to that structure. [@2] The army said the seizure
@@ -88,4 +86,3 @@ points and that it damaged drug-trafficking finances in the Colombian Amazon.
 organised its transport and how large the network was. [@1] In the same
 announcement the Army linked the seizure to a total of 63 tonnes of drugs seized
 in the Amazon region during 2026. [@1]
-
