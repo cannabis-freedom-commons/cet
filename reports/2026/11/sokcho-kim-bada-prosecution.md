@@ -83,10 +83,22 @@ sources:
     publisher: 채널A
     date: 2026-11-26
     language: ko
+  - title: “오래 투약해온 것 같다” ‘시나위 출신’ 김바다, 또 대마 흡연…징역 1년 6월 집행유예 - 헤럴드경제
+    url: https://biz.heraldcorp.com/article/10949812
+    publisher: 헤럴드경제 (Herald Business)
+    date: 2026-11-26
+    language: ko
+  - title: 시나위 보컬 출신 김바다 ‘대마 흡연’…1심서 징역형 집행유예
+    url: https://www.hani.co.kr/arti/area/gangwon/1289068.html
+    publisher: 한겨레 (The Hankyoreh)
+    date: 2026-11-25
+    language: ko
 also: [prosecution]
+open_questions:
+    - Whether Kim Bada or prosecutors appealed the 25 November 2026 sentence.
 ---
 
-Kim Bada, the former vocalist of the rock band Sinawe, faced a final hearing on 28 October 2026 before Criminal Division 1 at the Sokcho Branch of the Chuncheon District Court on charges of violating the Narcotics Control Act for cannabis. [@1,2,4] Prosecutors sought a three-year prison term, forfeiture of seized items and an additional collection of 500,000 won. [@1,2,3,4,6,9] The court set sentencing for 2 p.m. on 25 November. [@1,2,7] On 25 November 2026 the Sokcho branch of the Chuncheon District Court, with Judge Joo Cheol-hyun presiding over its First Criminal Division, sentenced Kim to 18 months in prison, suspended for three years, for violating the Narcotics Control Act by possessing and smoking cannabis. [@6,8,9,10] The court ordered Kim to undergo probation, perform 80 hours of community service and complete 80 hours of drug addiction treatment, and ordered the confiscation of the seized items. [@6,8,10] The court imposed no fine, saying there was insufficient data to verify the value of the marijuana Kim had possessed and smoked. [@8] Judge Joo said Kim's previous punishment for smoking cannabis was an aggravating factor, while the small number of instances of use confirmed in the case and the relatively long time since that punishment were mitigating factors. [@6,8,10] After the trial Kim said he believed these were consequences he must bear for what he did wrong and that he would accept the ruling and focus on his music career without further trouble. [@6,8,10] He added that he felt heavy-hearted because his fans had been so worried, that he had reflected on what he did and that the case had given him a chance to grow. [@6]
+Kim Bada, the former vocalist of the rock band Sinawe, faced a final hearing on 28 October 2026 before Criminal Division 1 at the Sokcho Branch of the Chuncheon District Court on charges of violating the Narcotics Control Act for cannabis. [@1,2,4] Prosecutors sought a three-year prison term, forfeiture of seized items and an additional collection of 500,000 won. [@1,2,3,4,6,9,12] The court set sentencing for 2 p.m. on 25 November. [@1,2,7] On 25 November 2026 the Sokcho branch of the Chuncheon District Court, with Judge Joo Cheol-hyun presiding over its First Criminal Division, sentenced Kim to 18 months in prison, suspended for three years, for violating the Narcotics Control Act by possessing and smoking cannabis. [@6,8,9,10,11] The court ordered Kim to undergo probation, perform 80 hours of community service and complete 80 hours of drug addiction treatment, and ordered the confiscation of the seized items. [@6,8,10,11] The court imposed no fine, saying there was insufficient data to verify the value of the marijuana Kim had possessed and smoked. [@8,12] Judge Joo said Kim's previous punishment for smoking cannabis was an aggravating factor, while the small number of instances of use confirmed in the case and the relatively long time since that punishment were mitigating factors. [@6,8,10,11] After the trial Kim said he believed these were consequences he must bear for what he did wrong and that he would accept the ruling and focus on his music career without further trouble. [@6,8,10,12] He added that he felt heavy-hearted because his fans had been so worried, that he had reflected on what he did and that the case had given him a chance to grow. [@6,11]
 
 Police arrested the 54-year-old singer, whose legal name is Kim Jung-nam, in March 2026 on suspicion of possessing and smoking cannabis in downtown Sokcho on 8 March. [@1,2] Police obtained an arrest warrant and tracked Kim for about two months before arresting him in Sokcho on 8 March. [@6] The court rejected a detention warrant at the time, finding insufficient risk of flight or destruction of evidence. [@2,3] Kim admitted all the charges during police questioning. [@1,9]
 
@@ -96,4 +108,4 @@ Kim told the court he smoked cannabis through a momentary lapse in judgment and 
 
 Both accounts describe Kim as a repeat offender who was sentenced in 2010 to one year in prison, suspended for two years, for buying cannabis through an acquaintance and smoking it with them. [@1,2] He released a handwritten apology in September 2026 saying he had reflected with deep remorse and would show change through future actions and music rather than words. [@1,2]
 
-Kim was indicted for smoking marijuana on 8 March 2025 and again on 8 March 2026, and for possessing 2 grams of marijuana with intent to smoke. [@5,10]
+Kim was indicted for smoking marijuana on 8 March 2025 and again on 8 March 2026, and for possessing 2 grams of marijuana with intent to smoke. [@5,10,11]
