@@ -62,20 +62,16 @@ sources:
     publisher: Priyojon TV
     date: 2026-11-21
     language: bn
-open_questions:
-  - The 93 grams is the sum of two separately published ganja seizures, 50 grams and 43 grams; police gave no combined total.
-  - The 50 grams of ganja and four yaba tablets were recovered together, and no separate value was reported for the cannabis.
-  - No estimate of the ganja's value was published.
-  - The 160 taka was described as cash from drug sales generally and was seized alongside the 43 grams of ganja.
-  - The yaba and tapentadol tablets, and the three people held only over those drugs, are excluded from the cannabis figures.
-  - The operations ran on 19 and 20 November 2026; the police statement was updated on 21 November.
-  - No trial date or verdict beyond the initial jail remand was reported.
-  - Both opened accounts reproduce the same police statement rather than independent reporting.
+  - title: নগরীজুড়ে মাদক কারবারী সহ গ্রেফতার-২৭, একজনের কারাদণ্ড
+    url: https://rajshahirsomoy.com/20752
+    publisher: Rajshahir Somoy
+    date: 2026-11-21
+    language: bn
 ---
 
 Rajshahi Metropolitan Police said its Shahmokhdum, Katakhali, Rajpara and
 Motihar police stations carried out separate anti-drug operations in the city,
-recovering yaba, tapentadol tablets and ganja. [@1] Five drug traders, one of
+recovering yaba, tapentadol tablets and ganja. [@1,3] Five drug traders, one of
 them a woman, and one drug user were arrested, and police said they also seized
 cash from drug sales. [@2]
 
@@ -85,8 +81,7 @@ for sale. [@1] In Rajpara, police arrested Mehdi Hassan alias Mana, 26, with 43
 grams of ganja said to be for sale. [@1] Officers also seized 160 taka in cash
 that police described as proceeds of drug sales. [@1] In Motihar, Bandhan, 25,
 was arrested while consuming ganja, and a case was filed under the Narcotics
-Control Act after his health check at Rajshahi Medical College Hospital. [@1]
+Control Act after his health check at Rajshahi Medical College Hospital. [@1,3]
 
 Police filed separate cases under the Narcotics Control Act at the relevant
-police stations and sent the accused to jail through the courts. [@1]
-
+police stations and sent the accused to jail through the courts. [@1,3]
