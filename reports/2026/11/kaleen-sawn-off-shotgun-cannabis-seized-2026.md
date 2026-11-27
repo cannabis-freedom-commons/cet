@@ -62,6 +62,10 @@ sources:
     url: https://police.act.gov.au/news/2026-media-releases/november/firearms-seized-after-shotgun-found-in-home
     publisher: ACT Policing
     date: 2026-11-22
+  - title: Shock weapons stash uncovered in Canberra home as man's firearms licence suspended
+    url: https://www.news24.com.au/national/crime/shock-weapons-stash-uncovered-in-canberra-home-as-mans-firearms-licence-suspended/news-story/b1729f9deb9eccd8a6c790849f6fd517
+    publisher: News24
+    date: 2026-11-22
 open_questions:
   - No weight or form of the cannabis was published; the sources describe only 'a large quantity'.
   - No arrest was reported and no charges had been laid; police said charges were expected at a later date.
@@ -71,16 +75,15 @@ open_questions:
 ---
 
 ACT Policing criminal investigation officers executed a search warrant at a
-residence in Kaleen on Friday 20 November 2026. [@2] The search followed a
+residence in Kaleen on Friday 20 November 2026. [@2,3] The search followed a
 referral from NSW Police about an alleged fraud involving the transfer of funds
-for a land sale. [@2] During the search officers found an illegal sawn-off
+for a land sale. [@2,3] During the search officers found an illegal sawn-off
 shotgun, unsecured ammunition, airsoft pistols, a replica firearm, a set of
-nunchucks and a large quantity of cannabis. [@1]
+nunchucks and a large quantity of cannabis. [@1,3]
 
-The 58-year-old resident was a licensed firearms holder. [@2] Officers also
+The 58-year-old resident was a licensed firearms holder. [@2,3] Officers also
 seized his three registered firearms and ammunition and suspended his firearms
-licence. [@2] Police said investigations into the alleged fraud and the illegal
-firearms were continuing, with charges expected to be laid at a later date. [@2]
+licence. [@2,3] Police said investigations into the alleged fraud and the illegal
+firearms were continuing, with charges expected to be laid at a later date. [@2,3]
 ACT Policing asked anyone with information about the possession of illegal
-firearms to contact Crime Stoppers ACT. [@2]
-
+firearms to contact Crime Stoppers ACT. [@2,3]
