@@ -99,26 +99,22 @@ sources:
     publisher: CRprensa.com
     date: 2026-11-16
     language: es
-open_questions:
-  - The sources give no separate date for the interception; 13 November 2026 is the publication date and stands in for the incident date.
-  - No charges, precautionary measures or court outcome for the two detained crew members have been reported.
-  - The authorities have not reported any link between this seizure and the second boat intercepted that week.
-  - No weight or substance type was published for the cargo of the second boat, Pez Gallo; the Drug Control Police investigation into it continued.
-  - 'Accounts differ on the detention date and place: 12 November off Punta Burica in one account and 13 November 118 nautical miles south of Cabo Matapalo in another.'
-  - 'Accounts differ on the load: two tonnes in 79 sacks in one account against 1,923 kilograms established after landing at Golfito in another.'
-  - 'Accounts differ on the fuel drums seized: 18 drums in one account against eight in another.'
-  - No plea, trial date or outcome beyond the 22-day preventive detention was reported.
+  - title: El nuevo rol de Costa Rica como centro logístico de droga
+    url: https://www.infobae.com/costa-rica/2026/11/16/el-nuevo-rol-de-costa-rica-como-centro-logistico-de-droga/
+    publisher: Infobae
+    date: 2026-11-16
+    language: es
 ---
 
 Costa Rican authorities intercepted a fast boat carrying nearly two tonnes of
 marijuana 118 nautical miles south of Cabo Matapalo, in the southern Pacific.
-[@1,2,3,4,5,6] The operation was run by the Public Security Ministry together with the US
+[@1,2,3,4,5,6,8] The operation was run by the Public Security Ministry together with the US
 Drug Enforcement Administration, with support from United States and Colombian
 authorities. [@1] In Costa Rica the operation involved the Drug Control Police, the criminal intelligence directorate and the special support unit. [@2]
 
 The boat's drug packages carried unusual stickers with images of Caro Quintero
 and the character Gasparín (Casper). [@1] Two tonnes of marijuana were seized.
-[@1] After the boat was moved to Golfito, police established that it carried 1,923 kilograms of marijuana, about 1.9 tonnes. [@2,3,4,5,6] On inspection, officers seized two tonnes of marijuana divided into 79 sacks, along with 18 drums holding fuel. [@7]
+[@1] After the boat was moved to Golfito, police established that it carried 1,923 kilograms of marijuana, about 1.9 tonnes. [@2,3,4,5,6,8] On inspection, officers seized two tonnes of marijuana divided into 79 sacks, along with 18 drums holding fuel. [@7]
 
 The vessel was located in a coordinated effort with the US Joint Interagency
 Task Force South and the Colombian Navy, with a US aircraft in support. [@1,2,3,5] According to the case file, Colombia's National Police alerted Costa Rica's National Coast Guard to the suspects, and the capture was made with United States aerial support. [@7] The
