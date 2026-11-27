@@ -276,12 +276,17 @@ sources:
     publisher: KDRTV
     date: 2026-11-23
     language: en
+  - title: Le Nigeria arrête un golfeur sud-africain pour le trafic de cannabis
+    url: https://ouragan.cd/2026/11/le-nigeria-arrete-un-golfeur-sud-africain-pour-le-trafic-de-cannabis
+    publisher: Ouragan.cd
+    date: 2026-11-22
+    language: fr
 ---
 
 The National Drug Law Enforcement Agency arrested a 25-year-old Kenyan chef,
 Abubakar Njambi, and a 37-year-old South African professional golfer, Grobler
 Henlo, at Murtala Muhammed International Airport in Ikeja, Lagos, in October
-2026. [@1,4,5,6,7,10,12,13,14,15,16,17,18,20,21,22,23,24,27,28,29,32,34,35,36,37,38,39,41,42,43,44,46,47] PGA South Africa lists a player by the name of Henlo Grobler. [@27,36,42] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
+2026. [@1,4,5,6,7,10,12,13,14,15,16,17,18,20,21,22,23,24,27,28,29,32,34,35,36,37,38,39,41,42,43,44,46,47,48] PGA South Africa lists a player by the name of Henlo Grobler. [@27,36,42] A statement issued on Sunday by NDLEA spokesperson Femi Babafemi said
 the suspects were arrested at the airport in October. [@3,15] Henlo arrived from
 South Africa aboard a South African Airways flight on 11 October and was
 intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15,16,18,19,21,23,24,31,33,34,35,37,43,44,46,47] Njambi was arrested at the
