@@ -62,34 +62,31 @@ sources:
     publisher: REFORM.news
     date: 2026-07-10
     language: ru
-open_questions:
-    - No weight or street value was published for the marijuana, so no cannabis quantity can be recorded.
-    - The woman is identified only by nationality and age; her name was not published.
-    - The article gives no exact time on 7 July for the stop, and the separate 'two attempts' event named on the page is left out of this report.
-    - The source does not say whether the six vials with CBD oil traces contained a controlled quantity or were treated as evidence of use.
-    - No custody decision, charge sheet or court stage beyond the two opened criminal cases was reported.
-    - The State Border Committee post also says similar cases occurred at the same checkpoint in early July without describing them.
-    - Only state sources, the border committee and outlets citing its press service, were found for this detention.
-    - The grinder, CBD vials and the 'aggressive behaviour' detail come from a single state account and were not independently reported.
+  - title: 'Марихуана и приборы для курения: брестские пограничники задержали иностранку с наркотиками'
+    url: https://tops.gpk.gov.by/brest/news/9697/
+    publisher: Brest Border Group
+    date: 2026-07-10
+    language: ru
+    archived: https://web.archive.org/web/20261012104825id_/https://tops.gpk.gov.by/brest/news/9697/
 ---
 
 On Tuesday, 7 July 2026, border guards at the Brest checkpoint stopped an
-attempt to bring drugs from Poland into Belarus. [@1,3] The woman detained at the
-crossing was a 55-year-old citizen of the Kingdom of the Netherlands. [@1,3]
+attempt to bring drugs from Poland into Belarus. [@1,3,4] The woman detained at the
+crossing was a 55-year-old citizen of the Kingdom of the Netherlands. [@1,3,4]
 Belarus's State Border Committee announced the detention through its press
 service. [@1,3]
 
 During the inspection of her car, soldiers found several packets of plant
-material, and forensic testing confirmed it was marijuana. [@1,3] A deeper search
+material, and forensic testing confirmed it was marijuana. [@1,3,4] A deeper search
 turned up two more packets of the same substance, a grinder and six glass vials
-with traces of CBD oil. [@1,3] During the investigation the woman behaved
-aggressively, and a medical examination confirmed she had used marijuana. [@1,3]
+with traces of CBD oil. [@1,3,4] During the investigation the woman behaved
+aggressively, and a medical examination confirmed she had used marijuana. [@1,3,4]
 She said she was travelling to Moscow to visit her daughter but could not give
-her daughter's exact address. [@1,3]
+her daughter's exact address. [@1,3,4]
 
 Criminal cases were opened under Part 1 of Article 328 of the Criminal Code,
 which covers illegal trafficking in drugs and psychotropic substances, and Part
-1 of Article 328-1, which covers illegally moving them across the border. [@1]
+1 of Article 328-1, which covers illegally moving them across the border. [@1,4]
 The border committee published its own account of the detention, titled
 Marijuana and smoking devices. [@2] That account lists the extra packets, the
 grinder and the six vials with CBD oil remains among the items found in the
