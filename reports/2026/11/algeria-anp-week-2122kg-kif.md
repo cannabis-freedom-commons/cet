@@ -51,6 +51,11 @@ sources:
     publisher: Fildalgerie
     date: 2026-11-25
     language: fr
+  - title: Saisie de plus de 21 quintaux de kif traité en provenance du Maroc
+    url: https://www.horizons.dz/2026/11/saisie-de-plus-de-21-quintaux-de-kif-traite-en-provenance-du-maroc/
+    publisher: Horizons
+    date: 2026-11-25
+    language: fr
 open_questions:
   - The army gave no names, charges, detention measures or court outcomes for the 37 people arrested.
   - The 21 quintals and 22 kilograms is a weekly total from several interceptions, with no single date or place given for them.
@@ -62,19 +67,18 @@ open_questions:
 ---
 
 Algeria's National People's Army said its combined detachments arrested 37 drug
-traffickers during a week of operations ending 24 November 2026. [@1] The army
+traffickers during a week of operations ending 24 November 2026. [@1,3] The army
 said the detachments, coordinating with the security services, foiled attempts
 to bring 21 quintals and 22 kilograms (2,122 kg) of kif traité, treated
-cannabis, across the borders with Morocco. [@2] The intercepted kif was intended
+cannabis, across the borders with Morocco. [@2,3] The intercepted kif was intended
 for local and regional distribution networks, according to the defence
 ministry's operational balance. [@2] The same operations also yielded 231,888
-psychotropic tablets, which are not counted as cannabis here. [@1]
+psychotropic tablets, which are not counted as cannabis here. [@1,3]
 
 The army presented the results as its weekly operational balance against
 criminal networks and irregular migration, covering operations by army units and
-other corps across the country rather than a single raid. [@1] The statement
+other corps across the country rather than a single raid. [@1,3] The statement
 described the material both as kif traité and as cannabis resin coming from
 Morocco. [@2] The defence ministry said the seizures came as drug flows
 targeting national security and young people intensified on the country's
 western borders. [@2]
-
