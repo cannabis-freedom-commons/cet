@@ -56,29 +56,32 @@ sources:
     publisher: İhlas Haber Ajansı
     date: 2026-11-26
     language: tr
+  - title: Antalya Aksu'da iki araçta 9 kilo esrar ele geçirildi, 3 şüpheli gözaltına alındı - Son Dakika
+    url: https://www.sondakika.com/guncel/haber-antalya-aksu-da-iki-aracta-9-kilo-esrar-ele-geciri-20464872/
+    publisher: Son Dakika
+    date: 2026-11-26
+    language: tr
 open_questions:
-  - No separate date for the vehicle searches was given; 26 November 2026 is the publication date and is used as the incident date.
-  - No breakdown of the 9 kilograms between the two vehicles was published.
-  - No ages, nationalities or further personal details of the three suspects were published.
-  - No court outcome, charge beyond the detention ground, or pre-trial custody decision was reported.
-  - No street value or laboratory confirmation for the seized esrar was published.
-  - The whole account rests on a single IHA report, with no independent second account found.
+    - No separate date for the vehicle searches was given; 26 November 2026 is the publication date and is used as the incident date.
+    - No breakdown of the 9 kilograms between the two vehicles was published.
+    - No ages, nationalities or further personal details of the three suspects were published.
+    - No court outcome, charge beyond the detention ground, or pre-trial custody decision was reported.
+    - No street value or laboratory confirmation for the seized esrar was published.
 ---
 
 Antalya police detained three suspects, identified only as A.D., I.E. and A.K.,
 in connection with a vehicle search in Fettahlı Mahallesi in the Aksu district.
-[@1] The three were detained on suspicion of trading in and supplying narcotic
+[@1,2] The three were detained on suspicion of trading in and supplying narcotic
 or stimulant substances, the Turkish charge of uyuşturucu veya uyarıcı madde
 ticareti yapmak ve sağlamak. [@1]
 
 Officers searching two vehicles in Fettahlı Mahallesi seized 9 kilograms of
-esrar, the cannabis seized in this event. [@1] The search was carried out by
+esrar, the cannabis seized in this event. [@1,2] The search was carried out by
 teams of the Antalya Police Directorate anti-narcotics branch, the Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, as part of its province-wide enforcement work.
-[@1]
+[@1,2]
 
 The branch describes that work as aimed at drying up the source of narcotics
 across the province and at preventing their trade and use. [@1] The account was
 published on 26 November 2026, and it gives no separate calendar date for the
 vehicle searches themselves. [@1]
-
