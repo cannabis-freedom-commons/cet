@@ -40,27 +40,40 @@ sources:
     publisher: RegNews.NET
     date: 2026-11-23
     language: bg
+  - title: Иззеха канабис от жилище и метаамфетамин, скрит в автомобил
+    url: https://www.borbabg.com/2026/11/23/izzeha-kanabis-ot-zhilishhe-i-metaamfetamin-skrit-v-avtomobil/
+    publisher: БОРБА БГ
+    date: 2026-11-23
+    language: bg
+  - title: Задържаха двама с наркотици при полицейски проверки в Търново и Килифарево
+    url: https://www.tarnovonews.com/2026/11/zadarjaha-dvama-s-narkotici-pri-policeiiski-proverki-v-tarnovo-i-kilifarevo.html
+    publisher: Великотърновски Вести
+    date: 2026-11-23
+    language: bg
+  - title: МВР във Велико Търново иззе канабис и метаамфетамин при две проверки
+    url: https://velikotarnovo24.bg/news/mvr-vav-veliko-tarnovo-izze-kanabis-i-metaamfetamin-pri-dve-proverki-4369news.html
+    publisher: Велико Търново 24
+    date: 2026-11-23
+    language: bg
 open_questions:
-  - The check is dated only as Friday before noon relative to the 23 November 2026 publication, so 20 November 2026 is inferred as the incident date.
-  - The plant matter was identified only by a field drug test, with no laboratory confirmation reported.
-  - No detention, charge or court outcome for the cannabis case was reported beyond the opening of fast-track proceedings.
-  - No value estimate was published for the seized cannabis.
-  - The same article reports a separate methamphetamine vehicle seizure in Kilifarevo with two detentions, a different non-cannabis event left out of this report and its figures.
-  - The whole account rests on a single outlet report, with no independent corroboration found.
+    - The check is dated only as Friday before noon relative to the 23 November 2026 publication, so 20 November 2026 is inferred as the incident date.
+    - The plant matter was identified only by a field drug test, with no laboratory confirmation reported.
+    - No detention, charge or court outcome for the cannabis case was reported beyond the opening of fast-track proceedings.
+    - No value estimate was published for the seized cannabis.
+    - The same article reports a separate methamphetamine vehicle seizure in Kilifarevo with two detentions, a different non-cannabis event left out of this report and its figures.
 ---
 
 Veliko Tarnovo police checked a 34-year-old local resident near a residential
-block in the regional city on Friday before noon. [@1] The man was already known
-to police and had previous convictions. [@1] Officers found substances
-prohibited by law on him during that street check. [@1]
+block in the regional city on Friday before noon. [@1,2] The man was already known
+to police and had previous convictions. [@1,3] Officers found substances
+prohibited by law on him during that street check. [@1,2]
 
-Officers then checked his home in Veliko Tarnovo after the street check. [@1] In
+Officers then checked his home in Veliko Tarnovo after the street check. [@1,4] In
 the home officers seized one envelope containing about 2 grams of plant matter.
-[@1] A field drug test indicated the plant matter was cannabis. [@1] Police
-opened fast-track proceedings over the cannabis find. [@1]
+[@1,2] A field drug test indicated the plant matter was cannabis. [@1,3] Police
+opened fast-track proceedings over the cannabis find. [@1,2]
 
 The same day's roundup also describes a separate noon vehicle check in
 Kilifarevo where a substance reacted as methamphetamine, which is not counted in
 the cannabis figures. [@1] In that Kilifarevo car officers found a substance
 that reacted as methamphetamine in a field drug test. [@1]
-
