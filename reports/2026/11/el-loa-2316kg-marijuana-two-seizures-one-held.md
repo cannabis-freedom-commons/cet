@@ -55,6 +55,11 @@ sources:
     publisher: Timeline.cl
     date: 2026-11-26
     language: es
+  - title: 'El Loa: Carabineros incautó más de 2,3 toneladas de marihuana'
+    url: https://www.msn.com/es-cl/noticias/chile/el-loa-carabineros-incaut%C3%B3-m%C3%A1s-de-23-toneladas-de-marihuana/ar-AA2ihxjt
+    publisher: Cooperativa.cl
+    date: 2026-11-26
+    language: es
 ---
 
 Carabineros seized 2,316 kilos and 100 grams of processed marijuana in two
@@ -63,18 +68,18 @@ operations also led to the detention of one man and were part of a deployment
 against drug trafficking and organized crime. [@1,2,3] The results were announced in
 Calama by Carabineros Director General Marcelo Araya with acting Regional
 Prosecutor Ricardo Peña Martínez and El Loa provincial delegate Cristian
-Ramírez. [@1,2,3] The truck operation ended with the detention of a 34-year-old man
-who was in an irregular migration situation. [@1,2,3] The detained man was placed in
-preventive detention while the court set a 120-day investigation period. [@1,2,3]
+Ramírez. [@1,2,3] Director General Marcelo Araya called the result "a great blow to organized crime" and said every effort was being made to stop the drug being marketed and reaching the main distribution centres. [@4] The truck operation ended with the detention of a 34-year-old man
+who was in an irregular migration situation. [@1,2,3,4] The detained man was placed in
+preventive detention while the court set a 120-day investigation period. [@1,2,3,4]
 
 The first operation was carried out by officers of the Ascotán post during
 preventive patrols and border surveillance on Route 21-CH. [@1,2,3] Officers seized
 1,590 kilos and 500 grams of processed marijuana from a minibus in that
-procedure. [@1,2,3] The minibus driver abandoned the vehicle after evading the
-police check. [@1,2,3] The second procedure was led by Carabineros of the OS7 El Loa
-section in coordination with the Public Prosecutor's Office. [@1,2,3] Officers
+procedure. [@1,2,3,4] The minibus driver abandoned the vehicle after evading the
+police check. [@1,2,3,4] The second procedure was led by Carabineros of the OS7 El Loa
+section in coordination with the Public Prosecutor's Office. [@1,2,3,4] Officers
 seized 725 kilos and 600 grams of processed marijuana being transported in a
-truck. [@1,2,3] The truck seizure took place in Calama. [@2,3]
+truck. [@1,2,3,4] The truck seizure took place in Calama. [@2,3,4]
 
 According to the acting regional prosecutor, both loads were to be stored in the
 Antofagasta region for later distribution to different parts of the country.
