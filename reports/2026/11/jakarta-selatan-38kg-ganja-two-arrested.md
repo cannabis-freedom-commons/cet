@@ -64,24 +64,29 @@ sources:
     publisher: Tribratanews - Portal Berita Resmi Kepolisian RI
     date: 2026-11-26
     language: id
+  - title: Polisi sita 38,7 kilogram ganja dari dua tersangka di Jaksel - ANTARA News Kalimantan Barat
+    url: https://kalbar.antaranews.com/berita/724759/polisi-sita-387-kilogram-ganja-dari-dua-tersangka-di-jaksel
+    publisher: ANTARA News Kalimantan Barat
+    date: 2026-11-26
+    language: id
 ---
 
 South Jakarta Metro Police's narcotics unit, Satresnarkoba, arrested two
-suspects identified only as AD and SAM. [@1,4] The two were detained in the
-Ciputat area of South Tangerang on Monday 23 November 2026. [@2,4] The case began
+suspects identified only as AD and SAM. [@1,4,5] The two were detained in the
+Ciputat area of South Tangerang on Monday 23 November 2026. [@2,4,5] The case began
 with information from the public, which police followed up through
-investigation. [@1,4]
+investigation. [@1,4,5]
 
 Investigators were led to a rented house in Palmerah, West Jakarta, believed to
-be used to store the cannabis. [@1,4] At that house officers found 37 large
-packages of cannabis. [@1,4] Other evidence was found at AD's home in Sawah Besar,
-Central Jakarta. [@1,4] After the arrests police searched two different locations
+be used to store the cannabis. [@1,4,5] At that house officers found 37 large
+packages of cannabis. [@1,4,5] Other evidence was found at AD's home in Sawah Besar,
+Central Jakarta. [@1,4,5] After the arrests police searched two different locations
 for further evidence. [@3] In total police seized 38 large and two small
 packages of cannabis with a gross weight of 38,783 grams, about 38.7 kg, plus a
-digital scale and two mobile phones. [@1,4]
+digital scale and two mobile phones. [@1,4,5]
 
 Preliminary checks suggested the cannabis had been sent from West Sumatra for
-distribution in and around Jakarta. [@1,4] The suspected sender, identified as S
+distribution in and around Jakarta. [@1,4,5] The suspected sender, identified as S
 or Y, was placed on the wanted list while investigators examined links between
-those involved. [@1,4] Both suspects were undergoing legal process and police were
-still tracing the network and other possible participants. [@1,4]
+those involved. [@1,4,5] Both suspects were undergoing legal process and police were
+still tracing the network and other possible participants. [@1,4,5]
