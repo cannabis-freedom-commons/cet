@@ -67,6 +67,11 @@ sources:
     publisher: Sözcü
     date: 2026-11-26
     language: tr
+  - title: Uyuşturucu Serası Villada 536 kök Hint Keneviri Ele Geçirildi
+    url: https://www.karshakimiyet.com/uyusturucu-serasi-villada-536-kok-hint-keneviri-ele-gecirildi-124891h.htm
+    publisher: Kars Hakimiyet
+    date: 2026-11-26
+    language: tr
 open_questions:
   - The 150 grams of esrar was not reported to have been confirmed by laboratory analysis.
   - No charges or court outcome were reported; the investigation was still under way.
@@ -77,12 +82,12 @@ open_questions:
 
 Beykoz district police raided a detached three-storey villa in Istanbul's Riva
 neighbourhood after receiving information that drugs were being grown there.
-[@2] One suspect was caught in the operation. [@2] The raid was carried out on
-25 November once the address had been identified. [@3] The suspect's statement
+[@2,5] One suspect was caught in the operation. [@2,5] The raid was carried out on
+25 November once the address had been identified. [@3,5] The suspect's statement
 and link to the case were still to be assessed. [@1]
 
 Officers found 536 Indian hemp plants and 150 grams of esrar, the Turkish term
-for cannabis resin, during the search. [@2] The haul included 79 LED lights, 19
+for cannabis resin, during the search. [@2,5] The haul included 79 LED lights, 19
 fans, six air conditioners, three ventilation fans, a dehumidifier, six boxes of
 pesticide, a spraying pump and a tent. [@4] Police also took 5,000 Turkish lira
 in cash, six mobile phones, a vacuum machine, a steel safe and a money-counting
@@ -92,4 +97,3 @@ Investigators said the seized material showed the greenhouse had been fitted out
 professionally with climate-control and lighting systems. [@3] The operation was
 part of police work to prevent the manufacture and trafficking of drugs. [@2]
 The investigation into the case was continuing. [@2]
-
