@@ -46,25 +46,25 @@ sources:
     publisher: Correio do Povo
     date: 2026-11-24
     language: pt
-open_questions:
-  - The driver was not located, so no name, age, arrest or charge was reported.
-  - No court outcome or result of the continued investigation was reported.
-  - The weight is the PRF figure as reported by the outlet; no laboratory confirmation or separate valuation was published.
+  - title: Perseguição termina com mais de 70 quilos de maconha apreendida no Norte do RS
+    url: https://www.terra.com.br/noticias/brasil/politica/perseguicao-termina-com-mais-de-70-quilos-de-maconha-apreendida-no-norte-do-rs,ff420778c016c2740e02a3514a64d960o50d3frh.html
+    publisher: Terra
+    date: 2026-11-24
+    language: pt
 ---
 
 Federal Highway Police officers ordered the driver of a Volkswagen Polo with
 Chapeco plates to stop on ERS 324 near the junction with BR 285 in Passo Fundo.
-[@1] The driver disobeyed the order and fled at high speed toward Marau. [@1]
+[@1,2] The driver disobeyed the order and fled at high speed toward Marau. [@1,2]
 After being followed for a few kilometres, the man abandoned the vehicle at an
-access to a crop field beside the highway and fled on foot. [@1] Officers
+access to a crop field beside the highway and fled on foot. [@1,2] Officers
 carried out searches in the area with support from the Brigada Militar but did
-not locate the suspect. [@1]
+not locate the suspect. [@1,2]
 
 The drug was being transported in a car that fled a police approach. [@1] The
 Federal Highway Police seized 70.8 kg of maconha in Passo Fundo in the early
-hours of Tuesday. [@1] Officers found the drug as several marijuana tablets in
-the car's trunk during the vehicle inspection. [@1]
+hours of Tuesday. [@1,2] Officers found the drug as several marijuana tablets in
+the car's trunk during the vehicle inspection. [@1,2]
 
 The vehicle and the drug were seized and taken to the Civil Police in Passo
-Fundo for registration and continued investigation. [@1]
-
+Fundo for registration and continued investigation. [@1,2]
