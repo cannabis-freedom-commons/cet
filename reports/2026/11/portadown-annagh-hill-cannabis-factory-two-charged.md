@@ -78,12 +78,16 @@ sources:
     url: https://www.msn.com/en-gb/news/other/2-arrested-after-psni-discover-substantial-cannabis-factory-at-industrial-estate-in-portadown-containing-around-200k-worth-of-plants/ar-AA2icoa5
     publisher: Northern Ireland World
     date: 2026-11-26
+  - title: ‘Substantial’ cannabis factory discovered in Co. Armagh
+    url: https://www.irishpost.com/news/substantial-cannabis-factory-discovered-in-co-armagh-316424
+    publisher: Irish Post
+    date: 2026-11-26
 ---
 
 Police found a substantial cannabis factory at a commercial unit in the Annagh
 Hill industrial estate in Portadown in the early hours of Wednesday 25 November
-2026, after noting a strong smell of cannabis. [@2,4,5] Two men, aged 32 and 27, who
-were inside the property were arrested. [@1,4,5,6]
+2026, after noting a strong smell of cannabis. [@2,4,5,7] Two men, aged 32 and 27, who
+were inside the property were arrested. [@1,4,5,6,7]
 
 The operation spanned three floors and contained plants police said had an
 estimated street value of £200,000. [@1,4,6] PSNI Chief Inspector Flannigan said the
@@ -92,6 +96,6 @@ reached the local community. [@1,4,6]
 
 The men were charged with cultivating cannabis, possession of a Class B
 controlled drug, possession with intent to supply and being concerned in the
-supply of a Class B drug. [@1,5,6] They were expected to appear before Lisburn
-Magistrates Court on Thursday 26 November. [@3,5,6] PSNI said the charges would be
-reviewed by the Public Prosecution Service. [@3,5]
+supply of a Class B drug. [@1,5,6,7] They were expected to appear before Lisburn
+Magistrates Court on Thursday 26 November. [@3,5,6,7] PSNI said the charges would be
+reviewed by the Public Prosecution Service. [@3,5,7]
