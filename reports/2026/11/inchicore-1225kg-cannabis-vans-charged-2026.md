@@ -109,19 +109,23 @@ sources:
     url: https://www.irishexaminer.com/news/arid-41941140.html
     publisher: Irish Examiner
     date: 2026-11-22
+  - title: Two men arrested as gardai seize Glock & ammo during major €1.7m drugs bust after swooping on vans & Dublin property
+    url: https://www.thesun.ie/news/17953219/gardai-seize-glock-drugs-dublin-inchicore/
+    publisher: The Irish Sun
+    date: 2026-11-21
 ---
 
 Gardaí attached to the Dublin Crime Response Team carried out an
 intelligence-led operation on Bulfin Road, Inchicore, Dublin 8 at 6.45pm as part
-of Operation Tara. [@1,2,4,5,6,9,10] They seized 110kgs of vacuum-packed cannabis herb from
-two parked vans. [@1,2,4,5,6,7,8,9,10] The two men, aged in their 20s and 40s, who were the
-drivers of the vans, were arrested at the scene. [@1,2,4,5,7,8,10] Gardaí said the two drivers were held at garda stations in the Dublin Metropolitan Region under Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,5,10]
+of Operation Tara. [@1,2,4,5,6,9,10,11] They seized 110kgs of vacuum-packed cannabis herb from
+two parked vans. [@1,2,4,5,6,7,8,9,10,11] The two men, aged in their 20s and 40s, who were the
+drivers of the vans, were arrested at the scene. [@1,2,4,5,7,8,10,11] Gardaí said the two drivers were held at garda stations in the Dublin Metropolitan Region under Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,5,10]
 
 In a follow-up search under warrant at a property in Dublin 8, gardaí also
 seized a further 12.5kgs of cannabis herb, .5 kg of cocaine, €4,550 in cash, a
 Glock 19 semi-automatic pistol, five rounds of ammunition and an assortment of
-documents. [@1,3,4,5,6,7,8,10] The combined total of 122.5kgs of cannabis herb and .5kg of
-cocaine was valued at €1,765,000. [@1,2,4,5,6,7,8,9,10]
+documents. [@1,3,4,5,6,7,8,10,11] The combined total of 122.5kgs of cannabis herb and .5kg of
+cocaine was valued at €1,765,000. [@1,2,4,5,6,7,8,9,10,11]
 
 Both men were charged after the seizure. [@1,4,5,8] They were due to appear before
 Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1,4,8] Both men are due to appear before Dublin District Court on Monday 23 November 2026. [@6,10] The
