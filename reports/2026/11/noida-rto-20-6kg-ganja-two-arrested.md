@@ -80,24 +80,31 @@ sources:
     publisher: UP की बात
     date: 2026-11-23
     language: hi
+  - title: नोएडा में 20 किलो गांजा बरामद, दो तस्कर गिरफ्तार; पुलिस और एंटी नारकोटिक्स सेल की संयुक्त कार्रवाई
+    url: https://www.dainikhawk.com/news/local-news/gautam-buddh-nagar-news/noida-police-seize-20-kg-ganja-arrest-two-smugglers
+    publisher: Dainik Hawk
+    date: 2026-11-23
+    language: hi
+open_questions:
+  - 'The accounts differ on where the ganja was bought: one account names Odisha and the Rajdhani Express, while this one says only that it came from other states.'
 ---
 
 Noida Sector-24 police and the Anti-Narcotics Cell arrested two men for
-smuggling ganja. [@1,3,4,5,6] The arrests took place on 22 November 2026 after the
+smuggling ganja. [@1,3,4,5,6,8] The arrests took place on 22 November 2026 after the
 police team received intelligence about two suspicious people involved in the
-drug trade. [@2] Deputy Commissioner of Police (ADCP) Noida Abhay Mishra said the team was searching for drug traffickers on Sunday with the help of local intelligence and beat policing. [@6] Officers set up a blockade near the RTO office by a drainage
-area and arrested both suspects. [@2,4,5,6] The arrested men were identified as
+drug trade. [@2,8] The two teams were acting under a campaign against drug trafficking in Gautam Buddh Nagar. [@8] Deputy Commissioner of Police (ADCP) Noida Abhay Mishra said the team was searching for drug traffickers on Sunday with the help of local intelligence and beat policing. [@6] Officers set up a blockade near the RTO office by a drainage
+area and arrested both suspects. [@2,4,5,6,8] The arrested men were identified as
 30-year-old Ajay Kumar from Daurpur village in Aligarh and 50-year-old Rajesh
-Sah from Khagaria district in Bihar. [@2,3,4,5,6] A case was registered against both men
+Sah from Khagaria district in Bihar. [@2,3,4,5,6,8] A case was registered against both men
 at the Sector 24 police station. [@2,4,5,6] Police registered the case against both men under sections 8/20 of the Narcotic Drugs and Psychotropic Substances Act. [@3] The case was registered as crime number 615/2026 at the Sector-24 police station under sections 8/20 of the NDPS Act. [@7]
 
 Officers searching the suitcase found bundles of marijuana with a total weight
-of 20.6 kilograms. [@2,3,4,5,6] The Hindi account records the recovery as 20 kg 600
+of 20.6 kilograms. [@2,3,4,5,6,8] The Hindi account records the recovery as 20 kg 600
 grams of ganja from the accused. [@1] Police estimated the seized ganja to be
-worth about Rs 10 lakh. [@1,4,5,6] The men had carried the bundles in a suitcase by
-train from other states to Noida. [@2,5,6] The men brought the ganja from Odisha by Rajdhani Express in a trolley bag to sell in Delhi-NCR. [@4] Once in the city, they repacked the drug
+worth about Rs 10 lakh. [@1,4,5,6,8] The men had carried the bundles in a suitcase by
+train from other states to Noida. [@2,5,6,8] The men brought the ganja from Odisha by Rajdhani Express in a trolley bag to sell in Delhi-NCR. [@4] Once in the city, they repacked the drug
 into smaller packets for sale at inflated prices across Noida and the National
-Capital Region. [@2,5]
+Capital Region. [@2,5,8]
 
 The suspects told interrogators they bought marijuana cheaply in other states to
 sell for a profit in Noida and the NCR. [@2,6] Authorities also recovered copies
