@@ -60,6 +60,11 @@ sources:
     publisher: Bangladesher Alo
     date: 2026-11-23
     language: bn
+  - title: Coast Guard Arrests Drug Trafficker with 31.5 kg Cannabis in Bhola
+    url: https://www.businesstimes-bd.com/bangladesh/12696
+    publisher: Business Times
+    date: 2026-11-26
+    language: en
 media:
   - kind: photo
     url: https://www.dhakatimes24.com/2026/11/23/417709
@@ -69,19 +74,19 @@ media:
 ---
 
 Bangladesh Coast Guard arrested a suspected drug peddler during an
-anti-narcotics drive in the Meghna River in Bhola on Monday morning. [@1,3] A team
+anti-narcotics drive in the Meghna River in Bhola on Monday morning. [@1,3,5] A team
 from Coast Guard Base Bhola conducted a special drive in the area at 11:00am on
-Monday, searching a suspicious speedboat and detaining the suspect. [@1,3,4] The
-detained youth was named as Md Selim (28). [@2] Selim is the son of Romez Ali of
-Kalikapor village in Chauddagram upazila of Cumilla. [@2]
+Monday, searching a suspicious speedboat and detaining the suspect. [@1,3,4,5] The
+detained youth was named as Md Selim (28). [@2,5] Selim is the son of Romez Ali of
+Kalikapor village in Chauddagram upazila of Cumilla. [@2,5]
 
 Officers seized 31.5 kilograms of cannabis and 10 bottles of Royal Stag whisky
 from a suspicious speedboat in the Meghna River near Majher Char, Ilisha, Bhola.
-[@1,3,4] The seized cannabis and whisky were valued at around Tk 12.85 lakh. [@1,3,4]
+[@1,3,4,5] The seized cannabis and whisky were valued at around Tk 12.85 lakh. [@1,3,4,5]
 
 Surveillance and patrols were stepped up after a tip-off that a large
 consignment of drugs would enter Bhola via the Meghna River near Majher Char of
-Ilisha under Sadar thana. [@1,3,4] Coast Guard media officer Lieutenant Commander
+Ilisha under Sadar thana. [@1,3,4,5] Coast Guard media officer Lieutenant Commander
 Sumon Al Mukit gave the details in a press release issued on Monday afternoon.
-[@1,3,4] The process of taking legal action over the seized drugs and the detained
-youth was under way. [@2,3,4]
+[@1,3,4,5] The process of taking legal action over the seized drugs and the detained
+youth was under way. [@2,3,4,5]
