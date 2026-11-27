@@ -51,48 +51,59 @@ sources:
     url: https://costaspainnews.es/16-held-after-traffickers-used-victims-to-guard-cannabis-crops/
     publisher: Costa Spain News
     date: 2026-11-26
+  - title: 'Esclavos de la marihuana: vivían encerrados en chalés y tiendas de campaña para cuidar los cultivos'
+    url: https://www.abc.es/espana/comunidad-valenciana/esclavos-marihuana-vivian-encerrados-chales-tiendas-campana-20261126104135-nt.html
+    publisher: Diario ABC
+    date: 2026-11-26
+    language: es
 open_questions:
-  - No separate operation date is given; 26 November 2026 is the publication date of both accounts and stands in for the incident date.
-  - The sources say more than 2,800 plants and about 1,400 plants in Puzol and more than 700 plants in El Comtat, so the exact plant counts beyond those floors were not published.
-  - It is unclear whether the more than two kilos of buds found in one intercepted postal parcel is included in the reported 745-kilo total.
-  - No street value or estimated value for the cannabis was published.
-  - The quantity of cocaine mentioned as distributed and used as payment was not stated and is excluded from the cannabis figures.
-  - No identities, formal charges or trial dates beyond pre-trial detention for two suspects were reported.
+    - No separate operation date is given; 26 November 2026 is the publication date of both accounts and stands in for the incident date.
+    - The sources say more than 2,800 plants and about 1,400 plants in Puzol and more than 700 plants in El Comtat, so the exact plant counts beyond those floors were not published.
+    - It is unclear whether the more than two kilos of buds found in one intercepted postal parcel is included in the reported 745-kilo total.
+    - No street value or estimated value for the cannabis was published.
+    - The quantity of cocaine mentioned as distributed and used as payment was not stated and is excluded from the cannabis figures.
+    - No identities, formal charges or trial dates were reported; 11 detainees were placed at the disposal of judicial authorities and two were remanded in custody.
+    - ABC reports six indoor cannabis plantations plus one outdoor plantation, while the report records six plantations in total.
+media:
+  - kind: video
+    url: https://www.abc.es/espana/comunidad-valenciana/esclavos-marihuana-vivian-encerrados-chales-tiendas-campana-20261126104135-nt.html
+    media_url: https://players.brightcove.net/55814260001/rkDAq3Wf_default/index.html?videoId=6408914613112
+    publisher: Diario ABC
+    caption: 'ABC video showing one of the cannabis crops of the dismantled organisation, captioned ''Imagen de uno de los cultivos de la organización criminal desarticulada en Valencia.'' Credit: ABC.'
 ---
 
 National Police arrested 16 people in Valencia, Alicante and Zaragoza as alleged
 members of an organisation principally dedicated to cultivating and
 internationally trafficking marijuana, while also trafficking human beings to
-guard and maintain the plantations. [@1] The detainees were 13 men and three
+guard and maintain the plantations. [@1,3] The detainees were 13 men and three
 women aged between 27 and 53. [@2] Two of the suspects have been remanded in
-custody. [@2] All face allegations of drug trafficking, membership of a criminal
+custody. [@2,3] Eleven of those arrested were placed at the disposal of the judicial authorities. [@3] All face allegations of drug trafficking, membership of a criminal
 organisation, electricity fraud and human trafficking. [@1] Investigators said
 some of the victims lived in cramped, squalid conditions and were not allowed to
 leave the properties where they were forced to care for the crops. [@2] The
 network allegedly brought in Albanian citizens with very limited resources and
 forced them to live in inhuman conditions, never leaving the site, receiving
-food only during occasional visits. [@1]
+food only during occasional visits. [@1,3]
 
 In total, police carried out 10 searches and dismantled six cannabis
-plantations, together with the equipment used to steal power from the grid. [@2]
+plantations, together with the equipment used to steal power from the grid. [@2,3]
 Officers seized more than 2,800 plants, with a combined weight of 745 kilos.
-[@1] The first lead in Puzol yielded about 1,400 plants and two residents
-detained. [@1] A plantation on an isolated rural site in Alicante province held
-more than 700 plants. [@2] The pair first arrested, a couple, survived crowded
-into a minimal space without going outside, tending the crop. [@1] The woman had
+[@1,3] The first lead in Puzol yielded about 1,400 plants and two residents
+detained. [@1,3] A plantation on an isolated rural site in Alicante province held
+more than 700 plants. [@2] The outdoor plot was in Alicante's El Comtat district, where two caretakers lived in a tent with basic survival supplies. [@3] The pair first arrested, a couple, survived crowded
+into a minimal space without going outside, tending the crop. [@1,3] The woman had
 arrived in Spain only days earlier through Barcelona airport, where a man
-resident in Zaragoza collected and moved her. [@1]
+resident in Zaragoza collected and moved her. [@1,3]
 
 The investigation, led by the Sagunt local station with support from the
 Zaragoza judicial police brigade and GRECO Levante, began in March after a
-marijuana greenhouse was detected in a chalet in a Puzol housing estate. [@1]
-The network was described as an Albanian-Spanish criminal organisation. [@1] Its
+marijuana greenhouse was detected in a chalet in a Puzol housing estate. [@1,3] The operation drew a large police deployment including judicial police from Sagunto, Xirivella and Zaragoza, GRECO Levante, operational units and the police air unit. [@3]
+The network was described as an Albanian-Spanish criminal organisation. [@1,3] Its
 leaders located detached chalets, renting them for cash with false documents.
-[@1] They then installed growing infrastructure and made illegal connections to
-the electricity supply. [@1] Harvested marijuana was sent abroad by postal
-parcels. [@1] In one intercepted shipment officers found more than two kilos of
-buds. [@1] The group also distributed other substances such as cocaine,
+[@1,3] They then installed growing infrastructure and made illegal connections to
+the electricity supply. [@1,3] Harvested marijuana was sent abroad by postal
+parcels. [@1,3] In one intercepted shipment officers found more than two kilos of
+buds. [@1,3] The group also distributed other substances such as cocaine,
 sometimes used as payment to intermediaries who carried food to the crops or
-housed caretakers between growing periods. [@1] Its leaders ran a rigid
-hierarchy and used threats or violence against other members. [@1]
-
+housed caretakers between growing periods. [@1,3] Its leaders ran a rigid
+hierarchy and used threats or violence against other members. [@1,3]
