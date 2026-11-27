@@ -56,6 +56,11 @@ sources:
     publisher: 경남매일
     date: 2026-11-25
     language: ko
+  - title: 필로폰·대마 맞교환 방식으로 마약류 유통·투약한 일당 검거
+    url: https://www.msn.com/ko-kr/news/other/%ED%95%84%EB%A1%9C%ED%8F%B0-%EB%8C%80%EB%A7%88-%EB%A7%9E%EA%B5%90%ED%99%98-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EB%A7%88%EC%95%BD%EB%A5%98-%EC%9C%A0%ED%86%B5-%ED%88%AC%EC%95%BD%ED%95%9C-%EC%9D%BC%EB%8B%B9-%EA%B2%80%EA%B1%B0/ar-AA2ib0s1
+    publisher: 아이뉴스24
+    date: 2026-11-25
+    language: ko
 open_questions:
   - No separate arrest date was given; 25 November 2026 is the publication date of both accounts and is used as the incident date, while the alleged trading ran from June to September 2026.
   - The 28.46 grams of methamphetamine from the same search is described only to explain the mixed event and is excluded from cannabis figures.
@@ -67,10 +72,10 @@ open_questions:
 
 Busan Saha Police Station said it arrested 13 people, including a man in his 50s
 identified as A, for violating the Narcotics Control Act on psychotropic drugs.
-[@1] All 13 suspects are men whose alleged roles included
+[@1,3] All 13 suspects are men whose alleged roles included
 methamphetamine-cannabis trading, purchase, sale, use, possession and brokerage.
 [@1] The group allegedly traded methamphetamine for cannabis in the Changwon
-area between June and September 2026. [@1] The deals took place inside vehicles
+area between June and September 2026. [@1,3] The deals took place inside vehicles
 parked on roads near a terminal in Changwon. [@2]
 
 Police seized 56.3 grams of cannabis during the investigation. [@2] Police also
@@ -78,12 +83,11 @@ seized 28.46 grams of methamphetamine, described as enough for 948 people to use
 at once. [@2]
 
 Those involved had met during prison terms for similar offences or through
-acquaintances and continued offending after release. [@1] A worked as a
+acquaintances and continued offending after release. [@1,3] A worked as a
 junk-shop employee and led an outwardly stable working life that avoided
-suspicion. [@1] A allegedly exchanged cannabis for methamphetamine over several
+suspicion. [@1,3] A allegedly exchanged cannabis for methamphetamine over several
 years with a seller identified as B and used the methamphetamine received. [@1]
 Police said the arrests cut off a link that would have spread drugs into the
 local community. [@1] Police said they will trace the source of the cannabis A
-exchanged and investigate other accomplices. [@1] Police said they will continue
-joint prevention campaigns with district offices and public health centres. [@1]
-
+exchanged and investigate other accomplices. [@1,3] Police said they will continue
+joint prevention campaigns with district offices and public health centres. [@1,3]
