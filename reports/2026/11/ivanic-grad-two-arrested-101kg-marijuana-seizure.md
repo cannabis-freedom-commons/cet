@@ -72,12 +72,21 @@ sources:
     publisher: RTRS
     date: 2026-11-22
     language: sr
+  - title: Загребачка полиција запленила више од 100 килограма марихуане, ухапшене две особе
+    url: https://www.rtv.rs/sr_ci/region/zagrebacka-policija-zaplenila-vise-od-100-kilograma-marihuane-uhapsene-dve-osobe_1760680.html
+    publisher: Radio-televizija Vojvodine
+    language: sr
+  - title: Muškarac i žena uhićeni kod Ivanić-Grada. U kućama skrivali hrpu droge i oružje
+    url: https://www.index.hr/vijesti/clanak/video-policija-kod-ivanicgrada-pronasla-101-kg-marihuane-kokain-i-oruzje/2859563.aspx
+    publisher: Index.hr
+    date: 2026-11-22
+    language: hr
 ---
 
 Zagreb police arrested a 43-year-old man and a 39-year-old woman on suspicion of
-procuring drugs for further resale. [@1,3,5,7] The suspects hid the drugs in houses in
+procuring drugs for further resale. [@1,3,5,7,8] The suspects hid the drugs in houses in
 Graberje Ivanicko, where they mixed them with additives and repackaged them.
-[@1,3,6,7]
+[@1,3,6,7,9]
 
 Officers searched the first house on the afternoon of 21 November and found 562
 grams of cocaine in five vacuum-sealed bags, 1,012 grams of filler, a digital
@@ -86,10 +95,10 @@ house officers found a 12-millimetre semi-automatic shotgun with four
 cartridges, a semi-automatic Ruger pistol with 14 rounds of 9x19-millimetre
 ammunition, and 44 more rounds of the same calibre. [@2] In the second house
 officers found two cardboard boxes holding a total of 101.4 kilograms of
-marijuana. [@1,3,6,7]
+marijuana. [@1,3,6,7,9]
 
 After criminal processing, the suspects were handed over to detention and a
 criminal complaint was filed against them on suspicion of unauthorised
-production and trafficking of drugs. [@1,3,4,5,6,7] The 43-year-old man was also reported
+production and trafficking of drugs. [@1,3,4,5,6,7,8] The 43-year-old man was also reported
 for an offence under the law on civilian acquisition and possession of weapons,
 with a proposal to be filed to the municipal court in Velika Gorica. [@2]
