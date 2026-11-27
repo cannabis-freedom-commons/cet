@@ -48,17 +48,16 @@ sources:
     url: https://nepaldailylive.com/indian-national-arrested-at-tia-with-4-8kg-of-marijuana/
     publisher: Nepal Daily Live
     date: 2026-11-25
-open_questions:
-  - One account is datelined 26 November 2026 while the other, published 25 November 2026, says the man was detained on Tuesday, pointing to 24 November 2026, which is used here as an approximate incident date.
-  - The accounts spell the surname as Nausad and Naushad and differ on whether Mulariya is named, while agreeing he is a 29-year-old from Kerala, India.
-  - No figure for the value of the cannabis, and no charges, court production or case outcome, were reported.
-  - The 4.8 kg was described as Thai cannabis or marijuana with no laboratory confirmation or net-versus-gross weight stated.
+  - title: Indian national arrested in Nepal for possessing 4.8 kg marijuana
+    url: https://www.msn.com/en-in/news/other/indian-national-arrested-in-nepal-for-possessing-48-kg-marijuana/ar-AA2ickgl
+    publisher: News18
+    date: 2026-11-25
 ---
 
 Nepal's Narcotics Control Bureau arrested an Indian national at Tribhuvan
 International Airport in Kathmandu with nearly five kilograms of Thai cannabis.
-[@1] Police identified the man as 29-year-old Abdul Nausad, a resident of
-Mulariya in Kerala, India, carrying Thai cannabis flown into Nepal by air. [@1]
+[@1,3] Police identified the man as 29-year-old Abdul Nausad, a resident of
+Mulariya in Kerala, India, carrying Thai cannabis flown into Nepal by air. [@1,3]
 He had arrived in Kathmandu from Thailand via Malaysia on a Batik Air flight.
 [@1]
 
@@ -67,7 +66,7 @@ Kuala Lumpur, Malaysia, before reaching Kathmandu with the cannabis load. [@2]
 Officers detained the 29-year-old man from Kerala, India, on Tuesday after
 monitoring passengers arriving on international flights for smuggling. [@2]
 Officers recovered 4.8 kilograms of marijuana from his possession during the
-search at the airport. [@2] Officers also seized his passport and a mobile phone
+search at the airport. [@2,3] Officers also seized his passport and a mobile phone
 alongside the drugs for the investigation. [@2]
 
 The Narcotics Control Bureau in Koteshwar took him into custody and launched an
@@ -76,4 +75,3 @@ further inquiry would establish the circumstances surrounding the case and any
 possible links to wider drug-trafficking activity. [@2] No charges, court
 production, detention order or other case outcome had been reported, with both
 accounts describing the matter as under further investigation. [@2]
-
