@@ -20,6 +20,11 @@ media:
     media_url: https://www.adngad.net/UploadFiles/2026/Nov/23/2bb6cb13-ac42-40ed-98b2-b79e493feaa2.jpg
     publisher: عدن الغد (Aden Al Ghad)
     caption: 'Photos of the Fuwwah hashish seizure operation reported by Hadramout Coast drug enforcement. Photo: Aden Al Ghad'
+  - kind: photo
+    url: https://www.moi-gov-ye.org/view/9541
+    media_url: https://www.moi-gov-ye.org/files/moi-gov/01M8453N3X5GRS4AQRK1Q10A43.jpg
+    publisher: وزارة الداخلية اليمنية (Yemeni Ministry of Interior)
+    caption: 'Photo on the Interior Ministry''s security-media announcement of the Fuwwah hashish arrest. Photo: Yemeni Ministry of Interior'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 6512537a6b7abe7bf4d0441fc65b55f3
@@ -39,6 +44,16 @@ sources:
     publisher: CRATAR NET | كريتر نت
     date: 2026-11-23
     language: ar
+  - title: ضبط مروج للحشيش المخدر في منطقة فوة غرب المكلا
+    url: https://tihama24.com/yemen/457643
+    publisher: تهامة 24 (Tihama24)
+    date: 2026-11-23
+    language: ar
+  - title: مكافحة المخدرات بساحل حضرموت تضبط مروجاً للحشيش المخدر في المكلا
+    url: https://www.moi-gov-ye.org/view/9541
+    publisher: وزارة الداخلية اليمنية (Yemeni Ministry of Interior)
+    date: 2026-11-23
+    language: ar
 open_questions:
   - No weight was published for the hashish found in the house.
   - The suspect was not named, and no age, nationality or residence beyond Fuwwah was given.
@@ -48,19 +63,19 @@ open_questions:
 
 Hadramout Coast drug-enforcement officers arrested a suspected hashish dealer in
 a neighbourhood of Fuwwah, west of Mukalla, after surveillance, monitoring and
-field inquiries. [@1,3] A second account describes the operation as uncovering
+field inquiries. [@1,3,4] A second account describes the operation as uncovering
 activity suspected of being linked to hashish promotion in the Fowah area west
 of Mukalla City. [@2] The operation resulted in the arrest of one suspect. [@2]
 
 The arrest followed field inquiries and security monitoring to verify
 information about suspicious activity in a neighbourhood. [@2] Officers
-identified the suspect's location and arrested him outside his home. [@2,3]
+identified the suspect's location and arrested him outside his home. [@2,3,5]
 Officers obtained search orders from the Public Prosecution, then raided the
-house and found a quantity of hashish inside. [@1,3]
+house and found a quantity of hashish inside. [@1,3,4]
 
 The department presented the operation as part of continuing efforts to pursue
 dealers and traffickers, dry up sources of spread and protect the community.
-[@1] The department's director general said the operation was the fruit of its
+[@1,4] The department's director general said the operation was the fruit of its
 personnel's vigilance and field efforts. [@1] The department urged citizens to
 report suspicious activity and stressed community cooperation to curb narcotics,
-particularly among young people. [@2]
+particularly among young people. [@2,4]
