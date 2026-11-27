@@ -109,6 +109,11 @@ media:
     media_url: https://sf-video.dpgmedia.net/cbfefcc6-a562-4365-abca-d1a2ae98b154-version-1795343990875/cbfefcc6-a562-4365-abca-d1a2ae98b154.m3u8
     publisher: AD.nl
     caption: Video of burned cars and trucks after the arrest of 'El Chapo Isidro' in Sinaloa.
+  - kind: photo
+    url: https://news.ltn.com.tw/amp/news/world/paper/1779519
+    media_url: https://img.ltn.com.tw/Upload/news/600/2026/11/23/60.jpg
+    publisher: 自由時報電子報
+    caption: 'Temporary roadblocks set up in several parts of Sinaloa after the arrest operation, similar to the violence after other recent capo arrests. Photo: Reuters'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 655a98a5c557372ad39c4be5473894d1
@@ -278,20 +283,25 @@ sources:
     url: https://capitalfm.africa/mexican-drug-lord-on-fbis-10-most-wanted-list-arrested-in-shoot-out/
     publisher: Capital FM
     date: 2026-11-22
+  - title: 美懸賞1.6億》墨國抓到大毒梟 官賊槍戰逾11死 - 國際 - 自由時報電子報
+    url: https://news.ltn.com.tw/amp/news/world/paper/1779519
+    publisher: 自由時報電子報
+    date: 2026-11-23
+    language: zh
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28,29,30,31,35] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27,31] He led the Beltran Leyva organisation,
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28,29,30,31,35,36] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27,31] He led the Beltran Leyva organisation,
 allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18,23,25,28,31] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16,19,26,27] The operation also
 detained his cousin German, alias Serafin, described as the group's
 second-in-command, and his brother-in-law Jose, its financial operator. [@6,21,26,27,31,34,35]
 Army and National Guard special forces carried out the arrest with US
 intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24,26,27,29,31,33,34,35] The troops used stealth and surprise to reach the area, establishing a perimeter around the dealer's location and moving in from multiple directions, according to Mexico's US embassy. [@28,29,35]
 
-Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21,24,34,35] Four
+Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21,24,34,35,36] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
-overall toll of eleven deaths. [@2,12,13,21,23,24,28,31,34,35] The defence minister said on Monday that four soldiers and 16 members of organised crime had been killed in the firefight during the arrest. [@29,30] The defence ministry said it had no reports of civilian casualties. [@12,13] The troops came under gunfire and explosives
+overall toll of eleven deaths. [@2,12,13,21,23,24,28,31,34,35,36] The defence minister said on Monday that four soldiers and 16 members of organised crime had been killed in the firefight during the arrest. [@29,30] The defence ministry said it had no reports of civilian casualties. [@12,13,36] The troops came under gunfire and explosives
 before entering the house where the arrests were made. [@2,10,19,21,22,26,35] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
