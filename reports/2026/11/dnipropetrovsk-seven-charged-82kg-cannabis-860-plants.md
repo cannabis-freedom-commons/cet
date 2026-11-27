@@ -63,6 +63,11 @@ sources:
     publisher: Суспільне Дніпро
     date: 2026-11-26
     language: uk
+  - title: Поліція накрила масштабне виробництво канабісу на Дніпропетровщині - вилучили понад 80 кг наркотиків та зброю
+    url: https://informator.ua/uk/policiya-nakrila-masshtabne-virobnictvo-kanabisu-na-dnipropetrovshchini-viluchili-ponad-80-kg-narkotikiv-ta-zbroyu
+    publisher: Інформатор Україна
+    date: 2026-11-26
+    language: uk
 open_questions:
   - The 26 November 2026 publication date stands in for the event date; suspicion notices were dated 21 November but the searches and court decisions carry no separate date.
   - The sources state more than 82 kg of cannabis; 82 is recorded and the exact excess was not stated.
@@ -96,25 +101,40 @@ media:
     media_url: https://cdn4.suspilne.media/images/resize/720x0.1/12f4a103c7159b10.jpg
     publisher: Суспільне Дніпро
     caption: 'Detention of the suspects in the Dnipropetrovsk cannabis case. Photo: Dnipropetrovsk Regional Prosecutor''s Office'
+  - kind: photo
+    url: https://informator.ua/uk/policiya-nakrila-masshtabne-virobnictvo-kanabisu-na-dnipropetrovshchini-viluchili-ponad-80-kg-narkotikiv-ta-zbroyu
+    media_url: https://cdn.informator.ua/@prod/_1920/media/ua/2026/11/26/6b083f4ec13fe4.87766313.jpg
+    publisher: Інформатор Україна
+    caption: Weapons and drugs seized in the Dnipropetrovsk cannabis operation, valued by investigators at 50 million hryvnias.
+  - kind: photo
+    url: https://informator.ua/uk/policiya-nakrila-masshtabne-virobnictvo-kanabisu-na-dnipropetrovshchini-viluchili-ponad-80-kg-narkotikiv-ta-zbroyu
+    media_url: https://cdn.informator.ua/@prod/_1920/media/ua/2026/11/26/6b083ffd7995a4.61387339.jpg
+    publisher: Інформатор Україна
+    caption: A hidden marijuana plantation in the Dnipropetrovsk region.
+  - kind: photo
+    url: https://informator.ua/uk/policiya-nakrila-masshtabne-virobnictvo-kanabisu-na-dnipropetrovshchini-viluchili-ponad-80-kg-narkotikiv-ta-zbroyu
+    media_url: https://cdn.informator.ua/@prod/_1920/media/ua/2026/11/26/6b08403c4a90e4.73474764.jpg
+    publisher: Інформатор Україна
+    caption: Suspects detained during the Dnipropetrovsk cannabis operation.
 ---
 
 Seven members of a Dnipropetrovsk drug group were notified of suspicion for
-illegally growing cannabis and trafficking drugs. [@1,3,4] The charges carry a maximum of 10 years in prison with confiscation of property. [@4] One suspect serves as an
-inspector at a Dnipro correctional colony. [@1,3] A court ordered detention for
+illegally growing cannabis and trafficking drugs. [@1,3,4,5] The charges carry a maximum of 10 years in prison with confiscation of property. [@4] One suspect serves as an
+inspector at a Dnipro correctional colony. [@1,3,5] Patrol-police TacTeam officers, the KORD special unit and police dog handlers provided support during the detention. [@5] A court ordered detention for
 three suspects, allowing bail of 2 to 4 million hryvnias each. [@1,3,4] Pretrial
 measures for the four other suspects were still being decided. [@1] The
 Dnipropetrovsk Regional Prosecutor's Office oversees the proceedings and the
 pre-trial investigation is continuing. [@1]
 
-Officers carried out 44 searches and seized more than 82 kg of cannabis. [@1,3,4]
-They also seized 860 cannabis plants and five firearms. [@1,3] They also seized
+Officers carried out 44 searches and seized more than 82 kg of cannabis. [@1,3,4,5]
+They also seized 860 cannabis plants and five firearms. [@1,3,5] They also seized
 24,000 euros in cash, along with vehicles and equipment for growing and
-packaging cannabis. [@2,3,4] Prosecutors estimated the seized drugs could have been
-sold for almost 50 million hryvnias. [@1,3,4]
+packaging cannabis. [@2,3,4,5] Prosecutors estimated the seized drugs could have been
+sold for almost 50 million hryvnias. [@1,3,4,5]
 
 At the beginning of 2026 the suspects established three hidden cannabis
-plantations in Kryvyi Rih and Kamianske districts. [@1,3] At least 500 plants were grown on each plot. [@3] They hid the plantations
-among agricultural crops, dense vegetation and in shelterbelts. [@1,3] Members
+plantations in Kryvyi Rih and Kamianske districts. [@1,3,5] At least 500 plants were grown on each plot. [@3,5] They hid the plantations
+among agricultural crops, dense vegetation and in shelterbelts. [@1,3,5] Members
 tended the plants, harvested and dried the crop, and produced cannabis for sale.
-[@1] They sold the cannabis in wholesale and retail quantities across the region
-through acquaintances. [@1]
+[@1,5] They sold the cannabis in wholesale and retail quantities across the region
+through acquaintances. [@1,5] Buyers paid in cash or by transfer to the group members' bank cards. [@5]
