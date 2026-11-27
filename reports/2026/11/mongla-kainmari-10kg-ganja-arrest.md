@@ -74,13 +74,18 @@ sources:
     publisher: এইমাত্র
     date: 2026-11-22
     language: bn
+  - title: মোংলায় ১০ কেজি গাঁজাসহ যুবক গ্রেপ্তার
+    url: https://rtvonline.com/country/417236
+    publisher: RTV
+    date: 2026-11-22
+    language: bn
 ---
 
 SRB-6, a Bangladesh police special response battalion, arrested 40-year-old Md.
 Oli Khan, described as a drug dealer, and seized 10 kg of ganja from him in an
-anti-drug operation in the Kainmari area of Mongla, Bagerhat. [@1,5,6] The operation
+anti-drug operation in the Kainmari area of Mongla, Bagerhat. [@1,5,6,7] The operation
 was carried out in Kainmari under Mongla police station at about 10pm on
-Saturday 21 November 2026. [@1,5] Oli Khan is the son of the late Jabbar Khan and
+Saturday 21 November 2026. [@1,5,7] Oli Khan is the son of the late Jabbar Khan and
 a resident of the Kainmari area of Mongla. [@3,5,6] Kainmari lies in Chila Union of Mongla upazila. [@6]
 
 SRB-6 senior assistant director and media officer Syed Fazlur Rahman confirmed
@@ -91,5 +96,5 @@ seized before witnesses and a regular case was filed against Oli Khan under the
 Narcotics Control Act at Mongla police station. [@2,6]
 
 Mongla police station officer in charge Md. Atikur Rahman said the case under
-the Narcotics Control Act was filed by SRB-6. [@4,5] He was sent to the Bagerhat
-court on the morning of Sunday 22 November. [@4,5]
+the Narcotics Control Act was filed by SRB-6. [@4,5,7] He was sent to the Bagerhat
+court on the morning of Sunday 22 November. [@4,5,7]
