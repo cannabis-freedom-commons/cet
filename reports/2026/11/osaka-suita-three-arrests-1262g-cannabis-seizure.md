@@ -79,6 +79,11 @@ sources:
     publisher: カナロコ by 神奈川新聞
     date: 2026-11-26
     language: ja
+  - title: 宅配便で覚醒剤販売か 密売グループの男3人逮捕 SNSで客を募り2000件超の取り引きで売り上げ1億円以上か
+    url: https://news.ntv.co.jp/n/ytv/category/society/ytdef679fd1b4a40e399414c37175b5b5d
+    publisher: YTV NEWS NNN
+    date: 2026-11-26
+    language: ja
 ---
 
 Osaka Prefectural Police announced on 26 November 2026 the arrest of three men,
@@ -87,7 +92,7 @@ for-profit possession of stimulants and other drugs. [@1,4] The allegation is th
 the three conspired on 14 October to possess about 93 grams of stimulants, about
 1,260 grams of cannabis and other drugs for profit in a room of an apartment in
 Suita. [@1] Police did not disclose whether the suspects admitted or denied the
-allegations. [@1] A second account describes the 26 November action as the
+allegations. [@1,5] A second account describes the 26 November action as the
 arrest and re-arrest of the three on suspected violations of the Stimulants
 Control Act and the Narcotics Control Act for trafficking and for-profit
 possession. [@2,3,4]
@@ -95,13 +100,13 @@ possession. [@2,3,4]
 Searches of several related locations seized 1,405 stimulant tablets with an
 estimated street value of about 37.36 million yen, about 1,262 grams of cannabis
 with an estimated street value of about 6.31 million yen, and about 60 million
-yen in cash. [@1,3] Officers also seized a good-luck ornament for business prosperity at the group's base. [@4] The same searches also seized cocaine, ketamine tablets and
+yen in cash. [@1,3] Officers also seized a good-luck ornament for business prosperity at the group's base. [@4,5] The same searches also seized cocaine, ketamine tablets and
 other drugs alongside the stimulants and cannabis. [@2,3,4]
 
 The drug-control unit began investigating after cannabis was found in the Katano
 station area in February 2024. [@1] The group used the Suita apartment as a base
-to recruit customers through social media and send drugs by courier. [@1] Police
+to recruit customers through social media and send drugs by courier. [@1] Komori allegedly couriered drugs to three recipients in Tokyo and Yamaguchi prefectures from May 2026. [@5] Police
 believe the Osaka-based group delivered illegal drugs nationwide in at least
-2,000 transactions worth over 100 million yen. [@1,3,4] Police believe other people
+2,000 transactions worth over 100 million yen. [@1,3,4,5] Police believe other people
 were also involved and are continuing to clarify the full scope of the group.
-[@1]
+[@1,5]
