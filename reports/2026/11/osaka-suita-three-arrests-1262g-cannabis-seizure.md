@@ -84,6 +84,11 @@ sources:
     publisher: YTV NEWS NNN
     date: 2026-11-26
     language: ja
+  - title: 拠点から大量の現金、違法薬物、熊手…大阪・吹田のマンションの一室に密売用覚醒剤を所持の疑い 男ら３人を逮捕 １億円以上売り上げか｜FNNプライムオンライン
+    url: https://www.fnn.jp/articles/-/1159969
+    publisher: FNNプライムオンライン
+    date: 2026-11-26
+    language: ja
 ---
 
 Osaka Prefectural Police announced on 26 November 2026 the arrest of three men,
@@ -91,16 +96,16 @@ including 29-year-old unemployed Rikito Komori from Minoh, on suspicion of joint
 for-profit possession of stimulants and other drugs. [@1,4] The allegation is that
 the three conspired on 14 October to possess about 93 grams of stimulants, about
 1,260 grams of cannabis and other drugs for profit in a room of an apartment in
-Suita. [@1] Police did not disclose whether the suspects admitted or denied the
-allegations. [@1,5] A second account describes the 26 November action as the
+Suita. [@1,6] Police did not disclose whether the suspects admitted or denied the
+allegations. [@1,5,6] A second account describes the 26 November action as the
 arrest and re-arrest of the three on suspected violations of the Stimulants
 Control Act and the Narcotics Control Act for trafficking and for-profit
-possession. [@2,3,4]
+possession. [@2,3,4,6]
 
 Searches of several related locations seized 1,405 stimulant tablets with an
 estimated street value of about 37.36 million yen, about 1,262 grams of cannabis
 with an estimated street value of about 6.31 million yen, and about 60 million
-yen in cash. [@1,3] Officers also seized a good-luck ornament for business prosperity at the group's base. [@4,5] The same searches also seized cocaine, ketamine tablets and
+yen in cash. [@1,3] Officers also seized a good-luck ornament for business prosperity at the group's base. [@4,5,6] The same searches also seized cocaine, ketamine tablets and
 other drugs alongside the stimulants and cannabis. [@2,3,4]
 
 The drug-control unit began investigating after cannabis was found in the Katano
