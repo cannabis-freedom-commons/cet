@@ -54,6 +54,11 @@ sources:
     publisher: Il Messaggero
     date: 2026-11-21
     language: it
+  - title: Maxi sequestro di cocaina, arrestato un 60enne
+    url: https://www.umbriatv.com/notizie/cronaca/maxi-sequestro-di-cocaina-arrestato-un-60enne/
+    publisher: Umbria TV
+    date: 2026-11-21
+    language: it
 open_questions:
     - No separate date or time is given for the marijuana find; it comes from the same 20 November 2026 search described in the account.
     - The 12 million euro estimate applies to the haul as a whole, mostly cocaine, and no separate value is given for the 300 grams of marijuana.
@@ -63,21 +68,21 @@ open_questions:
 ---
 
 Police in Città di Castello arrested a 60-year-old Italian man already convicted
-of the same kind of offences. [@1,2] Officers from the Squadra Mobile of Perugia
+of the same kind of offences. [@1,2,3] Officers from the Squadra Mobile of Perugia
 police headquarters and the Città di Castello police station carried out the
 operation on the morning of 20 November 2026. [@1,2] Investigators had gathered
 information on suspected drug dealing and used stakeouts and tailing to document
 suspicious movements before searching the man and his vehicle in the
 municipality. [@1]
 
-The search of his home found marijuana and the keys to a warehouse. [@1] Police
+The search of his home found marijuana and the keys to a warehouse. [@1,3] Police
 seized 300 grams of marijuana together with 144 blocks of cocaine weighing more
 than 160 kg gross. [@1,2] In the warehouse officers found 51 cocaine blocks hidden
 in a small storeroom, and another 93 blocks in a shed on land the man owned.
-[@1,2] Investigators said the drugs were intended for sale and would have been
+[@1,2,3] Investigators said the drugs were intended for sale and would have been
 worth about 12 million euros. [@1] Police called it the largest cocaine seizure
-the force had ever made in the province. [@1]
+the force had ever made in the province. [@1,3]
 
 The man was taken to Perugia-Capanne prison on the judicial authority's order,
-pending a validation hearing. [@1,2] He had been arrested in 2014 for similar
+pending a validation hearing. [@1,2,3] He had been arrested in 2014 for similar
 offences. [@1]
