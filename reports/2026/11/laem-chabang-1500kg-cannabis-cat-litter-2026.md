@@ -64,6 +64,11 @@ sources:
     publisher: ข่าวหุ้นธุรกิจ | LINE TODAY
     date: 2026-11-24
     language: th
+  - title: ศุลกากรแหลมฉบังสกัดกัญชา 1.5 ตัน! สำแดงเป็น “ทรายแมว” เตรียมส่งออกผิดกฎหมาย | Khaosod | LINE TODAY
+    url: https://today.line.me/th/v3/article/1DPQee3
+    publisher: LINE TODAY
+    date: 2026-11-24
+    language: th
 open_questions:
     - No exporter, suspect or arrest was named, and no charge or court outcome was reported.
     - The intended destination of the cannabis consignment was not disclosed.
@@ -72,28 +77,28 @@ open_questions:
 
 Thai Customs officers seized 1,500 kilograms of dried cannabis flower at Laem
 Chabang Port in Chon Buri province on 18 November 2026, after inspecting an
-outbound consignment declared as paper-based cat litter. [@1,4,5] The flowers were
-packed in vacuum-sealed bags. [@3,4,5] Customs valued the shipment at more than 15
+outbound consignment declared as paper-based cat litter. [@1,4,5,6] The flowers were
+packed in vacuum-sealed bags. [@3,4,5,6] Customs valued the shipment at more than 15
 million baht. [@1,4,5] The same shipment was reported as 1,500 kilogrammes of dried
 cannabis flowers worth approximately 15 million baht. [@2]
 
 The seizure was carried out jointly by the Customs Department's Enforcement
 Division and the Laem Chabang Port Customs Office, its director Eakvut Naeak
-said. [@2,4] The exporter failed to produce the required export licence during
-customs clearance. [@2,4] The cannabis flower was a controlled herb under a Public
+said. [@2,4,6] The exporter failed to produce the required export licence during
+customs clearance. [@2,4,6] The cannabis flower was a controlled herb under a Public
 Health Ministry notification published on 23 June 2025, requiring export
 authorisation from the Department of Thai Traditional and Alternative Medicine
 under section 46 of the Protection and Promotion of Thai Traditional Medicine
-Wisdom Act 1999. [@1] The licensing requirement fell under section 46 of the
-Protection and Promotion of Thai Traditional Medicine Wisdom Act 1999. [@2]
+Wisdom Act 1999. [@1,6] The licensing requirement fell under section 46 of the
+Protection and Promotion of Thai Traditional Medicine Wisdom Act 1999. [@2,6]
 
 Customs treated the case as a false declaration of restricted goods and an
 attempt to take goods out of the country while circumventing restrictions,
-offences under the Customs Act 2017 and traditional-medicine legislation. [@2,5]
+offences under the Customs Act 2017 and traditional-medicine legislation. [@2,5,6]
 Customs Department director-general Phantong Loykulnanta told officials to
 intensify anti-smuggling work with other law-enforcement agencies. [@2] The
 operation followed a policy by Deputy Prime Minister and Finance Minister Ekniti
 Nitithanprapas for Customs to work with law-enforcement agencies in preventing
-and suppressing lawbreaking. [@1] Prime Minister Anutin Charnvirakul had set an
+and suppressing lawbreaking. [@1,6] Prime Minister Anutin Charnvirakul had set an
 accelerated policy to prevent and suppress all forms of lawbreaking, with an
-emphasis on smuggling. [@3]
+emphasis on smuggling. [@3,6]
