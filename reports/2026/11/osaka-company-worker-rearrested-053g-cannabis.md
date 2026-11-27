@@ -46,18 +46,20 @@ sources:
     publisher: KFB福島放送
     date: 2026-11-26
     language: ja
-open_questions:
-  - 'The alleged possession date is approximate: one account says around 2 December last year and the other says December 2025.'
-  - No laboratory confirmation, charging decision or court outcome was reported; police said they are investigating how he obtained the cannabis and for what purpose.
+  - title: コンピューターウイルスをアップの22歳男が大麻所持の疑いで逮捕 福島
+    url: https://www.msn.com/ja-jp/news/other/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%81%AE22%E6%AD%B3%E7%94%B7%E3%81%8C%E5%A4%A7%E9%BA%BB%E6%89%80%E6%8C%81%E3%81%AE%E7%96%91%E3%81%84%E3%81%A7%E9%80%AE%E6%8D%95-%E7%A6%8F%E5%B3%B6/ar-AA2ieTb4
+    publisher: FCT福島中央テレビ
+    date: 2026-11-26
+    language: ja
 ---
 
 Shirakawa police re-arrested a 22-year-old male company employee living in Osaka
 City at about 14:35 on 25 November on suspicion of possessing cannabis in
-violation of the Narcotics and Psychotropics Control Act. [@1] KFB Fukushima
+violation of the Narcotics and Psychotropics Control Act. [@1,3] KFB Fukushima
 Broadcasting identified the re-arrested man as 22-year-old Osaka company
 employee 植次健登. [@2] He had been arrested on 5 November on suspicion of uploading
 a computer virus to a website and causing a man in his 20s in Shirakawa City to
-download it. [@2]
+download it. [@2,3]
 
 The re-arrest allegation is that he possessed about 0.53 grams of cannabis at
 his home in Osaka City around 2 December 2025. [@1] Officers found the cannabis
@@ -67,5 +69,4 @@ case. [@1]
 The virus allegation said he conspired with others to upload an unauthorized
 program to a website and caused a man in his 20s to download it. [@1] He told
 investigators he does not know about the cannabis, denying the allegation, while
-police are investigating how he obtained it and for what purpose. [@2]
-
+police are investigating how he obtained it and for what purpose. [@2,3]
