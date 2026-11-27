@@ -50,38 +50,37 @@ sources:
     publisher: La Tercera
     date: 2026-11-26
     language: es
-open_questions:
-    - Both accounts reproduce the same Carabineros announcement; no independent corroboration of the figures was found.
-    - The driver who abandoned the minibus on Route 21-CH was not identified and no arrest in the first procedure was reported.
-    - The detained man's nationality was not given beyond an irregular migration situation, and no name was published.
-    - No street value for the seized cannabis was published.
-    - The 51,229-kilo Antofagasta total and the 85-tonne national total cover all drugs, not cannabis alone, and are excluded from the cannabis figures.
+  - title: Incautan más de 2,3 toneladas de marihuana en dos procedimientos en Calama y la frontera
+    url: https://www.timeline.cl/incautan-mas-de-23-toneladas-de-marihuana-en-dos-procedimientos-en-calama-y-la-frontera/
+    publisher: Timeline.cl
+    date: 2026-11-26
+    language: es
 ---
 
 Carabineros seized 2,316 kilos and 100 grams of processed marijuana in two
-procedures carried out on Sunday 22 November in El Loa province. [@1,2] The
+procedures carried out on Sunday 22 November in El Loa province. [@1,2,3] The
 operations also led to the detention of one man and were part of a deployment
-against drug trafficking and organized crime. [@1,2] The results were announced in
+against drug trafficking and organized crime. [@1,2,3] The results were announced in
 Calama by Carabineros Director General Marcelo Araya with acting Regional
 Prosecutor Ricardo Peña Martínez and El Loa provincial delegate Cristian
-Ramírez. [@1,2] The truck operation ended with the detention of a 34-year-old man
-who was in an irregular migration situation. [@1,2] The detained man was placed in
-preventive detention while the court set a 120-day investigation period. [@1,2]
+Ramírez. [@1,2,3] The truck operation ended with the detention of a 34-year-old man
+who was in an irregular migration situation. [@1,2,3] The detained man was placed in
+preventive detention while the court set a 120-day investigation period. [@1,2,3]
 
 The first operation was carried out by officers of the Ascotán post during
-preventive patrols and border surveillance on Route 21-CH. [@1,2] Officers seized
+preventive patrols and border surveillance on Route 21-CH. [@1,2,3] Officers seized
 1,590 kilos and 500 grams of processed marijuana from a minibus in that
-procedure. [@1,2] The minibus driver abandoned the vehicle after evading the
-police check. [@1,2] The second procedure was led by Carabineros of the OS7 El Loa
-section in coordination with the Public Prosecutor's Office. [@1,2] Officers
+procedure. [@1,2,3] The minibus driver abandoned the vehicle after evading the
+police check. [@1,2,3] The second procedure was led by Carabineros of the OS7 El Loa
+section in coordination with the Public Prosecutor's Office. [@1,2,3] Officers
 seized 725 kilos and 600 grams of processed marijuana being transported in a
-truck. [@1,2] The truck seizure took place in Calama. [@2]
+truck. [@1,2,3] The truck seizure took place in Calama. [@2,3]
 
 According to the acting regional prosecutor, both loads were to be stored in the
 Antofagasta region for later distribution to different parts of the country.
-[@1,2] With these procedures Carabineros reaches 51,229 kilos and 843 grams of
-various drugs seized during 2026 in the Antofagasta region. [@1] That figure
+[@1,2,3] With these procedures Carabineros reaches 51,229 kilos and 843 grams of
+various drugs seized during 2026 in the Antofagasta region. [@1,3] That figure
 exceeds the 29,293 kilos and 57 grams seized in all of 2025, an increase of
-74.9%. [@1] The director general said the northern macrozone accounts for 75% of
+74.9%. [@1,3] The director general said the northern macrozone accounts for 75% of
 the approximately 85 tonnes of drugs seized by Carabineros nationally this year.
-[@1]
+[@1,3]
