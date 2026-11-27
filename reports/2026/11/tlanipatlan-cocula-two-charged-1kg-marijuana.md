@@ -56,27 +56,26 @@ sources:
     publisher: Quadratín México
     date: 2026-11-15
     language: es
-open_questions:
-    - The marijuana amount was given only as about one kilogram, not an exact measured weight.
-    - No separate date for the detention or the charging hearing was given; 15 November 2026 is the publication date and stands in for the event date.
-    - No plea, trial outcome or sentence beyond pretrial detention was reported.
-    - The two long guns, 11 magazines, 263 cartridges and tactical gear are not cannabis quantities and are excluded from the cannabis figures.
-    - Both accounts rest on statements attributed to the FGR.
+  - title: Procesan a dos hombres detenidos con armamento y marihuana en Cocula - El Sol de Chilpancingo
+    url: https://www.elsoldechilpancingo.mx/2026/11/22/procesan-a-dos-hombres-detenidos-con-armamento-y-marihuana-en-cocula/
+    publisher: El Sol de Chilpancingo
+    date: 2026-11-22
+    language: es
 ---
 
 Mexico's Federal Attorney General's Office obtained the formal charging of Uriel
 “N” and Jorge “N”, who had been detained in Tlanipatlán, a locality in the
-municipality of Cocula, Guerrero. [@1,2] The two men were traveling in a car in
+municipality of Cocula, Guerrero. [@1,2,3] The two men were traveling in a car in
 Tlanipatlán when officers detained them and inspected the vehicle they were
-using. [@1,2] The officers who detained the two men were elements of the State Attorney General's Office. [@2] Inside the car, officers found two long guns together with 11
+using. [@1,2,3] The officers who detained the two men were elements of the State Attorney General's Office. [@2] Inside the car, officers found two long guns together with 11
 magazines and 263 cartridges of different calibres. [@1,2] Officers also found
 tactical gear and a package containing about one kilogram of marijuana in the
-same vehicle. [@1,2]
+same vehicle. [@1,2,3]
 
 Prosecutors accused both men of probable responsibility for carrying firearms,
 magazines and cartridges reserved for the exclusive use of the Armed Forces.
 [@1,2] Prosecutors also accused both men of crimes against health in connection
 with the marijuana package found in the car. [@1] After the charging hearing, a
 judge imposed mandatory pretrial detention on both men while the case moves
-forward. [@1,2] The same judge set three months for the complementary
-investigation to close and the prosecution file to be completed. [@1,2]
+forward. [@1,2,3] The same judge set three months for the complementary
+investigation to close and the prosecution file to be completed. [@1,2,3]
