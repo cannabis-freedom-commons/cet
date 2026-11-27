@@ -41,6 +41,11 @@ media:
     media_url: https://reform.news/wp-content/uploads/2026/03/screenshot-2026-03-10-at-15.21.53.jpeg
     publisher: REFORM.news
     caption: 'Screenshot from a State Border Committee video issued with the announcement of the Kamenny Log detention. Photo: State Border Committee of Belarus'
+  - kind: photo
+    url: https://belta.by/society/view/belorus-pytalsja-vvezti-iz-litvy-marihuanu-emu-grozit-lishenie-svobody-do-7-let-768711-2026/
+    media_url: https://img.belta.by/images/storage/news/with_archive/2026/000022_1773145645_768711_big.jpg
+    publisher: БЕЛТА
+    caption: 'State Border Committee photo published with the report on the detention of a Belarusian with marijuana at the Kamenny Log checkpoint. Photo: ГПК (State Border Committee)'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: ff389d30fabd095e80ca20fd6c4a271a
@@ -61,26 +66,25 @@ sources:
     publisher: Белинформ
     date: 2026-03-10
     language: ru
-open_questions:
-  - No weight or quantity of the marijuana was published.
-  - The man's name and age were not released.
-  - The sources do not say whether he was charged or remanded in custody.
-  - All the opened accounts reproduce the State Border Committee's statement and are not independent reporting.
+  - title: Белорус пытался ввезти из Литвы марихуану, ему грозит лишение свободы до 7 лет
+    url: https://belta.by/society/view/belorus-pytalsja-vvezti-iz-litvy-marihuanu-emu-grozit-lishenie-svobody-do-7-let-768711-2026/
+    publisher: БЕЛТА
+    date: 2026-03-10
+    language: ru
 ---
 
 Border guards at the Kamenny Log checkpoint on Belarus's border with Lithuania
 detained a Belarusian citizen on Saturday 7 March 2026 as he travelled from
-Lithuania. [@2] The man was driving his own car through the crossing. [@2]
+Lithuania. [@2,4] The man was driving his own car through the crossing. [@2]
 Officers found marijuana in the vehicle. [@1] The seized substance was examined,
-and the examination established that it was marijuana. [@2]
+and the examination established that it was marijuana. [@2,4]
 
 The detained man told investigators that he had bought the marijuana from
-unknown people in Lithuania. [@2] He said he was bringing it across the border
-for his own consumption. [@3]
+unknown people in Lithuania. [@2,4] He said he was bringing it across the border
+for his own consumption. [@3,4]
 
 Two criminal cases were opened over the movement of drugs across the border and
-their illegal circulation. [@1] The Smorgon border group's inquiry unit opened
-the cases. [@2] The offence carries up to seven years in prison, with or without
-a fine. [@2] The State Border Committee's press service announced the detention.
-[@2]
-
+their illegal circulation. [@1,4] The Smorgon border group's inquiry unit opened
+the cases. [@2,4] The offence carries up to seven years in prison, with or without
+a fine. [@2,4] The State Border Committee's press service announced the detention.
+[@2,4]
