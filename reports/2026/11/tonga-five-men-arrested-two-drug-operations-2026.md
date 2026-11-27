@@ -43,6 +43,10 @@ sources:
     url: https://matangitonga.to/print/42059
     publisher: Matangi Tonga
     date: 2026-11-23
+  - title: Five men arrested in Tonga drug raids as police seize methamphetamine, cannabis and cash - Kaniva Tonga News
+    url: https://kanivatonga.co.nz/2026/11/five-men-arrested-in-tonga-drug-raids-as-police-seize-methamphetamine-cannabis-and-cash/
+    publisher: Kaniva Tonga News
+    date: 2026-11-23
 open_questions:
   - No weight or street value was given for the cannabis or the methamphetamine seized.
   - No amount was given for the cash found, nor counts for the drug utensils and electronic devices.
@@ -50,22 +54,22 @@ open_questions:
   - No court appearance, plea or detention decision was reported after the charges.
   - How many of the five men were arrested at each of the two operations was not reported.
   - The men were identified only by age range and home village, and the charges were described only as possession offences.
+  - It is unclear whether Puke, Ha'ateiho, Mataika and Ma'ufanga are the sites of the two operations or the home villages of the arrested men.
 ---
 
 Tonga Police carried out two separate drug operations on 13 and 16 November
-2026. [@1] Five men were arrested in connection with the two operations. [@1]
+2026. [@1,3] Five men were arrested in connection with the two operations. [@1,3]
 The men are aged between 30 and 55 and come from Puke, Ha'ateiho, Mataika and
 Ma'ufanga. [@2] Tonga Police announced the arrests and seizures in a statement
 issued on Friday 20 November 2026. [@2]
 
 During the operations officers seized illicit drugs including cannabis and
-methamphetamine. [@2] The drugs were found with cash in Tongan pa'anga, New
-Zealand dollars and British pounds. [@2] Drug-related utensils and electronic
-devices were seized alongside the drugs and cash. [@2] All the suspects were
+methamphetamine. [@2,3] The drugs were found with cash in Tongan pa'anga, New
+Zealand dollars and British pounds. [@2,3] Drug-related utensils and electronic
+devices were seized alongside the drugs and cash. [@2,3] All the suspects were
 charged with offences relating to the possession of illicit drugs and
-drug-related utensils. [@2]
+drug-related utensils. [@2,3]
 
 Tonga Police said it was committed to combating the illegal possession and
 distribution of illicit drugs. [@2] The force encouraged members of the public
 to report information that could help keep communities safe. [@2]
-
