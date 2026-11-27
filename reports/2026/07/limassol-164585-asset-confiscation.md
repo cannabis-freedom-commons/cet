@@ -58,24 +58,21 @@ sources:
     url: https://cyprus-mail.com/2025/05/06/another-arrest-in-drugs-case-linked-to-2024-limassol-seizure
     publisher: Cyprus Mail
     date: 2025-05-06
-open_questions:
-  - Politis quotes a Cyprus Police post reporting 5.65 kg of cocaine, while the May 2025 Cyprus Mail account reports 5.77 kg; neither amount is included in the cannabis weight.
-  - The May 2025 account describes the fourth arrested man as 47, while the July 2026 account lists defendants as two 52-year-old men, a 35-year-old man and a 34-year-old woman; the reports do not explain the age difference.
-  - The defendants are not named, and the reports do not give a conviction or sentence outcome for the underlying drug charges.
-  - 'Left out, as its quotation was not found in ΠΟΛΙΤΗΣ NEWS: A Cyprus Police statement quoted by Politis specified 12 kg and 803 g of cannabis.'
-  - 'Left out, as its quotation was not found in Cyprus Mail: Cyprus Mail reported that police arrested three people in Limassol after finding a suitcase containing cocaine and cannabis.'
+  - title: Nearly €200,000 in assets seized after major drug bust
+    url: https://knews.kathimerini.com.cy/en/news/nearly-%E2%82%AC200-000-in-assets-seized-after-major-drug-bust
+    publisher: KNEWS (Kathimerini Cyprus)
+    date: 2025-12-24
 ---
 
 The Permanent Criminal Court in Limassol ordered confiscation of assets worth
 €164,585 in the drug-trafficking case. [@1] The order covered property valued at
 €144,585 belonging to the 35-year-old defendant and €20,000 belonging to the
 34-year-old defendant. [@1] YKAN and MOKAS examined the defendants’ finances and
-froze cash, vehicles and other assets while the case was before the courts. [@1]
+froze cash, vehicles and other assets while the case was before the courts. [@1,4] The freeze covered two vehicles valued at around €68,000, cash totaling €126,585, and company shares. [@4] The frozen assets belonged to a 34-year-old man already facing serious drug charges and were worth almost €200,000. [@4]
 
 The case began in November 2024, when authorities found more than 12 kg of
-cannabis alongside cocaine. [@2]
+cannabis alongside cocaine. [@2,4]
 
 A fourth person, described as a 47-year-old man, was arrested in May 2025 in
 connection with the case. [@3] By July 2026, four people had been charged: two
 men aged 52, a man aged 35 and a woman aged 34. [@1]
-
