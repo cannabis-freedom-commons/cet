@@ -66,28 +66,36 @@ sources:
     publisher: Le Dakarois
     date: 2026-11-20
     language: fr
+  - title: 'Trafic Paris-Sénégal : la police démantèle un maillon du circuit à Yeumbeul, un suspect interpellé avec 24 plaquettes de haschich'
+    url: https://www.lactuacho.com/trafic-paris-senegal-la-police-demantele-un-maillon-du-circuit-a-yeumbeul-un-suspect-interpelle-avec-24-plaquettes-de-haschich/
+    publisher: LACTUACHO.COM
+    date: 2026-11-26
+    language: fr
+  - title: 'Yeumbeul : Le colis de haschich venu de France qui a fait tomber un coiffeur'
+    url: https://www.seneweb.com/fr/news/Actualites/yeumbeul-le-colis-de-haschich-venu-de-france-qui-a-fait-tomber-un-coiffeur_n_999004438.html
+    publisher: Seneweb
+    date: 2026-11-23
+    language: fr
 open_questions:
-  - No weight was published for the 24 hashish slabs, so no kilogram figure is recorded.
-  - The suspect is named only as M. Ba, 37, a hairdresser; O. Niang, said to have sent the parcel from France, was not reported arrested.
-  - The prosecutor's decision after M. Ba was brought before him on 20 November 2026 was not reported.
-  - 'Whether M. Ba was the intended recipient of the parcel or an intermediary collecting it for a Dakar recipient is unclear: police call him the presumed recipient, while he said he was to be told where to hand it over.'
-  - The published accounts rest on the same police account repeated by local outlets, so they are not independent reporting.
-  - 'Drogue : 24 plaquettes de haschich venues de Paris saisies à Yeumbeul, l''OCRTIS interpelle 13 personnes dans le pays (Le Dakarois) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
+    - The suspect is named only as M. Ba, 37, a hairdresser; O. Niang, said to have sent the parcel from France, was not reported arrested.
+    - 'Whether M. Ba was the intended recipient of the parcel or an intermediary collecting it for a Dakar recipient is unclear: police call him the presumed recipient, while he said he was to be told where to hand it over.'
+    - The published accounts rest on the same police account repeated by local outlets, so they are not independent reporting.
+    - 'Drogue : 24 plaquettes de haschich venues de Paris saisies à Yeumbeul, l''OCRTIS interpelle 13 personnes dans le pays (Le Dakarois) could not be opened again to check its quotations (The browser page answered HTTP 404.; archived fallback unavailable (no accessible Wayback capture was found). No AI research was started); what it says is as the AI read it.'
 ---
 
 The urban security unit of Guédiawaye's central police station detained a
 37-year-old hairdresser, identified only as M. Ba, in Yeumbeul-Comico on the
-night of 18 to 19 November 2026. [@1] Officers seized 24 slabs of hashish and
-described him as the presumed recipient of the parcel. [@1] Média 28 reported
+night of 18 to 19 November 2026. [@1,4] Officers seized 24 slabs of hashish and
+described him as the presumed recipient of the parcel. [@1,4] Média 28 reported
 the same seizure of 24 hashish slabs at Yeumbeul-Comico and the arrest of the
 presumed recipient of the parcel. [@2]
 
 The operation began with a tip about drug trafficking between the French capital
 and Senegal, and the station's research brigade set up surveillance and a tail.
-[@1] Police stopped M. Ba just after he had collected a parcel from a groupage
+[@1,4] Police stopped M. Ba just after he had collected a parcel from a groupage
 container, a shared freight container carrying several consignments. [@1] A
 search of his bag found the 24 slabs of hashish, and he was taken to the police
-station. [@1] Le Dakarois likewise reported that the Guédiawaye urban security
+station. [@1,4] He valued the 24 slabs at nearly 4.8 million CFA francs. [@5] The 24 slabs had a total weight of 2 kg 360 g. [@5] Le Dakarois likewise reported that the Guédiawaye urban security
 unit intercepted a hashish parcel sent from France. [@3]
 
 Questioned, M. Ba admitted the facts and said the drugs had been sent to him
@@ -95,5 +103,4 @@ from France by a man he named as O. Niang. [@1] He said O. Niang coordinated the
 shipment from France for a recipient based in Dakar and was to tell him where to
 hand over the parcel. [@1] After his custody for possession and international
 drug trafficking, he was brought before the public prosecutor at the
-Pikine-Guédiawaye regional court, Saliou Dicko, on Friday 20 November 2026. [@1]
-
+Pikine-Guédiawaye regional court, Saliou Dicko, on Friday 20 November 2026. [@1,4] He was placed under a detention warrant for offering and selling drugs. [@5]
