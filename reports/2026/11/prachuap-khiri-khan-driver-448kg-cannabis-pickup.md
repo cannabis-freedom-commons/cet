@@ -77,30 +77,31 @@ sources:
     publisher: สวพ.FM91 / LINE TODAY
     date: 2026-11-24
     language: th
-open_questions:
-    - No street or market value for the 448 kg was published.
-    - No detention measure or court outcome beyond the stated allegation was reported; the case stood at the investigation stage.
-    - The onward export route beyond the reported Krabi destination was not reported.
+  - title: จับรถขนกัญชาล็อตใหญ่ 448 กิโลกรัม ซุกตู้ทึบเตรียมลำเลียงลงใต้ อ้างรับจ้างขนส่ง | The Bangkok Insight | LINE TODAY
+    url: https://today.line.me/th/v3/article/0MWk7oj
+    publisher: The Bangkok Insight / LINE TODAY
+    date: 2026-11-24
+    language: th
 ---
 
 Central Investigation Bureau highway police arrested a 35-year-old driver,
 reported under the pseudonym Kho, on the southbound side of Highway 4 at the Ko
-Lak service unit in Mueang district, Prachuap Khiri Khan. [@1,3,5] Officers had
+Lak service unit in Mueang district, Prachuap Khiri Khan. [@1,3,5,6] Officers had
 received an informant tip that a closed-box pickup would carry cannabis flower
 south for export abroad without permission, and stopped a matching vehicle to
-open and inspect its cargo box. [@1,3,4,5] The driver denied the allegation at the
+open and inspect its cargo box. [@1,3,4,5,6] The driver denied the allegation at the
 time of arrest, saying he had only been hired to transport the cannabis and did
-not own it. [@1,5]
+not own it. [@1,5,6]
 
 Inside the cargo box officers found 13 large black cloth bags holding 448
 vacuum-sealed bags of cannabis flower with a combined weight of about 448
-kilograms. [@1,3,4,5] Police also seized the pickup truck used for the transport, an
-Isuzu registered in Surat Thani. [@2,3] Officers pursued the allegation of
+kilograms. [@1,3,4,5,6] Police also seized the pickup truck used for the transport, an
+Isuzu registered in Surat Thani. [@2,3,6] Officers pursued the allegation of
 unauthorised research, export, sale or processing of a controlled herb for trade
 and handed the suspect with the seized goods to Mueang Prachuap Khiri Khan
-police station for prosecution. [@2,3,5]
+police station for prosecution. [@2,3,5,6]
 
 The driver produced a Chonburi cannabis-sales permit that had already expired,
 and his account that he had collected the goods in Nonthaburi did not match the
-origin shown in the paperwork. [@1,3,4,5] The CIB said the load was bound for southern
-Thailand for onward export from the country without permission. [@2,3,5] The driver said he had been hired to collect the load in Nonthaburi and deliver it to Krabi. [@4]
+origin shown in the paperwork. [@1,3,4,5,6] The CIB said the load was bound for southern
+Thailand for onward export from the country without permission. [@2,3,5,6] The driver said he had been hired to collect the load in Nonthaburi and deliver it to Krabi. [@4]
