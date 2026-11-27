@@ -176,10 +176,15 @@ sources:
     publisher: Newsdanka
     date: 2026-11-23
     language: mr
+  - title: ആലപ്പുഴയിൽ 12 കിലോ കഞ്ചാവുമായി യൂത്ത് കോൺഗ്രസ് പ്രവർത്തകനടക്കം എട്ട് പേർ പിടിയിൽ
+    url: https://www.sirajlive.com/eight-arrested-with-12-kg-ganja-in-poochackal-alappuzha-youth-congress-worker.html
+    publisher: Sirajlive.com
+    date: 2026-11-22
+    language: ml
 ---
 
 Eight men were arrested in the case, among them a local Youth Congress leader.
-[@4,13,16] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
+[@4,13,16,31] The five occupants of a car stopped at Makkekadavu junction in Poochakkal
 were found with 11.6 kg of ganja packed in bags. [@3,6,7,8,9,10,11,12,14,15,16,17,19,21,22,23,24,25,27,28,29,30] The four other men in the car were Ali Jauhar, 24, and Krishnakumar, 23, both from Manappuram, and Salahudeen Ayoob, 24, and Mohammed Aslam, 23, both from Poochakkal. [@6,9,11,12,15,16,17,22,24,25] The car was intercepted at
 about 10.50 pm on Saturday while it travelled from Cherthala to Arookutty. [@2,5,7,8,10,14,19,20,22,24,27,28,29,30] Police said they acted on a tip-off when they stopped the car. [@8,10,28,29] The check was carried out jointly by the Alappuzha district DANSAF team and Poochakkal police. [@5,6,12] The operation was conducted by a team of six police personnel led by SHO Lijimol P T. [@20]
 Earlier that evening, at about 4 pm, three other men were arrested with 1.270 kg
@@ -187,11 +192,11 @@ of ganja near Palliveli junction, and questioning them led police to the car.
 [@3] One of them, Shemeer, 38, is a Youth Congress worker from Manappuram whose
 social media accounts show photographs with party leaders. [@2,5,7,9,10,13,14,15,22,28,29] The pictures show him with Chief Minister V D Satheesan, Excise Minister M Liju and Deputy Speaker Shanimol Usman, among others. [@23] District Youth
 Congress leaders said he had been inactive for months and held no post in the
-organisation. [@2,7,10,22,28,29] Shameer had left the CPI(M) some years earlier and joined the Youth Congress, district Youth Congress leaders said. [@9,14,15,18,21] The leaders said Shameer had joined the Youth Congress three years ago and had earlier been a DYFI worker. [@13] Shameer was reportedly involved in the election campaign of
+organisation. [@2,7,10,22,28,29,31] Shameer had left the CPI(M) some years earlier and joined the Youth Congress, district Youth Congress leaders said. [@9,14,15,18,21] The leaders said Shameer had joined the Youth Congress three years ago and had earlier been a DYFI worker. [@13] Shameer was reportedly involved in the election campaign of
 Kerala Assembly Deputy Speaker Shanimol Usman. [@1,5,6,11,12,25,26] He was reported to be close to Chief Minister V.D. Satheesan, Deputy Speaker Shanimol Usman and Rahul Mankoottathil, an accused in rape cases. [@26]
 
 Police said the men had bought a large quantity of ganja in Palakkad and were
-selling it in smaller quantities to users in Kochi. [@2,7,10,19,20,21,22,27,28,29,30] All eight were produced
+selling it in smaller quantities to users in Kochi. [@2,7,10,19,20,21,22,27,28,29,30,31] All eight were produced
 before a magistrate and remanded in judicial custody. [@3,8,19,22,27,28,29] Shemeer complained of
 chest discomfort and was taken to Ernakulam General Hospital. [@2,20,30] Poochakkal
 police registered a case under the Narcotic Drugs and Psychotropic Substances
