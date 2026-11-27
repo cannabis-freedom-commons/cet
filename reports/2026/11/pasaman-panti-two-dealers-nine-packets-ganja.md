@@ -1,7 +1,7 @@
 ---
 code: RKZBVB
 added_at: "2026-11-13T14:45:13.392618Z"
-date: 2026-11-12
+date: 2026-11-24
 country: id
 place: Jorong Katimahar, Nagari Panti Timur, Kecamatan Panti, Pasaman Regency, West Sumatra
 coordinates: [-0.5867, 100.0197]
@@ -12,8 +12,9 @@ title: Two held in Panti, Pasaman, as police seize nine packets of ganja
 summary: >-
   Pasaman narcotics police arrested two suspected cannabis dealers at Jorong Katimahar, Nagari Panti Timur, on 12 November 2026 during an undercover buy and seized nine packets of ganja, a phone and a motorcycle. Both men were processed under the narcotics law and face investigation.
 figures:
-  arrested: 2
-  vehicles: 1
+    arrested: 2
+    vehicles: 1
+    kg_seized: 6.1384
 details:
   agencies: [Satresnarkoba Polres Pasaman]
   agency_types: [police]
@@ -24,13 +25,14 @@ details:
   date_precision: exact
   region: West Sumatra
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.products: [1]
-  details.setting: [1]
-  figures.arrested: [1]
-  figures.vehicles: [2]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.products: [1]
+    details.setting: [1]
+    figures.arrested: [1]
+    figures.vehicles: [2]
+    figures.kg_seized: [12]
 media:
   - kind: photo
     url: https://www.kongkrit.com/berita/252863/satresnarkoba-polres-pasaman-tangkap-dua-terduga-pengedar-ganja-di-panti-7-paket-besar-dan-2-paket-sedang-disita
@@ -122,13 +124,22 @@ sources:
     publisher: RRI.co.id
     date: 2026-11-14
     language: id
+  - title: Polres Pasaman Musnahkan 6,13 Kg Ganja
+    url: https://www.rakyatterkini.com/2026/11/polres-pasaman-musnahkan-613-kg-ganja.html
+    publisher: Rakyatterkini.com
+    date: 2026-11-25
+    language: id
+open_questions:
+    - No court outcome, charge or detention update for Pandra alias Sipon and Ilcan Prayono alias Teil was reported in the destruction account.
+    - No laboratory result for the samples retained for testing and trial was reported.
+    - The destruction account rests on a single outlet report of the Polres Pasaman announcement.
 ---
 
 Satresnarkoba Polres Pasaman detained two suspected cannabis dealers at about
 20.30 WIB on Thursday 12 November 2026 at Jorong Katimahar, Nagari Panti Timur,
 Kecamatan Panti, in Pasaman regency, West Sumatra. [@1,3,4,5,8,9,10,11] The two men, PD alias
 Sipon and Ilcan Prayono alias Teil aged 38, were local residents suspected of
-being involved in the cannabis trade. [@1,3,4,5,9,11] Both suspects are farmers by profession, and both live in Jorong Katimahar. [@5,7]
+being involved in the cannabis trade. [@1,3,4,5,9,11,12] Both suspects are farmers by profession, and both live in Jorong Katimahar. [@5,7]
 
 Officers seized nine packets believed to contain cannabis, seven large and two
 medium, plus a mobile phone and a motorcycle. [@1,4,5,6,8,10,11] This account gives the total seizure as 8 kilograms of cannabis. [@8] Kasat Resnarkoba Polres
@@ -145,4 +156,4 @@ meeting to another location in Jorong Katimahar. [@1,3,5,8,9,11] The handover fi
 At the planned transaction, the second suspect, IP, brought a large cannabis
 packet wrapped in brown tape from the motorcycle trunk and handed it to PD. [@2] The undercover officer, acting alone, had PD put the packet down under a seat to avoid suspicion, then left and called the standby team in for the ambush. [@5] Police then searched the home of IP alias Teil and found six large ganja packets wrapped in brown tape and two medium packets wrapped in black and red plastic. [@4,5]
 Officers seized a blue Realme mobile phone and an unnumbered black Suzuki
-Skywave motorcycle. [@2,5,7,11] Both suspects, with all the seized evidence, were held at Mapolres Pasaman for further legal process and were charged under Article 114 paragraph (1), subsidiarily Article 111 paragraph (1), of Law 35 of 2009 on Narcotics, in conjunction with Law 1 of 2023 and Law 1 of 2026. [@4,5]
+Skywave motorcycle. [@2,5,7,11] Both suspects, with all the seized evidence, were held at Mapolres Pasaman for further legal process and were charged under Article 114 paragraph (1), subsidiarily Article 111 paragraph (1), of Law 35 of 2009 on Narcotics, in conjunction with Law 1 of 2023 and Law 1 of 2026. [@4,5] Together the destroyed dried cannabis weighed 6,138.40 grams, about 6.13 kilograms. [@12] The second exhibit was eight packets of cannabis, six large and two medium wrapped in black and red plastic. [@12] The first exhibit was one large packet of cannabis wrapped in brown tape. [@12] Polres Pasaman destroyed the exhibits on 24 November 2026 at Lapangan Apel Sanika Satya Wada at Mapolres Pasaman. [@12]
