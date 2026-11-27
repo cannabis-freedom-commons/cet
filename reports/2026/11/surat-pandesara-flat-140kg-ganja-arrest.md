@@ -50,6 +50,10 @@ sources:
     url: https://www.ahmedabadmirror.com/surat-flats-turn-into-ganja-godowns-140-kg-seized/81926776.html
     publisher: Ahmedabad Mirror
     date: 2026-11-26
+  - title: Maharashtra Man Among Two Held After Gujarat Police Seize 140 kg Ganja Worth £70 Lakh - www.lokmattimes.com
+    url: https://www.lokmattimes.com/national/maharashtra-man-among-two-held-after-gujarat-police-seize-140-kg-ganja-worth-ps70-lakh-a001-w02/
+    publisher: Lokmat Times
+    date: 2026-11-26
 open_questions:
   - The incident date of 25 November 2026 is inferred from reports that the arrest happened on Wednesday with publication on 26 November 2026; no calendar date for the raid was stated.
   - The seizure weight and drug value differ slightly between accounts (140.36 kg and Rs 70.16 lakh in one, 140.390 kg and Rs 70.19 lakh in the other, with total goods of Rs 70,44,500), and the report uses the former.
@@ -57,13 +61,15 @@ open_questions:
   - The accused's surname is spelled Kamble in one account and Kamale in the other.
   - No court outcome, charges beyond the NDPS registration, or laboratory confirmation were reported.
   - Both accounts reproduce police statements and are not independent of the SOG account.
+  - It remains unclear whether Kamble's home taluka is Parola or Pachora.
+  - The seized mobile phone was valued at Rs 24,000 in one account and Rs 25,000 in another.
 ---
 
 Surat City Police's Special Operations Group seized ganja from a residential
-flat in Pandesara and arrested a 26-year-old man on Wednesday. [@1] The accused
+flat in Pandesara and arrested a 26-year-old man on Wednesday. [@1,3] The accused
 was identified as Rohit Chhotubhai Kamble, who was allegedly storing the
 contraband in a flat in Satyam Tower in Pramukh Park Society behind Mary Mata
-Public School in Pandesara. [@1] Kamble hails from Vichkhede village in Pachora
+Public School in Pandesara. [@1,3] Kamble hails from Vichkhede village in Pachora
 taluka of Jalgaon district in Maharashtra. [@1] Ahmedabad Mirror identifies the
 arrested man as 26-year-old Rohit Kamale, a Jalgaon native who runs a cable
 network business in Surat. [@2]
@@ -71,7 +77,7 @@ network business in Surat. [@2]
 Officers seized 140.36kg of ganja valued at Rs 70.16 lakh in the raid. [@1]
 Police also seized a mobile phone valued at Rs 24,000. [@1] The raided premises
 was flat number 2 in Satyam Tower-F, Pramukh Park Society, behind Mary Mata
-Public School, hit after technical surveillance and specific intelligence. [@2]
+Public School, hit after technical surveillance and specific intelligence. [@2,3]
 Ahmedabad Mirror reports the seizure as 140.390 kg of ganja worth Rs 70.19 lakh.
 [@2] Police seized goods worth Rs 70,44,500, including mobile phones. [@2]
 Police describe it as the biggest ganja seizure by the city SOG between 2022 and
@@ -84,8 +90,7 @@ at his residence and discreetly supplied it to customers in industrial areas.
 that he entered the illegal drug trade to earn easy money. [@1] Nakum described
 the operation as part of the police's zero-tolerance approach towards narcotics.
 [@1] The Times of India reports that Sunny had been arrested and the remaining
-accused would be apprehended soon. [@1] Ahmedabad Mirror reports that Sunny,
+accused would be apprehended soon. [@1,3] Ahmedabad Mirror reports that Sunny,
 Deepak and Vishal were named as accused and later arrested early on Wednesday
 morning. [@2] An offence under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act was registered at Bhestan police station. [@1]
-
+(NDPS) Act was registered at Bhestan police station. [@1,3]
