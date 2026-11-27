@@ -115,6 +115,11 @@ sources:
     publisher: Novosti-N
     date: 2026-11-21
     language: uk
+  - title: 'На Миколаївщині у 26-річного чоловіка вилучили кілька кілограмів канабісу: йому загрожує до 8 років ув’язнення'
+    url: https://kriminal.net.ua/news/18469na-mikola-vschin-u-26-r-chnogo-cholov-ka-viluchili-k-lka-k-logram-v-kanab-su-iomu-zagrozhu-do-8.html
+    publisher: Криминал
+    date: 2026-11-21
+    language: uk
 open_questions:
   - No exact weight was published; police said only several kilograms of dried and ground cannabis, so no kilogram figure is recorded.
   - No separate date was given for the search; 21 November 2026 is the date of the police statement and the news reports and is used as the incident date.
@@ -126,19 +131,19 @@ open_questions:
 
 Police in Mykolaiv Oblast detained a 26-year-old resident of the Novoodesa
 community and notified him of suspicion of illegally acquiring and possessing
-narcotic drugs in especially large quantities, without intent to sell. [@1,4,5,6,7,8,9]
+narcotic drugs in especially large quantities, without intent to sell. [@1,4,5,6,7,8,9,10]
 Investigators and officers from Police Department No. 6 of the Mykolaiv District
 Police Directorate carried out an authorised search of his home after receiving
 operational information, under the procedural supervision of the Mykolaiv
 District Prosecutor's Office. [@2,5,6,7,8]
 
 During the search, officers seized dried and ground cannabis from a utility room
-at the home, which police described as several kilograms. [@1,4,5,6,7,8,9] The man kept
-ready-to-use cannabis in glass jars and dried cannabis in boxes and crates. [@2,4,5,6,7,8,9]
+at the home, which police described as several kilograms. [@1,4,5,6,7,8,9,10] The man kept
+ready-to-use cannabis in glass jars and dried cannabis in boxes and crates. [@2,4,5,6,7,8,9,10]
 Police detained him under Article 208 of the Criminal Procedure Code of Ukraine
 and investigators notified him of suspicion under Part 3 of Article 309 of the
 Criminal Code. [@1,4,5,6,7,8]
 
-The offence carries a possible sentence of up to eight years in prison. [@3,4,5,6,7,8] A
+The offence carries a possible sentence of up to eight years in prison. [@3,4,5,6,7,8,10] A
 court was expected to decide on a preventive measure for the suspect soon, and
 the pre-trial investigation was ongoing. [@1,4,5,6,7,8]
