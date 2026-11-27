@@ -57,6 +57,11 @@ sources:
     publisher: El Informador
     date: 2026-11-04
     language: es
+  - title: Panamá ha decomisado más de tres toneladas de droga y capturado a 5,289 personas en operativos fronterizos
+    url: https://www.infobae.com/panama/2026/11/25/panama-ha-decomisado-mas-de-tres-toneladas-de-droga-y-capturado-a-5289-personas-en-operativos-fronterizos/
+    publisher: Infobae
+    date: 2026-11-25
+    language: es
 open_questions:
   - No weight for the 914 packages was published, only the package count, so no kilograms can be recorded.
   - The article gives no separate date for the operation; 3 November 2026 is its publication date and is used as the incident date.
@@ -70,7 +75,7 @@ open_questions:
 ---
 
 Panama’s border service detained two people in an anti-narcotics operation in
-Playa Muerto, in Darién province. [@1,2,3] The operation was carried out by
+Playa Muerto, in Darién province. [@1,2,3,4] The operation was carried out by
 antinarcotics units of the First Eastern Brigade of the National Border Service
 (Senafront), with support from the National Aeronaval Service and in
 coordination with the Public Ministry. [@1,2] The two people detained and all the
@@ -78,7 +83,7 @@ evidence collected were placed at the disposal of the competent authorities for
 investigation and judicial proceedings. [@1,2,3]
 
 During the intervention officers located 914 rectangular packages wrapped in
-adhesive tape, which are presumed to contain marijuana. [@1,2,3] Officers also
+adhesive tape, which are presumed to contain marijuana. [@1,2,3,4] Officers also
 seized mobile telephones, global positioning system (GPS) devices and a boat
 fitted with two outboard motors. [@1,2,3]
 
