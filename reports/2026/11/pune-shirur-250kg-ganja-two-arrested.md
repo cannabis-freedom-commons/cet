@@ -62,6 +62,10 @@ sources:
     publisher: Pudhari News
     date: 2026-11-26
     language: mr
+  - title: Pune Crime Branch Seizes 250 Kg Ganja In Shirur, Two Arrested
+    url: https://punemirror.com/city/pune/pune-crime-branch-250-kg-ganja-seized-shirur-two-arrested/
+    publisher: Pune Mirror
+    date: 2026-11-26
 media:
   - kind: photo
     url: https://pudhari.news/maharashtra/pune/shirur-police-seize-250-kg-ganja-worth-1-52-crore-sk04
@@ -72,21 +76,21 @@ media:
 
 On 25 November 2026, the Anti-Narcotics Squad-II of the Pune City Police Crime
 Branch arrested two men and seized 250 kg of ganja after a chase in the Shirur
-area. [@3,5] The accused were identified as 24-year-old Sameer Purushottam Raut of
+area. [@3,5,6] The accused were identified as 24-year-old Sameer Purushottam Raut of
 Sangol and 30-year-old Ajay Jagdish Mohite of Bagapur, both in Chandur Railway
-taluka of Amravati district. [@3] Raut works as a paver-block operator and
+taluka of Amravati district. [@3,6] Raut works as a paver-block operator and
 Mohite does furniture work. [@2,4] Officers intercepted their car in Shirur city
 and, after the pair abandoned it and fled into the dark, apprehended them in an
 open plot near Datt Mandir opposite the Satyabhama Niwas building in State Bank
 Colony. [@3,5] A case was registered against both men at Shirur Police Station,
 and further investigation is under way. [@3]
 
-During a search of the vehicle, police recovered 250 kg of ganja. [@3,5] Officials
+During a search of the vehicle, police recovered 250 kg of ganja. [@3,5,6] Officials
 announcing the seizure on Thursday said a sports utility vehicle was also seized
 with the ganja in Pune district. [@1] Police valued the seized ganja at Rs 1.25
 crore. [@2,4] Police also seized a Mahindra XUV 700 worth Rs 25 lakh and two
 mobile phones valued at Rs 1.20 lakh, putting the total seizure at Rs 1.51
-crore. [@2,4]
+crore. [@2,4,6]
 
 A team led by Police Inspector Jeevan Mane had been patrolling in the Loni
 Kalbhor police station area when it spotted a speeding white car near Kunjir
