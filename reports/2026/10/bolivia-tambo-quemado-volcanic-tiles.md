@@ -52,6 +52,7 @@ open_questions:
     - La Patria reported the operation's estimated value as about US$500,000, while EL DEBER and the FELCN gave US$582,550; both figures cover the whole load rather than the hashish alone.
     - The reports do not say where the container was loaded or who consigned it, and the possible onward destination of Brazil was described as preliminary.
     - All accounts reproduce statements from the FELCN and the Oruro prosecutor's office, so there is no independent description of the inspection.
+    - La Patria's 26 October 2026 account dates the operation to 23 October 2023, while the same article says the load was detected on 23-24 October; the year appears to be a typo.
 media:
   - kind: photo
     url: https://www.vision360.bo/noticias/2026/10/26/74283-baldosas-de-piedra-volcanica-fueron-utilizadas-para-transportar-mas-de-312-kilos-de-marihuana-desde-chile-a-santa-cruz
@@ -68,6 +69,11 @@ media:
     media_url: https://lapatria.bo/wp-content/uploads/2026/10/6ae25c9a55cff.jpg
     publisher: La Patria
     caption: 'The intercepted drugs photographed during the FELCN operation in Oruro, where more than 300 kilograms were seized. Photo: La Patria'
+  - kind: photo
+    url: https://lapatria.bo/enfoque-nacional/gestion/incautan-droga-oculta-piedra-volcanica-frontera-chile/
+    media_url: https://lapatria.bo/wp-content/uploads/2026/10/6adfe7f64ab9d.jpg
+    publisher: La Patria
+    caption: 'Volcanic stone tiles with irregularities that raised officers'' suspicions at the Tambo Quemado border seizure. Photo: FGE'
 sources:
   - title: Piedras volcánicas importadas de México llegaron con 300 kilos de hachís de marihuana
     url: https://eldeber.com.bo/oruro/piedras-volcanicas-importadas-mexico-llegaron-300-kilos-hachis-marihuana_1793236392
@@ -89,6 +95,11 @@ sources:
     publisher: La Patria
     date: 2026-10-28
     language: es
+  - title: Incautan droga oculta en piedra volcánica en frontera con Chile
+    url: https://lapatria.bo/enfoque-nacional/gestion/incautan-droga-oculta-piedra-volcanica-frontera-chile/
+    publisher: La Patria
+    date: 2026-10-26
+    language: es
 ---
 
 Bolivia's Special Force for the Fight against Drug Trafficking (FELCN) found the
@@ -96,13 +107,13 @@ drugs at the Tambo Quemado border control post in Oruro during operations on 23
 and 24 October 2026. [@2] At a joint press conference at the FELCN's Oruro headquarters, Vice-Minister Fernando Badani Villegas and FELCN director general Colonel Marcelo Andrés Núñez Rojas announced the operation, which formed part of the "Frontera Segura 2.0" plan. [@4] They were inside a container carrying 20 pallets of
 volcanic stone that had come from Mexico, passed through Chile and was bound for
 Santa Cruz de la Sierra. [@1,3,4] Officers noticed cracked tiles and broke them open
-to find packages hidden in pieces made to imitate the stone. [@1]
+to find packages hidden in pieces made to imitate the stone. [@1,5]
 
 The container held 312.25 kg of processed marijuana, sold as hashish, in 257
 packages, and 21 packages holding 18.2 kg of methamphetamine. [@1,4] Oruro's
 departmental prosecutor, Franz Villegas, said the driver, Pablo P., 48, had been
 detained and charged with drug trafficking aggravated by the volume transported.
-[@2] The FELCN also seized the tractor-trailer and a mobile phone. [@1]
+[@2,5] The prosecutor assigned to the case was Freddy Gonzalo Álvarez Condori. [@5] The FELCN also seized the tractor-trailer and a mobile phone. [@1]
 
 Vice-Minister for the Fight against Drug Trafficking Dorian Badani said the load
 was destined for Santa Cruz and possibly Brazil, and that investigators were still
@@ -110,4 +121,4 @@ establishing the route, the organisers and whether earlier imports used the same
 method. [@1,4] The FELCN put the economic impact at US$582,550 and said the case
 formed part of the "Frontera Segura 2.0" border plan. [@1,3] Early reports
 described the white substance as possibly cocaine; EL DEBER later reported that
-laboratory tests identified it as methamphetamine. [@1,2]
+laboratory tests identified it as methamphetamine. [@1,2,5]
