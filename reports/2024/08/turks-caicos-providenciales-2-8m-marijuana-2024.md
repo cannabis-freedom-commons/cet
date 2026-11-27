@@ -70,34 +70,30 @@ sources:
     url: https://www.haitilibre.com/en/news-43025-haiti-turks-and-caicos-217-haitian-migrants-intercepted-and-significant-seizure-of-marijuana.html
     publisher: HaitiLibre
     date: 2024-08-20
-open_questions:
-  - No weight in kilograms was published for either seizure; the amounts are street-value estimates, so no cannabis weight is recorded.
-  - The two values, US$131,660 and US$2,704,932, are added to the reported total of more than US$2 million; the sources give no combined figure beyond that phrase.
-  - NewslineTCI dates the Friday landing to 18 August, which conflicts with its own reference to Saturday as 17 August and with the police statement's 16 August; the police date is used.
-  - No arrests, charges or court outcome for suspected smugglers were reported; the 56 people detained were migrants in the two cannabis-related landings, and it is not reported whether any were held over the drugs.
-  - No cannabis weight, number of packages or vessel ownership was published, and the origin of the cannabis is unknown.
-  - HaitiLibre does not say whether the boat stopped near West Caicos on 18 August carried cannabis; that landing is not counted in the report's cannabis figures.
-  - The report's summary keeps the two-cannabis-landing count of 56 migrants; the 217 total covers all the interception attempts that weekend, not only the two drug seizures.
+  - title: Two Million Dollar Drug Bust
+    url: https://suntci.com/two-million-dollar-drug-bust-p11426-129.htm
+    publisher: Turks and Caicos SUN
+    date: 2024-08-26
 ---
 
 Royal Turks and Caicos Islands Police Force officers seized more than $2 million
 in cannabis sativa from vessels carrying undocumented migrants in two separate
-interceptions over the weekend of 16 and 17 August 2024. [@1]
+interceptions over the weekend of 16 and 17 August 2024. [@1,5]
 
 On Friday, 16 August 2024 at about 11:40 p.m., officers responded to a reported
-illegal migrant landing at Bird Rock on Providenciales. [@2] Fifteen migrants
+illegal migrant landing at Bird Rock on Providenciales. [@2,5] Fifteen migrants
 were detained there and searches around the landing site found cannabis sativa
-that police valued at US$131,660. [@2] Police officers went to a location in
-Jones Cay, where they found two vessels carrying migrants. [@2] Officers
+that police valued at US$131,660. [@2,5] Police officers went to a location in
+Jones Cay, where they found two vessels carrying migrants. [@2,5] The Marine Unit of the Royal Turks and Caicos Islands Police Force went to Jones Cay shortly after 5 p.m. on Saturday, 17 August 2024. [@5] Officers
 detained 41 people at Jones Cay, 32 men, six women and three minors, and seized
-cannabis sativa that police valued at US$2,704,932. [@2]
+cannabis sativa that police valued at US$2,704,932. [@2,5]
 
 NewslineTCI put the total at 56 migrants detained across the two
 cannabis-related interceptions. [@3] Police said the Border Force, the TCI
 Regiment and members of the public helped with the interceptions, and that the
-case remained an active investigation. [@2] Commissioner of Police Edvin Martin
+case remained an active investigation. [@2,5] Commissioner of Police Edvin Martin
 said trafficking contraband such as cannabis into the islands is an offence
-carrying serious penalties and that officers would pursue all leads. [@2]
+carrying serious penalties and that officers would pursue all leads. [@2,5]
 
 The Miami Herald reported that the two interceptions involved migrants coming
 from the northern coast of Haiti. [@1] The Herald said it was highly unusual for
