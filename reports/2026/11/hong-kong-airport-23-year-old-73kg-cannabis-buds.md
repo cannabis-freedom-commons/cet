@@ -73,21 +73,26 @@ sources:
     publisher: 點新聞 dotdotnews
     date: 2026-11-26
     language: zh
+  - title: 香港海關於機場檢獲約一百六十萬元懷疑大麻花（附圖）
+    url: https://www.info.gov.hk/gia/general/202611/26/P2026112600574.htm
+    publisher: Government of the Hong Kong Special Administrative Region
+    date: 2026-11-26
+    language: zh
 ---
 
 Hong Kong Customs detected a drug trafficking case at Hong Kong International
-Airport on 26 November 2026. [@1,3,4] Officers seized about 7.3 kilograms of
-suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4] The
+Airport on 26 November 2026. [@1,3,4,5] Officers seized about 7.3 kilograms of
+suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4,5] The
 suspect was a 23-year-old mainland Chinese man who had arrived from Bangkok,
-Thailand. [@1,3,4] Officers found the buds in his carry-on baggage during clearance
-and arrested him. [@1,3,4]
+Thailand. [@1,3,4,5] Officers found the buds in his carry-on baggage during clearance
+and arrested him. [@1,3,4,5]
 
-He was charged with one count of trafficking in a dangerous drug. [@2,3,4] The case
-was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4] Customs
+He was charged with one count of trafficking in a dangerous drug. [@2,3,4,5] The case
+was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4,5] Customs
 said it would keep selecting passengers from high-risk regions for clearance
 checks to combat cross-border drug trafficking. [@1,3,4] Trafficking in a dangerous
 drug carries a maximum penalty of a HK$5 million fine and life imprisonment
-under the Dangerous Drugs Ordinance. [@1,3,4] Customs said it would continue to step
+under the Dangerous Drugs Ordinance. [@1,3,4,5] Customs said it would continue to step
 up enforcement against drug trafficking through intelligence analysis. [@1,3,4] The
 department reminded travellers not to accept offers to carry controlled items
 into or out of Hong Kong or to carry unknown items for others. [@1,3]
