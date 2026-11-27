@@ -48,32 +48,28 @@ sources:
     url: https://www.usatoday.com/story/news/local/2020/02/07/guam-drugs-federal-crimes-customs/4688372002
     publisher: USA Today
     date: 2020-02-07
-open_questions:
-  - The article gives no date for the interception or the search warrant; 8 February 2020 is its publication date and stands in for the incident date.
-  - The substance is described as green leafy material that appeared to be marijuana, with no laboratory confirmation reported in the article.
-  - The article names no arrested person, no charge and no court outcome resulting from either mailing.
-  - The 1,469 gross grams is a gross weight that includes packaging, and it is the only cannabis figure stated.
-  - The about 50 grams of substance that tested presumptive positive for methamphetamine is not cannabis and is excluded from the figures.
-  - No separate Guam outlet or court filing release reporting this interception was found, and the Guam Daily Post version of the story could not be opened.
+  - title: 3 pounds of suspected marijuana, about 50 grams of meth seized from mail
+    url: https://www.detroitnews.com/story/news/local/2020/02/07/guam-drugs-federal-crimes-customs/4688372002/
+    publisher: The Detroit News
+    date: 2020-02-08
 ---
 
 Federal law enforcement authorities intercepted packages of drugs sent in the
-mail, according to recent filings at the District Court of Guam. [@1] Federal
+mail, according to recent filings at the District Court of Guam. [@1,3] Federal
 agents searched a letter with a California return address and a package listed
-with a Georgia return address. [@1]
+with a Georgia return address. [@1,3]
 
 A Guam Customs and Quarantine drug-detecting dog alerted officers to the
 package, which the search warrant said was postmarked in California although its
 return address was in Georgia. [@1] Inside the package, officials found about
 1,469 gross grams, or three pounds, of a green leafy substance that appeared to
-be marijuana, the search warrant stated. [@2]
+be marijuana, the search warrant stated. [@2,3]
 
 The same search also intercepted a letter addressed to someone in Inarajan,
 which the search warrant said held about 50 grams of a substance that tested
 presumptive positive for methamphetamine. [@1] When authorities opened the
 letter, they found about 50 grams of a white, crystalline substance that tested
-presumptive positive for methamphetamine, according to the search warrant. [@1]
+presumptive positive for methamphetamine, according to the search warrant. [@1,3]
 
 Postal inspectors have identified several states as known source states for
-mailed drugs, and California is one of them. [@1]
-
+mailed drugs, and California is one of them. [@1,3]
