@@ -66,32 +66,27 @@ sources:
     publisher: Upl.uz
     date: 2026-11-23
     language: ru
-open_questions:
-    - 'The quantity attributed to the interior ministry differs between accounts: 6 kg 352 g of unnamed drugs in one 23 November report and 6.35 kg of hashish in the ministry''s press-service account published by Upl.uz, while the security service gave 6 kg 342 g; the report uses the security service figure.'
-    - The interior ministry described the lorry journey from Afghanistan as planned, while the security service said the hashish had already been smuggled in among the chapans.
-    - The accounts do not say where the load crossed the border or whether a lorry was stopped.
-    - No figure was published for the amount in the sample given to the undercover buyer.
-    - The $15,000 was the price the seller asked, not an official valuation, so no value figure is recorded.
-    - No detention measure, plea or court date was reported.
-    - All the accounts reproduce statements from the interior ministry or the security service, so there is no independent reporting.
-    - The interior ministry's press service said internal affairs officers carried out the operation with the security service's assistance, while the security service account has the security service leading it.
+  - title: Afghan citizen arrested in Surkhandarya smuggling 6 kg of “hashish” in chapan (video) | Qalampir.uz
+    url: https://qalampir.uz/en/news/surkhondareda-6-kg-gashish-ni-chopon-orasiga-yashirib-olib-kirgan-afgonistonlik-ushlandi-146992
+    publisher: Qalampir.uz
+    date: 2026-11-26
 ---
 
 State Security Service officers detained an Afghan citizen at the Termez
 International Trade Centre on 17 November 2026 as he tried to sell hashish. [@1]
 The security service said the man was born in 1986 and had been kept under
-surveillance before the operation. [@2] The operation was run by the security
+surveillance before the operation. [@2,5] The operation was run by the security
 service with internal affairs officers and customs. [@2] The interior ministry
 said the operation was part of the “Safe and Healthy Country” campaign. [@1]
 
-The security service put the hashish at 6 kg 342 g. [@2] The interior ministry's
+The security service put the hashish at 6 kg 342 g. [@2,5] The interior ministry's
 23 November account gave 6 kg 352 g of drugs without naming the substance. [@1]
-He was asking $15,000 for the consignment. [@3,4] The interior ministry said he
+He was asking $15,000 for the consignment. [@3,4,5] The interior ministry said he
 had planned to bring more than 6 kg from Afghanistan in a lorry, hiding it among
 Afghan traditional coats. [@1] Before the sale he had given a sample to an
 undercover buyer and agreed to supply a larger consignment. [@1]
 
 He was taken in the act during the sale. [@3,4] A criminal case was opened against
 him under part 2 of Article 246, smuggling, and part 6 “a” of Article 273,
-large-scale illegal sale of drugs. [@2] Investigative actions were under way.
+large-scale illegal sale of drugs. [@2,5] Investigative actions were under way.
 [@2,4]
