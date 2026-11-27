@@ -69,6 +69,10 @@ sources:
     url: https://hirunews.lk/goldfmnews/502460/national-dangerous-drugs-control-board-warns-of-rising-ice-use-and-related-drug-problems-in-sri-lanka
     publisher: Gold FM News
     date: 2026-11-23
+  - title: Three, including two excise officers arrested for smuggling cannabis in Hambegamuwa
+    url: https://www.msn.com/en-xl/asia/srilanka/three-including-two-excise-officers-arrested-for-smuggling-cannabis-in-hambegamuwa/ar-AA2i7sgU
+    publisher: MSN (Daily News Sri Lanka)
+    date: 2026-11-24
 open_questions:
     - Whether the two Excise officers belonged to the Colombo Special Raids Unit or the Colombo Excise Special Investigation Unit is unclear; accounts differ.
     - 'The suspects'' ages differ between accounts: two officers of 31 and a third suspect of 32, against all three described as 32.'
@@ -78,16 +82,16 @@ open_questions:
 
 Police in Hambegamuwa, Thanamalwila, arrested three suspects, including two
 Excise Department officers, on suspicion of transporting dried cannabis in a
-car. [@1,4,5,6] The two officers, both aged 31, are attached to the Colombo Excise Special Investigation Unit and are residents of Bibile and Ampara; the third suspect, a 32-year-old from Bibile, was also arrested. [@4] The arrests were made during a round-up carried out by officers of the
-Hambegamuwa Police Station in the area. [@1] The arrests were made on the night of 22 November 2026 during a raid in the Rathambalagama area of Hambegamuwa, after a tip-off to the Hambegamuwa Police officer in charge. [@4] When officers stopped and searched
-a car, they seized 43 kilograms and 200 grams of dried cannabis from it. [@1,4,5,6] The car was travelling from the direction of Ampara when Hambegamuwa Police stopped it. [@6]
+car. [@1,4,5,6] The two officers, both aged 31, are attached to the Colombo Excise Special Investigation Unit and are residents of Bibile and Ampara; the third suspect, a 32-year-old from Bibile, was also arrested. [@4,7] The arrests were made during a round-up carried out by officers of the
+Hambegamuwa Police Station in the area. [@1] The arrests were made on the night of 22 November 2026 during a raid in the Rathambalagama area of Hambegamuwa, after a tip-off to the Hambegamuwa Police officer in charge. [@4,7] The tip-off that led to the operation went to the officer in charge of Hambegamuwa Police Station, Inspector Thushara Sampath. [@7] When officers stopped and searched
+a car, they seized 43 kilograms and 200 grams of dried cannabis from it. [@1,4,5,6,7] The car was travelling from the direction of Ampara when Hambegamuwa Police stopped it. [@6]
 
 The Excise officers in the car told police that the cannabis was the stock they
 had seized during a raid of their own. [@2,4,5] One of the arrested men initially claimed to have acted as an informant for the raid, a claim investigators found to be false. [@6] The officers said they were taking the stock to the Excise office in Monaragala. [@4] Further police investigations found
 no information that such a raid had taken place or that legal authorisation had
-been obtained to transport the cannabis. [@2,4,5,6] Police said they uncovered information suggesting that the suspects had used their official positions and identity cards to traffic cannabis. [@4] Police arrested the two Excise
+been obtained to transport the cannabis. [@2,4,5,6,7] Police said they uncovered information suggesting that the suspects had used their official positions and identity cards to traffic cannabis. [@4] Police arrested the two Excise
 officers and the other suspect after those checks. [@2,5]
 
 The suspects were to be produced before the Wellawaya Magistrate's Court on 23
-November 2026. [@3,4,5] Hambegamuwa Police are continuing their investigations into
+November 2026. [@3,4,5,7] Hambegamuwa Police are continuing their investigations into
 the incident. [@3,4,5]
