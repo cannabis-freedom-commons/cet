@@ -129,6 +129,11 @@ sources:
     url: https://www.bangkokpost.com/thailand/general/3359445/police-arrest-weed-shop-staff-over-licence-breach
     publisher: Bangkok Post
     date: 2026-11-23
+  - title: ลุยจัดระเบียบร้านกัญชาต่อเนื่อง สั่งพักใช้ใบอนุญาตแล้ว 105 ราย - The Bangkok Insight
+    url: https://www.thebangkokinsight.com/news/politics-general/general/1723209/
+    publisher: The Bangkok Insight
+    date: 2026-11-23
+    language: th
 ---
 
 Phuket provincial officials led by deputy governor Romdon Haji-Awae raided a
@@ -140,13 +145,13 @@ of preliminary charges. [@1,7,10,12] Many foreign tourists were eating and drink
 inside the large venue, which had VIP rooms for customers. [@1]
 
 Officers seized high-quality cannabis flowers that officials valued at more than
-2 million baht. [@1,5,6,7,8,9,10,11,12] The shop's cannabis licence had been suspended for 90 days
+2 million baht. [@1,5,6,7,8,9,10,11,12,13] The shop's cannabis licence had been suspended for 90 days
 from 23 October 2026 because it had not met service conditions, including
-selling without a doctor's prescription. [@2,5,6,7,8,10,11,12] Officers also found hash cannabis
+selling without a doctor's prescription. [@2,5,6,7,8,10,11,12,13] Officers also found hash cannabis
 extract, which the province said would be examined over whether it fell under
 narcotics law. [@1,7,9,10] The shop was also selling alcohol outside permitted hours
 and cannabis-infused food products without a food registration number or the
-required labelling. [@2,5,6,7,8,9,10,11]
+required labelling. [@2,5,6,7,8,9,10,11,13]
 
 The three employees were accused of jointly selling controlled cannabis flowers
 while the licence was suspended under the Protection and Promotion of Thai
