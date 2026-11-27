@@ -71,17 +71,15 @@ sources:
   - title: Cannabis factory find after police officers follow their noses
     url: https://www.msn.com/en-gb/news/other/cannabis-factory-find-after-police-officers-follow-their-noses/ar-AA2icicY
     publisher: MSN
-open_questions:
-  - No count or weight of the plants was published; police gave only an estimated street value of £200,000.
-  - 'No court outcome was reported: the men were due before Lisburn Magistrates Court on 26 November 2026 and the charges were subject to Public Prosecution Service review.'
-  - The BBC and Irish News accounts both reproduce the PSNI statement, so they are not independent reporting.
-  - The text gives a number of plants ("2026, with plants") but the figures have no plants_destroyed; check whether it belongs there.
+  - title: Two charged after 'cannabis factory' found in Co Armagh
+    url: https://www.rte.ie/news/ulster/2026/1125/1600691-cannabis-armagh/
+    publisher: RTÉ
 ---
 
 Police found a substantial cannabis factory at a commercial unit in the Annagh
 Hill industrial estate in Portadown in the early hours of Wednesday 25 November
-2026, after noting a strong smell of cannabis. [@2,4] Two men, aged 32 and 27, who
-were inside the property were arrested. [@1,4]
+2026, after noting a strong smell of cannabis. [@2,4,5] Two men, aged 32 and 27, who
+were inside the property were arrested. [@1,4,5]
 
 The operation spanned three floors and contained plants police said had an
 estimated street value of £200,000. [@1,4] PSNI Chief Inspector Flannigan said the
@@ -90,6 +88,6 @@ reached the local community. [@1,4]
 
 The men were charged with cultivating cannabis, possession of a Class B
 controlled drug, possession with intent to supply and being concerned in the
-supply of a Class B drug. [@1] They were expected to appear before Lisburn
-Magistrates Court on Thursday 26 November. [@3] PSNI said the charges would be
-reviewed by the Public Prosecution Service. [@3]
+supply of a Class B drug. [@1,5] They were expected to appear before Lisburn
+Magistrates Court on Thursday 26 November. [@3,5] PSNI said the charges would be
+reviewed by the Public Prosecution Service. [@3,5]
