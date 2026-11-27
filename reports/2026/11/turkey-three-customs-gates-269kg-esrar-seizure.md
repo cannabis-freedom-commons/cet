@@ -66,6 +66,11 @@ sources:
     publisher: Aksiyon
     date: 2026-11-24
     language: tr
+  - title: 3 gümrük kapısında zehir tacirlerine darbe! 390 kilo uyuşturucu ele geçirildi
+    url: https://www.aksam.com.tr/guncel/3-gumruk-kapisinda-zehir-tacirlerine-darbe-390-kilo-uyusturucu-ele-gecirildi/haber-1716936
+    publisher: Akşam
+    date: 2026-11-24
+    language: tr
 open_questions:
   - No separate date was given for the three searches; 24 November 2026 is the Trade Ministry announcement and publication date used here.
   - The 121.4 kg of methamphetamine found in the Gürbulak tanker is outside the tracker's scope and is excluded from the cannabis figure.
@@ -77,22 +82,21 @@ open_questions:
 ---
 
 Turkey's Trade Ministry said customs protection teams carried out three
-operations at customs gates in Ağrı and Edirne. [@1] The operations were part of
+operations at customs gates in Ağrı and Edirne. [@1,4] The operations were part of
 the fight against drug smuggling and covered the Gürbulak, Hamzabeyli and
 Kapıkule gates. [@1] Investigations into the incidents continued at the
-Doğubayazıt and Edirne chief public prosecutor's offices. [@1] The ministry said
+Doğubayazıt and Edirne chief public prosecutor's offices. [@1,4] The ministry said
 in a written statement that it was fighting all forms of smuggling that
 threatened public health and particularly targeted young people. [@2] The
 statement said its customs teams were denying drug traffickers passage through
 successful operations. [@2]
 
 At the Gürbulak gate in Ağrı, a tanker flagged by risk analysis was sent for a
-detailed search. [@1] The search found 121.4 kg of methamphetamine and 150.35 kg
-of esrar, a cannabis resin, a combined 271.75 kg of drugs. [@1] At Hamzabeyli, a
+detailed search. [@1,4] The search found 121.4 kg of methamphetamine and 150.35 kg
+of esrar, a cannabis resin, a combined 271.75 kg of drugs. [@1,4] At Hamzabeyli, a
 suspect truck was X-rayed and, after detector dog Anti reacted, 74.898 kg of
-esrar hidden inside was recovered. [@1] At Kapıkule, a truck arriving to enter
+esrar hidden inside was recovered. [@1,4] At Kapıkule, a truck arriving to enter
 Turkey was checked with under-vehicle imaging and X-ray, and a search with
-detector dog Smoke found 43.84 kg of esrar. [@1] The three operations yielded
+detector dog Smoke found 43.84 kg of esrar. [@1,4] The three operations yielded
 390 kg 488 g of drugs in total. [@1] A separate account put the cannabis total
 across the three gates at 269 kg 88 g. [@3]
-
