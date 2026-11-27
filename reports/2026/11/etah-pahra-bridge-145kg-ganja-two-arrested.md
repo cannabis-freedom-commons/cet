@@ -57,30 +57,35 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-22
     language: hi
-open_questions:
-    - No separate date or time for the interception was reported, so 22 November 2026 is the publication date used as the incident date.
-    - No charge, case number, court production or remand outcome was reported.
-    - The 75-lakh-rupee figure is the authorities' estimated international-market value, not an independently verified price.
-    - All three accounts relay the same ANTF and police statement, with no independent investigation reported.
+  - title: 'Etah News: ओडिशा से कैंटर में गांजा भरकर दिल्ली-एनसीआर में खपाने जा रहे थे 145 किलो गांजे के साथ दो तस्कर किए गिरफ्तार'
+    url: https://www.amarujala.com/uttar-pradesh/etah/two-smugglers-were-arrested-with-145-kg-of-cannabis-which-they-were-transporting-from-odisha-in-a-canter-truck-intending-to-distribute-it-in-the-delhi-ncr-region-etah-news-c-163-1-eta1004-160600-2026-11-22
+    publisher: Amar Ujala
+    date: 2026-11-22
+    language: hi
+  - title: उड़ीसा से दिल्ली-एनसीआर में गांजा तस्करी का पर्दाफाश, 145 किलो से अधिक मादक पदार्थ बरामद
+    url: https://samajjagran.in/etah-145-kg-ganja-seized-two-smugglers-arrested
+    publisher: Samaj Jagran
+    date: 2026-11-23
+    language: hi
 ---
 
 A joint team of the ANTF operational unit Meerut and Raja ka Rampur police
-arrested two smugglers. [@1,3] The arrested men were Premnarayan alias Bunty, son
+arrested two smugglers. [@1,3,4] The arrested men were Premnarayan alias Bunty, son
 of Satyaprakash, and Ankit, son of Dharampal, both of Toli village in the
-Sikandra Rao area of Hathras district. [@1] Police arrested the two canter
+Sikandra Rao area of Hathras district. [@1,4] Police arrested the two canter
 riders on the spot. [@1,2]
 
-A search of the canter yielded 145 kg 610 g of ganja. [@1,2,3] Police also seized the canter used for smuggling, a mobile phone and 5,000 rupees in cash. [@3] Police put the
-estimated international-market value of the ganja at about 75 lakh rupees. [@1,2,3]
+A search of the canter yielded 145 kg 610 g of ganja. [@1,2,3,5] Police also seized the canter used for smuggling, a mobile phone and 5,000 rupees in cash. [@3] Police put the
+estimated international-market value of the ganja at about 75 lakh rupees. [@1,2,3,4]
 The accused told questioning officers that the consignment belonged to Golu
-alias Golak of Delhi. [@1] Golu had loaded the ganja in Odisha for delivery at
+alias Golak of Delhi. [@1,4] Golu had loaded the ganja in Odisha for delivery at
 his stated hideout in Delhi-NCR. [@1] The pair were promised 50,000 rupees in
-cash plus diesel and full travel expenses for the run. [@1]
+cash plus diesel and full travel expenses for the run. [@1,4]
 
 The team cordoned the area near Pahra bridge on the Aliganj-Patiali road and
-stopped the suspicious canter. [@1] ASP Shwetabh Pandey said the Meerut ANTF
+stopped the suspicious canter. [@1,4] ASP Shwetabh Pandey said the Meerut ANTF
 unit and Raja ka Rampur police had received a tip that a canter was carrying a
 heavy quantity of ganja from Odisha to Delhi-NCR. [@1] Station house officer
 Rohit Rathi and ANTF sub-inspector Lokendra Kumar took part with their teams.
 [@1] Police are now searching for alleged ringleader Golu and tracing others
-linked to the network. [@1]
+linked to the network. [@1] A first information report was registered at Raja ka Rampur police station under the NDPS Act. [@4]
