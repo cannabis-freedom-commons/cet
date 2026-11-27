@@ -43,6 +43,11 @@ media:
     media_url: https://cdn1.douradosnews.com.br/Folder/2026/11/7fc96087-0e9a-4ac9-b79d-77976be7786b/conversions/whatsapp-image-2026-11-24-at-152356-large.webp
     publisher: Dourados News
     caption: 'Seized marijuana load from the BR-060 action. Photo: DOF'
+  - kind: photo
+    url: https://www.regiaonews.com.br/sidrolandia-ms/fuga-pela-contramao-termina-com-apreensao-de-1-280-quilos-de-maconha-em-sidrolandia
+    media_url: https://cdn.regiaonews.com.br/uploads/noticias/2026/11/26/6mlvgx8ksz8p.jpg
+    publisher: Região News
+    caption: 'The Fiat Toro pickup loaded with 1,280 kg of marijuana seized by DOF after the BR-060 pursuit. Photo: Divulgação/DOF'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 9870a8a22683589f1e0a314ba1b2af3f
@@ -53,32 +58,36 @@ sources:
     publisher: Dourados News
     date: 2026-11-24
     language: pt
+  - title: Fuga pela contramão termina com apreensão de 1.280 quilos de maconha em Sidrolândia
+    url: https://www.regiaonews.com.br/sidrolandia-ms/fuga-pela-contramao-termina-com-apreensao-de-1-280-quilos-de-maconha-em-sidrolandia
+    publisher: Região News
+    date: 2026-11-26
+    language: pt
 open_questions:
-  - The driver was not named, and no charge or court outcome beyond referral to the Civil Police station was reported.
-  - No kilometre marker was given, so the exact spot of the roadblock, crash and arrest on the BR-060 near the Sidrolandia access is unknown.
-  - The whole account rests on a single report reproducing the DOF statement, with no independent second outlet located.
+    - No charge or court outcome beyond the custody hearing scheduled for 26 November 2026 was reported.
+    - No kilometre marker was given, so the exact spot of the roadblock, crash and arrest on the BR-060 near the Sidrolandia access is unknown.
+    - Both accounts reproduce the DOF statement, so the reporting is not independent even though two outlets carried it.
 ---
 
 Military police officers of the DOF seized 1,280 kg of maconha on the BR-060 in
 Sidrolandia on 24 November 2026. [@1] A 28-year-old man was arrested while
-transporting the marijuana in a Fiat Toro pickup. [@1] Officers manning a
+transporting the marijuana in a Fiat Toro pickup. [@1,2] The driver was identified as Wellington Arruda Amorim, 28. [@2] Officers manning a
 roadblock ordered the driver to stop, and he disobeyed and fled toward the town.
 [@1] During the pursuit he drove at high speed and repeatedly entered the
-opposite lane, endangering other road users. [@1] Near the Sidrolandia access
+opposite lane, endangering other road users. [@1,2] Near the Sidrolandia access
 junction he lost control of the pickup, left the road and struck tree trunks and
-piles of sand. [@1] He then abandoned the vehicle and tried to escape on foot
-through a soybean field, but officers caught and arrested him. [@1]
+piles of sand. [@1,2] He then abandoned the vehicle and tried to escape on foot
+through a soybean field, but officers caught and arrested him. [@1,2] He said he had no personal documents and threw his mobile phone into the plantation while fleeing. [@2]
 
 The suspect said he had received the pickup already loaded with the drug near
-Antonio Joao. [@1] He said he would be paid R$10,000 to carry the load to Campo
-Grande. [@1] Checks showed the Fiat Toro wore false plates and was recorded as
-stolen in Presidente Prudente, Sao Paulo state, in May of that year. [@1]
-Officers seized a total of 1,280 kg of marijuana from the vehicle. [@1] Police
+Antonio Joao. [@1,2] He said he would be paid R$10,000 to carry the load to Campo
+Grande. [@1,2] Checks showed the Fiat Toro wore false plates and was recorded as
+stolen in Presidente Prudente, Sao Paulo state, in May of that year. [@1,2] Officers also seized a Starlink Mini antenna with cable and the plate fitted to the pickup. [@2]
+Officers seized a total of 1,280 kg of marijuana from the vehicle. [@1] The 1,280 kg was divided into 914 tablets. [@2] Police
 estimated the operation cost the criminal organizations R$2.7 million. [@1] The
 man, the pickup and the drug were taken to the Civil Police station in
-Sidrolandia for legal procedures. [@1]
+Sidrolandia for legal procedures. [@1,2] He was due to appear at a custody hearing on Thursday 26 November. [@2]
 
 The operation was recorded under Operacao Protetor das Fronteiras e Divisas, a
 partnership between the Mato Grosso do Sul justice and public security
 secretariat and the federal justice and public security ministry. [@1]
-
