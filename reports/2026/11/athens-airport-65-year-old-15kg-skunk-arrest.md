@@ -70,6 +70,11 @@ sources:
     publisher: eKathimerini.com
     date: 2026-11-21
     language: en
+  - title: В аэропорту Афин задержали предполагаемого члена международной наркомафии с 15 кг каннабиса - NEWS.am
+    url: https://news.am/ru/news/1076474
+    publisher: NEWS.am
+    date: 2026-11-23
+    language: ru
 open_questions:
   - No charge, court appearance or detention decision was reported; the case was at the investigation stage.
   - No estimated value was published for the cannabis.
@@ -80,9 +85,9 @@ open_questions:
 ---
 
 A 65-year-old Greek man was arrested in the early hours of Saturday 21 November
-2026 at Athens International Airport 'Eleftherios Venizelos'. [@1,4] He had
-travelled from Barcelona. [@2,4] Police described him as a member of an
-international criminal group that imported cannabis into Greece by air. [@1,4] The
+2026 at Athens International Airport 'Eleftherios Venizelos'. [@1,4,5] He had
+travelled from Barcelona. [@2,4,5] Police described him as a member of an
+international criminal group that imported cannabis into Greece by air. [@1,4,5] The
 arrest was made by officers of the Narcotics Subdirectorate of the Directorate
 for Organized Crime. [@1] The man was identified during targeted checks and
 profiling at the airport's narcotics department. [@1]
@@ -90,7 +95,7 @@ profiling at the airport's narcotics department. [@1]
 In his luggage officers found two packages of raw hydroponic cannabis, known in
 Greece as skunk, with a total gross weight of 15 kilograms and 200 grams. [@1,4] Customs officials carried out the inspection that found the two packages, police said. [@4]
 Police said he intended to distribute the drug further. [@1] Officers also
-seized 100 euros, 4,200 Albanian lek and a mobile phone. [@1,4] The 4,200 Albanian lek seized was worth about 47 euros. [@4]
+seized 100 euros, 4,200 Albanian lek and a mobile phone. [@1,4,5] The 4,200 Albanian lek seized was worth about 47 euros. [@4]
 
 The man had previously been in trouble with police over violations of
-foreigners' legislation. [@1,4] He was taken to the competent prosecutor. [@3,4]
+foreigners' legislation. [@1,4,5] He was taken to the competent prosecutor. [@3,4,5]
