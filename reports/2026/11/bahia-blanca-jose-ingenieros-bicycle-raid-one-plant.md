@@ -61,6 +61,11 @@ sources:
     publisher: 0291 Noticias
     date: 2026-11-22
     language: es
+  - title: Allanaron una vivienda, secuestraron partes de una moto y encontraron marihuana
+    url: https://www.bhinfo.com.ar/noticia/30153-Allanaron_una_vivienda_secuestraron_partes_de_una_moto_y_encontraron_marihuana-00102026
+    publisher: BHInfo
+    date: 2026-11-22
+    language: es
 open_questions:
   - Neither account gives a separate date for the raid; 22 November 2026 is the publication date and is used as the incident date.
   - One account gives the address as José Ingenieros al 2200 and the other as José Ingenieros 2219.
@@ -72,8 +77,8 @@ open_questions:
 ---
 
 Police in Bahía Blanca raided a house on José Ingenieros al 2200 as part of an
-investigation into a bicycle stolen on 8 November 2026. [@1] Officers arrested a
-39-year-old man, Sebastián Ceballos, during the raid. [@1] The Second Police
+investigation into a bicycle stolen on 8 November 2026. [@1,3] Officers arrested a
+39-year-old man, Sebastián Ceballos, during the raid. [@1,3] The Second Police
 Station's Technical Operations Group (GTO, a police investigations unit), guard
 officers and the Departmental Support Group (GAD) carried out the search, which
 Guarantee Court No. 1 of the Bahía Blanca judicial department had ordered. [@1]
@@ -81,10 +86,9 @@ Guarantee Court No. 1 of the Bahía Blanca judicial department had ordered. [@1]
 Officers seized clothing that may have been used in the bicycle theft. [@1] They
 also found the frame and engine of a Gilera Smash motorcycle that was wanted in
 another case handled by the Fourth Police Station, and Ceballos was accused of
-concealment over it. [@1] One marijuana plant was found in the house, and a
+concealment over it. [@1,3] The seized motorcycle parts carried domain 306FCU, which had an active seizure order. [@3] One marijuana plant was found in the house, and a
 second accusation was opened against him under Law 23.737, Argentina's drug law.
-[@1]
+[@1,3]
 
 Units No. 7 and No. 19 of the Bahía Blanca judicial department are handling the
-case. [@1] The bicycle was stolen on Calle 12 de Octubre on 8 November. [@2]
-
+case. [@1,3] The bicycle was stolen on Calle 12 de Octubre on 8 November. [@2]
