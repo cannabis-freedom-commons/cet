@@ -38,25 +38,46 @@ sources:
     publisher: Zory.com.pl
     date: 2026-11-23
     language: pl
+  - title: Dwa zatrzymania za narkotyki w Żorach. Alfa-PVP i marihuana • www.tuZory.pl
+    url: https://www.tuzory.pl/wiadomosci,jeden-mial-alfe-drugi-marihuane-dwoje-zorzan-zatrzymanych,wia5-3266-29377.html
+    publisher: tuŻory.pl
+    date: 2026-11-23
+    language: pl
+  - title: Policjanci z Żor zatrzymali dwóch mężczyzn z narkotykami. Jeden miał przy sobie „zombie”, drugi „trawkę”
+    url: https://www.radio90.pl/policjanci-z-zor-zatrzymali-dwoch-mezczyzn-z-narkotykami-jeden-mial-przy-sobie-zombie-drugi-trawke.html
+    publisher: Radio 90
+    date: 2026-11-23
+    language: pl
 open_questions:
-  - No precise weight was published for the marijuana, described only as several grams, so no cannabis weight is recorded.
-  - 21 November 2026 is inferred from a Saturday evening stop reported on 23 November 2026; no calendar date for the stop was stated.
-  - No charges, detention measure or court outcome were reported; the circumstances were still subject to further proceedings.
-  - The same weekend account reports a separate detention on Dąbrowskiego Street involving Alfa-PVP, a different event left out here.
-  - The account rests on a single local report citing the Żory municipal police, with no independent corroboration.
+    - No precise weight was published for the marijuana, described only as several grams, so no cannabis weight is recorded.
+    - 21 November 2026 is inferred from a Saturday evening stop reported on 23 November 2026; no calendar date for the stop was stated.
+    - No charges, detention measure or court outcome were reported; the circumstances were still subject to further proceedings.
+    - The same weekend account reports a separate detention on Dąbrowskiego Street involving Alfa-PVP, a different event left out here.
+    - All accounts of the stop relay the same Żory municipal police statement, with no independent reporting.
+media:
+  - kind: photo
+    url: https://www.tuzory.pl/wiadomosci,jeden-mial-alfe-drugi-marihuane-dwoje-zorzan-zatrzymanych,wia5-3266-29377.html
+    media_url: https://www.tuzory.pl/images/galbig3/news/29377/narkotyki-zory-02-1795427680.jpg.jpg
+    publisher: tuŻory.pl
+    caption: 'Police handout photo of the two men detained in Żory. Photo: KMP Żory'
+  - kind: photo
+    url: https://www.tuzory.pl/wiadomosci,jeden-mial-alfe-drugi-marihuane-dwoje-zorzan-zatrzymanych,wia5-3266-29377.html
+    media_url: https://www.tuzory.pl/htimg/display/og/?relativePath=/news/29377/narkotyki-zory_6b040f178cf948_62135582.jpg
+    publisher: tuŻory.pl
+    caption: 'Second police handout photo from the Żory drug detentions. Photo: KMP Żory'
 ---
 
 Żory municipal police stopped a car on Jastrzębska Street in Żory on Saturday at
-about 22:00 and found several grams of marijuana on a 19-year-old man. [@1]
+about 22:00 and found several grams of marijuana on a 19-year-old man. [@1,2,3]
 Officers had noticed the smell of intoxicants coming from inside the vehicle.
-[@1] Officers decided to examine the car more closely. [@1] A search then
-revealed several grams of marijuana on the 19-year-old. [@1]
+[@1,2] Officers decided to examine the car more closely. [@1] A search then
+revealed several grams of marijuana on the 19-year-old. [@1,2]
 
 Komenda Miejska Policji w Żorach, the municipal police headquarters in Żory,
 provided the information behind the account. [@1] The 19-year-old was detained
-after the drugs were found. [@1] No information had yet been reported about
+after the drugs were found. [@1,2] No information had yet been reported about
 possible charges or further procedural decisions. [@1] The circumstances in
-which the substances were found remained subject to further proceedings. [@1]
+which the substances were found remained subject to further proceedings. [@1,2]
 The two reported interventions took place in the night from Friday to Saturday
 and on Saturday evening. [@1]
 
@@ -65,4 +86,3 @@ punishable by up to three years of imprisonment. [@1] That liability is provided
 for by Article 62 of the law on counteracting drug addiction. [@1] Cases of
 lesser weight may receive a milder penalty, while possession of a significant
 quantity is punishable by one to ten years of imprisonment. [@1]
-
