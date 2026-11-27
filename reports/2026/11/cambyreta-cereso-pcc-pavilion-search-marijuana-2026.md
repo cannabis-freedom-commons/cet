@@ -79,27 +79,23 @@ sources:
     publisher: Más Encarnación
     date: 2026-11-20
     language: es
-open_questions:
-  - ABC Color reported about 90 doses of chopped marijuana, while Última Hora reported 76 doses and 179.1 grams of pressed marijuana, with no explanation for the difference.
-  - No weight was published for the doses, so the cannabis seized weighed more than the 179.1 grams of pressed marijuana recorded.
-  - The marijuana was not laboratory-confirmed; the government statement described it only as suspected.
-  - The 2.73 grams of cocaine found in the same search are excluded from the cannabis figures.
-  - No arrests, charges or disciplinary measures over the suspected complicity of prison guards were reported.
-  - The government statement locates the search at the Penitenciaría Regional de Encarnación, while ABC Color calls it the Penitenciaría Nacional de Cambyretá; the Cereso is in Cambyretá district, Itapúa.
-  - 'Accounts differ on the bladed weapons: ABC Color lists 25 daggers, six kitchen knives and 13 stilettos, while Última Hora lists 25 homemade bladed weapons and 13 stilettos.'
-  - Whether prosecutors opened a formal investigation after the search was not reported.
+  - title: Incautan armas, celulares y drogas durante requisa sorpresa en el Cereso
+    url: https://prensamercosur.org/2026/11/21/incautan-armas-celulares-y-drogas-durante-requisa-sorpresa-en-el-cereso/
+    publisher: Prensa Mercosur
+    date: 2026-11-21
+    language: es
 ---
 
 At about 06:00 on Friday 20 November 2026, prison guards and National Police
 officers entered Pavilion A Baja, the block reserved for members of the
 Brazilian gang Primeiro Comando da Capital, at the Cereso prison in Cambyretá,
-Itapúa department. [@1] The pavilion held 78 inmates, most of them Brazilians,
+Itapúa department. [@1,5] The pavilion held 78 inmates, most of them Brazilians,
 with some Paraguayans. [@4] The prison director said such searches usually find
 homemade alcohol, handmade weapons and other items that pose a risk inside the
 prison. [@4]
 
 ABC Color reported that officers found about 90 doses (toquitos) of chopped
-marijuana. [@1] Última Hora reported 179.1 grams of pressed marijuana and 76
+marijuana. [@1,5] Última Hora reported 179.1 grams of pressed marijuana and 76
 doses packed in polyethylene bags. [@2] Officers also seized two precision
 scales, which are normally used to distribute drugs at retail. [@1] The search
 turned up 25 homemade daggers, six kitchen knives, 13 stilettos, 12 mobile
@@ -111,9 +107,8 @@ Prosecutor Zulma Britos led the search, with Itapúa prevention and security
 agents, the GEO special operations group, the anti-narcotics department and
 prison officers. [@2] The justice ministry said the search was carried out under
 Circular 31/26, which orders intermittent, surprise and random searches in
-prisons. [@3] The ministry said it would keep carrying out preventive searches
+prisons. [@3,5] The ministry said it would keep carrying out preventive searches
 to stop prohibited items entering and circulating in prisons. [@3] Police
 suspect an internal ring of prison guards supplies the inmates, because searches
 regularly find homemade weapons, alcohol, drugs and phones. [@1] Everything
 seized was handed to the Public Prosecutor's Office. [@1]
-
