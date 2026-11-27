@@ -87,16 +87,17 @@ sources:
     publisher: Tamilwin
     date: 2026-11-23
     language: ta
+  - title: 'TN: 77 kg cannabis seized from boat, two held'
+    url: https://www.thehawk.in/news/india/tn-77-kg-cannabis-seized-from-boat-two-held
+    publisher: The Hawk
+    date: 2026-11-23
+    language: en
 media:
   - kind: photo
     url: https://tamil.news18.com/tamil-nadu/77-kg-ganja-seized-near-pamban-nw-kpk-ws-l-2260254.html
     media_url: https://images.news18.com/tamil/uploads/2026/11/arrest-2026-11-f0133b0276f2e620c23a9096f848ee73-1200x675.jpg?impolicy=website&width=415&height=270
     publisher: News18 Tamil
     caption: Arrested persons in the Pamban 77 kg ganja case.
-open_questions:
-    - Accounts differ on whether the interception occurred on 22 November 2026 or on the morning of 23 November 2026.
-    - Accounts differ on whether the seized boat, men and ganja were taken to the Ramanathapuram Customs office or to Mandapam for handover to the Customs Central Intelligence Unit.
-    - Accounts differ on the estimated value of the seized ganja, given as Rs 20 lakh in one account and around Rs 25 lakh in others.
 ---
 
 A joint team from the Indian Coast Guard station in Mandapam and the Tiruchi
@@ -108,11 +109,11 @@ and identified as Aeronius, 33, and Gunasekaran, 42, both residents of Saveriyar
 Nagar in Thangachimadam. [@2,6,8,9,10]
 
 A search of the vessel recovered about 77 kg of ganja packed into parcels and
-concealed in three gunny sacks. [@2,3,4,6,8,9,10] The interception took place near Pamban in
+concealed in three gunny sacks. [@2,3,4,6,8,9,10,11] The interception took place near Pamban in
 Ramanathapuram on 22 November 2026. [@1,3] Officials estimated the international
 market value of the seized ganja at around Rs 25 lakh. [@2,8]
 
 The Indian Coast Guard Station, Mandapam, conducted the operation in
-coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4,5,6,7] The
+coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4,5,6,7,11] The
 seized contraband, boat and two crew members were brought to Mandapam and handed
-over to the Customs Central Intelligence Unit for further legal action. [@1,4,5,6,7,10]
+over to the Customs Central Intelligence Unit for further legal action. [@1,4,5,6,7,10,11]
