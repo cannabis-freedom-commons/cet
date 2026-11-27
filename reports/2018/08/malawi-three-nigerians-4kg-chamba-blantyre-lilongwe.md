@@ -57,27 +57,31 @@ sources:
     url: https://www.faceofmalawi.com/2018/08/31/nigerian-chamba-dealer-arrested-in-blantyre/
     publisher: Face of Malawi
     date: 2018-08-31
+  - title: Nigerian arrested over chamba
+    url: https://malawi24.com/2018/08/31/nigerian-arrested-over-chamba/
+    publisher: Malawi24
+    date: 2018-08-31
 open_questions:
-  - The Nyasa Times and Maravi Post accounts give the arrest only as 'Thursday'; the explicit date of 30 August 2018 and the Blantyre Post Office location come from Face of Malawi.
-  - Face of Malawi names Kingsley Olisa as 25 and spells the other suspect Collins Okoligwe Amaecha, while the other accounts give no age for Olisa and spell the name Amaech.
-  - No court date, plea or outcome was reported for any of the three men.
-  - The two Lilongwe suspects were held over possession of a drug described as apomorphine, which the reports do not identify as cannabis; only Chidiebere's four parcels were described as Cannabis Sativa.
-  - No value or estimate was published for the four kilograms of cannabis.
-  - All three accounts reproduce the same police statements quoted by Malawian outlets rather than independent investigation.
+    - The accounts give the arrest only as 'Thursday'; the explicit date of 30 August 2018 comes from Face of Malawi, while the Blantyre Post Office location is given by both Face of Malawi and Malawi24.
+    - Face of Malawi names Kingsley Olisa as 25 and spells the other suspect Collins Okoligwe Amaecha, while the other accounts give no age for Olisa and spell the name Amaech.
+    - No court date, plea or outcome was reported for any of the three men.
+    - The two Lilongwe suspects were held over possession of a drug described as apomorphine, which the reports do not identify as cannabis; only Chidiebere's four parcels were described as Cannabis Sativa.
+    - No value or estimate was published for the four kilograms of cannabis.
+    - All four accounts reproduce the same police statements quoted by Malawian outlets rather than independent investigation.
 ---
 
 Malawi police arrested three Nigerians, two in Lilongwe and one in Blantyre, in
 connection with an alleged illicit drug trade. [@1] The Blantyre arrest took
 place on 30 August 2018 at Blantyre Post Office. [@3] Police in Blantyre
 arrested Chidiebere, 27, on allegations that he was dealing in an illegal chamba
-trade. [@1] Officers found him with four parcels of Cannabis Sativa weighing
-four kilograms, a plant known locally in Malawi as chamba. [@3] Police found the
+trade. [@1,4] Officers found him with four parcels of Cannabis Sativa weighing
+four kilograms, a plant known locally in Malawi as chamba. [@3,4] Police found the
 parcels after receiving a tip from well-wishers. [@1] Chidiebere admitted
 sending the rest using false Malawian names such as Ernest Makhaza and Patricia
-Banda. [@1]
+Banda. [@1,4]
 
 He remained in custody at Blantyre Police and was expected to answer a charge of
-illegally exporting dangerous drugs. [@1] Collins Okoligwe Amaech, 30, and
+illegally exporting dangerous drugs. [@1,4] Collins Okoligwe Amaech, 30, and
 Kingsley Olisa were arrested at Mississippi Lodge in Mtandire Township,
 Lilongwe, for allegedly dealing in drugs. [@1] Police said the two had been on
 the run since Operation Clean Area 47 of Drugs began in May 2018. [@1] Deputy
@@ -85,4 +89,3 @@ police spokesman Thomeck Nyaude said the pair would appear before the Lilongwe
 Magistrate Court on charges of possessing dangerous drugs, an offence carrying a
 minimum five-year prison term if convicted. [@2] Police discovered apomorphine,
 which they said they would use as evidence in court. [@1]
-
