@@ -34,6 +34,11 @@ sources:
     url: https://alhadarmianews.com/en/news/100073
     publisher: Alhadarmia News Agency
     date: 2026-11-23
+  - title: مكافحة المخدرات بساحل حضرموت تضبط مروجاً للحشيش المخدر
+    url: https://cratar.net/archives/442054
+    publisher: CRATAR NET | كريتر نت
+    date: 2026-11-23
+    language: ar
 open_questions:
   - No weight was published for the hashish found in the house.
   - The suspect was not named, and no age, nationality or residence beyond Fuwwah was given.
@@ -43,15 +48,15 @@ open_questions:
 
 Hadramout Coast drug-enforcement officers arrested a suspected hashish dealer in
 a neighbourhood of Fuwwah, west of Mukalla, after surveillance, monitoring and
-field inquiries. [@1] A second account describes the operation as uncovering
+field inquiries. [@1,3] A second account describes the operation as uncovering
 activity suspected of being linked to hashish promotion in the Fowah area west
 of Mukalla City. [@2] The operation resulted in the arrest of one suspect. [@2]
 
 The arrest followed field inquiries and security monitoring to verify
 information about suspicious activity in a neighbourhood. [@2] Officers
-identified the suspect's location and arrested him outside his home. [@2]
+identified the suspect's location and arrested him outside his home. [@2,3]
 Officers obtained search orders from the Public Prosecution, then raided the
-house and found a quantity of hashish inside. [@1]
+house and found a quantity of hashish inside. [@1,3]
 
 The department presented the operation as part of continuing efforts to pursue
 dealers and traffickers, dry up sources of spread and protect the community.
@@ -59,4 +64,3 @@ dealers and traffickers, dry up sources of spread and protect the community.
 personnel's vigilance and field efforts. [@1] The department urged citizens to
 report suspicious activity and stressed community cooperation to curb narcotics,
 particularly among young people. [@2]
-
