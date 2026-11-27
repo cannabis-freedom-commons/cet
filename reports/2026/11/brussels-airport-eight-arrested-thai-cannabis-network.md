@@ -45,6 +45,11 @@ media:
     media_url: https://rtleng.rosselcdn.net/sites/default/files/dpistyles_v2/rtl_16_9_917w/2026/09/30/node_807619/4724991/public/2026/09/30/105040665.jpeg?itok=XQd44mbp1795529590
     publisher: RTL Info
     caption: 'Eight suspects arrested in an investigation into cannabis trafficking via Brussels Airport. Photo: BELGA'
+  - kind: photo
+    url: https://www.transport-online.nl/146147/internationaal-drugsnetwerk-via-luchtvracht-opgerold-zeven-verdachten-zijn-oud-luchthavenmedewerkers/
+    media_url: https://www.transport-online.nl/wp-content/uploads/2026/11/drugs-luchtvracht-696x696.jpg
+    publisher: Transport Online
+    caption: 'Photo published with the report on the Brussels Airport air-freight cannabis investigation, credited to the Belgian federal police. Photo: Belgische Politie'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 1dca403c9b9606615f062340ab657099
@@ -64,6 +69,11 @@ sources:
     publisher: VRT NWS
     date: 2026-11-24
     language: nl
+  - title: 'Internationaal drugsnetwerk via luchtvracht opgerold: zeven verdachten zijn (oud-)luchthavenmedewerkers'
+    url: https://www.transport-online.nl/146147/internationaal-drugsnetwerk-via-luchtvracht-opgerold-zeven-verdachten-zijn-oud-luchthavenmedewerkers/
+    publisher: Transport Online
+    date: 2026-11-25
+    language: nl
 open_questions:
   - No exact amount was published for the cash seized at the eight searches.
   - The network’s illicit gains were given only as several million euros, with no precise valuation.
@@ -74,27 +84,26 @@ open_questions:
 
 Belgian federal police arrested eight suspects on Monday 23 November 2026 while
 dismantling an international network suspected of importing cannabis from
-Thailand via Brussels Airport. [@1] Five of those arrested worked for companies
-at Brussels Airport and two were former employees. [@2] The operation, supported
-by Europol, involved eight searches. [@1] Officers seized four luxury vehicles,
-a substantial amount of cash, and numerous mobile phones and laptops. [@2]
+Thailand via Brussels Airport. [@1,4] Five of those arrested worked for companies
+at Brussels Airport and two were former employees. [@2,4] The operation, supported
+by Europol, involved eight searches. [@1,4] Officers seized four luxury vehicles,
+a substantial amount of cash, and numerous mobile phones and laptops. [@2,4]
 
 The investigation began in May 2025 after a shipment of 600 kg of cannabis was
-sent from Thailand to Brussels Airport. [@2] A few weeks later 833 kilograms of
-the drug was seized and linked to the same organisation. [@1] In total 2.4
+sent from Thailand to Brussels Airport. [@2,4] A few weeks later 833 kilograms of
+the drug was seized and linked to the same organisation. [@1,4] In total 2.4
 tonnes of cannabis was seized between 2025 and 2026 in Belgium, the Netherlands,
-Luxembourg and Turkey. [@1] Federal police estimated the criminal organisation’s
-illicit gains at several million euros. [@1]
+Luxembourg and Turkey. [@1,4] Federal police estimated the criminal organisation’s
+illicit gains at several million euros. [@1,4]
 
 The investigation was conducted under the supervision of an investigating judge,
 with Europol support, and remains ongoing under the judicial authorities. [@2]
 Police said the network used shell companies and contacts in the air cargo
-industry to facilitate shipments. [@2] The suspects are also believed to have
+industry to facilitate shipments. [@2,4] The suspects are also believed to have
 repeatedly changed transport routes and working methods to evade police and
 customs checks. [@2] Police said cannabis imports by air freight had risen
 sharply in recent years as cocaine networks diversified. [@1] Domestic and
 international cooperation identified several other shipments routed to Belgium
 through different paths. [@3] This was the second major police operation this
 autumn into drug trafficking via Brussels Airport and the investigation
-continues. [@1]
-
+continues. [@1,4] A similar operation in September 2026 formed part of a separate investigation, which Europol also supported. [@4]
