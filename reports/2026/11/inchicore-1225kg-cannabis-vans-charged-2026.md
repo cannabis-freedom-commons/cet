@@ -59,6 +59,11 @@ media:
     media_url: https://img2.thejournal.ie/inline/7234109/original/?width=650&version=7234109
     publisher: The Journal
     caption: 'Drugs seized in the Inchicore searches, including the 122.5kg of cannabis herb. Photo: Garda Press Office'
+  - kind: photo
+    url: https://www.irishexaminer.com/news/arid-41941140.html
+    media_url: https://www.irishexaminer.com/cms_media/module_img/10600/5300202_8_org_Glock_2019_20Inchicore.jpg
+    publisher: Irish Examiner
+    caption: 'The Glock 19 pistol and ammunition seized in the Inchicore Operation Tara searches, shown with the drugs and cash. Photo: An Garda Síochána'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: eaf06e0031abcd776f52e9de03e28ed6
@@ -100,22 +105,26 @@ sources:
     url: https://www.msn.com/en-ie/news/other/huge-drugs-and-gun-haul-seized-by-garda%C3%AD-from-house-and-vans-in-inchicore/ar-AA2hY1zA
     publisher: Dublin Live on MSN
     date: 2026-11-22
+  - title: Two charged after almost €2m worth of drugs, gun, and ammo seized in Dublin
+    url: https://www.irishexaminer.com/news/arid-41941140.html
+    publisher: Irish Examiner
+    date: 2026-11-22
 ---
 
 Gardaí attached to the Dublin Crime Response Team carried out an
 intelligence-led operation on Bulfin Road, Inchicore, Dublin 8 at 6.45pm as part
-of Operation Tara. [@1,2,4,5,6,9] They seized 110kgs of vacuum-packed cannabis herb from
-two parked vans. [@1,2,4,5,6,7,8,9] The two men, aged in their 20s and 40s, who were the
-drivers of the vans, were arrested at the scene. [@1,2,4,5,7,8] Gardaí said the two drivers were held at garda stations in the Dublin Metropolitan Region under Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,5]
+of Operation Tara. [@1,2,4,5,6,9,10] They seized 110kgs of vacuum-packed cannabis herb from
+two parked vans. [@1,2,4,5,6,7,8,9,10] The two men, aged in their 20s and 40s, who were the
+drivers of the vans, were arrested at the scene. [@1,2,4,5,7,8,10] Gardaí said the two drivers were held at garda stations in the Dublin Metropolitan Region under Section 2 of the Criminal Justice (Drug Trafficking) Act 1996. [@4,5,10]
 
 In a follow-up search under warrant at a property in Dublin 8, gardaí also
 seized a further 12.5kgs of cannabis herb, .5 kg of cocaine, €4,550 in cash, a
 Glock 19 semi-automatic pistol, five rounds of ammunition and an assortment of
-documents. [@1,3,4,5,6,7,8] The combined total of 122.5kgs of cannabis herb and .5kg of
-cocaine was valued at €1,765,000. [@1,2,4,5,6,7,8,9]
+documents. [@1,3,4,5,6,7,8,10] The combined total of 122.5kgs of cannabis herb and .5kg of
+cocaine was valued at €1,765,000. [@1,2,4,5,6,7,8,9,10]
 
 Both men were charged after the seizure. [@1,4,5,8] They were due to appear before
-Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1,4,8] Both men are due to appear before Dublin District Court on Monday 23 November 2026. [@6] The
-seized drugs were subject to analysis by Forensic Science Ireland. [@1,2,4,5,6,8] The
+Dublin District Court at Court No 4 of the Criminal Courts of Justice. [@1,4,8] Both men are due to appear before Dublin District Court on Monday 23 November 2026. [@6,10] The
+seized drugs were subject to analysis by Forensic Science Ireland. [@1,2,4,5,6,8,10] The
 firearm was to be examined by the Garda Ballistics Section and investigations
 were ongoing. [@1,5,8]
