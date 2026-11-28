@@ -42,27 +42,37 @@ sources:
     publisher: ТК Город
     date: 2026-11-26
     language: ru
+  - title: 'Собрал недалеко от дома: в Иркутской области у мужчины изъяли почти 5 кг марихуаны'
+    url: https://irk.today/2026/11/25/sobral-nedaleko-ot-doma-v-irkutskoy-oblasti-u-muzhchiny-izyali-pochti-5-kg-marihuany/
+    publisher: Иркутск Сегодня
+    date: 2026-11-25
+    language: ru
 open_questions:
-  - No separate date for the seizure was given; 26 November 2026 is the publication date and is used as the incident date.
-  - The account rests on a single opened report republishing the transport-police press statement, with no independent second account found.
-  - No court outcome beyond the travel restriction was reported; the investigation was continuing.
-  - The exact village or address of the house and outbuilding was not given.
+    - No separate date for the seizure was given; the operation's second stage ran from 16 to 25 November 2026 and the earliest account of the case was published on 25 November 2026.
+    - Both accounts reproduce the transport-police press statement and are not independent reporting.
+    - No court outcome beyond the travel restriction was reported; the investigation was continuing.
+    - The exact village or address of the house and outbuilding was not given.
+media:
+  - kind: photo
+    url: https://irk.today/2026/11/25/sobral-nedaleko-ot-doma-v-irkutskoy-oblasti-u-muzhchiny-izyali-pochti-5-kg-marihuany/
+    media_url: https://irk.today/wp-content/uploads/biy1p35iuztiew6al7udm5jmntktbj8qzqiluzu3uguzm2e6gnwuo5dzsnn3ihw2cfz_6sbid0tdjktihiub0tuc-870x600.jpg
+    publisher: Иркутск Сегодня
+    caption: 'Five polymer bags of marijuana laid out after the seizure in Ziminsky District. Photo: press service of the Baikal transport police'
 ---
 
 During operational work under the preventive Operation Clean Generation,
 officers of the linear police department at Zima station identified a
 29-year-old resident of Ziminsky District who had illegally stored narcotics of
-plant origin. [@1] Officers searched an outbuilding on his residential property
-and discovered five polymer bags containing drugs, which they seized. [@1] The
+plant origin. [@1,2] The second stage of Operation Clean Generation ran from 16 to 25 November 2026 in the area covered by the East Siberian transport police directorate. [@2] Officers searched an outbuilding on his residential property
+and discovered five polymer bags containing drugs, which they seized. [@1,2] The
 man explained that the seized drugs were drugs he had gathered in November in a
-field near his house. [@1]
+field near his house. [@1,2]
 
 The seizure was initially described as more than 4.7 kg of marijuana taken from
 a local resident in Ziminsky District. [@1] A forensic examination subsequently
 confirmed that the seized substance was marijuana. [@1] Its total weight was
-more than 4 kg 785 grams. [@1]
+more than 4 kg 785 grams. [@1,2]
 
 Police opened a criminal case under Part 2 of Article 228 of the Russian
-Criminal Code. [@1] The man was placed under a signed pledge not to leave and to
-behave properly, while the investigation continued. [@1]
-
+Criminal Code. [@1,2] The man was placed under a signed pledge not to leave and to
+behave properly, while the investigation continued. [@1,2]
