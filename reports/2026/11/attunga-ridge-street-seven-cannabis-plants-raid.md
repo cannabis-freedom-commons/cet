@@ -54,11 +54,16 @@ sources:
     url: https://www.northerndailyleader.com.au/story/9386205/nathan-singh-granted-bail-after-attunga-weapons-and-drug-raid/
     publisher: The Northern Daily Leader
     date: 2026-11-05
+  - title: Attunga man on weapons charges granted bail, told to seek medicinal cannabis
+    url: https://www.northerndailyleader.com.au/story/9386205/nathan-sing-granted-bail-after-attunga-weapons-and-drug-raid/
+    publisher: The Northern Daily Leader
+    date: 2026-11-05
 open_questions:
-  - No weight was published for the cannabis plants, the seed packets or the methamphetamine, so no cannabis weight is recorded.
-  - The later court article does not give a separate date for the Tamworth mention, a plea or a sentence, beyond an order to compile a brief of evidence.
-  - The bail hearing was told the firearms were gel blasters; the later court headline account lists firearms without repeating that description.
-  - Both accounts are from The Northern Daily Leader, and no separate police statement was available.
+    - No weight was published for the cannabis plants, the seed packets or the methamphetamine, so no cannabis weight is recorded.
+    - The later court article does not give a separate date for the Tamworth mention, a plea or a sentence, beyond an order to compile a brief of evidence.
+    - The bail hearing was told the firearms were gel blasters; the later court headline account lists firearms without repeating that description.
+    - Both accounts are from The Northern Daily Leader, and no separate police statement was available.
+    - The bail report gives the surname as Sing, while the paper's later court story uses Singh.
 ---
 
 Nathan Singh, 54, was taken into custody after police surrounded a property in
@@ -76,7 +81,7 @@ Sydney bail court the next day. [@2] The prosecutor said the firearms were gel
 blasters that looked real. [@2] The prosecutor also said Singh had denied
 knowledge of the firearms, which were found in a bedroom. [@2] His solicitor
 said he had epilepsy and had been using cannabis for that and other conditions.
-[@2] She said he was trying to obtain a prescription for medicinal cannabis.
+[@2,3] She said he was trying to obtain a prescription for medicinal cannabis.
 [@2] His solicitor proposed that he live at home, comply with a nightly curfew
 between 8pm and 8am, and abstain from drugs and alcohol. [@2] Judge Miranda
 Moody granted bail, saying she did not think he would get a full-time custodial
@@ -89,4 +94,3 @@ drugs unless a doctor prescribes them. [@2]
 He was ordered to appear in Tamworth Local Court the following week. [@2] Police
 were later ordered to compile a brief of evidence against him over the alleged
 seizure of firearms, cannabis and methamphetamine in the Attunga raid. [@1]
-
