@@ -26,6 +26,11 @@ media:
     media_url: https://www.clarin.com/img/2014/11/13/SJDWAs2mx_312x240.jpg
     publisher: Clarín
     caption: Packages of the marijuana seized in Paso de los Libres
+  - kind: photo
+    url: https://insightcrime.org/es/noticias/noticias-del-dia/argentina-incautacion-record-marihuana/
+    media_url: https://i0.wp.com/insightcrime.org/wp-content/uploads/2014/11/es-20141114_argentina_marihuana8ton.jpg?w=600&quality=100&ssl=1
+    publisher: InSight Crime
+    caption: Argentine officials present the marijuana seized in the record Corrientes operation.
 created_by_model: muse-code/muse-spark-1.3#xhigh
 details:
   activity: [trafficking]
@@ -71,26 +76,31 @@ sources:
     publisher: Primera Edición
     date: 2026-02-03
     language: es
+  - title: Argentina realiza incautación récord de marihuana
+    url: https://insightcrime.org/es/noticias/noticias-del-dia/argentina-incautacion-record-marihuana/
+    publisher: InSight Crime
+    date: 2014-11-14
+    language: es
 open_questions:
-  - The articles were published on 12 and 13 November 2014; 8 November is the Saturday of the interception they describe.
-  - The map pin is the Paso de los Libres town centre; no coordinates for Tapebicuá itself were published.
-  - No later court outcome for the detained driver was reported in the opened sources.
-  - The 2026 paper does not say which conviction led to his expulsion, so it cannot be confirmed that it was the 2014 Tapebicua case.
+    - The map pin is the Paso de los Libres town centre; no coordinates for Tapebicuá itself were published.
+    - No later court outcome for the detained driver was reported in the opened sources.
+    - The 2026 paper does not say which conviction led to his expulsion, so it cannot be confirmed that it was the 2014 Tapebicua case.
+    - An anonymous source's suspicion, reported by Clarín, that corrupt Chilean or Paraguayan police helped the traffickers was not confirmed in any account.
 ---
 
 Troops of Gendarmería Nacional Squadron 7 intercepted a truck on Route 14 near
 Tapebicuá, in the Paso de los Libres department of Corrientes, at about 4 a.m.
 on Saturday and found 8,500 kilograms of marijuana packed in 9,500 parcels
-hidden in boxes of car parts. [@1,2] Federal judge Gladys Mabel Borda of Paso
+hidden in boxes of car parts. [@1,2,5] Federal judge Gladys Mabel Borda of Paso
 de los Libres ordered the load seized and the truck driver detained. [@2]
 
 National Security Secretary Sergio Berni called it the largest marijuana
 seizure in Argentina's history, valued by the authorities at more than 80
 million pesos. [@1,2] The shipment had come from Paraguay and was travelling
 in transit toward Chile, where Berni said it would be worth three to four
-times its Argentine value, over 250 million pesos. [@1,3] The driver, a
+times its Argentine value, over 250 million pesos. [@1,3,5] The driver, a
 Paraguayan national, carried false customs papers from Chile, Brazil, Paraguay
-and Argentina. [@3]
+and Argentina. [@3,5] An anonymous security source told Clarín that the fact that the drugs were not well hidden made authorities suspect the traffickers may have been working with corrupt elements of the Chilean or Paraguayan police. [@5]
 
 ## Follow-up to the El Francés investigation
 
@@ -99,6 +109,6 @@ Thierry Andre Polus, alias El Francés de Mado, described as the country's
 biggest marijuana trafficker until his arrest in Misiones in February of the
 previous year. [@2] Berni said several more procedures were under way and
 investigators were following several leads from the interception. [@1] The
-Gendarmería had seized almost 80 tons of marijuana so far that year. [@3]
+Gendarmería had seized almost 80 tons of marijuana so far that year. [@3,5]
 
 Primera Edicion identifies Thierry André Polus as a Polish and French citizen convicted in Misiones and expelled to Paraguay in 2016. [@4]
