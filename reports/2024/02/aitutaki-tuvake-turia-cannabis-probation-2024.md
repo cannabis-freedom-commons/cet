@@ -43,6 +43,10 @@ sources:
     url: https://www.cookislandsnews.com/internal/national/crime/outer-islands/court/aitutaki-drug-trial-hinges-on-cryptic-messages-expert-analysis/
     publisher: Cook Islands News
     date: 2023-12-06
+  - title: Cops raid Aitutaki properties in big cannabis bust
+    url: https://www.cookislandsnews.com/internal/national/crime/cops-raid-aitutaki-properties-in-big-cannabis-bust/
+    publisher: Cook Islands News
+    date: 2022-01-15
 open_questions:
   - The article says the trial ended in December 2023; the 6 December 2023 trial report says the trial was expected to conclude that day, so the verdict date is not published.
   - No weight of cannabis or number of plants is published for this defendant's offending; the article only says it was a low amount, lower than the other offenders'.
@@ -58,7 +62,7 @@ cannabis investigation on Aitutaki, to be sentenced after a High Court sitting
 on Friday 2 February 2024. [@1] Operation Tuvake began in 2020 over police
 concerns about cannabis dealing by Aitutaki residents, and officers flew from
 Rarotonga in the early hours of 13 January 2022 to search nine properties on the
-island. [@1] Seven other men had already been jailed in the case. [@1] The
+island. [@1] Eight people were arrested and charged after police raided properties on Aitutaki over a commercial-sized cannabis operation that followed a year-long investigation. [@3] Seven other men had already been jailed in the case. [@1] The
 sentencing hearing was held in the High Court at Avarua on Rarotonga, with Turia
 taking part by audio-video link from Aitutaki. [@1]
 
@@ -85,4 +89,3 @@ two years of probation with the first six months to be served as community
 service. [@1] Turia was ordered not to buy drugs, to attend workshops as
 directed and not to leave the Cook Islands without the High Court's approval.
 [@1] The maximum penalty for the charge was two years' imprisonment. [@1]
-
