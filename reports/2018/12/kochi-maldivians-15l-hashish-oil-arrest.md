@@ -23,6 +23,11 @@ media:
     media_url: https://ik.imagekit.io/mindy/media/2016/09/111235-hash-oil.jpg
     publisher: Maldives Independent
     caption: 'File photo of packets of seized hashish oil published with the report; the picture predates this case and does not show this seizure. Photo: Maldives Independent'
+  - kind: photo
+    url: https://edition.mv/news/8574
+    media_url: https://edition.mv/cdn-cgi/image/width=774,height=532,fit=cover,format=webp/https://images.mihaaru.com/photos/2019/01/02/220956_4_e3c274a8d10d56dbd96beac5dd46ba5739101ceb_large.jpg
+    publisher: The Edition
+    caption: Composite of the four men arrested in Kochi, published with the report.
 details:
   agencies: [in-ncb]
   agency_types: [anti-narcotics]
@@ -50,36 +55,41 @@ sources:
     url: https://maldivesindependent.com/crime-2/three-maldivian-mafia-members-arrested-with-drugs-in-india-143327
     publisher: Maldives Independent
     date: 2019-01-01
+  - title: Three Maldivians suspected of smuggling cannabis oil arrested in India
+    url: https://edition.mv/news/8574
+    publisher: The Edition
+    date: 2019-01-02
+  - title: Major haul of hashish oil
+    url: https://www.thehindu.com/news/national/kerala/major-haul-of-hashish-oil/article25874957.ece
+    publisher: The Hindu
+    date: 2018-12-31
 open_questions:
-  - The article gives the arrest only as on Monday; 24 December 2018 is inferred from the 1 January 2019 publication date and the reference to trips taken "in December".
-  - The 1.5 litres of hashish oil is a volume, not a weight, so the 1.5 kg figure is a litre-for-kilogram assumption and may overstate or understate the mass.
-  - Only one accessible source for this arrest was found; Indian media referred to in the article could not be opened to confirm names, quantity or date.
-  - No charges, custody ruling or court outcome were reported.
-  - The photo is a file image from 2016 of hashish oil packets, not a picture of this seizure, and the article credits no agency for it.
-  - The 130 kg figure covers all drugs seized in the Maldives over three years, not cannabis alone, and the 7 kg cocaine case is a separate event; neither is counted in this report's figures.
+    - The 1.5 litres of hashish oil is a volume, not a weight, so the 1.5 kg figure is a litre-for-kilogram assumption and may overstate or understate the mass.
+    - No charges, custody ruling or court outcome were reported.
+    - The photo is a file image from 2016 of hashish oil packets, not a picture of this seizure, and the article credits no agency for it.
+    - The 130 kg figure covers all drugs seized in the Maldives over three years, not cannabis alone, and the 7 kg cocaine case is a separate event; neither is counted in this report's figures.
 ---
 
 Three Maldivians linked to a Hong Kong-based international drug cartel were
-arrested in Kochi City along with a fourth man. [@1] The Maldivians were Shifan
+arrested in Kochi City along with a fourth man. [@1,2] The Maldivians were Shifan
 Ibrahim, 30, Azim Habeeb, 33, and Mohamed Safoof, 34, and with them police
-arrested Anthony Sami, 30, a Tamil Nadu native. [@1] Officers arrested the four
-in a hotel parking ground as they were about to leave for the airport. [@1] Four
+arrested Anthony Sami, 30, a Tamil Nadu native. [@1,3] Officers arrested the four
+in a hotel parking ground as they were about to leave for the airport. [@1,3] Kochi City's shadow police and Central police picked them up with the cyber cell's help after a tip-off to City Police Commissioner M.P. Dinesh. [@3] Four
 Maldivian media described the suspects as mafia members, and Kochi police said
 they belonged to a Hong Kong drug-smuggling network called Kona Gold that uses
 Indian ports. [@1]
 
 The hashish oil, a thick liquid extracted from cannabis, was hidden in shampoo
-bottles. [@1] Police put the haul at 1.5 litres of hashish oil worth about
+bottles. [@1,3] Police put the haul at 1.5 litres of hashish oil worth about
 US$246,500. [@1] Deputy commissioner of Kochi City police J Himendranath said
 the accused planned to smuggle the contraband, brought from Rameswaram in Tamil
-Nadu, to the Maldives via Nedumbassery airport. [@1] The four were on the wanted
-list of the Narcotics Control Bureau. [@1] Himendranath said their passports
+Nadu, to the Maldives via Nedumbassery airport. [@1,3] The four were on the wanted
+list of the Narcotics Control Bureau. [@1,3] Himendranath said their passports
 showed multiple trips between the Maldives, Thailand, Singapore and India in
-December alone. [@1]
+December alone. [@1,3] The suspects' passports indicated an operation spanning the Maldives, Sri Lanka, Thailand, Singapore and India. [@2]
 
 The article reports a separate case in which three Hong Kong residents were
 arrested last month trying to smuggle 7 kg of cocaine from the Maldives to the
 city. [@1] The new interim Maldives police chief said 130 kg of drugs had been
 seized in the country over the past three years, a figure covering all drugs
 rather than cannabis alone. [@1]
-
