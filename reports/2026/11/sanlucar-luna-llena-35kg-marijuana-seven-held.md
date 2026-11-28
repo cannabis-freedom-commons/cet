@@ -93,6 +93,11 @@ sources:
     publisher: Ministerio del Interior
     date: 2026-11-26
     language: es
+  - title: Ruim 1.800 kilo cocaïne gevonden in ondergrondse opslagplaatsen van hasjsmokkelaars
+    url: https://www.crimesite.nl/ruim-1-800-kilo-cocaine-gevonden-in-ondergrondse-opslagplaatsen-van-hasjsmokkelaars/
+    publisher: Crimesite
+    date: 2026-11-26
+    language: nl
 open_questions:
   - No exact date is given for the operation itself; the article says it took place in the previous week and was published on 26 November 2026, so the publication date is used.
   - The 35.35 kilograms is a police figure for dried buds ready for distribution; no laboratory confirmation or street value for the cannabis was reported.
@@ -103,28 +108,28 @@ open_questions:
 ---
 
 Guardia Civil and Policía Nacional dismantled a large-scale cocaine trafficking
-organisation in a joint operation in the province of Cádiz. [@1,7] Seven people
+organisation in a joint operation in the province of Cádiz. [@1,7,8] Seven people
 were arrested, six of them with previous drug-trafficking records, in the
 operation named Luna Llena-Manantia. [@1,4,7] The operation was directed by the duty
 judge of the Mixed Court number 4 of Sanlúcar de Barrameda. [@1,4,6,7] The inquiry
 began after a van carrying 33 bundles of cocaine was intercepted on the AP-4
-motorway near Los Palacios, Seville, and its only occupant was arrested. [@1,7]
+motorway near Los Palacios, Seville, and its only occupant was arrested. [@1,7,8] The van had left a home in the area around Sanlúcar de Barrameda before investigators followed it to the AP-4. [@8]
 With judicial authorisation officers carried out eleven simultaneous searches of
 homes in Sanlúcar de Barrameda and Chipiona, where the other six people were
-detained. [@1,4,5,7]
+detained. [@1,4,5,7,8]
 
 Alongside 1,823 kilograms of cocaine, officers seized 35.35 kilograms of dried
 marijuana buds, vacuum-packed and ready for distribution, and 171,300 euros in
-cash. [@1,4,5,6,7] Officers also impounded nine vehicles, eleven motorcycles and a jet
-ski. [@2,4,6,7] Officers also found hunting weapons, which were still being examined. [@4,7] Two of the nine vehicles had been stolen. [@4,7] Two underground hideouts, or zulos, built and fitted out to conceal
+cash. [@1,4,5,6,7,8] Officers also impounded nine vehicles, eleven motorcycles and a jet
+ski. [@2,4,6,7,8] Officers also found hunting weapons, which were still being examined. [@4,7] Two of the nine vehicles had been stolen. [@4,7] Two underground hideouts, or zulos, built and fitted out to conceal
 the drugs were found on registered properties. [@1,4,6,7] One had previously been used
 to grow marijuana and held 20 further bundles of cocaine packaged identically to
-those in the van. [@3,4,7]
+those in the van. [@3,4,7,8]
 
 The network was based around the mouth of the Guadalquivir river and had reused
 the infrastructure and contacts it already maintained for marijuana cultivation
 and maritime hashish trafficking to expand into large-scale cocaine transport
-and distribution. [@1,4,5,7] Its logistics structure allowed it to bring, store, guard
+and distribution. [@1,4,5,7,8] Its logistics structure allowed it to bring, store, guard
 and move the drug from Cádiz to points across Europe. [@1] The group used
 surveillance cameras, drones, watchmen and lookouts known as aguadores to
 protect its activities. [@1,6] The group changed phones, vehicles and operating sites frequently and altered its routes, making diversionary movements to check for police surveillance. [@6] The operation was run jointly by the EDOA
