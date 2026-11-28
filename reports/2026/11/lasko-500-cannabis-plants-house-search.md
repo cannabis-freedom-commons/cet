@@ -46,6 +46,16 @@ media:
     media_url: https://www.dnevnik.si/media/2026/11/26/884883/Orig-konoplja_lasko1-600.webp?1795710287
     publisher: Dnevnik.si
     caption: 'The large room in the house, fitted with a ventilation and irrigation system and artificial lighting. Photo: PU Celje'
+  - kind: photo
+    url: https://www.velenjcan.si/kronika/v-laskem-odkrili-prostor-za-gojenje-konoplje-zasegli-vec-kot-500-sadik/
+    media_url: https://images.velenjcan.si/uploads/velenjcan/2026/11/IMG_1130_U2t9h0kd_20261126_165013.JPG
+    publisher: Velenjčan
+    caption: 'Photo from the three-image police gallery of the cannabis plants and grow room seized in a house in Laško. Photo: PU Celje'
+  - kind: photo
+    url: https://www.velenjcan.si/kronika/v-laskem-odkrili-prostor-za-gojenje-konoplje-zasegli-vec-kot-500-sadik/
+    media_url: https://images.velenjcan.si/uploads/velenjcan/2026/11/IMG_1132_6Mt3DcQJ_20261126_165015.JPG
+    publisher: Velenjčan
+    caption: 'Third photo from the police gallery of the Laško grow-room seizure. Photo: PU Celje'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: 3f505911d13348cf4bebb6f548fb96bf
@@ -71,6 +81,11 @@ sources:
     publisher: Večer
     date: 2026-11-26
     language: sl
+  - title: V Laškem odkrili prostor za gojenje konoplje – zasegli več kot 500 sadik
+    url: https://www.velenjcan.si/kronika/v-laskem-odkrili-prostor-za-gojenje-konoplje-zasegli-vec-kot-500-sadik/
+    publisher: Velenjčan
+    date: 2026-11-26
+    language: sl
 open_questions:
   - No exact date is given for the house search; police said it was carried out in recent days, and 26 November 2026 is the date of the announcement and publication.
   - Police gave the number of plants only as more than 500; no exact count was published.
@@ -81,15 +96,15 @@ open_questions:
 ---
 
 Police officers from Laško searched a residential house in the centre of Laško.
-[@2,4] Two tenants, both foreign nationals, lived in the house and set up a
+[@2,4,5] Two tenants, both foreign nationals, lived in the house and set up a
 production of the prohibited drug there. [@2] In the room the tenants grew the
-prohibited drug cannabis. [@1,4] Police said the two would be reported to the
+prohibited drug cannabis. [@1,4,5] Police said the two would be reported to the
 prosecutor on suspicion of unauthorised production of and trafficking in
-prohibited drugs. [@1,4]
+prohibited drugs. [@1,4,5]
 
-Officers found and seized more than 500 cannabis plants. [@1,4] The room was well
+Officers found and seized more than 500 cannabis plants. [@1,4,5] The room was well
 equipped, with a separate ventilation and irrigation system and appropriate
-artificial lighting. [@1,4] The house search was carried out in the days before
+artificial lighting. [@1,4,5] The house search was carried out in the days before
 the announcement. [@3]
 
 Celje.info reported that police would file a criminal complaint against both
