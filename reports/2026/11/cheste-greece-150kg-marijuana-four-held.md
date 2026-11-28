@@ -48,6 +48,11 @@ media:
     media_url: https://actualidadvalencia.com/wp-content/uploads/2026/11/Droga_Valencia_edit.00_00_02_22.Imagen-fija004-1067x600.webp
     publisher: Actualidad Valencia
     caption: 'Guardia Civil handout frame from the operation against the Cheste marijuana network. Photo: Guardia Civil'
+  - kind: photo
+    url: https://www.ondacero.es/emisoras/comunidad-valenciana/valencia/noticias/desarticulada-cheste-organizacion-criminal-dedicada-cultivar-distribuir-marihuana_202611266b07ed66ff6fec29219b8e69.html
+    media_url: https://image.ondacero.es/clipping/cmsimages02/2026/11/26/2AAFF7F9-BAEB-4471-AA1B-811E795D3800/plantacion-indoor-marihuana-localizada-cheste_214.jpg?crop=1920,1080,x0,y0&width=955&height=537&format=avif&quality=65
+    publisher: OndaCero
+    caption: 'Cannabis plants in the indoor plantation found in a garage in Cheste, in a Guardia Civil photograph. Photo: Guardia Civil'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: f25e0ee44cfe9e60c58fa48e83eb6a35
@@ -73,6 +78,11 @@ sources:
     publisher: El Periódico de Aquí
     date: 2026-11-26
     language: es
+  - title: Desarticulada en Cheste una organización criminal dedicada a cultivar y distribuir marihuana
+    url: https://www.ondacero.es/emisoras/comunidad-valenciana/valencia/noticias/desarticulada-cheste-organizacion-criminal-dedicada-cultivar-distribuir-marihuana_202611266b07ed66ff6fec29219b8e69.html
+    publisher: OndaCero
+    date: 2026-11-26
+    language: es
 open_questions:
     - The 150 kg is the combined weight of the flowering plants found in the garage; no separate weight of dried or packaged marijuana was given.
     - No street value was published for the cannabis.
@@ -80,24 +90,24 @@ open_questions:
 ---
 
 The Guardia Civil dismantled a criminal organisation based in Cheste dedicated
-to the international cultivation, production and distribution of marijuana. [@1,3,4]
+to the international cultivation, production and distribution of marijuana. [@1,3,4,5]
 Police arrested two Albanian men aged 54 and 49, a Spanish man aged 58 and a
-Greek woman aged 49. [@1,3] All four were attributed with membership of a criminal
+Greek woman aged 49. [@1,3,5] All four were attributed with membership of a criminal
 organisation, drug trafficking, drug cultivation and/or manufacture, and
-electricity fraud. [@1,3,4] Two of those arrested were remanded in prison without
-bail. [@1,3,4] Officers found a man in the garage who acted as guard and maintenance
-worker for the site. [@1,2,3,4] He lived permanently in the garage in extremely
+electricity fraud. [@1,3,4,5] Two of those arrested were remanded in prison without
+bail. [@1,3,4,5] Officers found a man in the garage who acted as guard and maintenance
+worker for the site. [@1,2,3,4,5] He lived permanently in the garage in extremely
 precarious and isolated conditions and received only basic food. [@1,2,4] The
 organisation kept him there to stop him leaving and attracting attention. [@1,2,4]
 
 The operation's enforcement phase ended on Thursday 12 November with two house
-searches in Cheste. [@1,2,3,4] The first search was in a town-centre house the
-organisation used as a drying facility. [@1,2,4] Inside, marijuana was conditioned,
+searches in Cheste. [@1,2,3,4,5] The first search was in a town-centre house the
+organisation used as a drying facility. [@1,2,4,5] Inside, marijuana was conditioned,
 packaged and vacuum-packed. [@1,2] It was then loaded into vehicles for
 distribution and transport. [@1,2] The second search took place in a garage in the
-town centre. [@1,2] The garage had been adapted to hold an indoor marijuana
-plantation. [@1,2] Officers found a large quantity of cannabis plants in an
-advanced state of flowering with a total weight of more than 150 kilograms. [@1,2,3,4]
+town centre. [@1,2,5] The garage had been adapted to hold an indoor marijuana
+plantation. [@1,2,5] Officers found a large quantity of cannabis plants in an
+advanced state of flowering with a total weight of more than 150 kilograms. [@1,2,3,4,5]
 
 Each member had a specific role in cultivation, drying, processing, packaging
 and distribution of the marijuana. [@1,2,4] During the investigation officers
