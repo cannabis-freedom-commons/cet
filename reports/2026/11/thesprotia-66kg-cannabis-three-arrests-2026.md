@@ -99,6 +99,11 @@ sources:
     publisher: iAxia
     date: 2026-11-26
     language: el
+  - title: У Грчкој заплењено преко 66 килограма марихуане, ухапшена тројица Албанаца
+    url: https://reporteri.net/sr/%D0%B2%D0%B5%D1%81%D1%82%D0%B8/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%98%D0%B0/%D0%A3-%D0%93%D1%80%D1%87%D0%BA%D0%BE%D1%98-%D0%B7%D0%B0%D0%BF%D0%BB%D0%B5%D1%9A%D0%B5%D0%BD%D0%BE-%D0%BF%D1%80%D0%B5%D0%BA%D0%BE-66-%D0%BA%D0%B8%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B5--%D1%83%D1%85%D0%B0%D0%BF%D1%88%D0%B5%D0%BD%D0%B0-%D1%82%D1%80%D0%BE%D1%98%D0%B8%D1%86%D0%B0-%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B0%D1%86%D0%B0/
+    publisher: Reporteri.net
+    date: 2026-11-26
+    language: sr
 open_questions:
     - No place more precise than an area of the Thesprotia regional unit is given for either stop.
     - No value estimate for the 66.742 kg of cannabis was published.
@@ -107,17 +112,17 @@ open_questions:
 ---
 
 Three foreign nationals were arrested over the cannabis load in the Thesprotia
-regional unit on 25 November 2026. [@1,5,7,8] The three arrested were young Albanians from an area of Saranda. [@6] One man drove the car carrying the drugs
+regional unit on 25 November 2026. [@1,5,7,8] The three arrested were young Albanians from an area of Saranda. [@6,9] The cannabis was being taken from Albania to Igoumenitsa. [@9] One man drove the car carrying the drugs
 while the other two went ahead as lookouts, telling him about possible police
-checks on the route. [@1,5,6,7,8] The operation was run at midday by the Igoumenitsa
+checks on the route. [@1,5,6,7,8,9] The operation was run at midday by the Igoumenitsa
 drug enforcement and investigation sub-directorate together with the Second
 Border Guard Department of Filiates. [@2,5,6,7,8]
 
 Inside the first car officers found 60 packages of raw cannabis weighing 66 kg
-and 742 g. [@3,5,6,7,8] Police seized the two cars used in the operation. [@1,5,7,8] Officers
-also seized 1,130 euros in cash and four mobile phones. [@1,5,6,7,8] The police dogs
+and 742 g. [@3,5,6,7,8,9] Police seized the two cars used in the operation. [@1,5,7,8,9] Officers
+also seized 1,130 euros in cash and four mobile phones. [@1,5,6,7,8,9] The police dogs
 Ikarus and Jerry took part in the searches. [@1,5,6,7,8]
 
 A felony case file was opened against the three and they were taken to the
-Thesprotia first-instance prosecutor's office. [@1,5,6,7,8] The force said the operation
+Thesprotia first-instance prosecutor's office. [@1,5,6,7,8,9] The force said the operation
 prevented the load from being moved on. [@4]
