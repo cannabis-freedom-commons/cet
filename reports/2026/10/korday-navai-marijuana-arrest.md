@@ -200,6 +200,11 @@ sources:
     publisher: ТВ Mail
     date: 2026-10-15
     language: ru
+  - title: Известного рэпера Navai задержали на границе в Казахстане, в его машине нашли наркотики
+    url: https://www.livekuban.ru/news/obshchestvo/izvestnogo-repera-navai-zaderzhali-na-granice-v-kazakhstane-v-ego-mashine-nashli-narkotiki
+    publisher: Живая Кубань
+    date: 2026-10-15
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
@@ -217,10 +222,10 @@ open_questions:
 
 Police and border guards detained the Russian rapper Navai, real name Navai Bakirov, at the Korday
 checkpoint as he entered Kazakhstan by car from Kyrgyzstan on 13 October 2026.
-[@1,3,4,5,7,9,10,11,12,15,17,21,22,23,27,28,29,30,32,33] Navai was 30 years old. [@26] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20,27,31,33] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
+[@1,3,4,5,7,9,10,11,12,15,17,21,22,23,27,28,29,30,32,33,34] The border guards who detained him were from the National Security Committee's border service. [@34] Navai was 30 years old. [@26] Mash reported that shortly before the border check he moved into the driver's seat, replacing another person. [@25] The car searched at the checkpoint was a Mercedes-Benz with Kazakh plates. [@25] His manager and driver were with him. [@2,3,4,8,16,20,27,31,33] The two men with him were his director Rauf Gusanov and the car's renter, Khalmurad Manapov. [@20,22] A service dog named
 Atlas reacted to the car, and officers found a narcotic substance in the pocket of the driver's seat
 [@1,3,4,6,7,9,11,13,18,21,33], along with a bag with rolling papers and a grinder. [@2,4,18] Journalist Mikhail
-Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18,19]; Baza, citing checkpoint staff, claimed 10
+Kozachkov wrote that it was 2.5 g of marijuana [@7,10,11,15,18,19,34]; Baza, citing checkpoint staff, claimed 10
 grams. [@3,8,16] All three were detained and placed in temporary detention [@2,10,11,20,29] A Telegram channel citing Kazakhstan's interior ministry said Navai was in a state of narcotic intoxication when he was detained. [@20] SHOT reported that if driving under the influence was confirmed, he faced 15 days of administrative arrest and loss of driving rights for seven years. [@27] A medical examination found cannabinoids in his urine. [@25]; the two others were
 later released [@11,20], while investigators established who owned the substance. [@7,10]
 
@@ -230,7 +235,7 @@ Police opened a criminal case for attempted smuggling of narcotics [@1,7,10,11,1
 the Criminal Code, which allows up to five years in prison [@4]; the charges were reported as smuggling
 and unlawful transportation of narcotics without intent to sell. [@5,11,20,33] The Korday district court ordered
 him held in custody for two months. [@5,6,8,15,16,17,18,19,20,23,24,27,32,33] The Korday district court made that order on the morning of 15 October. [@24] Questioned, he admitted buying the drugs in Bishkek
-[@8,9,15,16,17,20,25,29] Navai said he knew that storing drugs was banned but had not expected the car to be searched. [@20,25], and Kyrgyzstan's border service opened an internal inquiry into how he crossed with
+[@8,9,15,16,17,20,25,29,34] Navai said he knew that storing drugs was banned but had not expected the car to be searched. [@20,25], and Kyrgyzstan's border service opened an internal inquiry into how he crossed with
 them. [@8,17,33] On 20 October police said the case had been closed on non-rehabilitating grounds, citing a
 first offence and active remorse, and that he had been expelled from Kazakhstan. [@14,16]
 
