@@ -45,16 +45,21 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-23
     language: hi
+  - title: 'कोपागंज में 8 किलो गांजे के साथ तस्कर गिरफ्तार: पुलिस बोली- असम से गांजा लाकर बेचने जा रहा है - Mau Police Arrest Smuggler In Kopaganj | 8kg Ganja Seized From Assam'
+    url: https://www.bhaskar.com/local/uttar-pradesh/mau/kopaganj/news/mau-kopaganj-police-arrest-smuggler-ganja-seized-assam-news-139765998.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-22
+    language: hi
 open_questions:
-  - The exact calendar date is inferred as 21 November 2026 from the Saturday-night arrest before the 23 November 2026 publication, since no calendar date for the arrest was stated.
-  - No street value for the 8 kg of ganja was published.
-  - The NDPS Act section and any laboratory confirmation of the seized material were not reported.
-  - No court outcome beyond remand to judicial custody was reported.
-  - The account rests on police statements with no independent account reported.
+    - The exact calendar date is inferred as 21 November 2026 from the Saturday-night arrest before the 23 November 2026 publication, since no calendar date for the arrest was stated.
+    - No street value for the 8 kg of ganja was published.
+    - Laboratory confirmation that the seized material was ganja was not reported.
+    - No court outcome beyond remand to judicial custody was reported.
+    - Both accounts rest on police statements with no independent account reported.
 ---
 
 Kopaganj police arrested inter-district ganja smuggler Sugriv Prajapati from the
-service lane at the Kachhikala fourlane underpass on Saturday night. [@1]
+service lane at the Kachhikala fourlane underpass on Saturday night. [@1,2]
 Prajapati, a resident of Savrupur under Rasra police station in Ballia, was
 standing with a bag and tried to flee when police arrived. [@1] Police
 registered a first information report after questioning and produced him in
@@ -63,12 +68,11 @@ court on Sunday, after which he was sent to jail in judicial custody. [@1]
 A Kopaganj police team reached below the Kachhikala underpass on the
 Varanasi-Gorakhpur fourlane at about 12:35 at night on an informant tip during a
 patrol. [@1] A search of his bag found ganja packed in six plastic packets
-weighing 8 kg. [@1]
+weighing 8 kg. [@1,2]
 
-Prajapati had bought the ganja cheaply in Assam and brought it to sell. [@1]
+Prajapati had bought the ganja cheaply in Assam and brought it to sell. [@1,2]
 Circle Officer Ghosi Satyendra Bhushan Tiwari said the Kopaganj station chief
 was on patrol in the area on Saturday night. [@1] In 2023 the Gorakhpur GRP had
 arrested Prajapati while he was smuggling ganja on a train. [@1] Police said
 they were gathering information about other local buyers and suppliers linked to
 the smuggling network. [@1]
-
