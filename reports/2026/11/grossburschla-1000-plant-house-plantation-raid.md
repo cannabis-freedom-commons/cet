@@ -69,10 +69,15 @@ sources:
     publisher: UNTERNEHMEN-HEUTE.de
     date: 2026-11-26
     language: de
+  - title: 'Illegale Cannabis-Plantage aufgeflogen: Seltsamer Hinweis lenkt Polizei zu 1.000 Pflanzen'
+    url: https://cedarnews.net/german/1199759/illegale-cannabis-plantage-aufgeflogen-seltsamer-hinweis-lenkt-polizei/
+    publisher: Cedar News
+    date: 2026-11-26
+    language: de
 ---
 
 Criminal police found a cannabis plantation with around 1,000 plants on 19
-November in an empty house in the centre of Großburschla. [@1,2] The house had
+November in an empty house in the centre of Großburschla. [@1,2,4] Großburschla lies in the Wartburgkreis district of Thuringia. [@4] The house had
 stood empty for a long time before residents alerted police. [@1] Three men aged
 19, 28 and 38 were provisionally arrested, as reported by the
 Landespolizeiinspektion Gotha. [@1,3] Residents had noticed unusual movements in
@@ -83,7 +88,7 @@ men are held in a prison. [@1] The investigation is ongoing. [@1]
 Early inquiries had pointed to an indoor plantation. [@1] Officers acted
 immediately because a handover of the marijuana was apparently imminent. [@1,3]
 Around 30 kilograms of packaged marijuana lay ready for collection in the house.
-[@1,3] Cultivation and processing rooms spread over both residential floors, with
+[@1,3,4] Cultivation and processing rooms spread over both residential floors, with
 extensive cultivation equipment. [@1] The operators tapped the electricity for
 the operation illegally before the meter. [@1,3] The plants were in different
 stages of growth. [@1,3]
