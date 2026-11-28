@@ -55,30 +55,34 @@ sources:
     url: https://thegulfgazette.com/uae-customs-foil-bid-to-smuggle-24kg-of-drugs-hidden-in-truck-trailer-at-border/
     publisher: The Gulf Gazette
     date: 2026-11-25
+  - title: الهوية والجنسية تحبط تهريب 24.2 كيلوغرام من المخدرات
+    url: https://lanatime.com/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D8%AA%D8%AD%D8%A8%D8%B7-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-24-2-2026-11-26/
+    publisher: لنا
+    date: 2026-11-26
+    language: ar
 open_questions:
-  - No separate date was given for the seizure; 26 November 2026 is the publication date of the submitted account, while the ICP statement was issued on Wednesday.
-  - The precise border crossing was not disclosed, so the place is recorded only as a UAE land border crossing.
-  - The marijuana weight is reported as 3.7kg, 3.76kg and 3,763.2g in different accounts; the report uses the most precise figure of 3.7632kg.
-  - The 20,474g of crystal methamphetamine from the same seizure is excluded from the cannabis figures.
-  - No charge, court outcome or identity of the driver beyond Asian nationality was reported.
-  - All accounts reproduce the same ICP announcement and are not independent reporting.
+    - The precise border crossing was not disclosed, so the place is recorded only as a UAE land border crossing.
+    - The ICP announced the seizure on 25 November 2026 but did not say when the inspection itself took place.
+    - The marijuana weight is reported as 3.7kg, 3.76kg and 3,763.2g in different accounts; the report uses the most precise figure of 3.7632kg.
+    - The 20,474g of crystal methamphetamine from the same seizure is excluded from the cannabis figures.
+    - No charge or court outcome was reported against the driver.
+    - All accounts reproduce the same ICP announcement and are not independent reporting.
 ---
 
 UAE customs officers arrested a lorry driver at a land border crossing over an
 alleged attempt to smuggle drugs into the country. [@1] Authorities took the
 necessary legal measures against the driver and seized 3.76 kg of marijuana and
-20.47 kg of crystal methamphetamine. [@2]
+20.47 kg of crystal methamphetamine. [@2,4]
 
 Officers found 28 plastic packages hidden in a specially constructed compartment
-inside the trailer chassis. [@1] The packages held 3,763.2 grams of marijuana
-alongside 20,474 grams of crystal methamphetamine. [@3] Inspectors became
+inside the trailer chassis. [@1,4] The packages held 3,763.2 grams of marijuana
+alongside 20,474 grams of crystal methamphetamine. [@3,4] The authority put the total weight of the narcotics found in the trailer at about 24.2 kg. [@4] Inspectors became
 suspicious of a professionally built cavity in the trailer and examined the
 frame with advanced scanning equipment to find the drugs. [@3] The concealment
-was intended to evade customs inspection systems and sniffer dogs. [@1]
+was intended to evade customs inspection systems and sniffer dogs. [@1,4]
 
 The operation was led by teams from the Federal Authority for Identity,
-Citizenship, Customs and Port Security (ICP). [@1] The ICP said the operation
+Citizenship, Customs and Port Security (ICP). [@1,4] The ICP announced the seizure on 25 November 2026. [@4] The ICP said the operation
 highlighted the efficiency and preparedness of the UAE's inspection and control
 procedures across land, air and sea ports. [@1] The ICP did not reveal the date
 or location of the incident. [@1]
-
