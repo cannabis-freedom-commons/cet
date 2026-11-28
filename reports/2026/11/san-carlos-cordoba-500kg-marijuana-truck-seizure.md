@@ -54,6 +54,11 @@ media:
     media_url: https://larazon.co/wp-content/uploads/2026/11/marihuana1.jpeg
     publisher: LARAZÓN.CO
     caption: 'Second photograph from the San Carlos marijuana seizure, published with the report. Foto: Brigada XI.'
+  - kind: photo
+    url: https://www.ejercito.mil.co/en-san-carlos-cordoba-ejercito-nacional-incauto-cerca-de-500-kilos-de-marihuana-que-serian-del-clan-del-golfo
+    media_url: https://www.ejercito.mil.co/recurso_user/img_contenido_pagina_web/800130633_4/645122/8f27d549b8fc2fcab8b0f51ba5fcdb5d.jpg
+    publisher: Ejército Nacional de Colombia
+    caption: 'Packages of the marijuana from the San Carlos seizure, in the photograph published with the Army''s statement. Photo: Ejército Nacional de Colombia'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: da2e79d4c199571fd83dbe7e6d24fb53
@@ -74,12 +79,18 @@ sources:
     publisher: LARAZÓN.CO
     date: 2026-11-26
     language: es
+  - title: En San Carlos, Córdoba, Ejército Nacional incautó cerca de 500 kilos de marihuana que serían del Clan del Golfo
+    url: https://www.ejercito.mil.co/en-san-carlos-cordoba-ejercito-nacional-incauto-cerca-de-500-kilos-de-marihuana-que-serian-del-clan-del-golfo
+    publisher: Ejército Nacional de Colombia
+    date: 2026-11-26
+    language: es
 open_questions:
-    - 'The package count differs between accounts: Caracol Radio gives 497 packages, the police statement reproduced by Burbuja Política gives 497 kilograms, and La Razón gives 494 packages; the report uses the Caracol figure.'
-    - Neither account states a separate date for the operation; 26 November 2026 is the publication date of all accounts and is used as the incident date.
-    - The driver fled and no one was arrested; no charges, custody ruling or court outcome were reported.
+    - 'The package count differs between accounts: Caracol Radio gives 497 packages, while La Razón and the Army''s own statement give 494.'
+    - No account states a separate date for the operation; 26 November 2026 is the publication date of the accounts and is used as the incident date.
+    - 'It is not established how the truck was stopped: Caracol Radio reported that the driver ignored a stop order and fled, leaving the vehicle abandoned, a detail the Army statement does not mention.'
+    - No one was arrested and no charges, custody ruling or court outcome were reported.
     - The substance was described only as 'apparently marijuana', with no laboratory confirmation reported.
-    - The pages reproduce official police and military information rather than independent reporting.
+    - The accounts reproduce official police and military information rather than independent reporting.
     - The value of about 1,800 million pesos is the authorities' own estimate.
 ---
 
@@ -87,8 +98,8 @@ A joint operation by army troops of the Gaula Militar Sinú, under tactical
 control of the 11th Brigade and with support from the 7th Urban Special Forces
 Battalion, together with the Criminal Investigation and Judicial Section of the
 National Police, located and seized about 500 kilograms of marijuana on a road
-in San Carlos, Córdoba. [@1,3] According to the investigation, the cargo allegedly
-belonged to the Clan del Golfo. [@1,3] The operation made no arrests but did seize
+in San Carlos, Córdoba. [@1,3,4] According to the investigation, the cargo allegedly
+belonged to the Clan del Golfo. [@1,3,4] The operation made no arrests but did seize
 a truck that had been abandoned with packages of the drug. [@1]
 
 Officers found the vehicle and signalled it to stop, but the driver ignored the
@@ -96,11 +107,11 @@ order and fled; minutes later the vehicle was found abandoned several kilometres
 further on. [@1] Inside, investigators found 497 packages of a narcotic
 substance, apparently marijuana, hidden in compartments fitted inside the truck.
 [@1] The authorities put the value of the packages at about 1,800 million pesos.
-[@1,3]
+[@1,3,4]
 
 The force said the operation directly affected the illegal fundraising and
 financing capacity of the Javier Yepes Cantero substructure of the Clan del
-Golfo. [@1,3] Preliminary inquiries indicated the cargo came from Risaralda
+Golfo. [@1,3,4] Preliminary inquiries indicated the cargo came from Risaralda
 department and was bound for various retail points in Córdoba, where it would be
 sold illegally. [@1] The police statement placed the operation in vereda
 Cantarrana, in the jurisdiction of San Carlos, and said it followed intelligence
