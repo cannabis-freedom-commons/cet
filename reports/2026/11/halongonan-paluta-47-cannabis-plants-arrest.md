@@ -159,8 +159,14 @@ sources:
     publisher: tribunmedandaily (Instagram)
     date: 2026-11-24
     language: id
+  - title: Ladang Ganja 5 Hektare Disamarkan dengan Tanaman Nilam di Paluta, Ini Pelakunya
+    url: https://metrodaily.jawapos.com/hukum-dan-kriminal/2611270024/ladang-ganja-5-hektare-disamarkan-dengan-tanaman-nilam-di-paluta-ini-pelakunya
+    publisher: Metro Daily
+    date: 2026-11-27
+    language: id
 open_questions:
     - 'Accounts differ on how many sacks of cannabis were seized: the police public-relations video describes one tarpaulin sack, while other accounts reported three sacks.'
+    - 'Accounts differ on how the case began: one says police acted on a report from residents, while others trace it to an earlier arrest in Batang Baruar.'
 ---
 
 North Padang Lawas narcotics officers arrested a 29-year-old man identified as
@@ -171,8 +177,8 @@ arrest of Hanif Armadi Siregar in Batang Baruar the day before, on Sunday 22
 November 2026. [@1,7,8,9,10,11,13,14]
 
 At the house officers found cannabis packets hidden in several places, including
-under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1,7,8,10,11] He
-confessed and showed officers the plot he said was his. [@1] At the plot
+under a bed, and a brown cloth parcel of cannabis seeds in the kitchen. [@1,7,8,10,11,16] He
+confessed and showed officers the plot he said was his. [@1,16] At the plot
 officers found 28 rooted cannabis plants still in the ground and 19 rooted
 stalks from a previous harvest, 47 plants in total. [@1,7,8,9,10,11,14,15] Police seized three
 sacks of cannabis from the house and plot. [@1,10,14] They also took one large and
@@ -181,10 +187,10 @@ believed to be linked to transactions. [@1,8,10,14] Officers also seized dried c
 and cannabis seeds from the house. [@6]
 
 Tribun Medan reported the field covered five hectares on hillsides in
-Halongonan, with some plants just harvested. [@4,9,11,12,13,14,15] The 5-hectare field was reported as camouflaged with patchouli plants. [@12] The police chief said the raid
+Halongonan, with some plants just harvested. [@4,9,11,12,13,14,15] The 5-hectare field was reported as camouflaged with patchouli plants. [@12,16] The police chief said the raid
 team rode trail motorcycles for three hours through dense forest on steep,
 damaged roads. [@4,11] TMS and the evidence were taken to the Paluta police station
-for further examination and investigation. [@2,8,10] Investigators said they were
+for further examination and investigation. [@2,8,10,16] Investigators said they were
 questioning witnesses and had sent evidence to the North Sumatra police forensic
 laboratory for testing. [@2,8,10] Police said he could face charges under Articles
 111(2) and 114(2) of the 2009 Narcotics Law, which carry a maximum of death or
