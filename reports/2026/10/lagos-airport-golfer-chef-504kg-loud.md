@@ -327,6 +327,10 @@ sources:
     url: https://www.wionews.com/world/south-african-golfer-kenyan-chef-arrested-at-lagos-airport-over-50kg-cannabis-shipment-1795420689312/amp
     publisher: Wion
     date: 2026-11-23
+  - title: Pro golfer allegedly agreed to drug-smuggling job for $287, arrested at airport
+    url: https://wjactv.com/news/nation-world/golfer-grobler-henlo-111-pounds-marijuana-loud-nigeria-airport-kenyan-chef-abubakar-faiza-smuggling-plot-lagos-cannibas
+    publisher: WJAC
+    date: 2026-11-24
 open_questions:
     - The CBS account gives the golfer's promised payment as US$280, while other accounts report 5,000 South African rand; the sources give no conversion reconciling the two.
 ---
@@ -339,13 +343,13 @@ the suspects were arrested at the airport in October. [@3,15,49] Henlo arrived f
 South Africa aboard a South African Airways flight on 11 October and was
 intercepted at the Terminal 2 arrival hall. [@1,5,7,10,11,14,15,16,18,19,21,23,24,31,33,34,35,37,43,44,46,47,50,51,52,55,56,57,58] Njambi was arrested at the
 airport's departure boarding gate on Thursday 15 October 2026 as she tried to
-board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24,25,26,29,30,31,33,34,35,36,37,39,41,42,43,45,46,47,49,50,51,52,53,54,55,56,57,58] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18,40,45,50]
+board a flight back to Kenya. [@1,5,6,8,10,11,13,14,16,17,18,19,21,23,24,25,26,29,30,31,33,34,35,36,37,39,41,42,43,45,46,47,49,50,51,52,53,54,55,56,57,58,59] NDLEA recovered Njambi's passport details from Henlo's phone and used them to place her on its watchlist before she was arrested on 15 October. [@5,11,18,40,45,50,59]
 
 A search of two travelling boxes in Henlo's possession recovered 46 parcels of
 Loud, described as a potent cannabis strain, with a total weight of 50.40kg.
-[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
+[@1,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32,33,34,35,37,38,39,40,41,42,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,59] Although the boxes were with Henlo, they bore Njambi's luggage tags; she
 had collected two other boxes bearing his tags from the conveyor belt and left.
-[@1,5,6,8,9,10,12,14,18,20,25,26,27,28,30,31,33,36,38,39,40,41,42,43,45,49,50,51,52,53,55,56,57] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
+[@1,5,6,8,9,10,12,14,18,20,25,26,27,28,30,31,33,36,38,39,40,41,42,43,45,49,50,51,52,53,55,56,57,59] NDLEA called the luggage-tag swap a deliberate ploy to frustrate
 identification of ownership so each courier could deny the boxes if intercepted.
 [@2,5,11,13,14,15,17,18,23,25,29,34,42,44,45,46,47,50,54,57]
 
@@ -353,13 +357,13 @@ Henlo, who flew business class while Njambi flew economy, said a South African
 associate named Shanel recruited him and linked him with syndicate members he
 never met. [@1,4,14,17,57] He said a driver handed him four travelling boxes and took him
 to the airport, where he was told to swap luggage tags with Njambi, and he was
-promised 5,000 South African rand on delivery. [@1,5,11,14,18,20,34,42,43,47,49,50,58] Njambi said a friend in
-Kenya persuaded her to accept US$8,000 for the delivery. [@1,4,5,6,10,12,13,14,15,17,18,20,25,27,28,31,33,34,47,50,57,58] She said she left
+promised 5,000 South African rand on delivery. [@1,5,11,14,18,20,34,42,43,47,49,50,58,59] Njambi said a friend in
+Kenya persuaded her to accept US$8,000 for the delivery. [@1,4,5,6,10,12,13,14,15,17,18,20,25,27,28,31,33,34,47,50,57,58,59] She said she left
 Kenya for South Africa on 4 October, met Henlo at the airport there on 11
 October, and after arriving in Lagos collected the boxes bearing his tags. [@1,5,25,32] She stayed in a hotel in South Africa for approximately one week before meeting the South African golfer at the airport. [@54] She said a driver then took her to a hotel in the Lekki area of Lagos. [@4,18,25,40]
 Tracking devices had been fitted to the travelling boxes and to Henlo's mobile
 phone, a feature also found in the bags abandoned by an American basketballer a
-month later. [@1,5,6,8,9,10,11,12,14,18,20,24,29,30,33,34,36,38,41,43,47,50,53,57,58] The claim tag for the boxes bearing Njambi's name was
+month later. [@1,5,6,8,9,10,11,12,14,18,20,24,29,30,33,34,36,38,41,43,47,50,53,57,58,59] The claim tag for the boxes bearing Njambi's name was
 recovered from her hand luggage, and both suspects identified each other during
 an identification parade. [@1,5,6,9,10,11,12,18,27,33,38,40,41,45,57] NDLEA chairman Mohamed Buba Marwa said the
 arrests, coming in the same period as that of an American basketballer, showed
