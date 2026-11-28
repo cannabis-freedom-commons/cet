@@ -68,32 +68,41 @@ sources:
     publisher: Actualidad Valencia
     date: 2026-11-26
     language: es
+  - title: Cuatro detenidos tras desmantelar en Cheste una red que enviaba marihuana a Grecia
+    url: https://www.elperiodicodeaqui.com/valencia/utiel-requena-hoya-bunol-chiva-valle-ayora-confrentes/cuatro-detenidos-desmantelar-en-cheste-red-enviaba-marihuana-grecia_100124698_102.html
+    publisher: El Periódico de Aquí
+    date: 2026-11-26
+    language: es
+open_questions:
+    - The 150 kg is the combined weight of the flowering plants found in the garage; no separate weight of dried or packaged marijuana was given.
+    - No street value was published for the cannabis.
+    - The accounts do not name the four detainees or say which two were jailed.
 ---
 
 The Guardia Civil dismantled a criminal organisation based in Cheste dedicated
-to the international cultivation, production and distribution of marijuana. [@1,3]
+to the international cultivation, production and distribution of marijuana. [@1,3,4]
 Police arrested two Albanian men aged 54 and 49, a Spanish man aged 58 and a
 Greek woman aged 49. [@1,3] All four were attributed with membership of a criminal
 organisation, drug trafficking, drug cultivation and/or manufacture, and
-electricity fraud. [@1,3] Two of those arrested were remanded in prison without
-bail. [@1,3] Officers found a man in the garage who acted as guard and maintenance
-worker for the site. [@1,2,3] He lived permanently in the garage in extremely
-precarious and isolated conditions and received only basic food. [@1,2] The
-organisation kept him there to stop him leaving and attracting attention. [@1,2]
+electricity fraud. [@1,3,4] Two of those arrested were remanded in prison without
+bail. [@1,3,4] Officers found a man in the garage who acted as guard and maintenance
+worker for the site. [@1,2,3,4] He lived permanently in the garage in extremely
+precarious and isolated conditions and received only basic food. [@1,2,4] The
+organisation kept him there to stop him leaving and attracting attention. [@1,2,4]
 
 The operation's enforcement phase ended on Thursday 12 November with two house
-searches in Cheste. [@1,2,3] The first search was in a town-centre house the
-organisation used as a drying facility. [@1,2] Inside, marijuana was conditioned,
+searches in Cheste. [@1,2,3,4] The first search was in a town-centre house the
+organisation used as a drying facility. [@1,2,4] Inside, marijuana was conditioned,
 packaged and vacuum-packed. [@1,2] It was then loaded into vehicles for
 distribution and transport. [@1,2] The second search took place in a garage in the
 town centre. [@1,2] The garage had been adapted to hold an indoor marijuana
 plantation. [@1,2] Officers found a large quantity of cannabis plants in an
-advanced state of flowering with a total weight of more than 150 kilograms. [@1,2,3]
+advanced state of flowering with a total weight of more than 150 kilograms. [@1,2,3,4]
 
 Each member had a specific role in cultivation, drying, processing, packaging
-and distribution of the marijuana. [@1,2] During the investigation officers
+and distribution of the marijuana. [@1,2,4] During the investigation officers
 intercepted several marijuana shipments already prepared for export to Greece.
-[@1,2,3] The organisation's marijuana had Greece as its final destination and Cheste
+[@1,2,3,4] The organisation's marijuana had Greece as its final destination and Cheste
 as the start of the network. [@1] The investigation was carried out by officers
 of the Chiva Main Post and the proceedings went to the Civil and Instruction
 Section of Court Number 3 in Requena. [@1]
