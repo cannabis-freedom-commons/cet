@@ -60,25 +60,25 @@ sources:
     publisher: The Portugal News
     date: 2026-05-15
     language: zh
-open_questions:
-  - The weight is an estimate of about four tonnes; no exact weighed total was published.
-  - Three men were identified as suspects, but the reports do not say they were arrested, charged or brought before a court.
-  - No estimated street value of the hashish was published.
-  - The accounts all reproduce the GNR's statement and are not independent reporting.
+  - title: GNR beschlagnahmt vier Tonnen Haschisch an der Algarve
+    url: https://www.theportugalnews.com/de/nachrichten/2026-11-22/gnr-beschlagnahmt-vier-tonnen-haschisch-an-der-algarve/1022659
+    publisher: The Portugal News
+    date: 2026-05-15
+    language: de
 ---
 
 Three men aged 22, 34 and 46 were identified as suspects of drug trafficking,
-according to a police statement. [@1,5] The GNR said its patrols detected
-suspicious movements south of Deserta Island. [@3,5] Maritime and land resources
-were deployed to monitor the vessels. [@3]
+according to a police statement. [@1,5,6] The GNR said its patrols detected
+suspicious movements south of Deserta Island. [@3,5,6] Maritime and land resources
+were deployed to monitor the vessels. [@3,6]
 
 About four tonnes of hashish and three boats were seized on Thursday near
-Deserta Island, in the Faro area of the Algarve. [@1,5] Officers described the
+Deserta Island, in the Faro area of the Algarve. [@1,5,6] Officers described the
 hashish as cannabis resin. [@4] The operation took place on 14 May 2026 in the
 Ria Formosa lagoon, off the Algarve coast. [@3] The GNR said intensified coastal
-surveillance had kept about four tonnes of drugs out of the illegal market. [@4,5]
+surveillance had kept about four tonnes of drugs out of the illegal market. [@4,5,6]
 
 The GNR said daily, round-the-clock coastal patrols help safeguard the region.
-[@2,5] The patrols are carried out under the general and specific missions of its
+[@2,5,6] The patrols are carried out under the general and specific missions of its
 Coastal and Border Control Unit and are intended to maintain security and deter
-illegal activity. [@2,5]
+illegal activity. [@2,5,6]
