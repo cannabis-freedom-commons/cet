@@ -50,19 +50,24 @@ sources:
     publisher: Gujarat Samachar
     date: 2026-11-26
     language: gu
+  - title: ભવનાથના સાધુબાવા સુધી પહોંચાડવાનો હતો 55.92 કિલો ગાંજો! આણંદમાં રુ. 27.96 લાખનો જથ્થો ઝડપાયો
+    url: https://www.gujaratijagran.com/gujarat/anand/anand-ganja-smuggling-bhavnath-sadhu-55-kg-ganja-seized-1980816
+    publisher: Gujarati Jagran
+    date: 2026-11-26
+    language: gu
 open_questions:
-  - No separate date for the operation was given; 26 November 2026 is the publication date and is used as the incident date.
-  - Accounts differ over the cash seized and the number of people named in the case.
-  - Reports disagree on whether the consignment was bound for Rajkot or for a sadhu at Bhavnath near Junagadh.
-  - No court outcome beyond the initial registration of the case was reported in the submitted account.
+    - No separate date for the operation was given; the accounts were published on 26 November 2026 and that date is used as the incident date.
+    - Accounts differ over the cash seized and the number of people named in the case.
+    - It is not settled whether the consignment was bound for Rajkot or for a sadhu at Bhavnath near Junagadh; this account gives Bhavnath as the destination on a route described as toward Rajkot.
+    - No court outcome beyond the registration of the case was reported.
+    - No report said whether the driver who fled was later arrested.
 ---
 
-Two people were arrested by Anand police in a ganja seizure near Vasad. [@2]
+Two people were arrested by Anand police in a ganja seizure near Vasad. [@2,4] The car's driver, identified as Afzal, fled after getting out of the car on the pretext of going to a washroom. [@4] The two arrested were Geetaben Ranjitbhai Vala, from Rajula in Amreli district, and Shahid Daudbhai Chauhan, from Bhavnagar. [@4]
 
 Police described the seizure as 55.920 KG of ganja linked to drug trafficking
-from Surat to Rajkot. [@1] The case was described as an NDPS Act case with a
-route from Surat to Rajkot. [@1]
+from Surat to Rajkot. [@1,4] Police put the ganja's market value at about 27.96 lakh rupees and found 3.9 lakh rupees in cash in the car, with the ganja, cash and car together valued at 36,17,800 rupees. [@4] A Forensic Science Laboratory officer at the scene confirmed that the material was plant-based dried ganja weighing 55.920 kg. [@4] The car was taken to Vasad police station, where officers found 28 packets sealed with plastic and sellotape in four separate bags. [@4] The Special Operations Group of Anand police had set up a night watch on a tip-off and stopped the suspicious car near Sundan fatak on the Vasad-Asodar highway. [@4] The case was described as an NDPS Act case with a
+route from Surat to Rajkot. [@1] The consignment was to be delivered to a sadhu at Bhavnath. [@4]
 
 The action formed part of a highway drug operation in Anand. [@3] A supplier
 from Surat remained wanted. [@2]
-
