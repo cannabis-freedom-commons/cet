@@ -206,35 +206,42 @@ sources:
     publisher: Notícias ao Minuto
     date: 2026-11-26
     language: pt
+  - title: 'Spania: Plantație de canabis, într-un buncăr ascuns sub un loc de joacă pentru copii'
+    url: https://www.romania-actualitati.ro/stiri/spania-plantatie-de-canabis-intr-unbuncar-ascuns-sub-un-loc-de-joaca-pentru-copii-id238197.html
+    publisher: Radio România Actualități
+    date: 2026-11-27
+    language: ro
+open_questions:
+    - The Guardia Civil did not say whether children used the play park or were present on the property.
 ---
 
 Guardia Civil officers arrested five people and kept three others under
-investigation. [@1,4,5,6,8,10,11,12,13,14,19,20] The find was in Las Gabias, near Granada, where officers
+investigation. [@1,4,5,6,8,10,11,12,13,14,19,20,22] The find was in Las Gabias, near Granada, where officers
 uncovered a sophisticated underground structure for growing and processing
-marijuana, concealed beneath a children's play park. [@1,5,6,8,10,14,16,19,20,21] The alleged head of
-the organisation was remanded in custody. [@1,6,7,8,12,13,15,17,19,20,21] The operation was named
-Nazarí-Sabika 04. [@1,4,6,7,10,11,13,15,17,19,21] It was carried out on 17 November after more than a year
+marijuana, concealed beneath a children's play park. [@1,5,6,8,10,14,16,19,20,21,22] The alleged head of
+the organisation was remanded in custody. [@1,6,7,8,12,13,15,17,19,20,21,22] The operation was named
+Nazarí-Sabika 04. [@1,4,6,7,10,11,13,15,17,19,21,22] It was carried out on 17 November after more than a year
 of investigation and comprised 13 searches at properties in Granada city,
-Albolote, Jun, Las Gabias and Maracena. [@2,4,9,13,14,18,19] A second account dates the same
+Albolote, Jun, Las Gabias and Maracena. [@2,4,9,13,14,18,19,22] A second account dates the same
 searches to 17 November and lists the same five municipalities. [@3]
 
 The entrance was camouflaged under artificial turf with a swing, a playhouse and
 a small mat, while the rest of the ground was covered with decorative white
-stone. [@1,6,7,10,11,13,15,19,21] Beneath the turf a hydraulic folding gate opened onto a ramp
+stone. [@1,6,7,10,11,13,15,19,21,22] Beneath the turf a hydraulic folding gate opened onto a ramp
 allowing vehicles into a bunker of about 180 square metres and five metres high.
-[@1,6,8,10,12,13,14,16,19,21] Two rooms inside held 1,954 cannabis plants and were equipped with
-lighting, ventilation and climate control. [@1,4,6,8,10,11,12,13,14,15,19,20] The Guardia Civil described it
+[@1,6,8,10,12,13,14,16,19,21,22] Two rooms inside held 1,954 cannabis plants and were equipped with
+lighting, ventilation and climate control. [@1,4,6,8,10,11,12,13,14,15,19,20,22] The Guardia Civil described it
 as the largest and most sophisticated illegal growing bunker found to date in
-Granada province. [@1,6,7,8,10,12,13,14,15,18,19,20] Across the searches officers seized 2,479 marijuana
+Granada province. [@1,6,7,8,10,12,13,14,15,18,19,20,22] Across the searches officers seized 2,479 marijuana
 plants from three plantations, two cars, two vans, a caravan, a trailer, a stun
-gun and 22,970 euros in banknotes. [@1,4,5,6,7,8,11,13,14,15,17,19,20] They also sealed a commercial grow shop
-whose value investigators put at several million euros. [@1,6,7,8,11,13,14,15,19] A power tower
+gun and 22,970 euros in banknotes. [@1,4,5,6,7,8,11,13,14,15,17,19,20,22] They also sealed a commercial grow shop
+whose value investigators put at several million euros. [@1,6,7,8,11,13,14,15,19,22] A power tower
 supplied the plantation through an illegal grid connection whose load equalled
-the consumption of about 100 homes. [@1,6,7,8,10,13,15,20]
+the consumption of about 100 homes. [@1,6,7,8,10,13,15,20,22]
 
 Those detained and under investigation were suspected of cultivating and
 processing drugs, electricity fraud, unlawful possession of a prohibited weapon
-and belonging to a criminal group. [@1,6,8,17,19] Investigators said the organisation also
+and belonging to a criminal group. [@1,6,8,17,19,22] Investigators said the organisation also
 supplied infrastructure and specialised equipment to other drug-trafficking
-groups nationwide. [@1,8,13,15,19] The alleged leader owned the grow shop and used it to
-supply his own plantation and other growing sites around Spain. [@1,6,13,15,18,19]
+groups nationwide. [@1,8,13,15,19,22] The alleged leader owned the grow shop and used it to
+supply his own plantation and other growing sites around Spain. [@1,6,13,15,18,19,22] The investigation was run by the Guardia Civil's criminal intelligence and judicial police units in Granada, with the investigation team from Las Gabias. [@22]
