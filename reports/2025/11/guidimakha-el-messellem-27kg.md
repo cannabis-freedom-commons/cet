@@ -47,6 +47,11 @@ sources:
     publisher: Mourassiloun
     date: 2025-11-19
     language: ar
+  - title: 'Drogue au Ghidimagha: la police déjoue un trafic de chanvre indien'
+    url: https://www.cridem.org/C_Info.php?article=788857
+    publisher: Cridem
+    date: 2025-11-19
+    language: fr
 open_questions:
   - The neighbour country that supplied the load was not named in the communiqués opened.
   - The suspect was not identified and no court outcome has been reported.
@@ -55,14 +60,14 @@ open_questions:
 ---
 
 Mauritanian police said they foiled a drug run after seizing 30 slabs of cannabis with a
-total weight of 27 kg at the El-Messellem checkpoint in Guidimakha wilaya. [@1,2] The
+total weight of 27 kg at the El-Messellem checkpoint in Guidimakha wilaya. [@1,2,3] The
 communiqué said the cargo had come from a neighbouring country and was bound for Mauritanian
-territory. [@1]
+territory. [@1,3]
 
 Officers arrested a suspect caught in flagrante delicto transporting the drugs, under the
-coordination of the Guidimakha regional security directorate. [@1] Mourassiloun reported that
+coordination of the Guidimakha regional security directorate. [@1,3] Mourassiloun reported that
 Ghabou police commissariat staff carried out the stop and opened a deeper inquiry into the
 case. [@2]
 
-La Dépêche said the Ghabou commissariat was investigating all branches of the affair. [@1]
+La Dépêche said the Ghabou commissariat was investigating all branches of the affair. [@1,3]
 Neither outlet named the driver or any further arrests. [@1,2]
