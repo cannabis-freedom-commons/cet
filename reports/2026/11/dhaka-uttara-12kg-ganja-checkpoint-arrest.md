@@ -49,27 +49,42 @@ sources:
     publisher: ডিএমপি নিউজ
     date: 2026-11-26
     language: bn
+  - title: রাজধানীতে গাঁজাসহ মাদক কারবারি গ্রেপ্তার
+    url: https://www.vodbangla.com/news/59486/BsKG0cOecK/
+    publisher: VOD Bangla
+    date: 2026-11-26
+    language: bn
+  - title: কামারপাড়ায় পুলিশের চেকপোস্টে ধরা মাদক কারবারি, উদ্ধার ১২ কেজি গাঁজা
+    url: https://leadnews24.net/archives/41445
+    publisher: Lead News 24
+    date: 2026-11-26
+    language: bn
+  - title: উত্তরা পশ্চিম থানা পুলিশ কর্তৃক ১২ কেজি গাঁজাসহ মাদক ব্যবসায়ী গ্রেপ্তার
+    url: https://www.banglaedition.com/country/2026/11/26/275532
+    publisher: Bangla Edition
+    date: 2026-11-26
+    language: bn
 open_questions:
-  - The statement gives no case number or charge for the new seizure and does not say when he will appear in court.
-  - Police did not say where the ganja came from or where it was being taken.
-  - No details were given of the earlier Narcotics Control Act case against him, including when it was filed or what it charged.
-  - No estimated value was published for the 12 kilograms of ganja.
-  - The account rests on the Dhaka Metropolitan Police's own statement; no independent report of the arrest was found.
+    - The statement gives no case number or charge for the new seizure and does not say when he will appear in court.
+    - Police did not say where the ganja came from or where it was being taken.
+    - No estimated value was published for the 12 kilograms of ganja.
+    - The accounts rest on the Dhaka Metropolitan Police statement and press-release reprints rather than independent reporting.
+    - 'Accounts differ on his home district: the press release gives Natore, while Lead News 24 says Netrokona.'
+    - The sources do not say what stage the earlier Gazipur case has reached since the charge sheet was filed on 16 August 2026.
 ---
 
 Uttara West Thana police arrested a man carrying 12 kilograms of ganja in
-Dhaka's Uttara on the afternoon of Thursday 26 November 2026. [@1] Police
+Dhaka's Uttara on the afternoon of Thursday 26 November 2026. [@1,2] Police
 identified him as Md Saidul Islam, alias Kalu, 35. [@1] Uttara West is one of
 the thanas, or police station areas, of Dhaka Metropolitan Police, and the
 Kamarpara checkpoint lies in its area. [@1] A police team was on routine duty at
-the checkpoint at about 4:50 pm when it took him into custody. [@1] Officers
+the checkpoint at about 4:50 pm when it took him into custody. [@1,2] Sub-inspector Md Mahbubul Haq Roni led the police team at the Kamarpara checkpoint. [@3] Officers
 searched a bag he was carrying and recovered the 12 kilograms of ganja from it.
-[@1] He was the only person arrested in the operation. [@1]
+[@1,2] He was the only person arrested in the operation. [@1]
 
 Police described him as a drug trafficker. [@1] They said a case filed against
 him earlier under the Narcotics Control Act was already on trial in a court.
-[@1]
+[@1,2] The charge sheet in that earlier case was numbered 378 and dated 16 August 2026. [@4] A check of the C-DMS police database showed the earlier case was registered at Gazipur Metropolitan Police's Sadar thana under section 36(1), table 19(ka), of the Narcotics Control Act 2018, and that a charge sheet had been filed in it. [@3]
 
 Uttara West Thana police said legal proceedings against him over the new seizure
-were under way. [@1]
-
+were under way. [@1,2] Officer in charge Mohammad Khalid Munshur confirmed the arrest. [@3]
