@@ -69,11 +69,23 @@ sources:
     publisher: Radioatacama.cl
     date: 2026-11-26
     language: es
+  - title: 'Trasladaban droga hasta una casa: La pista clave que terminó con 2 extranjeros detenidos en Copiapó'
+    url: https://www.elquehaydecierto.cl/noticia/sociedad/trasladaban-droga-hasta-una-casa-la-pista-clave-que-termino-con-2-extranjeros-deten
+    publisher: El QueHayDeCiarto.cl
+    date: 2026-11-26
+    language: es
+  - title: OS7 Atacama desarticuló en Copiapó un punto de recepción de drogas, detuvo tres personas e incautó armamento y municiones
+    url: https://fmcandelaria.cl/os7-atacama-desarticulo-en-copiapo-un-punto-de-recepcion-de-drogas-detuvo
+    publisher: Candelaria Radio
+    date: 2026-11-26
+    language: es
 open_questions:
-  - 'The exact date of the operation is unclear: one account quotes an officer saying it ended ''yesterday (Tuesday)'', which could place it on 24 November 2026, while the first report was published on 25 November.'
-  - The 28,050,000-peso valuation covers all the seized drugs together, so no separate value for the marijuana was published.
-  - The first account gives the marijuana only as 'more than 200 grams', while the detailed police statement gives 228 grams; the report uses 228 grams.
-  - No trial date, plea or final court outcome was reported beyond the charging decision and preventive detention.
+    - 'The exact date of the operation is unclear: one account quotes an officer saying it ended ''yesterday (Tuesday)'', which could place it on 24 November 2026, while the first report was published on 25 November.'
+    - The 28,050,000-peso valuation covers all the seized drugs together, so no separate value for the marijuana was published.
+    - The first account gives the marijuana only as 'more than 200 grams', while the detailed police statement gives 228 grams; the report uses 228 grams.
+    - No trial date, plea or final court outcome was reported beyond the charging decision and preventive detention.
+    - One account reports only the two Bolivians as detained, while the police statement counted a third, Chilean, detainee who was cautioned and released.
+    - 'Accounts differ on the weapons count: the police commander spoke of two firearms, while the itemised lists name one .22 firearm and a compressed-air pistol.'
 ---
 
 Carabineros' OS7 drug unit dismantled a drug-trafficking organisation in central
@@ -82,21 +94,20 @@ about a property in the central district allegedly used to receive Bolivians who
 would bring in or take out drug-filled ovoides. [@1] After the information was
 passed to the Public Prosecutor's Office and special investigative techniques
 were used, Carabineros detained two Bolivians in an irregular migration
-situation and one Chilean. [@1]
+situation and one Chilean. [@1] Officers stopped the woman in the street as she left the building with a man waiting in a car and seized a bag containing drug-filled ovoids. [@5]
 
 The detailed police account listed 228 grams of marijuana alongside 4 kilograms
-295 grams of cocaine base paste. [@2] Carabineros' first statement described the
+295 grams of cocaine base paste. [@2,4] Carabineros' first statement described the
 cannabis as more than 200 grams of processed marijuana. [@1] Officers also
 seized 2,020,000 pesos in cash, five mobile phones, a car, two firearms and 17
-rounds of .22 ammunition. [@2] Carabineros valued the drugs together at
+rounds of .22 ammunition. [@2] One of the seized firearms, a .22, had an outstanding report for theft. [@5] Carabineros valued the drugs together at
 28,050,000 pesos, equivalent to 13,341 doses, with no separate valuation for the
 marijuana. [@2]
 
 The SAC unit of the Atacama prosecutor's office brought charges against two of
-the detainees over drug storage at a residence in the commune. [@3] The two were
+the detainees over drug storage at a residence in the commune. [@3,4] Prosecutor Paula Barrueto, head of the SAC unit, said the investigative work had produced the information that led the prosecutor's office to request the judicial authorisations behind the detentions, and the two accused, a man and a woman, were told of the offences at the hearing before the Copiapó Guarantee Court. [@4] The two were
 investigated for completed participation in illicit drug trafficking and illegal
 possession of a firearm and ammunition. [@3] The court granted the prosecutor's
 request for preventive detention of the two Bolivians because their freedom was
-considered a danger to society. [@3] The Chilean was left with a warning under
+considered a danger to society. [@3,4] The Chilean was left with a warning under
 article 26 of the Criminal Procedure Code. [@2]
-
