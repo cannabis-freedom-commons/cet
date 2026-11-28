@@ -71,32 +71,38 @@ sources:
     publisher: Akşam
     date: 2026-11-24
     language: tr
+  - title: 'Gümrüklerde uyuşturucu operasyonu: 465 kilogram ele geçirildi'
+    url: https://www.ajans344.com/asayis/gumruklerde-uyusturucu-operasyonu-465-kilogram-ele-gecirildi/412695
+    publisher: Ajans344
+    date: 2026-11-24
+    language: tr
 open_questions:
-  - No separate date was given for the three searches; 24 November 2026 is the Trade Ministry announcement and publication date used here.
-  - The 121.4 kg of methamphetamine found in the Gürbulak tanker is outside the tracker's scope and is excluded from the cannabis figure.
-  - The 390 kg 488 g combined total covers cannabis and methamphetamine together; the cannabis-only total is 269.088 kg.
-  - No arrests, detentions, charges or court outcome were reported; the prosecutor investigations were described as continuing.
-  - The accounts call the substance esrar without saying whether it was dried herbal cannabis or pressed resin, and no laboratory result was reported.
-  - No value estimate was published for the cannabis or the other drugs.
-  - All three accounts reproduce the Trade Ministry's written statement and are not independent confirmation of the weights.
+    - No separate date was given for the three searches; 24 November 2026 is the Trade Ministry announcement and publication date used here.
+    - The 121.4 kg of methamphetamine found in the Gürbulak tanker is outside the tracker's scope and is excluded from the cannabis figure.
+    - The 390 kg 488 g combined total covers cannabis and methamphetamine together; the cannabis-only total is 269.088 kg.
+    - One outlet put the combined total at 465 kg, which does not match the component figures given in the same account, 121.4 kg of methamphetamine and 269.088 kg of esrar (390.488 kg).
+    - No arrests, detentions, charges or court outcome were reported; the prosecutor investigations were described as continuing.
+    - The accounts call the substance esrar without saying whether it was dried herbal cannabis or pressed resin, and no laboratory result was reported.
+    - No value estimate was published for the cannabis or the other drugs.
+    - All the accounts reproduce the Trade Ministry's written statement and are not independent confirmation of the weights.
 ---
 
 Turkey's Trade Ministry said customs protection teams carried out three
-operations at customs gates in Ağrı and Edirne. [@1,4] The operations were part of
+operations at customs gates in Ağrı and Edirne. [@1,4,5] The operations were part of
 the fight against drug smuggling and covered the Gürbulak, Hamzabeyli and
 Kapıkule gates. [@1] Investigations into the incidents continued at the
-Doğubayazıt and Edirne chief public prosecutor's offices. [@1,4] The ministry said
+Doğubayazıt and Edirne chief public prosecutor's offices. [@1,4,5] The ministry said
 in a written statement that it was fighting all forms of smuggling that
 threatened public health and particularly targeted young people. [@2] The
 statement said its customs teams were denying drug traffickers passage through
 successful operations. [@2]
 
 At the Gürbulak gate in Ağrı, a tanker flagged by risk analysis was sent for a
-detailed search. [@1,4] The search found 121.4 kg of methamphetamine and 150.35 kg
-of esrar, a cannabis resin, a combined 271.75 kg of drugs. [@1,4] At Hamzabeyli, a
+detailed search. [@1,4,5] The search found 121.4 kg of methamphetamine and 150.35 kg
+of esrar, a cannabis resin, a combined 271.75 kg of drugs. [@1,4,5] At Hamzabeyli, a
 suspect truck was X-rayed and, after detector dog Anti reacted, 74.898 kg of
-esrar hidden inside was recovered. [@1,4] At Kapıkule, a truck arriving to enter
+esrar hidden inside was recovered. [@1,4,5] At Kapıkule, a truck arriving to enter
 Turkey was checked with under-vehicle imaging and X-ray, and a search with
-detector dog Smoke found 43.84 kg of esrar. [@1,4] The three operations yielded
+detector dog Smoke found 43.84 kg of esrar. [@1,4,5] The three operations yielded
 390 kg 488 g of drugs in total. [@1] A separate account put the cannabis total
 across the three gates at 269 kg 88 g. [@3]
