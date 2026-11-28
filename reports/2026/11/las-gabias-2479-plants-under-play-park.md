@@ -201,23 +201,28 @@ sources:
     publisher: Huelva Hoy
     date: 2026-11-26
     language: es
+  - title: Parque infantil escondia bunker de droga em Espanha. Assista à descoberta
+    url: https://www.noticiasaominuto.com/mundo/3090552/parque-infantil-escondia-bunker-de-droga-em-espanha-assista-a-descoberta
+    publisher: Notícias ao Minuto
+    date: 2026-11-26
+    language: pt
 ---
 
 Guardia Civil officers arrested five people and kept three others under
 investigation. [@1,4,5,6,8,10,11,12,13,14,19,20] The find was in Las Gabias, near Granada, where officers
 uncovered a sophisticated underground structure for growing and processing
-marijuana, concealed beneath a children's play park. [@1,5,6,8,10,14,16,19,20] The alleged head of
-the organisation was remanded in custody. [@1,6,7,8,12,13,15,17,19,20] The operation was named
-Nazarí-Sabika 04. [@1,4,6,7,10,11,13,15,17,19] It was carried out on 17 November after more than a year
+marijuana, concealed beneath a children's play park. [@1,5,6,8,10,14,16,19,20,21] The alleged head of
+the organisation was remanded in custody. [@1,6,7,8,12,13,15,17,19,20,21] The operation was named
+Nazarí-Sabika 04. [@1,4,6,7,10,11,13,15,17,19,21] It was carried out on 17 November after more than a year
 of investigation and comprised 13 searches at properties in Granada city,
 Albolote, Jun, Las Gabias and Maracena. [@2,4,9,13,14,18,19] A second account dates the same
 searches to 17 November and lists the same five municipalities. [@3]
 
 The entrance was camouflaged under artificial turf with a swing, a playhouse and
 a small mat, while the rest of the ground was covered with decorative white
-stone. [@1,6,7,10,11,13,15,19] Beneath the turf a hydraulic folding gate opened onto a ramp
+stone. [@1,6,7,10,11,13,15,19,21] Beneath the turf a hydraulic folding gate opened onto a ramp
 allowing vehicles into a bunker of about 180 square metres and five metres high.
-[@1,6,8,10,12,13,14,16,19] Two rooms inside held 1,954 cannabis plants and were equipped with
+[@1,6,8,10,12,13,14,16,19,21] Two rooms inside held 1,954 cannabis plants and were equipped with
 lighting, ventilation and climate control. [@1,4,6,8,10,11,12,13,14,15,19,20] The Guardia Civil described it
 as the largest and most sophisticated illegal growing bunker found to date in
 Granada province. [@1,6,7,8,10,12,13,14,15,18,19,20] Across the searches officers seized 2,479 marijuana
