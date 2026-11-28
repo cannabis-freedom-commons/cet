@@ -64,6 +64,11 @@ sources:
     publisher: Bsnews.it
     date: 2026-11-27
     language: it
+  - title: 'Brescia, blitz antidroga della Locale: sequestrati 7 chili di hashish, marijuana, quasi 10mila euro e una pistola'
+    url: https://www.bresciaoggi.it/territorio-bresciano/brescia/brescia-blitz-antidroga-della-locale-sequestrati-7-chili-di-hashish-marijuana-quasi-10mila-euro-e-una-pistola-1.13196146
+    publisher: Bresciaoggi
+    date: 2026-11-26
+    language: it
 open_questions:
   - The main hashish quantity was described only as 'about seven kilograms'; the 7.096 kg total adds the separately reported 12 g ovulo and 84 g of marijuana.
   - The cash was reported only as 'just under 10,000 euros', so the figure is an upper bound rather than an exact amount.
@@ -73,21 +78,20 @@ open_questions:
 
 Police in Brescia arrested a young man on the afternoon of 19 November 2026
 after finding about seven kilograms of hashish, 84 grams of marijuana, a pistol
-and just under 10,000 euros in cash in his home. [@1] Officers had been
+and just under 10,000 euros in cash in his home. [@1,4] Officers had been
 following the man on suspicion of supplying small dealers and drug consumers.
-[@1] The local police's judicial police unit launched the operation on 19
+[@1] Police said the young man often tried to make himself unrecognisable and to evade checks, including with particular precautions when entering and leaving his home. [@4] The local police's judicial police unit launched the operation on 19
 November in a city neighbourhood, targeting the suspected supplier. [@2]
 
 When the man left the flat and cycled away quickly, officers moved to stop him;
 he fled and dropped an ovulo of hashish of about 12 grams, a small wrapped dose,
-which officers recovered. [@1] The search of the flat uncovered the larger
+which officers recovered. [@1,4] The search of the flat uncovered the larger
 quantity: about seven kilograms of hashish in bars, portions and ovuli, plus
-another 84 grams of marijuana. [@1] The flat also held material used to prepare
+another 84 grams of marijuana. [@1,4] The flat also held material used to prepare
 and package both substances. [@1] Officers seized cash described as just under
 10,000 euros and a pistol found inside the home. [@1]
 
 The man was arrested and placed at the disposal of the judicial authorities.
-[@3] Brescia local police said the suspected offences and criminal
+[@3,4] Brescia local police said the suspected offences and criminal
 responsibility must still be established in court, with the presumption of
 innocence until a final judgment. [@3]
-
