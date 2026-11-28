@@ -39,6 +39,11 @@ media:
     media_url: https://www.koaci.com/assets/news/thumbnails/1500/2023/05/photo_1684321392.jpg
     publisher: KOACI
     caption: Lead image on the KOACI article about the Hauts-Bassins chanvre indien seizure; the page gives no caption describing its contents and no credit.
+  - kind: photo
+    url: https://banouto.bj/societe/article/20230517-burkina-faso-pres-de-700-kg-de-chanvre-indien-saisis-par-la-police
+    media_url: https://banouto.bj/uploads/chanvre-indien-burkina.jpg
+    publisher: Banouto
+    caption: The suspected trafficker with the seized slabs of chanvre indien, captioned on Banouto's account of the police operation.
 status: verified
 created_by_model: opencode-go/muse-spark-1.3-contributor#xhigh
 submission: 482d0c0c469b52a629eb34a66b1bf107
@@ -49,30 +54,39 @@ sources:
     publisher: KOACI
     date: 2023-05-17
     language: fr
+  - title: 'Burkina: près de 700 kg de chanvre indien saisis dans les Hauts-Bassins'
+    url: https://beninwebtv.bj/burkina-pres-de-700-kg-de-chanvre-indien-saisis-dans-les-hauts-bassins/
+    publisher: Bénin Web TV
+    date: 2023-05-16
+    language: fr
+  - title: 'Burkina Faso : près de 700 kg de chanvre indien saisis par la Police'
+    url: https://banouto.bj/societe/article/20230517-burkina-faso-pres-de-700-kg-de-chanvre-indien-saisis-par-la-police
+    publisher: Banouto
+    date: 2023-05-17
+    language: fr
 open_questions:
-  - The article gives no separate date for the seizure or arrest; 17 May 2023 is its publication date and is used as the incident date.
-  - The article does not name the town or village where the seizure was made, giving only the Hauts-Bassins region, so the coordinates are those of the regional centre, Bobo-Dioulasso.
-  - The headline says nearly 700 kg while the text gives 698 slabs, about 760 kg; the report uses the text's figure.
-  - The suspect is called only le présumé malfrat, with no name, age or nationality.
-  - No charges, custody ruling or court outcome were reported, and no value was given for the cannabis.
-  - Only one account, the KOACI article, could be opened; searches in French found no second report or police statement on the case.
-  - The article's lead photo has no caption describing its contents and no credit, so it is not established to show this seizure.
+    - The accounts give no separate date for the seizure or arrest; the police announcement was on 16 May 2023 and the articles were published on 16 and 17 May 2023, with 17 May retained as the incident date.
+    - None of the accounts names the town or village where the seizure was made, giving only the Hauts-Bassins region, so the coordinates are those of the regional centre, Bobo-Dioulasso.
+    - The headlines say nearly 700 kg while the Bénin Web TV and KOACI texts give 698 slabs, about 760 kg; the report uses the text's figure.
+    - Banouto, citing a police Facebook post, gives 682 plaquettes rather than 698; the report keeps 698, the figure in two accounts.
+    - The suspect is called only le présumé malfrat, with no name, age or nationality.
+    - No charges, custody ruling or court outcome were reported, and no value was given for the cannabis.
+    - The KOACI article's lead photo has no caption describing its contents and no credit, so it is not established to show this seizure.
 ---
 
 Burkina Faso's national police seized nearly 700 kg of chanvre indien, the
 French term for cannabis, in the Hauts-Bassins region during a crackdown on
-illicit drug trafficking. [@1] The seizure involved 698 slabs of chanvre indien
-weighing about 760 kg, along with several other objects. [@1]
+illicit drug trafficking. [@1,2] The seizure involved 698 slabs of chanvre indien
+weighing about 760 kg, along with several other objects. [@1,2]
 
 The suspect acted alone, hiding the drugs by exchanging them for mopeds where
-purchases or deliveries took place. [@1] He obtained his goods from outside the
+purchases or deliveries took place. [@1,2] He obtained his goods from outside the
 country and moved them inside Burkina Faso by bypassing checkpoints on tracks
-through areas described as dangerous. [@1] He sold the cannabis in certain
+through areas described as dangerous. [@1,2] He sold the cannabis in certain
 border areas and used the money to buy motorcycles that he then exchanged with
-suppliers living abroad. [@1] He also used the proceeds to stock commercial
-premises, including clothing shops he had set up. [@1]
+suppliers living abroad. [@1,2] He also used the proceeds to stock commercial
+premises, including clothing shops he had set up. [@1,2]
 
 With help from residents, the Kourouma district police station and local
 Volunteers for the Defence of the Homeland auxiliaries, the Hauts-Bassins
-regional judicial police arrested the suspected trafficker. [@1]
-
+regional judicial police arrested the suspected trafficker. [@1,2,3]
