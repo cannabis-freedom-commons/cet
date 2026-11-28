@@ -75,17 +75,30 @@ sources:
     publisher: policenamaa
     date: 2026-11-26
     language: mr
+  - title: 'Pune Police Combing Opration: ७२ ठिकाणी छापेमारी, ३७५ हॉटेल्स; गोळीबारानंतर पुणे पोलिसांचे रात्रभर कॉम्बिंग ऑपरेशन'
+    url: https://www.navarashtra.com/crime/pune-police-combing-operation-250-kg-ganja-shastra-japt-marathi-news-as
+    publisher: Navarashtra
+    date: 2026-11-26
+    language: mr
 media:
   - kind: photo
     url: https://pudhari.news/maharashtra/pune/shirur-police-seize-250-kg-ganja-worth-1-52-crore-sk04
     media_url: https://cf-images.assettype.com/pudharinews%2F2026-11-26%2Fwfs3rjt6%2FShirur-Ganja-Seizure.jpg?w=768&auto=format%2Ccompress&fit=max
     publisher: Pudhari News
     caption: 'Ganja seized by police in Shirur. Photo: Pudhari News'
+  - kind: photo
+    url: https://www.navarashtra.com/crime/pune-police-combing-operation-250-kg-ganja-shastra-japt-marathi-news-as
+    media_url: https://media.assettype.com/navarashtra%2F2026-11-26%2Fyqj851r4%2FPune-Police-Combing-Operation?w=768&auto=format%2Ccompress&fit=max
+    publisher: Navarashtra
+    caption: Pune police during the three-hour city-wide combing operation in which the anti-narcotics squad seized 250 kg of ganja, published with Navarashtra's report on the drive.
+open_questions:
+  - One Marathi account values the seized narcotics at Rs 1.51 crore, the total other accounts give for the ganja, the SUV and the phones together, while police valued the ganja alone at Rs 1.25 crore.
+  - The combing drive is dated to the night of Tuesday 25 November, although 25 November 2026 was a Wednesday, leaving the exact night of the operation unclear.
 ---
 
 On 25 November 2026, the Anti-Narcotics Squad-II of the Pune City Police Crime
 Branch arrested two men and seized 250 kg of ganja after a chase in the Shirur
-area. [@3,5,6,8] The accused were identified as 24-year-old Sameer Purushottam Raut of
+area. [@3,5,6,8,9] The seizure was made during a city-wide night combing operation that ran from 10 pm on 25 November to 1 am the next morning on the orders of Police Commissioner Amitesh Kumar, called after a shooting and knife attack on a man accused of murder in the Shivajinagar court complex. [@9] The accused were identified as 24-year-old Sameer Purushottam Raut of
 Sangol and 30-year-old Ajay Jagdish Mohite of Bagapur, both in Chandur Railway
 taluka of Amravati district. [@3,6,7,8] Raut works as a paver-block operator and
 Mohite does furniture work. [@2,4] Officers intercepted their car in Shirur city
