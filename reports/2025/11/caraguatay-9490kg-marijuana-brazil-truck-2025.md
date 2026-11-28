@@ -53,6 +53,16 @@ media:
     media_url: https://www.argentina.gob.ar/sites/default/files/controlan_un_camion_de_bandera_brasilena_cargado_con_mas_de_nueve_toneladas_de_marihuana1.jpeg
     publisher: Argentina.gob.ar (Gendarmería Nacional Argentina)
     caption: 'Bundles of cannabis sativa found under the truck''s tarpaulin at Caraguatay. Photo: Gendarmería Nacional Argentina.'
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/gna-decomiso-mas-de-9-toneladas-de-droga-en-misiones
+    media_url: https://www.argentina.gob.ar/sites/default/files/1_gendarmeria_decomiso_mas_de_9_toneladas_de_droga_en_misiones.jpeg
+    publisher: Argentina.gob.ar (Gendarmería Nacional Argentina)
+    caption: Gendarmería Nacional photograph of the cannabis seized from the Brazilian-flagged truck at Caraguatay, Misiones, on 21 November 2025.
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/gna-decomiso-mas-de-9-toneladas-de-droga-en-misiones
+    media_url: https://www.argentina.gob.ar/sites/default/files/2_gendarmeria_decomiso_mas_de_9_toneladas_de_droga_en_misiones.jpeg
+    publisher: Argentina.gob.ar (Gendarmería Nacional Argentina)
+    caption: A second Gendarmería Nacional photograph of the same Caraguatay cannabis seizure.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 3d28588eb5b8bf56b55276c4a00d9969
@@ -78,6 +88,11 @@ sources:
     publisher: Canal 12 Misiones
     date: 2025-11-21
     language: es
+  - title: GNA decomisó más de 9 toneladas de droga en Misiones
+    url: https://www.argentina.gob.ar/noticias/gna-decomiso-mas-de-9-toneladas-de-droga-en-misiones
+    publisher: Argentina.gob.ar
+    date: 2025-11-21
+    language: es
 open_questions:
   - The government's forensic unit measured the load at 9,490.2 kg while InSight Crime reported 9.8 tonnes; the official figure is used.
   - No formal charge or court outcome beyond the driver's detention and the order seizing the drug and truck was reported.
@@ -87,19 +102,19 @@ open_questions:
 On 21 November 2025 Argentina's Gendarmería Nacional seized 9.8 tonnes of
 marijuana brought from Brazil at Caraguatay, Misiones, on National Route 12.
 [@1] Officers of Escuadrón 10 Eldorado stopped the Brazilian-flagged cargo truck
-at kilometre 1,509 of National Route 12 at Caraguatay. [@2] The check followed
+at kilometre 1,509 of National Route 12 at Caraguatay. [@2,5] The check followed
 criminal intelligence work and cooperation between Argentine forces and Brazil's
-FICCO of Paraná state. [@3] Officers found the international cargo manifests
-presented for the truck were forged. [@2] A drug detector dog named Vera reacted
-and marked several parts of the vehicle. [@2] Beneath the tarpaulin officers
-found 326 bundles holding 11,667 rectangular packages of cannabis sativa. [@2]
+FICCO of Paraná state. [@3,5] Officers found the international cargo manifests
+presented for the truck were forged. [@2,5] A drug detector dog named Vera reacted
+and marked several parts of the vehicle. [@2,5] Beneath the tarpaulin officers
+found 326 bundles holding 11,667 rectangular packages of cannabis sativa. [@2,5]
 The federal court and federal prosecutor in Eldorado ordered the Brazilian
-national detained and the drug, the truck and the documents seized. [@2]
+national detained and the drug, the truck and the documents seized. [@2,5]
 
 Government forensic tests weighed the cannabis sativa at 9,490 kilos 200 grams.
-[@2] Canal 12 Misiones reported the load as 9,490.2 kg of marijuana in a
+[@2,5] Canal 12 Misiones reported the load as 9,490.2 kg of marijuana in a
 Brazilian truck. [@4] The truck had an active theft warrant from Morón in Buenos
-Aires province and carried a plate that did not belong to it. [@2]
+Aires province and carried a plate that did not belong to it. [@2,5]
 
 Then-security minister Patricia Bullrich presented the operation as the largest
 drug seizure in Argentina's history. [@1] The operation reproduced a pattern
@@ -110,4 +125,3 @@ mixed with legal cargo. [@1] Argentina's national anti-narcotics secretary
 Martín Verrier said marijuana in Argentina is usually handled by local networks.
 [@1] Criminology professor Sebastián Cutrona warned that large seizures may mask
 a greater flow of drugs. [@1]
-
