@@ -83,36 +83,52 @@ sources:
     publisher: "444"
     date: 2026-11-26
     language: hu
-open_questions:
-  - The two stated package weights, 35.96 kg and 36.46 kg, sum to 72.42 kg, while the police and news accounts describe the total as 72 kg or 'more than 72 kg'; the report uses the stated 72 kg.
-  - The material was identified as marijuana by a rapid test, and no result of the forensic chemistry examination was published.
-  - No trial date, final charge or sentence was reported; the court ordered one month of pretrial detention on 27 November 2026.
+  - title: 'Óriási fogás: Több mint 72 kiló marihuánát találtak két holland férfi bőröndjeiben a budapesti repülőtéren – Fotók'
+    url: https://hellomagyar.hu/2026/11/26/72-kg-marihuana-holland-repuloter/
+    publisher: Helló Magyar
+    date: 2026-11-26
+    language: hu
 media:
   - kind: photo
     url: https://hvg.hu/itthon/20261126_rendorseg-nni-nav-ferihegy-72-kilogramm-marihuana-holland-ferfi-diler
     media_url: https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/12dd7bc3-e710-4c19-878a-4e0682de599c.jpg
     publisher: HVG
     caption: 'Police handout photo published with the report on the Ferihegy seizure of 72 kilograms of marijuana from two Dutch couriers. Photo: police.hu'
+  - kind: photo
+    url: https://hellomagyar.hu/2026/11/26/72-kg-marihuana-holland-repuloter/
+    media_url: https://hellomagyar.hu/wp-content/uploads/2026/11/foto02_0.webp
+    publisher: Helló Magyar
+    caption: 'Police handout photo from the Ferihegy seizure of 72 kilograms of marijuana from two Dutch couriers. Photo: police.hu'
+  - kind: photo
+    url: https://hellomagyar.hu/2026/11/26/72-kg-marihuana-holland-repuloter/
+    media_url: https://hellomagyar.hu/wp-content/uploads/2026/11/foto01_0.webp
+    publisher: Helló Magyar
+    caption: 'Police handout photo of the packages seized in the four checked suitcases at Budapest airport. Photo: police.hu'
+  - kind: photo
+    url: https://hellomagyar.hu/2026/11/26/72-kg-marihuana-holland-repuloter/
+    media_url: https://hellomagyar.hu/wp-content/uploads/2026/11/foto06_0-1280x960.webp
+    publisher: Helló Magyar
+    caption: 'Police handout photo of the more than 72 kilograms of marijuana seized at Budapest airport. Photo: police.hu'
 ---
 
 Hungarian customs officers detained two Dutch drug couriers at Budapest Ferenc
 Liszt International Airport who had tried to smuggle 72 kilograms of marijuana
-in four checked suitcases. [@1,5,6,7] The National Investigation Office's anti-drug
+in four checked suitcases. [@1,5,6,7,9] The National Investigation Office's anti-drug
 unit had warned the airport directorate of the National Tax and Customs
 Administration (NAV) on the morning of 25 November that a drug shipment was
-expected on a flight to Budapest. [@2,5,6,8] The two men had flown to Budapest from
-Bangkok with a stopover in Doha. [@1,5,8]
+expected on a flight to Budapest. [@2,5,6,8,9] The two men had flown to Budapest from
+Bangkok with a stopover in Doha. [@1,5,8,9]
 
 Customs officers found 125 packages in the four checked suitcases belonging to
-the two suspects. [@3,6,7] One man's two bags held 62 vacuum-packed packages
+the two suspects. [@3,6,7,9] One man's two bags held 62 vacuum-packed packages
 weighing 35.96 kg, while the other man's two suitcases held 63 foil-wrapped
-packages weighing 36.46 kg. [@2,5,6,7,8] A rapid test indicated that the material in all
-four suitcases was marijuana. [@3,5,6,7,8] Police seized the drugs and sent them to the
-National Forensic and Research Centre for a forensic chemistry examination. [@2,8]
+packages weighing 36.46 kg. [@2,5,6,7,8,9] A rapid test indicated that the material in all
+four suitcases was marijuana. [@3,5,6,7,8,9] Police seized the drugs and sent them to the
+National Forensic and Research Centre for a forensic chemistry examination. [@2,8,9]
 
 The two Dutch nationals were suspected of drug trafficking in a significant
 quantity, questioned and taken into custody, with investigators seeking their
-pretrial detention. [@2,6,7,8] Investigators also contacted foreign partner agencies to clarify the suspects' criminal records. [@6,7,8] The Budai Central District Court ordered the two men
+pretrial detention. [@2,6,7,8,9] Investigators also contacted foreign partner agencies to clarify the suspects' criminal records. [@6,7,8] The Budai Central District Court ordered the two men
 detained for one month at a hearing on 27 November 2026. [@4] Drug trafficking
 in a significant quantity carries five to 20 years or possibly life imprisonment
 if proved. [@4]
