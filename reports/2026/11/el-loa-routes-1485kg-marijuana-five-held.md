@@ -49,39 +49,70 @@ sources:
     publisher: El Nortero
     date: 2026-11-23
     language: es
+  - title: 'Marihuana, cocaína y ketamina: incautan casi 1,6 toneladas de droga en Antofagasta'
+    url: https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2026/11/24/marihuana-cocaina-y-ketamina-incautan-casi-16-toneladas-de-droga-en-antofagasta.shtml
+    publisher: BioBioChile
+    date: 2026-11-24
+    language: es
+  - title: 'Fotos | Incautan más de 1,5 toneladas de droga en tres operativos fronterizos en Antofagasta: Cinco detenidos'
+    url: https://www.emol.com/noticias/Nacional/2026/11/24/1217987/droga-antofagasta-tonelada-detenidos-frontera.html
+    publisher: Emol
+    date: 2026-11-24
+    language: es
 open_questions:
-  - The names, ages and nationalities of the five detained adults were not published.
-  - No street value for the seized marijuana was published.
-  - No court outcome beyond formalisation, preventive detention and the 110-day investigation period was reported.
-  - The 69.9-tonne regional total and the 135.5-tonne cumulative total cover all drugs, not cannabis alone, and are left out of the cannabis figures.
-  - The account rests on a single outlet report of the Fiscalia-Carabineros announcement; no second independent account was found.
+    - The names, ages and nationalities of the five detained adults were not published.
+    - No street value for the seized marijuana was published.
+    - No court outcome beyond formalisation, preventive detention and the 110-day investigation period was reported.
+    - The 69.9-tonne regional total and the 135.5-tonne cumulative total cover all drugs, not cannabis alone, and are left out of the cannabis figures.
+    - The accounts all report the same Fiscalía-Carabineros announcement; no independent version of the operations was found.
+    - The reports do not say how many of the five detainees were arrested at each of the three operations.
+media:
+  - kind: photo
+    url: https://www.emol.com/noticias/Nacional/2026/11/24/1217987/droga-antofagasta-tonelada-detenidos-frontera.html
+    media_url: https://static.emol.cl/emol50/Fotos/2026/11/24/file_20261124073008.jpg
+    publisher: Emol
+    caption: 'The drugs seized in the three El Loa operations, more than 1.5 tonnes in all. Photo: Fiscalía de Antofagasta'
+  - kind: photo
+    url: https://www.emol.com/noticias/Nacional/2026/11/24/1217987/droga-antofagasta-tonelada-detenidos-frontera.html
+    media_url: https://static.emol.cl/emol50/Fotos/2026/11/24/file_20261124074734.jpg
+    publisher: Emol
+    caption: Photograph in Emol's gallery on the El Loa seizures of 19-22 November 2026.
+  - kind: photo
+    url: https://www.emol.com/noticias/Nacional/2026/11/24/1217987/droga-antofagasta-tonelada-detenidos-frontera.html
+    media_url: https://static.emol.cl/emol50/Fotos/2026/11/24/file_20261124074738.jpg
+    publisher: Emol
+    caption: Photograph in Emol's gallery on the El Loa seizures of 19-22 November 2026.
+  - kind: photo
+    url: https://www.emol.com/noticias/Nacional/2026/11/24/1217987/droga-antofagasta-tonelada-detenidos-frontera.html
+    media_url: https://static.emol.cl/emol50/Fotos/2026/11/24/file_20261124074742.jpg
+    publisher: Emol
+    caption: Photograph in Emol's gallery on the El Loa seizures of 19-22 November 2026.
 ---
 
 Three drug operations took place between 19 and 22 November on routes B-245 and
 B-157 in El Loa province, Antofagasta region. [@1] The joint work of the
 Antofagasta prosecutor's office and Carabineros seized 1,599.6 kilos of drugs
-and led to five foreign nationals being detained. [@1] The five adults were
+and led to five foreign nationals being detained. [@1,2] The five adults were
 formalised for drug trafficking and placed in preventive detention as a danger
-to society. [@1] The court set a 110-day period for the investigation. [@1]
+to society. [@1,3] The court set a 110-day period for the investigation. [@1,3]
 
 The first procedure took place at kilometre 15 of route B-245, in San Pedro de
-Atacama. [@1] Carabineros spotted two suspect vehicles whose drivers tried to
+Atacama. [@1,3] Carabineros spotted two suspect vehicles whose drivers tried to
 escape when they noticed the police presence. [@1] After intercepting them,
 officers found 850.1 kilos of marijuana and 5.2 kilos of coca paste (pasta
-base). [@1] The second find was on route B-157, near the border. [@1] An
+base). [@1,3] The second find was on route B-157, near the border. [@1] An
 abandoned pickup with its engine running was carrying 496.2 kilos of marijuana,
-5.1 kilos of coca paste and 44.1 kilos of ketamine. [@1] The pickup had been
+5.1 kilos of coca paste and 44.1 kilos of ketamine. [@1,3] The pickup had been
 reported stolen since 11 November in Antofagasta and was using plates belonging
-to another car. [@1] The last seizure happened in the early hours of Sunday 22
+to another car. [@1,3] The last seizure happened in the early hours of Sunday 22
 November, when a speeding car was stopped on route B-245. [@1] Inside it
 officers found 138.5 kilos of marijuana, 39.5 kilos of coca paste, 19.8 kilos of
-cocaine and 1.1 kilos of ketamine. [@1]
+cocaine and 1.1 kilos of ketamine. [@1,3]
 
 Regional prosecutor Juan Castro Bekios said seizures accumulated during the year
 reached 69.9 tonnes, equivalent to 180% of all seized during 2025. [@1] He said
-the total since October 2023 reached 135.5 tonnes. [@1] He said marijuana showed
+the total since October 2023 reached 135.5 tonnes. [@1,3] He said marijuana showed
 the largest increase, rising from 23.7 to 64.1 tonnes, while ketamine reached
-one tonne, almost double last year's figure. [@1] Carabineros director general
+one tonne, almost double last year's figure. [@1,3] Carabineros director general
 Marcelo Araya said 55% of the institution's seizures nationwide during 2026 were
-made in Antofagasta. [@1]
-
+made in Antofagasta. [@1,3]
