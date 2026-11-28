@@ -59,6 +59,11 @@ media:
     media_url: https://alwasat.ly/media/b28146ce-e58c-4178-8c39-a24c26e656a3
     publisher: بوابة الوسط
     caption: 'Quantities of hashish seized in Al-Ajailat on 24 November 2026, fifth of five photographs. Photo: Office of the Attorney General (مكتب النائب العام)'
+  - kind: photo
+    url: https://www.eanlibya.com/%D8%B6%D8%B1%D8%A8%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA/
+    media_url: https://www.eanlibya.com/wp-content/uploads/2026/11/img-1139483155-e1795545578876.png.webp
+    publisher: عين ليبيا
+    caption: 'Quantities of hashish seized in Al-Ajailat on 24 November 2026. Photo: Office of the Attorney General (مكتب النائب العام)'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: c9e619bddc87a915dcf038286d9e6aa2
@@ -88,6 +93,11 @@ sources:
     url: https://en.almarsad.co/public-prosecution-orders-two-people-detained-seizure-more-than-tonne-hashish-al-ajaylat/
     publisher: Almarsad
     date: 2026-11-25
+  - title: ضربة جديدة لشبكات «الاتجار بالمخدرات» في ليبيا
+    url: https://www.eanlibya.com/%D8%B6%D8%B1%D8%A8%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA/
+    publisher: عين ليبيا
+    date: 2026-11-24
+    language: ar
 open_questions:
   - The submitted article gives no calendar date for the operation; 24 November 2026 comes from the state news agency and other accounts published that day.
   - The two detainees were not named, and their roles in the trafficking network were not specified.
@@ -98,21 +108,20 @@ open_questions:
 
 Libya's Public Prosecution said it seized more than a tonne of hashish in
 Al-Ajailat, western Libya, and detained two suspects, ordering them held on
-remand. [@1] The Attorney General's Office put the seized quantity at 1,006,500
-grams, about 1,006.5 kilograms. [@1] Investigators with the Judicial Enforcement
+remand. [@1,6] The Attorney General's Office put the seized quantity at 1,006,500
+grams, about 1,006.5 kilograms. [@1,6] Investigators with the Judicial Enforcement
 Affairs Unit uncovered the methods used to smuggle drugs into Libya and
-identified the overland routes involved. [@3]
+identified the overland routes involved. [@3,6]
 
 Tracking established the scheduled time for moving the shipment to a hideout in
-Al-Ajailat, and an authorised stop led to the entire quantity being seized. [@3]
+Al-Ajailat, and an authorised stop led to the entire quantity being seized. [@3,6]
 A preliminary examination found that the seized material's characteristics
-matched those of hashish. [@2] The investigator went to the storage site,
+matched those of hashish. [@2,6] The investigator went to the storage site,
 recorded the inspection in an official report and placed the drugs in evidence
-storage. [@4]
+storage. [@4,6]
 
 The prosecution directed law enforcement agencies to arrest and bring in the
-remaining participants in the trafficking ring. [@5] The prosecution said the
+remaining participants in the trafficking ring. [@5,6] The prosecution said the
 investigation was continuing to establish the network's full extent, the
 suspects' roles in transport and storage, and the shipment's source and intended
 destination. [@1]
-
