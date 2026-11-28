@@ -298,23 +298,28 @@ sources:
     publisher: بوابة الوسط
     date: 2026-11-21
     language: ar
+  - title: В Мексике задержали одного из десяти самых разыскиваемых ФБР преступников
+    url: https://open.kg/news/incidents/140095-v-meksike-zaderzhali-odnogo-iz-desjati-samyh-razyskivaemyh-fbr-prestupnikov.html
+    publisher: open.kg
+    date: 2026-11-22
+    language: ru
 open_questions:
   - The Libyan account, citing the US State Department, lists heroin, methamphetamine, cocaine and marijuana as the drugs trafficked into the United States over more than twenty years and does not mention fentanyl.
 ---
 
 Mexican special forces detained Fausto Isidro Meza Flores, known as El Chapo
 Isidro and listed among the FBI's Ten Most Wanted fugitives, in Guasave,
-Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28,29,30,31,35,36,37] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14,37] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27,31,37] He led the Beltran Leyva organisation,
+Sinaloa, on Friday 20 November 2026. [@2,10,11,12,14,15,16,18,20,22,23,24,25,26,27,28,29,30,31,35,36,37,39] The Associated Press reported that cartel members burned trucks on several roads, cutting off traffic and disrupting travel for about 300,000 people. [@11,14,37] An unnamed local resident told CNN that armed men took control of private hospitals in Guasave and set fire to small shops and petrol stations during the violence. [@15,19] A Mexican Pacific League baseball game between Algodoneros de Guasave and Venados de Mazatlán at Kuroda Park in Guasave was stopped when gunfire was heard nearby and was later cancelled. [@11,14,15,16,20,25,26,27,31,37] He led the Beltran Leyva organisation,
 allied to the Mayos faction of the Sinaloa Cartel. [@5,9,10,12,18,23,25,28,31,37,38] The Meza Flores organisation he led was also known as Los Mazatlecos. [@16,19,26,27] The operation also
 detained his cousin German, alias Serafin, described as the group's
-second-in-command, and his brother-in-law Jose, its financial operator. [@6,21,26,27,31,34,35]
+second-in-command, and his brother-in-law Jose, its financial operator. [@6,21,26,27,31,34,35,39]
 Army and National Guard special forces carried out the arrest with US
 intelligence support. [@5,9,10,12,13,14,17,20,21,22,23,24,26,27,29,31,33,34,35,37,38] The troops used stealth and surprise to reach the area, establishing a perimeter around the dealer's location and moving in from multiple directions, according to Mexico's US embassy. [@28,29,35]
 
 Eight people were arrested and seven suspected attackers were killed. [@6,12,13,17,21,24,34,35,36] Four
 soldiers travelling to reinforce security in Guasave were also killed, an
 overall toll of eleven deaths. [@2,12,13,21,23,24,28,31,34,35,36,37] The defence minister said on Monday that four soldiers and 16 members of organised crime had been killed in the firefight during the arrest. [@29,30] The defence ministry said it had no reports of civilian casualties. [@12,13,36] The troops came under gunfire and explosives
-before entering the house where the arrests were made. [@2,10,19,21,22,26,35,37] Three detainees were
+before entering the house where the arrests were made. [@2,10,19,21,22,26,35,37,39] Three detainees were
 flown to Mexico City and handed to the federal organised-crime prosecutor's
 office, while five were handed to the federal prosecutor's office in Culiacan.
 [@6,21,26,33,35] Forces seized a Barrett .50-calibre rifle, ten other firearms, a grenade
@@ -339,4 +344,4 @@ and a Pacific League baseball game in Guasave was suspended. [@6,9,10,12,16,22,2
 first indicted in the United States in 2012 and sanctioned under the US Kingpin
 Act in 2013, had evaded capture for more than a decade. [@8,10,21] He was prosecuted in 2019 on drug-trafficking and weapons-possession charges. [@19,26] The capture came days after President Claudia Sheinbaum met Donald Trump at an Asian summit, where Trump said the two discussed trade and security and that the United States was working with Mexico against drug cartels. [@13,27] Trump had repeatedly threatened unilateral military action inside Mexico if the Sheinbaum administration did not do more against the cartels. [@38]
 
-The security minister said the arrested cartel leader is 44 years old. [@37] Meza Flores was taken under heavy guard to Mexico City after his arrest. [@37]
+The security minister said the arrested cartel leader is 44 years old. [@37] Meza Flores was taken under heavy guard to Mexico City after his arrest. [@37,39]
