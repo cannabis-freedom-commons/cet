@@ -65,29 +65,35 @@ sources:
     url: https://indtoday.com/nirmal-ganja-cultivation-farmer-arrested/
     publisher: IND Today
     date: 2026-11-26
+  - title: 'Nirmal: సోంపేటలో పత్తి పంటలో సాగు చేస్తున్న రూ.28.46 లక్షల గంజాయి స్వాధీనం'
+    url: https://www.hmtvlive.com/telugu-news/adilabad/nirmal-sp-janaki-sharmila-warns-of-strict-action-on-ganja-cultivation-217509
+    publisher: HMTV
+    date: 2026-11-26
+    language: te
 open_questions:
-  - The article gives Thursday for the raid and was published on Thursday 26 November 2026, so 26 November is used as the incident date, with no separate calendar date stated.
-  - No charges, custody decision or court outcome were reported for Kunsoth Ravi.
-  - The 2.50 acres is the cotton field where ganja was grown as an intercrop; no separate destroyed field area was published, so no hectares figure is recorded.
-  - The Rs 28.46 lakh is the police valuation for the plants and dry leaves together, with no per-item breakdown.
-  - No laboratory confirmation for the plants or dry leaves was reported.
-  - The Safir News page reproduces the Telangana Today text and photograph, so it corroborates the account but is not independent reporting.
+    - The article gives Thursday for the raid and was published on Thursday 26 November 2026, so 26 November is used as the incident date, with no separate calendar date stated.
+    - Charges and any court outcome were not reported; Ravi was remanded in custody after his arrest.
+    - One account places the cotton field in Sompeta village in Mamada mandal, while others place the cultivation at Danjeenaik Thanda in Thandra village; the exact location of the field is not settled.
+    - The 2.50 acres is the cotton field where ganja was grown as an intercrop; no separate destroyed field area was published, so no hectares figure is recorded.
+    - The Rs 28.46 lakh is the police valuation for the plants and dry leaves together, with no per-item breakdown.
+    - No laboratory confirmation for the plants or dry leaves was reported.
+    - The Safir News page reproduces the Telangana Today text and photograph, so it corroborates the account but is not independent reporting.
 ---
 
 Police arrested farmer Kunsoth Ravi for allegedly cultivating ganja as an
-intercrop in a cotton field at Danjeenaik Thanda in Mamada mandal. [@1,3]
+intercrop in a cotton field at Danjeenaik Thanda in Mamada mandal. [@1,3,4] Sharmila said Ravi was remanded in custody after his arrest. [@4]
 Superintendent of Police Janaki Sharmila said Ravi was apprehended for allegedly
 raising ganja as an intercrop in his cotton crop on 2.50 acres. [@1,3] Officers
 found him allegedly cultivating the crop when they raided his agricultural
 field. [@2,3] The raid was led by Sharmila with Nirmal Deputy Superintendent of
 Police Srinivas, Soan Inspector B. Govardhan and Mamada Sub-Inspector U. Mahesh.
-[@1,3]
+[@1,3] The cotton field was in Sompeta village in Mamada mandal, and Ravi belongs to Danjeenaik Thanda in Thandra village, she said. [@4]
 
 Police seized 258 ganja plants and 5.320 kg of dry ganja leaves, which police
-valued at Rs 28.46 lakh. [@1,3]
+valued at Rs 28.46 lakh. [@1,3,4] Of the 258 plants, 204 were fresh and 54 were dried, Sharmila said. [@4]
 
 Sharmila said Ravi told police he cultivated ganja to make quick money through
 shortcuts. [@1,3] He also allegedly told police that he sold the ganja to
 smugglers and made huge profits. [@1,3] She said he had allegedly cultivated the
 crop for a long time and police were investigating whom he sold the ganja to.
-[@1,3]
+[@1,3] Sharmila warned that anyone in Nirmal district who cultivated or sold ganja would face strict action, and said the district had run anti-ganja drives in recent days. [@4]
