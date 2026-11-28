@@ -63,6 +63,11 @@ sources:
     publisher: Siempre Formosa
     date: 2026-11-26
     language: es
+  - title: La Policía secuestró más de una tonelada de marihuana
+    url: https://canal7ibarreta.com.ar/la-policia-secuestro-mas-de-una-tonelada-de-marihuana/
+    publisher: Canal 7 Ibarreta
+    date: 2026-11-26
+    language: es
 open_questions:
   - 'Accounts differ on the number of bars seized: Agenfor reported more than 1,300, while El Destape and Siempre Formosa reported more than 1,400.'
   - All accounts give the weight only as more than 1,200 kilograms; no exact total was published.
@@ -87,12 +92,11 @@ motorcycles. [@2]
 
 The 46 bundles contained more than 1,400 bars of pressed marijuana weighing more
 than 1,200 kilograms. [@2] Police estimated the load's market value at more than
-4,000 million pesos. [@2] Agenfor, the Formosa government's news service,
-reported more than 1,300 bars in 46 bundles. [@1] The bundles were taken to the
+4,000 million pesos. [@2,4] Agenfor, the Formosa government's news service,
+reported more than 1,300 bars in 46 bundles. [@1,4] The bundles were taken to the
 Plaza de Armas of provincial police headquarters, where they were opened and
 checked in front of witnesses. [@2] Siempre Formosa reported one detainee and
 the seizure of a Toyota Hilux pickup and three motorcycles. [@3]
 
 Federal justice took over the case and ordered the seizure of the bundles, the
 pickup and the motorcycles. [@2]
-
