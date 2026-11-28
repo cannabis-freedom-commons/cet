@@ -63,6 +63,11 @@ sources:
     publisher: Fővárosi Törvényszék (Budapest Metropolitan Court)
     date: 2026-11-27
     language: hu
+  - title: Na letisku v Budapešti odhalili Holanďanov pašujúcich 72 kg marihuany
+    url: https://www.sme.sk/svet/c/na-letisku-v-budapesti-odhalili-holandanov-pasujucich-72-kg-marihuany
+    publisher: SME.sk
+    date: 2026-11-26
+    language: sk
 open_questions:
   - The two stated package weights, 35.96 kg and 36.46 kg, sum to 72.42 kg, while the police and news accounts describe the total as 72 kg or 'more than 72 kg'; the report uses the stated 72 kg.
   - The material was identified as marijuana by a rapid test, and no result of the forensic chemistry examination was published.
@@ -71,17 +76,17 @@ open_questions:
 
 Hungarian customs officers detained two Dutch drug couriers at Budapest Ferenc
 Liszt International Airport who had tried to smuggle 72 kilograms of marijuana
-in four checked suitcases. [@1] The National Investigation Office's anti-drug
+in four checked suitcases. [@1,5] The National Investigation Office's anti-drug
 unit had warned the airport directorate of the National Tax and Customs
 Administration (NAV) on the morning of 25 November that a drug shipment was
-expected on a flight to Budapest. [@2] The two men had flown to Budapest from
-Bangkok with a stopover in Doha. [@1]
+expected on a flight to Budapest. [@2,5] The two men had flown to Budapest from
+Bangkok with a stopover in Doha. [@1,5]
 
 Customs officers found 125 packages in the four checked suitcases belonging to
 the two suspects. [@3] One man's two bags held 62 vacuum-packed packages
 weighing 35.96 kg, while the other man's two suitcases held 63 foil-wrapped
-packages weighing 36.46 kg. [@2] A rapid test indicated that the material in all
-four suitcases was marijuana. [@3] Police seized the drugs and sent them to the
+packages weighing 36.46 kg. [@2,5] A rapid test indicated that the material in all
+four suitcases was marijuana. [@3,5] Police seized the drugs and sent them to the
 National Forensic and Research Centre for a forensic chemistry examination. [@2]
 
 The two Dutch nationals were suspected of drug trafficking in a significant
@@ -90,4 +95,3 @@ pretrial detention. [@2] The Budai Central District Court ordered the two men
 detained for one month at a hearing on 27 November 2026. [@4] Drug trafficking
 in a significant quantity carries five to 20 years or possibly life imprisonment
 if proved. [@4]
-
