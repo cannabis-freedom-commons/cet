@@ -47,6 +47,11 @@ media:
     media_url: https://almoharir.com/wp-content/uploads/2026/11/bellotasguardiacivil_20261125112320-U53351477268ieq-624x385@Ideal.webp
     publisher: أخبار المغرب العاجلة (inews.ma)
     caption: The 200 hashish pellets seized from two travellers arriving from Nador at the Port of Almería.
+  - kind: photo
+    url: https://kech24.com/%D9%81%D8%AD%D8%B5-%D8%A8%D8%A7%D9%84%D8%A3%D8%B4%D8%B9%D8%A9-%D9%8A%D9%83%D8%B4%D9%81-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A7%D8%AA-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D8%B3%D8%AF%D9%8A-%D9%85%D9%88%D9%82%D9%88%D9%81%D9%8A%D9%86-%D9%82%D8%A7%D8%AF%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8.html
+    media_url: https://kech24.com/wp-content/uploads/2026/11/bba130f48be2f6753e87d739-600x420.webp
+    publisher: Kech24
+    caption: Bags of hashish pellets and a Guardia Civil 'Fiscal y Fronteras' vest after the seizure at the Port of Almería.
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 693dd1eb41523221b96208f394f418c4
@@ -85,16 +90,24 @@ sources:
     publisher: ABC
     date: 2026-11-25
     language: es
+  - title: فحص بالأشعة يكشف كبسولات حشيش داخل جسدي موقوفين قادمين من المغرب
+    url: https://kech24.com/%D9%81%D8%AD%D8%B5-%D8%A8%D8%A7%D9%84%D8%A3%D8%B4%D8%B9%D8%A9-%D9%8A%D9%83%D8%B4%D9%81-%D9%83%D8%A8%D8%B3%D9%88%D9%84%D8%A7%D8%AA-%D8%AD%D8%B4%D9%8A%D8%B4-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D8%B3%D8%AF%D9%8A-%D9%85%D9%88%D9%82%D9%88%D9%81%D9%8A%D9%86-%D9%82%D8%A7%D8%AF%D9%85%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8.html
+    publisher: Kech24
+    date: 2026-11-26
+    language: ar
+open_questions:
+    - No total weight was published for the 200 hashish pellets.
+    - No court appearance or detention decision was reported.
 ---
 
 Guardia Civil officers detained two people at the Port of Almería for suspected
 drug trafficking after finding 200 hashish pellets inside their bodies during a
-passenger and goods check on arrivals from Nador, Morocco. [@1,3,4,5,6,7] Officers of the
+passenger and goods check on arrivals from Nador, Morocco. [@1,3,4,5,6,7,8] Officers of the
 fiscal and border analysis unit interviewed the two couriers and, noting their
 nervous demeanour, asked them to undergo a voluntary X-ray examination at a
-medical centre, to which both agreed. [@1,4] The examination detected numerous
+medical centre, to which both agreed. [@1,4,8] The examination detected numerous
 rounded foreign bodies consistent with the wrappers, which were later expelled
-and seized by officers. [@1] One detained person carried 105 small hashish wrappers and the other carried 95. [@3,4,6,7]
+and seized by officers. [@1] One detained person carried 105 small hashish wrappers and the other carried 95. [@3,4,6,7,8]
 
 The pair were intercepted during a passenger and goods check on services
 arriving from Nador. [@2] Officers with the fiscal and border analysis unit
