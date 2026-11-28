@@ -67,20 +67,25 @@ sources:
     publisher: Contacto
     date: 2026-05-07
     language: pt
+  - title: Luxembourg customs find 46kg of cannabis in mattresses at Findel airport
+    url: https://www.luxtimes.lu/luxembourg/luxembourg-customs-find-46kg-of-cannabis-in-mattresses-at-findel-airport/151235308.html
+    publisher: Luxembourg Times
+    date: 2026-05-08
+    language: en
 ---
 
 Customs officers at Luxembourg Airport's Cargo Center in Findel stopped a
-suspicious shipment after checking its documents. [@3,5] Officers placed the
+suspicious shipment after checking its documents. [@3,5,7] Officers placed the
 shipment under reinforced control after an in-depth inspection of its documents.
 [@2,6]
 
 The shipment was six spring mattresses sent from Los Angeles toward Germany.
-[@2,4,5,6] Officers found vacuum-sealed packets containing cannabis hidden inside two
-of the six mattresses. [@2,4,5,6] Officers seized a total of 45.86 kilograms of
-cannabis on the Luxembourg prosecutor's order. [@2,4,5,6] The seizure occurred on 8
-April 2026. [@3,4,5,6]
+[@2,4,5,6,7] Officers found vacuum-sealed packets containing cannabis hidden inside two
+of the six mattresses. [@2,4,5,6,7] Officers seized a total of 45.86 kilograms of
+cannabis on the Luxembourg prosecutor's order. [@2,4,5,6,7] The seizure occurred on 8
+April 2026. [@3,4,5,6,7]
 
 The prosecutor presented the find as a new seizure following recent drug
 discoveries at the same freight center. [@2,5,6] German authorities were notified of
-the discovery. [@1,4,5,6] The investigation was still continuing after the seizure.
-[@1,5,6]
+the discovery. [@1,4,5,6,7] The investigation was still continuing after the seizure.
+[@1,5,6,7]
