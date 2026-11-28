@@ -75,30 +75,35 @@ sources:
     publisher: Andhra Prabha
     date: 2026-11-26
     language: te
+  - title: పత్తి చేనులో గంజాయి సాగు!
+    url: https://www.sakshi.com/telugu-news/adilabad/2971077
+    publisher: Sakshi
+    date: 2026-11-27
+    language: te
 open_questions:
-    - The Telugu account dates the field search to 25 November 2026, while the English-language reports give Thursday 26 November; 26 November is kept as the incident date.
+    - The Telugu accounts date the field search to 25 November 2026, while the English-language reports give Thursday 26 November; 26 November is kept as the incident date.
     - Charges and any court outcome were not reported; Ravi was remanded in custody after his arrest.
     - One account places the cotton field in Sompeta village in Mamada mandal, while others place the cultivation at Danjeenaik Thanda in Thandra village; the exact location of the field is not settled.
     - The 2.50 acres is the cotton field where ganja was grown as an intercrop; no separate destroyed field area was published, so no hectares figure is recorded.
     - The Rs 28.46 lakh is the police valuation for the plants and dry leaves together, with no per-item breakdown.
     - No laboratory confirmation for the plants or dry leaves was reported.
-    - The Safir News page reproduces the Telangana Today text and photograph, so it corroborates the account but is not independent reporting.
+    - The Safir News page reproduces the Telangana Today text and photograph, and the Sakshi account repeats the same police briefing, so they corroborate the account but are not independent reporting.
 ---
 
 Police arrested farmer Kunsoth Ravi for allegedly cultivating ganja as an
-intercrop in a cotton field at Danjeenaik Thanda in Mamada mandal. [@1,3,4,5] Sharmila said Ravi was remanded in custody after his arrest. [@4]
+intercrop in a cotton field at Danjeenaik Thanda in Mamada mandal. [@1,3,4,5,6] Sharmila said Ravi was remanded in custody after his arrest. [@4]
 Superintendent of Police Janaki Sharmila said Ravi was apprehended for allegedly
-raising ganja as an intercrop in his cotton crop on 2.50 acres. [@1,3] Officers
+raising ganja as an intercrop in his cotton crop on 2.50 acres. [@1,3,6] Officers
 found him allegedly cultivating the crop when they raided his agricultural
-field. [@2,3] Police said they searched the field at Dhanjinaik Thanda on 25 November 2026 after a tip-off. [@5] The raid was led by Sharmila with Nirmal Deputy Superintendent of
+field. [@2,3] Police said they searched the field at Dhanjinaik Thanda on 25 November 2026 after a tip-off. [@5,6] The raid was led by Sharmila with Nirmal Deputy Superintendent of
 Police Srinivas, Soan Inspector B. Govardhan and Mamada Sub-Inspector U. Mahesh.
-[@1,3] Police said armed reserve staff, Mamada and Soan circle officers, a CLUES forensics team and a dog squad took part, and the district superintendent of police commended the team. [@5] The cotton field was in Sompeta village in Mamada mandal, and Ravi belongs to Danjeenaik Thanda in Thandra village, she said. [@4]
+[@1,3,6] Police said armed reserve staff, Mamada and Soan circle officers, a CLUES forensics team and a dog squad took part, and the district superintendent of police commended the team. [@5] The cotton field was in Sompeta village in Mamada mandal, and Ravi belongs to Danjeenaik Thanda in Thandra village, she said. [@4]
 
 Police seized 258 ganja plants and 5.320 kg of dry ganja leaves, which police
-valued at Rs 28.46 lakh. [@1,3,4,5] Police said the plants and leaves were seized in the presence of government officials and panch witnesses, residents called in to witness the search. [@5] Of the 258 plants, 204 were fresh and 54 were dried, Sharmila said. [@4]
+valued at Rs 28.46 lakh. [@1,3,4,5,6] Police said the plants and leaves were seized in the presence of government officials and panch witnesses, residents called in to witness the search. [@5,6] Of the 258 plants, 204 were fresh and 54 were dried, Sharmila said. [@4,6] Police registered a case against Ravi and took further action. [@6]
 
 Sharmila said Ravi told police he cultivated ganja to make quick money through
-shortcuts. [@1,3] He also allegedly told police that he sold the ganja to
+shortcuts. [@1,3,6] He also allegedly told police that he sold the ganja to
 smugglers and made huge profits. [@1,3] She said he had allegedly cultivated the
 crop for a long time and police were investigating whom he sold the ganja to.
-[@1,3] Sharmila warned that anyone in Nirmal district who cultivated or sold ganja would face strict action, and said the district had run anti-ganja drives in recent days. [@4]
+[@1,3] Sharmila warned that anyone in Nirmal district who cultivated or sold ganja would face strict action, and said the district had run anti-ganja drives in recent days. [@4] Sharmila said the district was tightening its 'ganja patrol' programme to stop illegal cultivation, transport and sale of ganja, with more surveillance in rural areas. [@6]
