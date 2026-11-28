@@ -68,6 +68,11 @@ sources:
     publisher: Canal 7 Ibarreta
     date: 2026-11-26
     language: es
+  - title: La Policía secuestró más de una tonelada de marihuana
+    url: https://agenfor.com.ar/2026/11/la-policia-secuestro-mas-de-una-tonelada-de-marihuana/
+    publisher: Agenfor
+    date: 2026-11-26
+    language: es
 open_questions:
   - 'Accounts differ on the number of bars seized: Agenfor reported more than 1,300, while El Destape and Siempre Formosa reported more than 1,400.'
   - All accounts give the weight only as more than 1,200 kilograms; no exact total was published.
@@ -79,7 +84,7 @@ open_questions:
 
 Provincial police in Formosa detained a man and seized more than 1,200 kilograms
 of pressed marijuana in a raid in the Lote Rural 3 Bis neighbourhood of the city
-on 26 November 2026. [@2] The operation began the previous night at about 21:30,
+on 26 November 2026. [@2,5] The operation began the previous night at about 21:30,
 when officers watching the riverbank saw a motorboat unloading packages that
 were then taken by motorcycle to a house near the Paraguay river. [@2]
 
@@ -92,8 +97,8 @@ motorcycles. [@2]
 
 The 46 bundles contained more than 1,400 bars of pressed marijuana weighing more
 than 1,200 kilograms. [@2] Police estimated the load's market value at more than
-4,000 million pesos. [@2,4] Agenfor, the Formosa government's news service,
-reported more than 1,300 bars in 46 bundles. [@1,4] The bundles were taken to the
+4,000 million pesos. [@2,4,5] Agenfor, the Formosa government's news service,
+reported more than 1,300 bars in 46 bundles. [@1,4,5] The bundles were taken to the
 Plaza de Armas of provincial police headquarters, where they were opened and
 checked in front of witnesses. [@2] Siempre Formosa reported one detainee and
 the seizure of a Toyota Hilux pickup and three motorcycles. [@3]
