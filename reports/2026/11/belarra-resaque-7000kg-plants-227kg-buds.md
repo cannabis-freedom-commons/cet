@@ -64,6 +64,11 @@ sources:
     publisher: elDiario.es
     date: 2026-11-24
     language: es
+  - title: Два Албанца осумњичена за чување огромне плантаже марихуане, заплењено 7 тона канабиса
+    url: https://reporteri.net/sr/%D0%B2%D0%B5%D1%81%D1%82%D0%B8/%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%98%D0%B0/%D0%94%D0%B2%D0%B0-%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D1%86%D0%B0-%D0%BE%D1%81%D1%83%D0%BC%D1%9A%D0%B8%D1%87%D0%B5%D0%BD%D0%B0-%D0%B4%D0%B0-%D1%81%D1%83-%D1%87%D1%83%D0%B2%D0%B0%D0%BB%D0%B8-%D0%BE%D0%B3%D1%80%D0%BE%D0%BC%D0%BD%D1%83-%D0%BF%D0%BB%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D1%83-%D0%BC%D0%B0%D1%80%D0%B8%D1%85%D1%83%D0%B0%D0%BD%D0%B5%3B-%D0%97%D0%B0%D0%BF%D0%BB%D0%B5%D1%9A%D0%B5%D0%BD%D0%BE-7-%D1%82%D0%BE%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BD%D0%B0%D0%B1%D0%B8%D1%81%D0%B0/
+    publisher: Reporteri.net
+    date: 2026-11-26
+    language: sr
 open_questions:
   - The authorities gave the weight of the plants, seven tonnes, but no count of individual plants.
   - The accounts give no separate date for the operation; 24 November 2026 is their publication date, used here as the incident date.
@@ -73,14 +78,14 @@ open_questions:
 
 Spanish National Police dismantled a large cannabis plantation hidden in a
 hard-to-reach forest in the Aragonese Pyrenees, seizing seven tonnes of cannabis
-plants and 227 kilograms of buds (cogollos). [@1] Officers identified two
+plants and 227 kilograms of buds (cogollos). [@1,3] Officers identified two
 Albanian men as the people who guarded and cared for the crop; one was arrested
 as he tried to leave Spain, while an arrest warrant was issued for the second.
-[@1] Both men are suspected of offences against public health and the
+[@1,3] Both men are suspected of offences against public health and the
 environment and of membership of a criminal organisation. [@2]
 
 The plantation lay near the village of Belarra, in the municipality of
-Sabiñánigo, and was divided into eight cultivation plots inside the forest. [@1]
+Sabiñánigo, and was divided into eight cultivation plots inside the forest. [@1,3]
 Officers found a water-storage reservoir for irrigation and three drying sheds
 (secaderos) where the buds were dried before distribution. [@1] A camp allowed
 the caretakers to live in the forest for long periods and to guard and maintain
@@ -91,4 +96,3 @@ Police named the operation Resaque. [@1] It was the second such operation in
 Huesca province in barely a month. [@1] Police said transforming forest land
 into plots, installing camps and drying sheds and using water for irrigation can
 significantly alter natural spaces. [@2]
-
