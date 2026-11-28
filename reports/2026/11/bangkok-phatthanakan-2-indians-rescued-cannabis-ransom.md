@@ -94,38 +94,43 @@ sources:
     publisher: 博度新闻
     date: 2026-11-27
     language: zh
+  - title: 2 Indians Rescued From Bangkok House, Allegedly Tortured And Forced To Pack Cannabis
+    url: https://www.ndtv.com/world-news/2-indians-rescued-from-bangkok-house-allegedly-tortured-and-forced-to-pack-cannabis-12376608
+    publisher: NDTV
+    date: 2026-11-25
 open_questions:
   - No weight, plant count or value was published for the cannabis buds found in the house, so no cannabis quantity is recorded.
   - The arrest count is reported as five suspects by Thairath and the Bangkok Post, while another Thai account reports six people including the leader; this report uses five.
   - The ransom is reported as a 4 million rupee demand with 1 million rupees already paid; Thairath's body text mentions about 1 million rupees demanded in the video call.
   - No charges, detention orders or court outcome for the arrested suspects were reported; the case was still under investigation with further network checks under way.
   - Police said the elephant-print bags resemble packaging in the Air Mina case in Australia but see no direct link yet; the narcotics board was asked to check the connection.
+  - Accounts differ slightly on the beating weapon, described as iron rods and hoes in some reports and iron rods and spades in another.
 ---
 
 On 24 November at 16:00, Immigration Bureau chief Noppasin Poonsawat led
 immigration investigators to rescue two kidnapped Indian victims and arrest
-Indian suspects linked to a cross-border cannabis-smuggling network. [@1,3,6,7] One of the five arrested suspects, an Indian woman, had earlier been caught by customs officers with cannabis hidden in her luggage and released on bail. [@6] The
+Indian suspects linked to a cross-border cannabis-smuggling network. [@1,3,6,7,8] One of the five arrested suspects, an Indian woman, had earlier been caught by customs officers with cannabis hidden in her luggage and released on bail. [@6,8] The
 raid hit a three-storey attached townhouse in a luxury village in Bangkok's
-Phatthanakan area. [@1] Immigration police had earlier received a complaint from a neighbour about a strong cannabis smell coming from the townhouse. [@6] The house stands off Pattanakan Soi 38 in Suan Luang
+Phatthanakan area. [@1,8] Immigration police had earlier received a complaint from a neighbour about a strong cannabis smell coming from the townhouse. [@6] The house stands off Pattanakan Soi 38 in Suan Luang
 district, and the raid followed a family's complaint that they had lost contact
-with one victim for four days. [@2,3,4,7]
+with one victim for four days. [@2,3,4,7,8]
 
 Inside, officers caught suspects packing large quantities of cannabis buds into
-elephant-print Thailand cloth bags and large suitcases. [@1,3,4,5,7] Officers also found
+elephant-print Thailand cloth bags and large suitcases. [@1,3,4,5,7,8] The buds were being packed into false compartments inside the suitcases and elephant-patterned bags. [@8] Officers also found
 more than 10 sacks of dog and cat food and detergent poured into two large foam
 boxes. [@1] On the second floor, officers found Mohamed Acharj and one other
 Indian, exhausted, bruised across their bodies, with a broken wrist held in a
-splint. [@1,3,4,5] Mohamed said Alameen's gang had abducted and held him for four days
-because an associate failed to deliver cannabis to a gang member in India. [@2,4]
+splint. [@1,3,4,5,8] Mohamed said Alameen's gang had abducted and held him for four days
+because an associate failed to deliver cannabis to a gang member in India. [@2,4,8]
 The gang demanded 4 million rupees from his family in India, and his mother had
-already paid 1 million rupees. [@2,3,4,5,7] While detained, both victims were forced to
+already paid 1 million rupees. [@2,3,4,5,7,8] While detained, both victims were forced to
 pack cannabis, were beaten for resisting, and the second victim had already been
-held for 10 days with too little food. [@2,5,7] The gang threatened his mother in India by video call, and he was beaten with iron rods and hoes when he resisted or when his family sent no money. [@4]
+held for 10 days with too little food. [@2,5,7,8] The gang threatened his mother in India by video call, and he was beaten with iron rods and hoes when he resisted or when his family sent no money. [@4]
 
 Police said neighbours' complaints to Khlong Tan station about strong cannabis
 smell, combined with the missing-person hunt, led investigators to the house.
-[@2,4,5] One female suspect had recently been released on bail after customs
+[@2,4,5,8] One female suspect had recently been released on bail after customs
 officers arrested her with cannabis buds hidden in her luggage. [@2,4,5,7] Police said
 the elephant-print bags resemble packaging in the Air Mina case seized in
 Australia, but they see no direct link yet and sent the material to the
-narcotics board for follow-up. [@1,5]
+narcotics board for follow-up. [@1,5,8]
