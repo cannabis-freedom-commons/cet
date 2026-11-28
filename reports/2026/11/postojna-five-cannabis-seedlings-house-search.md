@@ -58,21 +58,26 @@ sources:
     publisher: Primorski.eu
     date: 2026-11-23
     language: sl
+  - title: 'V SOBI IMEL ŠOTOR S KONOPLJO: Med hišno preiskavo so odkrili še nekaj zaskrbljujočega (FOTO)'
+    url: https://www.regionalobala.si/novica/v-sobi-imel-sotor-s-konopljo-med-hisno-preiskavo-so-odkrili-se-nekaj-zaskrbljujocega-foto
+    publisher: Regional Obala
+    date: 2026-11-23
+    language: sl
 open_questions:
     - No weight was given for the marijuana found alongside the five seedlings.
     - The results of the forensic analysis and any fine or other outcome of the fast-track misdemeanour procedure were not reported.
 ---
 
 Postojna police searching the home of a 22-year-old man in the vicinity of
-Postojna found a space set aside for growing cannabis. [@1,3] The house search was
-carried out on 19 November on the basis of a court order. [@1,2,3] The search order was issued by the District Court in Postojna. [@2]
+Postojna found a space set aside for growing cannabis. [@1,3,4] The house search was
+carried out on 19 November on the basis of a court order. [@1,2,3,4] The search order was issued by the District Court in Postojna. [@2,4]
 
 In one of the residential rooms the man had set up a special tent, and five
-cannabis seedlings were growing inside it. [@1,2,3] Officers also found a smaller
-amount of marijuana at the property. [@1,2,3] The seized plants and substances were
-sent for forensic analysis. [@1,2,3] Police said that once the results arrived they
-would open a fast-track misdemeanor procedure against the man. [@1,2,3] The competent state prosecutor ordered the case to be handled as a misdemeanour, with the fast-track decision based on Article 33(1) of the Illicit Drugs Production and Trafficking Act. [@2]
+cannabis seedlings were growing inside it. [@1,2,3,4] Police described the five seedlings as hybrid cannabis plants. [@4] Officers also found a smaller
+amount of marijuana at the property. [@1,2,3,4] The seized plants and substances were
+sent for forensic analysis. [@1,2,3,4] Police said that once the results arrived they
+would open a fast-track misdemeanor procedure against the man. [@1,2,3,4] The competent state prosecutor ordered the case to be handled as a misdemeanour, with the fast-track decision based on Article 33(1) of the Illicit Drugs Production and Trafficking Act. [@2,4]
 
 During the visit officers also found that the 22-year-old was living in
-unsuitable conditions. [@1,2] They said they would inform the social work centre
-about his living conditions. [@1,2,3]
+unsuitable conditions. [@1,2,4] They said they would inform the social work centre
+about his living conditions. [@1,2,3,4]
