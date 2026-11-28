@@ -61,6 +61,10 @@ sources:
     url: https://theprint.in/india/rs-17-cr-hashish-oil-seized-in-tuticorin-4-arrested/3056408/
     publisher: ThePrint
     date: 2026-09-29
+  - title: Rs 17 cr hashish oil seized in Tuticorin, 4 held; Ganja worth 1.2 cr ganja seized at airport
+    url: https://theprint.in/india/rs-17-cr-hashish-oil-seized-in-tuticorin-4-held-ganja-worth-1-2-cr-ganja-seized-at-airport/3056468/
+    publisher: ThePrint
+    date: 2026-09-29
 open_questions:
   - The Hindu placed the interception near Therespuram; Deccan Chronicle and DT Next, both carrying PTI copy, placed the vehicle check at Boopalarayapuram (also spelled Poobalarayerpuram) near Thoothukudi.
   - 'The suspect names are spelled differently and two ages differ by a year: The Hindu gives J. Rexton (53), C. Rosario (40), S. Antony Libitas (36) and M. Sermadurai (46); the PTI reports give Reniston (53), Rosario (40), Chermadurai (45) and Antony Lipidus (35).'
@@ -79,10 +83,10 @@ Antony Libitas, 36, all of Thoothukudi, and M. Sermadurai, 46, of Siluvaipatti.
 Maldives. [@1]
 
 Police said they acted on a tip-off and intensified surveillance across the
-district before intercepting the vehicle. [@1,4,5] Officers seized 17 kg of hashish
+district before intercepting the vehicle. [@1,4,5] A specialised police team intercepted the consignment in Poobalarayerpuram on specific intelligence about narcotics movement. [@6] Officers seized 17 kg of hashish
 oil. [@1] PTI put the value at about Rs 17 crore (170 million rupees) on the
-international market. [@2,4] PTI reported that the suspects had planned to launch
-a boat to take it across the sea to the Maldives. [@3,4]
+international market. [@2,4,6] PTI reported that the suspects had planned to launch
+a boat to take it across the sea to the Maldives. [@3,4,6]
 
 The Q branch handed the men and the seized oil to the Narcotics Intelligence
 Bureau for further investigation. [@1] DT Next reported that a case had been
