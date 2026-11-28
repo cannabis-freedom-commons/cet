@@ -122,6 +122,11 @@ sources:
     publisher: Tips Online
     date: 2026-11-26
     language: de
+  - title: Kiloweise Drogen in Logistikzentrum in Oberösterreich sichergestellt
+    url: https://www.diepresse.com/41493096/kiloweise-drogen-in-logistikzentrum-in-oberoesterreich-sichergestellt
+    publisher: Die Presse
+    date: 2026-11-26
+    language: de
 open_questions:
     - The Finance Ministry put the cannabis at about 900 kg of marijuana and 62.35 kg of resin, while the Upper Austrian police put it at 800 kg of flowers and 92 kg of resin; the report keeps the ministry's figures.
     - The ministry dated its first finds to 15, 17 and 20 July 2026 but described them as happening in the recent weeks before its 26 November statement, while the police dated the series from mid-July to the end of September 2026.
@@ -132,23 +137,23 @@ open_questions:
 ---
 
 Austrian customs seized large quantities of drugs in a series of checks at a
-parcel-delivery logistics centre in Upper Austria over recent weeks. [@2,5,6,7,8,9,13,14,16] The
+parcel-delivery logistics centre in Upper Austria over recent weeks. [@2,5,6,7,8,9,13,14,16,17] The
 Finance Ministry said the drugs had a street value in the double-digit millions
-of euros. [@1,5,6,7,8,9,14] The ministry's final tally was about 900 kilograms of marijuana,
+of euros. [@1,5,6,7,8,9,14,17] The ministry's final tally was about 900 kilograms of marijuana,
 62.35 kilograms of cannabis resin and 26.55 kilograms of cocaine, the last of
-which is not counted in the cannabis figures. [@2,8,10,13,16] No arrests were reported and
+which is not counted in the cannabis figures. [@2,8,10,13,16,17] No arrests were reported and
 those behind the shipments had not been identified. [@4,5] The Upper Austrian criminal police's narcotics unit is investigating the recipients at Austrian addresses and the unknown senders in Spain. [@12]
 
 The first large find came on 15 July 2026, when a routine check at the logistics
 centre uncovered more than 120 kilograms of cannabis flower and about 1.2
-kilograms of cocaine. [@2,5,8,10,13,14,16] The drugs travelled on a Spanish lorry in 27
+kilograms of cocaine. [@2,5,8,10,13,14,16,17] The drugs travelled on a Spanish lorry in 27
 shipments, vacuum-packed and treated with odour-neutralising materials to hinder
-detection. [@2,5,6,8,14,16] Most parcels were addressed to recipients in Greece, with others
-bound for Hungary, Romania and Austria. [@2,5,6,7,8,10,13,14,16] Two days later officers found 62
+detection. [@2,5,6,8,14,16,17] Most parcels were addressed to recipients in Greece, with others
+bound for Hungary, Romania and Austria. [@2,5,6,7,8,10,13,14,16,17] Two days later officers found 62
 more parcels containing cannabis at the same site, and on 20 July 2026 they
-seized 42 boxes of drugs from another Spanish lorry. [@2,5,8,14,16]
+seized 42 boxes of drugs from another Spanish lorry. [@2,5,8,14,16,17]
 
-Further finds followed almost daily in the days that followed. [@3,5,13,14,16] Customs found drugs in more than 200 parcels at a logistics company in the Linz-Land district of Upper Austria between mid-July and the end of September 2026. [@11] The logistics centre was in Hörsching, in the Linz-Land district. [@15] Finance
+Further finds followed almost daily in the days that followed. [@3,5,13,14,16,17] Customs found drugs in more than 200 parcels at a logistics company in the Linz-Land district of Upper Austria between mid-July and the end of September 2026. [@11] The logistics centre was in Hörsching, in the Linz-Land district. [@15] Finance
 Minister Markus Marterbauer called the find a blow against drug crime in Europe
 and a preventively important step. [@2] Customs officers documented and secured
 the seized substances. [@2,8]
