@@ -61,6 +61,10 @@ sources:
     url: https://safirnews.in/2026/11/26/nirmal-farmer-held-for-cultivating-ganja-under-the-guise-of-cotton-crop/
     publisher: Safir News
     date: 2026-11-26
+  - title: 'Nirmal Ganja Cultivation: Farmer Arrested'
+    url: https://indtoday.com/nirmal-ganja-cultivation-farmer-arrested/
+    publisher: IND Today
+    date: 2026-11-26
 open_questions:
   - The article gives Thursday for the raid and was published on Thursday 26 November 2026, so 26 November is used as the incident date, with no separate calendar date stated.
   - No charges, custody decision or court outcome were reported for Kunsoth Ravi.
@@ -71,20 +75,19 @@ open_questions:
 ---
 
 Police arrested farmer Kunsoth Ravi for allegedly cultivating ganja as an
-intercrop in a cotton field at Danjeenaik Thanda in Mamada mandal. [@1]
+intercrop in a cotton field at Danjeenaik Thanda in Mamada mandal. [@1,3]
 Superintendent of Police Janaki Sharmila said Ravi was apprehended for allegedly
-raising ganja as an intercrop in his cotton crop on 2.50 acres. [@1] Officers
+raising ganja as an intercrop in his cotton crop on 2.50 acres. [@1,3] Officers
 found him allegedly cultivating the crop when they raided his agricultural
-field. [@2] The raid was led by Sharmila with Nirmal Deputy Superintendent of
+field. [@2,3] The raid was led by Sharmila with Nirmal Deputy Superintendent of
 Police Srinivas, Soan Inspector B. Govardhan and Mamada Sub-Inspector U. Mahesh.
-[@1]
+[@1,3]
 
 Police seized 258 ganja plants and 5.320 kg of dry ganja leaves, which police
-valued at Rs 28.46 lakh. [@1]
+valued at Rs 28.46 lakh. [@1,3]
 
 Sharmila said Ravi told police he cultivated ganja to make quick money through
-shortcuts. [@1] He also allegedly told police that he sold the ganja to
-smugglers and made huge profits. [@1] She said he had allegedly cultivated the
+shortcuts. [@1,3] He also allegedly told police that he sold the ganja to
+smugglers and made huge profits. [@1,3] She said he had allegedly cultivated the
 crop for a long time and police were investigating whom he sold the ganja to.
-[@1]
-
+[@1,3]
