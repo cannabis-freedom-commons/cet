@@ -42,6 +42,21 @@ media:
     media_url: https://www.fiscales.gob.ar/wp-content/uploads/2025/09/Vista-general-1.jpg
     publisher: Fiscales.gob.ar
     caption: 'General view of the Control de Acusación hearing where the four accused were committed to oral trial, with prosecutors Mariana Gamba Cremaschi and Florencia Altamirano. Photo: Sebastián Rodríguez / Ministerio Público Fiscal'
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/desarticulamos-una-banda-narco-en-salta
+    media_url: https://www.argentina.gob.ar/sites/default/files/2025/02/psanarcoran01.jpg
+    publisher: Argentina.gob.ar (Policía de Seguridad Aeroportuaria)
+    caption: 'Main picture published with the PSA statement on the Salta operation. Photo: Policía de Seguridad Aeroportuaria'
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/desarticulamos-una-banda-narco-en-salta
+    media_url: https://www.argentina.gob.ar/sites/default/files/psanarcoran02.jpg
+    publisher: Argentina.gob.ar (Policía de Seguridad Aeroportuaria)
+    caption: 'Second picture published with the PSA statement on the Salta operation. Photo: Policía de Seguridad Aeroportuaria'
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/desarticulamos-una-banda-narco-en-salta
+    media_url: https://www.argentina.gob.ar/sites/default/files/psanarcoran03.jpg
+    publisher: Argentina.gob.ar (Policía de Seguridad Aeroportuaria)
+    caption: 'Third picture published with the PSA statement on the Salta operation. Photo: Policía de Seguridad Aeroportuaria'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: fe1030e2600b1f1bf96aa1b2a4f44137
@@ -52,12 +67,23 @@ sources:
     publisher: Fiscales.gob.ar
     date: 2025-09-23
     language: es
+  - title: Desarticulamos una banda narco en Salta
+    url: https://www.argentina.gob.ar/noticias/desarticulamos-una-banda-narco-en-salta
+    publisher: Argentina.gob.ar (Policía de Seguridad Aeroportuaria)
+    date: 2025-02-28
+    language: es
+  - title: La PSA resalta la desarticulación de una banda narcocriminal que operaba desde Orán. fotos
+    url: https://radioguemes.com.ar/2025/02/26/la-psa-resalta-la-desarticulacion-de-una-banda-narcocriminal-que-operaba-desde-oran-fotos
+    publisher: Radio Güemes
+    date: 2025-02-26
+    language: es
 open_questions:
-  - The 15 kg is the stated weight of the load; a separate 250 g was found with Burgos, and no laboratory weight was published for either.
-  - The report does not give Burgos's home address or the exact court where the four will be tried.
-  - One man travelling in the Citroën on 5 February 2025 remained at large; his later fate is not reported.
-  - The six million pesos was the arranged payment for the load, not a valuation of the marijuana, and it is not recorded as a cannabis value or as an official confiscation total.
-  - The source does not clarify why the press describes Tolaba as both travelling in the intercepted Hilux and as a leader, while the text refers to the Hilux as the vehicle escorting the load car.
+    - The PSA statement puts the total marijuana seized at 15,499 grams, while the prosecution account gives a 15 kg load and a separate 250 g found with Burgos; the sources do not explain how the figures relate, and no laboratory weight was published.
+    - The report does not give Burgos's home address or the exact court where the four will be tried.
+    - One man travelling in the Citroën on 5 February 2025 remained at large; his later fate is not reported.
+    - The prosecution account gives six million pesos as the price Burgos paid for each load, while the PSA statement lists more than six million pesos in cash among the items seized; the sources do not say whether they are the same money.
+    - The source does not clarify why the press describes Tolaba as both travelling in the intercepted Hilux and as a leader, while the text refers to the Hilux as the vehicle escorting the load car.
+    - No street value was published for the marijuana seized.
 ---
 
 On 23 September 2025 a Salta review judge, Luis Renato Rabbi Baldi Cabanillas,
@@ -69,13 +95,13 @@ charged with possessing drugs for sale to street dealers, all under Salta's
 federal prosecutor's office. [@1] The case began on 5 February 2025 when
 Airports Security Police (PSA) officers stopped a Toyota Hilux carrying Tolaba,
 Oliva and Ángela Cuenca at the Aunor former toll booth on the road into Salta
-city. [@1] The Citroën C3 behind it, with 15 kg of marijuana aboard, made a
+city. [@1,2] The Citroën C3 behind it, with 15 kg of marijuana aboard, made a
 U-turn and fled toward Jujuy at more than 180 km/h while packages were thrown
-out of the windows. [@1] Officers caught Juan Alberto Romero near the abandoned
+out of the windows. [@1] The PSA said officers chasing the second car along provincial route 112 found 14 packages of marijuana thrown out along the way and the abandoned car at a farm by provincial route 23, and detained a fourth suspect nearby while another escaped. [@2] Officers caught Juan Alberto Romero near the abandoned
 car by the San Juan de Dios estate in Jujuy, later arrested Leiton in a raid in
 Orán on 20 February 2025, and detained Burgos in the north of Salta city the
 same 5 February, finding 250 g of marijuana and 6 million pesos at his home.
-[@1]
+[@1,2] The PSA said six people were detained in all, two women and four men held incommunicado, and that officers seized 15,499 grams of marijuana, more than 6 million pesos, three vehicles, 10 mobile phones, 50 rounds of ammunition, a banknote-counting machine and packaging material. [@2]
 
 Prosecutors said Tolaba and Oliva led the organisation and travelled in the
 “coche puntero”, a scout car that checked the route ahead of the load, and that
@@ -101,15 +127,14 @@ Cuenca, already sentenced and the partner of one man still at large, relayed
 communications between the load car and the car that swept the route. [@1] The
 investigation began in November 2024 from a PSA report based on an anonymous
 informant's tip naming Tolaba and his partner as heads of a gang moving
-marijuana from Orán to Salta. [@1] Burgos was described as the organisation's
+marijuana from Orán to Salta. [@1] The PSA named the operation "Polvo en el Viento". [@3] Burgos was described as the organisation's
 main buyer, paying 6 million pesos for each delivery, and prosecutors said money
 transferred from him to Oliva's family accounts ran into the millions. [@1] The
 drugs were obtained in bordering Bolivia and brought to this city for sale at
-street level (narcomenudeo). [@1] Federal prosecutor Eduardo Villalba
+street level (narcomenudeo). [@1] The PSA said the organisation used numerous people to carry the drug on foot along clandestine paths in the fields around the Bolivian border. [@2] Federal prosecutor Eduardo Villalba
 coordinated the district's case, with deputy prosecutor general Mariana Gamba
 Cremaschi and assistant prosecutor Florencia Altamirano appearing at the
 committal hearing. [@1]
 
 Burgos tried to flee into a neighbour's house when he saw the police but was
 caught, with 250 g of marijuana on him. [@1]
-
