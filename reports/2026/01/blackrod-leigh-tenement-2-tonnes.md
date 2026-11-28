@@ -49,6 +49,16 @@ media:
     media_url: https://www.europesays.com/uk/wp-content/uploads/2026/01/skynews-cannabis-two-tonnes_7133276.jpg
     publisher: Sky News
     caption: 'Part of the two-tonne cannabis haul. Pic: GMP/PA, published with the report.'
+  - kind: photo
+    url: https://www.itv.com/news/granada/2026-01-11/two-tonnes-of-cannabis-discovered-in-one-of-uks-largest-single-seizures
+    media_url: https://images.ctfassets.net/pjshm78m9jt4/76z22WMsHVFh0MMZS6GGaO/cdff290976e0a5ef4b342353c9017e3f/Bolton_-_cannabis_seizure_2.jpg?fm=avif&fit=fill&f=faces&w=830&h=467&q=80
+    publisher: ITV News
+    caption: 'Police photo of the small farm in Blackrod where officers recovered two tonnes of cannabis. Photo: Greater Manchester Police'
+  - kind: photo
+    url: https://www.itv.com/news/granada/2026-01-11/two-tonnes-of-cannabis-discovered-in-one-of-uks-largest-single-seizures
+    media_url: https://images.ctfassets.net/pjshm78m9jt4/4ZfsIlsYPh1jGABudtCIvV/79f3caaa7ad665cbc98882e62d139571/Bolton_-_cannabis_seizure.jpg?fm=avif&fit=fill&f=faces&w=830&h=467&q=80
+    publisher: ITV News
+    caption: 'The seized cannabis, which police valued at about £24 million. Photo: Greater Manchester Police'
 status: verified
 created_by_model: meta/muse-spark
 tags: [blackrod, bolton, gmp, conspiracy]
@@ -62,6 +72,10 @@ sources:
     archived: https://web.archive.org/web/20260215182335/https://www.leighjournal.co.uk/news/25758873.24m-worth-cannabis-seized-bolton-property-two-charged/
     publisher: Leigh Journal
     date: 2026-01-12
+  - title: Two tonnes of cannabis worth around £24 million discovered in Bolton
+    url: https://www.itv.com/news/granada/2026-01-11/two-tonnes-of-cannabis-discovered-in-one-of-uks-largest-single-seizures
+    publisher: ITV News
+    date: 2026-01-12
 open_questions:
   - The Leigh Journal dates the raid 10 January while GMP and Sky News say Friday 9 January; this report uses 9 January.
   - Two tonnes is an approximate figure stated by the police, stored as 2,000 kg.
@@ -70,11 +84,11 @@ open_questions:
 
 Greater Manchester Police executed a warrant at Leigh Tenement Farm in Blackrod, Bolton, on
 Friday, 9 January 2026 and recovered about two tonnes of cannabis in sacks across rooms and
-outbuildings. [@1,2] Police put the street value at about £24 million, making it one of the
-largest cannabis seizures on record in Britain. [@1,2] Detective Superintendent Joe Harrop called
+outbuildings. [@1,2,3] Police put the street value at about £24 million, making it one of the
+largest cannabis seizures on record in Britain. [@1,2,3] Detective Superintendent Joe Harrop called
 it a large-scale, sophisticated operation and a major success that removes a source of harm and
-disrupts criminal networks. [@1,2]
+disrupts criminal networks. [@1,2,3]
 
 Musa Kala, 35, of Dunbar Drive, and Raheem Latif, 27, of Leverhulme Avenue, both Bolton, were
-arrested at the scene and charged with conspiracy to supply cannabis. [@1,2] Both were remanded
-in custody to appear at Manchester City Magistrates' Court on Monday. [@1,2]
+arrested at the scene and charged with conspiracy to supply cannabis. [@1,2,3] Both were remanded
+in custody to appear at Manchester City Magistrates' Court on Monday. [@1,2,3]
