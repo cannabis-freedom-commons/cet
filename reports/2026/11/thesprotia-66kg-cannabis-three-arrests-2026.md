@@ -85,26 +85,29 @@ sources:
     publisher: Zougla
     date: 2026-11-26
     language: el
+  - title: Dozens of kilograms of cannabis seized at the Greek border, three Albanians in handcuffs
+    url: https://www.balkanweb.com/en/Dozens-of-kilograms-of-cannabis-seized-at-the-Greek-border--three-Albanians-in-handcuffs/
+    publisher: Balkanweb.com
+    date: 2026-11-26
 open_questions:
     - No place more precise than an area of the Thesprotia regional unit is given for either stop.
-    - The nationalities of the three arrested men were not published.
     - No value estimate for the 66.742 kg of cannabis was published.
     - No detention decision, charge or court date was reported after the file reached the prosecutor.
-    - The Greek accounts reproduce the same Hellenic Police statement rather than independent reporting.
+    - All published accounts reproduce the same Hellenic Police statement rather than independent reporting.
 ---
 
 Three foreign nationals were arrested over the cannabis load in the Thesprotia
-regional unit on 25 November 2026. [@1,5] One man drove the car carrying the drugs
+regional unit on 25 November 2026. [@1,5] The three arrested were young Albanians from an area of Saranda. [@6] One man drove the car carrying the drugs
 while the other two went ahead as lookouts, telling him about possible police
-checks on the route. [@1,5] The operation was run at midday by the Igoumenitsa
+checks on the route. [@1,5,6] The operation was run at midday by the Igoumenitsa
 drug enforcement and investigation sub-directorate together with the Second
-Border Guard Department of Filiates. [@2,5]
+Border Guard Department of Filiates. [@2,5,6]
 
 Inside the first car officers found 60 packages of raw cannabis weighing 66 kg
-and 742 g. [@3,5] Police seized the two cars used in the operation. [@1,5] Officers
-also seized 1,130 euros in cash and four mobile phones. [@1,5] The police dogs
-Ikarus and Jerry took part in the searches. [@1,5]
+and 742 g. [@3,5,6] Police seized the two cars used in the operation. [@1,5] Officers
+also seized 1,130 euros in cash and four mobile phones. [@1,5,6] The police dogs
+Ikarus and Jerry took part in the searches. [@1,5,6]
 
 A felony case file was opened against the three and they were taken to the
-Thesprotia first-instance prosecutor's office. [@1,5] The force said the operation
+Thesprotia first-instance prosecutor's office. [@1,5,6] The force said the operation
 prevented the load from being moved on. [@4]
