@@ -92,13 +92,18 @@ sources:
     publisher: Onda Cero
     date: 2026-11-23
     language: es
+  - title: La Guardia Civil asesta otro golpe al tráfico de marihuana en Iznalloz
+    url: https://www.ideal.es/granada/provincia-granada/guardia-civil-asesta-golpe-trafico-marihuana-iznalloz-20261126181203-nt.html
+    publisher: Ideal
+    date: 2026-11-26
+    language: es
 open_questions:
     - No charges or court decisions in the cannabis cases were reported; the investigations remained open.
     - No value was published for the 20,098 plants or the 6.84 kg of cannabis products.
 ---
 
 In the whole set of operations officers detained 15 people and investigated 36
-others for alleged public-health offences and electricity fraud. [@1,3,4,5] The
+others for alleged public-health offences and electricity fraud. [@1,3,4,5,7] The
 actions took place on Wednesday 18, Thursday 19 and Friday 20 November in Pinos
 Puente, Moraleda de Zafayona, Santa Fe, Cogollos Vega and Peligros. [@1,3,4,5,6] The
 Guardia Civil said the seizure of 20,098 cannabis sativa plants in eight
