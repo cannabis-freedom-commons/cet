@@ -242,15 +242,26 @@ sources:
     publisher: Sonora.co.id
     date: 2026-11-11
     language: id
+  - title: Polri Tindak 11.623 Kampung Narkoba dan Tangkap 9.075 Orang, Termasuk 812 Bandar!
+    url: https://www.reqnews.com/read/news/100782/polri-tindak-11623-kampung-narkoba-dan-tangkap-9075-orang-termasuk-812-bandar
+    publisher: REQnews
+    date: 2026-11-26
+    language: id
+  - title: Polri Amankan 812 Bandar dalam Operasi Kampung Narkoba
+    url: https://infopublik.id/kategori/nasional-politik-hukum/999039/polri-amankan-812-bandar-dalam-operasi-kampung-narkoba
+    publisher: InfoPublik
+    date: 2026-11-26
+    language: id
 open_questions:
     - Bareskrim and several police accounts present the 122.86-hectare total across Aceh and North Sumatra including Mandailing Natal, while BNN press-release accounts present the 122.86 hectares as an Aceh operation.
-    - The listed phase areas across the districts add to about 127.74 hectares, while police and BNN give the official campaign total as 122.86 hectares.
-    - BNN accounts estimate 186,450 cannabis plants destroyed across the operation, while earlier police accounts reported about 150,000 plants for the five-hectare Mandailing Natal site alone.
-    - The 93.225-tonne figure is reported only as an estimated wet weight of uprooted plants, and no total dried-cannabis weight or street-value estimate was published for the campaign.
+    - Police give the campaign total as 122.86 hectares in the 2 November accounts and 127.66 hectares in the national police chief's 26 November summary, which covers the wider 9 October to 23 November operation and does not attribute the fields to a province, while the listed district phases add to about 127.74 hectares.
+    - Plant counts for the campaign range from about 186,450 in BNN accounts to 193,993 in the national police chief's 26 November summary, 193,953 in another account of the same speech, and about 150,000 for the five-hectare Mandailing Natal site alone in earlier police accounts.
+    - The 93.225-tonne figure is reported only as an estimated wet weight of uprooted plants, the 26 November summary gives about 97 tonnes, and no total dried-cannabis weight or street-value estimate was published for the campaign.
     - One RRI account lists the Bener Meriah, Aceh Besar and Aceh Timur plots as 4, 7 and 12 hectares rather than 0.04, 0.7 and 0.12 hectares as in the BNN and police accounts.
     - Only Gampong Teupin Rusep is named of the two sites making up the 25-hectare phase in North Aceh.
     - The four people detained in the Sawang phase and the Aceh Timur suspect are identified only by initials, and no trial or court outcome has been reported.
     - The campaign ran from 27 October to 2 November 2026; 2 November 2026, the latest reported destruction date, is used as the incident date.
+    - A separate nationwide prison search reported in the same speech seized 9 kilograms of ganja, 11 kilograms in another account, and is a different operation left out here.
 ---
 
 A joint team from Bareskrim's drug directorate, the North Sumatra and Aceh police, the National
@@ -264,7 +275,7 @@ aim was to break the narcotics distribution chain at its source [@1,5,13,21,29],
 Putu Putera Sadana said the operation targeted production rather than only downstream networks. [@30]
 
 Police put the total area destroyed across both provinces at 122.86 hectares.
-[@1,3,4,6,7,9,10,11,12,13,16,19,20,22,24,26,27,29,30,32,33] Officers estimated about 186,450 cannabis
+[@1,3,4,6,7,9,10,11,12,13,16,19,20,22,24,26,27,29,30,32,33] In a speech at the national police headquarters on 26 November 2026, national police chief General Suyudi Ario Seto put the cannabis fields destroyed during the Operasi Kampung Narkoba, from 9 October to 23 November, at 127.66 hectares holding 193,993 plants, about 97 tonnes. [@34] A second account of the same speech gave the destroyed area as 127.66 hectares planted with 193,953 cannabis plants, equivalent to about 97 tonnes. [@35] Officers estimated about 186,450 cannabis
 plants destroyed [@5,6,9,10,11,12,19,25,26,27,30,32], with a wet weight of 93.225 tonnes.
 [@6,7,9,10,11,12,13,19,25,26,27,30]
 
