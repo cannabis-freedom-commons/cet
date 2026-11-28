@@ -79,6 +79,10 @@ sources:
     url: https://www.dailymail.com/news/article-16322373/Father-son-smuggled-cannabis-flight-Thailand-Heathrow-jailed.html
     publisher: Daily Mail
     date: 2026-11-25
+  - title: Father, Son Jailed for Smuggling £500,000 Cannabis into UK
+    url: https://www.thegazellenews.com/father-son-jailed-for-smuggling-500000-cannabis-into-uk/
+    publisher: The Gazelle News
+    date: 2026-11-26
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cqn4e1dm3dk8o
@@ -114,18 +118,18 @@ media:
 
 Alec Peter Chadwick, 39, and Riley Peter Emerson-Chadwick, 20, were arrested by
 Border Force officers at Heathrow Airport after boarding a plane from Bangkok,
-Thailand, in July. [@1,2,3,4,5,6,7] Officers found 33.5 kg of cannabis in Emerson-Chadwick's
-luggage and 16.75 kg in his father's luggage. [@1,2,3,4,5,6,7] The pair appeared at
+Thailand, in July. [@1,2,3,4,5,6,7,8] Officers found 33.5 kg of cannabis in Emerson-Chadwick's
+luggage and 16.75 kg in his father's luggage. [@1,2,3,4,5,6,7,8] The pair appeared at
 Wimbledon Magistrates' Court on 15 July 2026 and pleaded guilty to smuggling
-cannabis. [@1,2,3,6,7]
+cannabis. [@1,2,3,6,7,8]
 
-The cannabis was worth £500,000. [@1,2,3,4,5,6,7] At Isleworth Crown Court, unemployed
+The cannabis was worth £500,000. [@1,2,3,4,5,6,7,8] At Isleworth Crown Court, unemployed
 Chadwick, of Millbrook, Southampton, was sentenced to two years and eight months
-in prison. [@1,2,3,4,5,6,7] Emerson-Chadwick, a labourer of Christchurch, Bournemouth, was
-sentenced to two years. [@1,2,3,4,5,6,7]
+in prison. [@1,2,3,4,5,6,7,8] Emerson-Chadwick, a labourer of Christchurch, Bournemouth, was
+sentenced to two years. [@1,2,3,4,5,6,7,8]
 
 The National Crime Agency, which led the investigation, said there had been an
 explosion in the number of drug couriers trying to smuggle cannabis into the UK.
-[@1,3,4,5,7] The agency warned that couriers are usually approached on social media by
+[@1,3,4,5,7,8] The agency warned that couriers are usually approached on social media by
 organised crime groups offering a 'free' holiday and spending money in exchange
-for taking cannabis home. [@1,3,4,5,7]
+for taking cannabis home. [@1,3,4,5,7,8]
