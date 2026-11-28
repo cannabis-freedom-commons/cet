@@ -51,6 +51,11 @@ media:
     media_url: https://98fmcampoformoso.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-12.13.09-840x424.jpeg
     publisher: Radio 98 FM
     caption: A police officer watches the plantation burn.
+  - kind: photo
+    url: https://www.faroldabahia.com.br/noticia/mais-20-mil-pes-de-maconha-sao-destruidos-pela-policia-no-interior-da-bahia
+    media_url: https://www.faroldabahia.com.br/farol-arquivos-e-imagens/fotos/farol_noticias/244030/IMAGEM_NOTICIA_0.jpg?v=a82e5314e5d1f968fa84af20d91dae3f
+    publisher: Farol da Bahia
+    caption: 'Press handout photo of the cannabis eradication operation at Gameleira, Campo Formoso. Photo: Divulgação.'
 sources:
   - title: Em mais uma ação integrada contra facções, PC e PM erradicam 22 mil pés de maconha em Campo Formoso
     url: https://www.ba.gov.br/ssp/noticias/2026-10/90290/em-mais-uma-acao-integrada-contra-faccoes-pc-e-pm-erradicam-22-mil-pes-de
@@ -63,8 +68,13 @@ sources:
     publisher: Radio 98 FM
     date: 2026-10-07
     language: pt
+  - title: Mais 20 mil pés de maconha são destruídos pela polícia no interior da Bahia
+    url: https://www.faroldabahia.com.br/noticia/mais-20-mil-pes-de-maconha-sao-destruidos-pela-policia-no-interior-da-bahia
+    publisher: Farol da Bahia
+    date: 2026-10-07
+    language: pt
 ---
 
-On 6 October 2026, Bahia Civil and Military Police eradicated a cannabis planting at Gameleira, in rural Campo Formoso, after intelligence work and technological resources helped locate it. [@1] The Bahia Public Security Secretariat said officers found 22,000 plants and that people responsible for maintaining and guarding the crop ran into woodland when police arrived. [@1] Officers then burned the plants, and the Secretariat said searches continued to capture those who fled. [@1]
+On 6 October 2026, Bahia Civil and Military Police eradicated a cannabis planting at Gameleira, in rural Campo Formoso, after intelligence work and technological resources helped locate it. [@1,3] The Bahia Public Security Secretariat said officers found 22,000 plants and that people responsible for maintaining and guarding the crop ran into woodland when police arrived. [@1,3] Officers then burned the plants, and the Secretariat said searches continued to capture those who fled. [@1] Members of the public were invited to pass information anonymously to police through the 181 Disque Denúncia line run by the SSP. [@3]
 
 Radio 98 FM described the site as a hard-to-reach rural area and said the plants were at different stages of development. [@2] It reported that men at the site escaped through vegetation and were not found in searches of the area. [@2] The radio station gave the count as more than 22,000, while the Secretariat stated 22,000; this report uses the official number. [@1,2] Radio 98 FM also reported a preliminary estimate of more than R$1 million in losses to the criminal structure involved in production and distribution. [@2] The outlet published interviews with the local Civil Police delegate and the Military Police commander about the operation. [@2]
