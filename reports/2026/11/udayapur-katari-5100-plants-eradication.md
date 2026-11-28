@@ -35,6 +35,10 @@ sources:
     url: https://thehimalayantimes.com/nepal/police-destroy-5100-marijuana-plants-in-udayapur-crackdown
     publisher: The Himalayan Times
     date: 2026-11-24
+  - title: Police destroy over 26,000 marijuana plants in Udayapur in a year
+    url: https://thehimalayantimes.com/ampArticle/1041053
+    publisher: The Himalayan Times
+    date: 2026-11-27
 open_questions:
   - Monday is the only day given for the operation; 23 November 2026 is inferred from the 24 November 2026 publication date.
   - No figure for the area cleared, the weight of the destroyed plants, or any value estimate was published.
@@ -49,7 +53,7 @@ Monday, cutting down marijuana plants growing in forested areas. [@1] The plants
 were in Marjepur, Ahale and Baloute in Katari Municipality-8. [@1]
 
 Police describe the eradication drive as part of an annual anti-cannabis
-campaign. [@1] According to police, the annual operation is conducted ahead of
+campaign. [@1] The district police office later reported that 26,700 marijuana plants had been destroyed across Udayapur in fiscal year 2026/27, in areas including Marjepur, Balaute and Ahale in Katari Municipality. [@2] According to police, the annual operation is conducted ahead of
 the harvesting season, when illegally cultivated cannabis is typically prepared
 for sale. [@1] Authorities say cannabis cultivation continues in remote forest
 areas, gullies and fields near settlements in Udayapur's western hill region
@@ -58,4 +62,3 @@ despite repeated enforcement campaigns. [@1]
 Police say illegal cultivation persists in the district despite repeated
 crackdowns. [@1] Police pledged to continue monitoring and destroying illegal
 plantations to curb the production and trafficking of narcotic substances. [@1]
-
