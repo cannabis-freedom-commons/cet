@@ -83,6 +83,11 @@ sources:
     publisher: وكالة الأنباء الجزائرية
     date: 2026-11-26
     language: ar
+  - title: 'إسبانيا: حجز 1.8 طن من الكوكايين يكشف امتداد شبكات الاتجار بالمخدرات المغربية إلى أوروبا'
+    url: https://entv.dz/ar/news/%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%AD%D8%AC%D8%B2-18-%D8%B7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%83%D8%A7%D9%8A%D9%8A%D9%86-%D9%8A%D9%83%D8%B4%D9%81-%D8%A7%D9%85%D8%AA%D8%AF%D8%A7%D8%AF-%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D9%85%D8%AE%D8%AF%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7
+    publisher: التلفزيون الجزائري (ENTV)
+    date: 2026-11-26
+    language: ar
 open_questions:
   - No exact date is given for the operation itself; the article says it took place in the previous week and was published on 26 November 2026, so the publication date is used.
   - The 35.35 kilograms is a police figure for dried buds ready for distribution; no laboratory confirmation or street value for the cannabis was reported.
@@ -96,7 +101,7 @@ Guardia Civil and Policía Nacional dismantled a large-scale cocaine trafficking
 organisation in a joint operation in the province of Cádiz. [@1] Seven people
 were arrested, six of them with previous drug-trafficking records, in the
 operation named Luna Llena-Manantia. [@1,4] The operation was directed by the duty
-judge of the Mixed Court number 4 of Sanlúcar de Barrameda. [@1,4] The inquiry
+judge of the Mixed Court number 4 of Sanlúcar de Barrameda. [@1,4,6] The inquiry
 began after a van carrying 33 bundles of cocaine was intercepted on the AP-4
 motorway near Los Palacios, Seville, and its only occupant was arrested. [@1]
 With judicial authorisation officers carried out eleven simultaneous searches of
@@ -105,9 +110,9 @@ detained. [@1,4,5]
 
 Alongside 1,823 kilograms of cocaine, officers seized 35.35 kilograms of dried
 marijuana buds, vacuum-packed and ready for distribution, and 171,300 euros in
-cash. [@1,4,5] Officers also impounded nine vehicles, eleven motorcycles and a jet
-ski. [@2,4] Officers also found hunting weapons, which were still being examined. [@4] Two of the nine vehicles had been stolen. [@4] Two underground hideouts, or zulos, built and fitted out to conceal
-the drugs were found on registered properties. [@1,4] One had previously been used
+cash. [@1,4,5,6] Officers also impounded nine vehicles, eleven motorcycles and a jet
+ski. [@2,4,6] Officers also found hunting weapons, which were still being examined. [@4] Two of the nine vehicles had been stolen. [@4] Two underground hideouts, or zulos, built and fitted out to conceal
+the drugs were found on registered properties. [@1,4,6] One had previously been used
 to grow marijuana and held 20 further bundles of cocaine packaged identically to
 those in the van. [@3,4]
 
@@ -117,6 +122,6 @@ and maritime hashish trafficking to expand into large-scale cocaine transport
 and distribution. [@1,4,5] Its logistics structure allowed it to bring, store, guard
 and move the drug from Cádiz to points across Europe. [@1] The group used
 surveillance cameras, drones, watchmen and lookouts known as aguadores to
-protect its activities. [@1] The operation was run jointly by the EDOA
+protect its activities. [@1,6] The group changed phones, vehicles and operating sites frequently and altered its routes, making diversionary movements to check for police surveillance. [@6] The operation was run jointly by the EDOA
 (Organised Crime and Anti-Drug Unit) of the Guardia Civil in Cádiz and the GRECO
 (Organised Crime Response Group) of the Policía Nacional in Cádiz. [@1,4] The searches were supported by the Guardia Civil's reserve and security groups (GRS), its rapid action group (GAR), the Cádiz USECIC, the dog unit and the prevention and reaction units (UPR) of Jerez and El Puerto de Santa María. [@4]
