@@ -53,27 +53,26 @@ sources:
     publisher: wa.de
     date: 2026-11-26
     language: de
-open_questions:
-  - No precise weight was published for the hashish, described only as a not insignificant quantity, and the marijuana was given as just under 6.5 kilograms.
-  - No court outcome, formal charges or further case details were reported for the three detainees.
-  - The same article also reports a separate 24 November 2026 operation by Münster prosecutors and police against an amphetamine laboratory, which is not part of this case.
-  - Both accounts reproduce the same police information rather than independent reporting.
+  - title: 'Kreis Unna: Drei Festnahmen wegen Verdachts auf Drogenhandel in Bergkamen-Oberaden'
+    url: https://newsflash24.de/blaulicht/nordrhein-westfalen/kreis-unna-drei-festnahmen-wegen-verdachts-auf-drogenhandel-in-bergkamen-oberaden/
+    publisher: Newsflash24
+    date: 2026-11-26
+    language: de
 ---
 
 Police in Bergkamen-Oberaden, in Kreis Unna, arrested three people on Monday 23
-November 2026. [@1] The operation took place in the evening on
-Heinrich-Imig-Straße. [@1] Those arrested were a 27-year-old German man, a
+November 2026. [@1,3] The operation took place in the evening on
+Heinrich-Imig-Straße. [@1,3] Those arrested were a 27-year-old German man, a
 23-year-old German man and a 49-year-old German woman, all residents of Kreis
-Unna. [@1] Kreispolizeibehörde Unna, the district police authority, investigated
+Unna. [@1,3] Kreispolizeibehörde Unna, the district police authority, investigated
 them on suspicion of commercial trafficking in narcotic drugs in not
-insignificant quantities. [@1] A remand warrant was issued for each of the two
-men after the arrests. [@1]
+insignificant quantities. [@1,3] A remand warrant was issued for each of the two
+men after the arrests. [@1,3]
 
 Police described the haul as large quantities of cocaine and marijuana. [@2]
-Officers searched several apartments after the operation. [@1] They found just
+Officers searched several apartments after the operation. [@1,3] They found just
 under 6.5 kilograms of marijuana and a not insignificant quantity of hashish.
-[@1] The same searches produced 780 grams of cocaine and around 3,500 euros in
-cash. [@1]
+[@1,3] The same searches produced 780 grams of cocaine and around 3,500 euros in
+cash. [@1,3]
 
-Police said they would give no further details, citing tactical reasons. [@1]
-
+Police said they would give no further details, citing tactical reasons. [@1,3]
