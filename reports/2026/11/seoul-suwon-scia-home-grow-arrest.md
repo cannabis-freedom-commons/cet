@@ -213,6 +213,11 @@ sources:
     publisher: 조선일보
     date: 2026-11-27
     language: ko
+  - title: ソウルの住宅街に「大麻工場」…建物1フロアに3700人分
+    url: https://www.chosun.com/jp/politics-national-jp/2026/11/27/RW63N6AU3NBZNHPAHVVE6HEMNY/
+    publisher: 조선일보
+    date: 2026-11-27
+    language: ja
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008832708
@@ -240,10 +245,10 @@ November. [@7,10,13,14]
 
 ## The grow
 
-The two men, both 29, were friends. [@17,19,22,23,24,26,32,34,35] They are accused of leasing the fourth
+The two men, both 29, were friends. [@17,19,22,23,24,26,32,34,35,36] They are accused of leasing the fourth
 floor of a building in a Seongbuk residential area and growing cannabis there with specialised
 facilities, in large volumes, from around January last year until recently.
-[@1,4,5,6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29,32,34,35] Investigators put the time at about 22
+[@1,4,5,6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29,32,34,35,36] Investigators put the time at about 22
 months, one year and ten months of professional growing. [@23,25,26,32] They bought the equipment
 through overseas direct-purchase websites. [@6,7,10,14,15,19,20,21,22,24,25,27,28,29,33]
 
