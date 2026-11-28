@@ -61,26 +61,33 @@ sources:
     publisher: The Himalayan Times
     date: 2026-11-25
     language: en
+  - title: Indian national arrested with 4.8 kg of Thai cannabis at Tribhuvan International Airport
+    url: https://myrepublica.nagariknetwork.com/news/indian-national-arrested-with-48-kg-of-thai-cannabis-at-tribhuvan-internati-76-31.html
+    publisher: MyRepublica
+    date: 2026-11-25
+open_questions:
+    - The accounts spell the arrested man's surname differently, as Abdul Nausad and Abdul Naushad.
+    - No value or estimate was published for the 4.8 kilograms of Thai cannabis.
 ---
 
 Nepal's Narcotics Control Bureau arrested an Indian national at Tribhuvan
 International Airport in Kathmandu with nearly five kilograms of Thai cannabis.
-[@1,3,4,5] Police identified the man as 29-year-old Abdul Nausad, a resident of
-Mulariya in Kerala, India, carrying Thai cannabis flown into Nepal by air. [@1,3]
+[@1,3,4,5,6] Police identified the man as 29-year-old Abdul Nausad, a resident of
+Mulariya in Kerala, India, carrying Thai cannabis flown into Nepal by air. [@1,3,6]
 He had arrived in Kathmandu from Thailand via Malaysia on a Batik Air flight.
-[@1,5]
+[@1,5,6]
 
 The bureau said he travelled aboard Batik Air flight OD 182 from Thailand via
-Kuala Lumpur, Malaysia, before reaching Kathmandu with the cannabis load. [@2,5]
+Kuala Lumpur, Malaysia, before reaching Kathmandu with the cannabis load. [@2,5,6]
 Officers detained the 29-year-old man from Kerala, India, on Tuesday after
 monitoring passengers arriving on international flights for smuggling. [@2,5]
 Officers recovered 4.8 kilograms of marijuana from his possession during the
-search at the airport. [@2,3,5] Officers also seized his passport and a mobile phone
-alongside the drugs for the investigation. [@2,5]
+search at the airport. [@2,3,5,6] Officers also seized his passport and a mobile phone
+alongside the drugs for the investigation. [@2,5,6]
 
 The Narcotics Control Bureau in Koteshwar took him into custody and launched an
 investigation into the case and its trafficking links. [@1] Investigators said
 further inquiry would establish the circumstances surrounding the case and any
-possible links to wider drug-trafficking activity. [@2,5] No charges, court
+possible links to wider drug-trafficking activity. [@2,5,6] No charges, court
 production, detention order or other case outcome had been reported, with both
 accounts describing the matter as under further investigation. [@2]
