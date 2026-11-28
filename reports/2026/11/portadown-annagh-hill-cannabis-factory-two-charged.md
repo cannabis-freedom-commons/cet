@@ -100,23 +100,28 @@ sources:
     url: https://www.belfastlive.co.uk/news/two-men-due-court-over-34967199
     publisher: Belfast Live
     date: 2026-11-25
+  - title: Two due in Lisburn court to face drug charges after police sniff out cannabis factory
+    url: https://www.belfasttelegraph.co.uk/news/northern-ireland/two-due-in-lisburn-court-to-face-drug-charges-after-police-sniff-out-cannabis-factory/a/165078023.html
+    publisher: Belfast Telegraph
+    date: 2026-11-25
 open_questions:
     - No figure for the number of plants seized or the weight of cannabis was published.
     - No court outcome from the scheduled Lisburn Magistrates Court appearance has been reported.
+    - 'The accounts differ on the time of the discovery: one places it in the early hours of 25 November, the Belfast Telegraph later that morning.'
 ---
 
 Police found a substantial cannabis factory at a commercial unit in the Annagh
 Hill industrial estate in Portadown in the early hours of Wednesday 25 November
-2026, after noting a strong smell of cannabis. [@2,4,5,7,9] Two men, aged 32 and 27, who
-were inside the property were arrested. [@1,4,5,6,7,8,9]
+2026, after noting a strong smell of cannabis. [@2,4,5,7,9,10] Two men, aged 32 and 27, who
+were inside the property were arrested. [@1,4,5,6,7,8,9,10]
 
 The operation spanned three floors and contained plants police said had an
-estimated street value of £200,000. [@1,4,6,9] PSNI Chief Inspector Flannigan said the
+estimated street value of £200,000. [@1,4,6,9,10] PSNI Chief Inspector Flannigan said the
 operation was capable of producing large quantities of cannabis that would have
-reached the local community. [@1,4,6]
+reached the local community. [@1,4,6,10]
 
 The men were charged with cultivating cannabis, possession of a Class B
 controlled drug, possession with intent to supply and being concerned in the
-supply of a Class B drug. [@1,5,6,7,8,9] They were expected to appear before Lisburn
-Magistrates Court on Thursday 26 November. [@3,5,6,7,8] PSNI said the charges would be
+supply of a Class B drug. [@1,5,6,7,8,9,10] They were expected to appear before Lisburn
+Magistrates Court on Thursday 26 November. [@3,5,6,7,8,10] PSNI said the charges would be
 reviewed by the Public Prosecution Service. [@3,5,7,8]
