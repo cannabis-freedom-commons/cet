@@ -56,16 +56,16 @@ sources:
     publisher: Bharat AtoZ News
     date: 2026-11-24
     language: hi
-open_questions:
-  - No value or street price was published for the 3.1 kg of ganja.
-  - The accounts do not say whether the two men were produced before a court or remanded to custody.
-  - Neither account says where the ganja came from or where it was being taken.
-  - The criminal history listed by police concerns Maan Singh only; no earlier cases are reported for Ballu alias Rajendra.
+  - title: गंगाघाट में 3 किलो गांजे के साथ दो गिरफ्तार:पुलिस ने सीताराम कॉलोनी और ऋषि नगर के युवक को पकड़ा
+    url: https://www.bhaskar.com/local/uttar-pradesh/unnao/supasi/news/unnao-gangaghat-ganja-arrest-sitaram-colony-rishi-nagar-youth-139768080.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-22
+    language: hi
 ---
 
 Gangaghat police arrested two men with ganja on 21 November 2026 during a check
 of suspicious people and vehicles in Shuklaganj, in Uttar Pradesh's Unnao
-district. [@2] Officers recovered 3 kg 100 g of ganja from the two under the old
+district. [@2,3] Officers recovered 3 kg 100 g of ganja from the two under the old
 Ganga bridge in Sitaram Colony. [@1] Police named station house officer Ajay
 Kumar Singh among the team that made the arrest. [@2]
 
@@ -79,4 +79,3 @@ Maan Singh at Gangaghat police station in 2018 and 2019. [@2] He was also booked
 under section 401 of the Indian Penal Code in a 2019 case at Gangaghat. [@2] A
 2023 case under the Arms Act was registered against him at Dahi police station
 in Unnao. [@2]
-
