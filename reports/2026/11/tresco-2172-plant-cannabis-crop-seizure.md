@@ -56,6 +56,9 @@ sources:
     url: https://www.police.vic.gov.au/two-arrested-after-cannabis-crop-uncovered-tresco
     publisher: Victoria Police
     date: 2026-11-25
+  - title: Accused cannabis farmers nabbed as police allegedly uncover $6.7m crop
+    url: https://www.heraldsun.com.au/leader/mildura/two-men-to-face-bendigo-court-after-police-allegedly-uncover-67m-cannabis-crop-in-tresco/news-story/e7fc81db475bba8bb1c1cea852d0ed63
+    publisher: Herald Sun
 open_questions:
   - No detail was published about what was allegedly stolen to support the theft charges.
   - The reports do not say what happened to the 2,172 plants after they were seized and weighed.
@@ -76,12 +79,11 @@ were expected to appear at the Bendigo Magistrates Court on 25 November 2026.
 Swan Hill police found the cannabis crop in a paddock on a rural property at
 Tresco, about 24 kilometres south-east of Swan Hill. [@1] Officers also found
 mature cannabis plants growing inside two sheds and a plastic rainwater tank,
-bringing the total to 2,172 plants. [@2] The seized plants weighed 150 kilograms
+bringing the total to 2,172 plants. [@2,3] The seized plants weighed 150 kilograms
 in total, with an estimated street value of $6.7 million. [@2] Police described
-the crop as more than 2,100 plants worth an estimated $6.7 million. [@1]
+the crop as more than 2,100 plants worth an estimated $6.7 million. [@1,3]
 
 Swan Hill inspector Brad Hiatt presented the bust as a warning that a rural
 location does not put cannabis growers under the radar. [@1] Local police were
 assisted by the Botany Unit and other trained detectives across the division.
 [@2]
-
