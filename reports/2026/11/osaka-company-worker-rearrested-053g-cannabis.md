@@ -56,17 +56,23 @@ sources:
     publisher: 福島民友新聞社
     date: 2026-11-26
     language: ja
+  - title: コンピューターウイルスをアップの22歳男が大麻所持の疑いで逮捕 福島
+    url: https://news.ntv.co.jp/n/fct/category/society/fc8ec883fd85f0445888a542ce98045bc7
+    publisher: 中テレNEWS NNN
+    date: 2026-11-26
+    language: ja
 open_questions:
     - No court outcome in the cannabis case is reported; the case stood at the investigation stage after the re-arrest.
+    - The re-arrest time is reported as 14:34 by FCT and about 14:35 by Fukushima Minyu.
 ---
 
 Shirakawa police re-arrested a 22-year-old male company employee living in Osaka
 City at about 14:35 on 25 November on suspicion of possessing cannabis in
-violation of the Narcotics and Psychotropics Control Act. [@1,3,4] KFB Fukushima
+violation of the Narcotics and Psychotropics Control Act. [@1,3,4,5] KFB Fukushima
 Broadcasting identified the re-arrested man as 22-year-old Osaka company
 employee 植次健登. [@2] He had been arrested on 5 November on suspicion of uploading
 a computer virus to a website and causing a man in his 20s in Shirakawa City to
-download it. [@2,3]
+download it. [@2,3,5]
 
 The re-arrest allegation is that he possessed about 0.53 grams of cannabis at
 his home in Osaka City around 2 December 2025. [@1,4] Officers found the cannabis
@@ -76,4 +82,4 @@ case. [@1,4]
 The virus allegation said he conspired with others to upload an unauthorized
 program to a website and caused a man in his 20s to download it. [@1] He told
 investigators he does not know about the cannabis, denying the allegation, while
-police are investigating how he obtained it and for what purpose. [@2,3,4]
+police are investigating how he obtained it and for what purpose. [@2,3,4,5]
