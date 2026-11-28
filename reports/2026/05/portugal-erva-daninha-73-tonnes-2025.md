@@ -84,12 +84,19 @@ sources:
     publisher: Jornal de Notícias (via PressReader)
     date: 2026-06-13
     language: pt
+  - title: Operação da PJ aconteceu em 2023, MP deduziu acusação a grupo que instalou laboratório de anfetaminas no Tagusvalley
+    url: https://jornaldeabrantes.sapo.pt/regiao/operacao-da-pj-aconteceu-em-2023-mp-deduziu-acusacao-a-grupo-que-instalou-laboratorio-de-anfetaminas-no-tagusvalley
+    publisher: Jornal de Abrantes
+    date: 2026-06-16
+    language: pt
+open_questions:
+    - Reporting from the science park dates the Judicial Police operation there to 2023, about nine months after Polyfarchemi moved in, while the 64-warrant Erva Daninha raids are dated May 2025; the relationship between the two is not explained.
 ---
 
 Portugal's Judicial Police ran Operation Erva Daninha, with about 300 inspectors, against a group
-accused of putting large quantities of cannabis on European and African markets. [@2,6,7,9,10] Alongside the inspectors, the operation involved 48 experts, 24 Judicial Police security staff, six public prosecutors and three judges. [@9] In the May 2025
+accused of putting large quantities of cannabis on European and African markets. [@2,6,7,9,10,11] Alongside the inspectors, the operation involved 48 experts, 24 Judicial Police security staff, six public prosecutors and three judges. [@9,11] In the May 2025
 raids officers executed 64 search warrants across mainland Portugal and Madeira, with further searches in
-Spain, Bulgaria and Cyprus, and detained five people, all reported as Portuguese. [@2] A 48-year-old man
+Spain, Bulgaria and Cyprus, and detained five people, all reported as Portuguese. [@2,11] A 48-year-old man
 described as one of the leaders was detained in the Netherlands and extradited to Portugal, apparently on
 11 September 2025, for a first judicial interrogation. [@3] He was described as a specialist in moving
 cryptoassets on the dark web, in a money-laundering structure with its own cell; other suspects include
@@ -107,18 +114,18 @@ Authorities suspect profits may have funded terrorism through informal money-tra
 
 Investigators seized about 1.78 tonnes of cannabis at premises in Sardoal and more than 3 tonnes of
 biomass and flower in warehouses. [@5] A laboratory dismantled in central Portugal yielded one tonne of
-amphetamines, the largest such seizure in the country. [@1,4,7] Expresso reported that the investigation began in early 2022 with Spain's National Police and that a first phase seized about 1,200 kilograms of amphetamines identified as 3-CMC and 3-MMC. [@9] The park's director said Polyfarchemi had presented itself as intending to produce polymers for the aeronautical and aerospace industry, an area of research that interested the park. [@7] One of the network's companies, Polyfarchemi, was based at the Tagusvalley science and technology park in Abrantes, where a Judicial Police search less than a year after it moved in found an industrial laboratory producing amphetamines and transforming cocaine for export to Spain and the Netherlands. [@7,9] The accusation names Geert Caers, Reinier de Jong, Benny Falk and Michael Sorensen as the people who set up that laboratory, through a company they created in 2022 and installed in the Tagusvalley accelerator. [@9]
+amphetamines, the largest such seizure in the country. [@1,4,7,11] Expresso reported that the investigation began in early 2022 with Spain's National Police and that a first phase seized about 1,200 kilograms of amphetamines identified as 3-CMC and 3-MMC. [@9,11] The park's director said Polyfarchemi had presented itself as intending to produce polymers for the aeronautical and aerospace industry, an area of research that interested the park. [@7] One of the network's companies, Polyfarchemi, was based at the Tagusvalley science and technology park in Abrantes, where a Judicial Police search less than a year after it moved in found an industrial laboratory producing amphetamines and transforming cocaine for export to Spain and the Netherlands. [@7,9,11] Polyfarchemi stopped paying the rent on its pavilion at the park and disappeared. [@11] The accusation names Geert Caers, Reinier de Jong, Benny Falk and Michael Sorensen as the people who set up that laboratory, through a company they created in 2022 and installed in the Tagusvalley accelerator. [@9,11]
 
 ## The accusation
 
 On 22 May prosecutors charged 24 defendants, 13 people and 11 companies, with criminal association for
-trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4,5,6,7,8,9,10] They
+trafficking, aggravated narcotics trafficking, money laundering and document forgery. [@4,5,6,7,8,9,10,11] They
 describe a network with great logistical and financial power, established in Portugal since 2021 [@4] and
 led by Dutch and Danish citizens who settled there in 2020. [@6] It allegedly bought companies with
 medical-cannabis licences and changed their officers repeatedly to hide its leaders, diverted cannabis to
 the European black market, made fraudulent exports to the Democratic Republic of Congo, Kenya and
 Guinea-Bissau, imported amphetamines for European laboratories, and forged licences, customs declarations
-and import certificates. [@4,8] Profits were allegedly shared through sham commission contracts, laundered
+and import certificates. [@4,8,11] Profits were allegedly shared through sham commission contracts, laundered
 through property, tourism and trading companies with Malaysian financiers, and passed through
 cryptoassets before returning to banks. [@4,8]
 
