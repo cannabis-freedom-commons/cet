@@ -43,10 +43,17 @@ sources:
     url: https://nss.gov.am/en/news/all/news-146
     publisher: National Security Service of the Republic of Armenia
     date: 2026-10-12
+  - title: В Армении пресечена попытка контрабандного ввоза порядка 79 кг марихуаны из Ирана
+    url: https://arka.am/news/incidents/v-armenii-presechena-popytka-kontrabandnogo-vvoza-poryadka-79-kg-marikhuany-iz-irana/
+    publisher: ARKA.am
+    date: 2026-10-12
+    language: ru
+    archived: https://web.archive.org/web/20261015215825id_/https://arka.am/news/incidents/v-armenii-presechena-popytka-kontrabandnogo-vvoza-poryadka-79-kg-marikhuany-iz-irana/
 open_questions:
-  - The sources give September 29 as the pickup near Nrnadzor but no separate date for the Meghri interception; September 29 is retained as the incident date.
+    - The sources give September 29 as the pickup near Nrnadzor but no separate date for the Meghri interception; September 29 is retained as the incident date.
+    - The ARKA headline said about 79 kg of marijuana, while its text and the National Security Service statement give 69.3 kg; the report uses 69.3 kg.
 ---
 
-The National Security Service stopped two Armenian citizens and an Iranian citizen with 69.3 kg of marijuana near Meghri, after they picked up the load from a cache near Nrnadzor. The case was opened under the aggravated sale and smuggling articles, and a court ordered the two Armenians held. It was one of the largest cannabis seizures reported in Armenia in 2026, alongside a 14.2 kg truck load and a 6 kg handover in Yerevan. [@1] The service said the marijuana had been smuggled into Armenia from Iran. [@2]
+The National Security Service stopped two Armenian citizens and an Iranian citizen with 69.3 kg of marijuana near Meghri, after they picked up the load from a cache near Nrnadzor. The case was opened under the aggravated sale and smuggling articles, and a court ordered the two Armenians held. It was one of the largest cannabis seizures reported in Armenia in 2026, alongside a 14.2 kg truck load and a 6 kg handover in Yerevan. [@1] The service said the marijuana had been smuggled into Armenia from Iran. [@2,4] The Iranian citizen who indicated the cache had not been identified, the National Security Service said. [@4]
 
-The suspects N.H. and V.T. were detained in the Meghri community after NSS officers intercepted their Mercedes-Benz ML as they headed toward Yerevan. [@2] On September 29 the two men allegedly collected the shipment from a hiding place near Nrnadzor village close to the Armenian-Iranian border. [@2] A total of 69.3 kilograms of marijuana was found and seized from their vehicle during procedural actions. [@2] The Syunik Regional Investigative Department opened proceedings under Criminal Code Articles 393(3)(2), 399(3)(2) and 46-399(3)(2). [@3]
+The suspects N.H. and V.T. were detained in the Meghri community after NSS officers intercepted their Mercedes-Benz ML as they headed toward Yerevan. [@2,4] On September 29 the two men allegedly collected the shipment from a hiding place near Nrnadzor village close to the Armenian-Iranian border. [@2,4] A total of 69.3 kilograms of marijuana was found and seized from their vehicle during procedural actions. [@2,4] The Syunik Regional Investigative Department opened proceedings under Criminal Code Articles 393(3)(2), 399(3)(2) and 46-399(3)(2). [@3,4]
