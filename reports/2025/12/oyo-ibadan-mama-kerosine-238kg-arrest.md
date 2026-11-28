@@ -58,19 +58,24 @@ sources:
     url: https://www.vanguardngr.com/2026/01/ndlea-detains-22-indians-over-ship-laden-with-cocaine/
     publisher: Vanguard News
     date: 2026-01-05
+  - title: NDLEA nabs 65-year-old grandmother, intercepts illicit drugs in coffee sachets
+    url: https://punchng.com/ndlea-nabs-65-year-old-grandmother-intercepts-illicit-drugs-in-coffee-sachets/
+    publisher: Punch Newspapers
+    date: 2026-01-04
 open_questions:
-    - The same Ships & Ports page also describes the MV Aruna Hulya cocaine seizure and separate seizures in Lagos, Jigawa, Kwara and Borno, which are different events left out here.
+    - No charge or court outcome was reported for Fatima Ilori or Olusanya Abosede.
+    - The accounts do not say where or when the 238.4 kg of skunk linked to Ilori was seized.
 ---
 
 Operatives of the National Drug Law Enforcement Agency arrested wanted
 65-year-old Fatima Ilori, popularly known as Mama Kerosine, described as a major
-illicit drug distributor in Ibadan. [@1,5,6] The agency described the 65-year-old
+illicit drug distributor in Ibadan. [@1,5,6,7] The agency described the 65-year-old
 grandmother as a major illicit drug distributor in Ibadan, the Oyo State
 capital. [@2] She was arrested with 35-year-old Olusanya Abosede at the
-Onireke/Elekuro area of Ibadan on 29 December 2025. [@1,3,4,5,6]
+Onireke/Elekuro area of Ibadan on 29 December 2025. [@1,3,4,5,6,7]
 
 The arrest was an intelligence-led operation that followed the seizure of 238.4
-kg of skunk, a strain of cannabis, linked to Ilori. [@1,3,4,5] The arrest was
+kg of skunk, a strain of cannabis, linked to Ilori. [@1,3,4,5,7] The arrest was
 disclosed in a press statement signed by Femi Babafemi, the NDLEA Director of
 Media and Advocacy, made public on Sunday 4 January 2026. [@1,5]
 
