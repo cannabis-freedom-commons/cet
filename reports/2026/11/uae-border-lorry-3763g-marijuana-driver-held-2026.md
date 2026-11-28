@@ -60,6 +60,11 @@ sources:
     publisher: لنا
     date: 2026-11-26
     language: ar
+  - title: أمن المنافذ تحبط محاولة تهريب 24.2 كيلوغرام من المخدرات
+    url: https://sharjah24.ae/ar/Articles/2026/11/25/d74
+    publisher: Sharjah 24
+    date: 2026-11-25
+    language: ar
 open_questions:
     - The precise border crossing was not disclosed, so the place is recorded only as a UAE land border crossing.
     - The ICP announced the seizure on 25 November 2026 but did not say when the inspection itself took place.
@@ -70,19 +75,19 @@ open_questions:
 ---
 
 UAE customs officers arrested a lorry driver at a land border crossing over an
-alleged attempt to smuggle drugs into the country. [@1] Authorities took the
+alleged attempt to smuggle drugs into the country. [@1] The driver was described as Asian. [@5] Authorities took the
 necessary legal measures against the driver and seized 3.76 kg of marijuana and
-20.47 kg of crystal methamphetamine. [@2,4]
+20.47 kg of crystal methamphetamine. [@2,4,5]
 
 Officers found 28 plastic packages hidden in a specially constructed compartment
-inside the trailer chassis. [@1,4] The packages held 3,763.2 grams of marijuana
-alongside 20,474 grams of crystal methamphetamine. [@3,4] The authority put the total weight of the narcotics found in the trailer at about 24.2 kg. [@4] Inspectors became
+inside the trailer chassis. [@1,4,5] The packages held 3,763.2 grams of marijuana
+alongside 20,474 grams of crystal methamphetamine. [@3,4,5] The authority put the total weight of the narcotics found in the trailer at about 24.2 kg. [@4,5] Inspectors became
 suspicious of a professionally built cavity in the trailer and examined the
-frame with advanced scanning equipment to find the drugs. [@3] The concealment
-was intended to evade customs inspection systems and sniffer dogs. [@1,4]
+frame with advanced scanning equipment to find the drugs. [@3,5] The concealment
+was intended to evade customs inspection systems and sniffer dogs. [@1,4,5]
 
 The operation was led by teams from the Federal Authority for Identity,
-Citizenship, Customs and Port Security (ICP). [@1,4] The ICP announced the seizure on 25 November 2026. [@4] The ICP said the operation
+Citizenship, Customs and Port Security (ICP). [@1,4,5] The ICP announced the seizure on 25 November 2026. [@4] The ICP said the operation
 highlighted the efficiency and preparedness of the UAE's inspection and control
-procedures across land, air and sea ports. [@1] The ICP did not reveal the date
+procedures across land, air and sea ports. [@1,5] The ICP did not reveal the date
 or location of the incident. [@1]
