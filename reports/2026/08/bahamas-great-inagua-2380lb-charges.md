@@ -91,6 +91,11 @@ sources:
     url: https://wsvn.com/news/us-world/uscg-seizes-over-2000-pounds-of-marijuana-on-boat-off-the-great-inagua-island-3-arrested/
     publisher: WSVN 7News
     date: 2026-07-28
+  - title: Florida Coast Guard seizes 2,400 pounds of suspected marijuana near Bahamas
+    url: https://fox17.com/news/nation-world/florida-coast-guard-seizes-2400-pounds-of-suspected-marijuana-near-bahamas-bahamas-drug-bust-bahamas-great-inagua-caribbean-drug-trafficking-maritime-drug-trafficking-illegal-drugs-narcotics-seizure-28-million-marijuana-2400-pounds-marijuana
+    publisher: FOX17
+    date: 2026-08-03
+    language: en
 media:
   - kind: photo
     url: https://www.stripes.com/branches/coast_guard/2026-07-28/coast-guard-seizes-marijuana-bahamas-22389248.html
@@ -136,8 +141,8 @@ Dwight Newbold, 55, Corderro McBride, 35, and Kendall Thomas, 46, were arraigned
 
 ## The interception
 
-The Coast Guard said the crew of the cutter Charles Sexton boarded the suspected drug-smuggling vessel on behalf of the defence force. [@1,2,3,4,6,11] The three men aboard were handed to the Royal Bahamas Defence Force for prosecution, and the narcotics were held there. [@2,3,6,7,9,10,11,12] The Coast Guard estimated the marijuana's value at $2.8 million. [@2,3,6,7,10,11,12]
+The Coast Guard said the crew of the cutter Charles Sexton boarded the suspected drug-smuggling vessel on behalf of the defence force. [@1,2,3,4,6,11,13] The three men aboard were handed to the Royal Bahamas Defence Force for prosecution, and the narcotics were held there. [@2,3,6,7,9,10,11,12,13] The Coast Guard estimated the marijuana's value at $2.8 million. [@2,3,6,7,10,11,12,13]
 
-Lt. Peter Fager, commanding officer of the Charles Sexton, said the interception showed the strength of the partnership and the shared commitment to combating transnational organised crime in the region. [@2,3,6,10]
+Lt. Peter Fager, commanding officer of the Charles Sexton, said the interception showed the strength of the partnership and the shared commitment to combating transnational organised crime in the region. [@2,3,6,10,13]
 
 Military Times reports that the effort was carried out in coordination with the Bahamian government and U.S. Coast Guard Homeland Security Cutter-Ocean, an initiative that uses commercially operated vessels to give cutters fuel, supplies and personnel at sea. [@8] Vice Adm. Nate Moore, deputy commandant for operations, said Homeland Security Cutter-Ocean would deliver critical supplies and personnel more efficiently while increasing the endurance and effectiveness of operational forces. [@8]
