@@ -47,22 +47,33 @@ sources:
     publisher: Rádio Itatiaia
     date: 2026-11-23
     language: pt
+  - title: Tiros na BR-458 levam PM a adega em Ipatinga com arsenal, drogas variadas e plantação de maconha
+    url: https://radioeducadoramg.com.br/tiros-na-br-458-levam-pm-a-adega-em-ipatinga-com-arsenal-drogas-variadas-e-plantacao-de-maconha/
+    publisher: Rádio Educadora
+    date: 2026-11-23
+    language: pt
 open_questions:
-  - No weight was published for the maconha tablet, the Camboja Gold pot or the hashish portion, so no cannabis weight in kilograms is recorded.
-  - Cocaine, crack and ecstasy from the same seizure are described only to explain the event and are excluded from cannabis figures.
-  - 22 November 2026 is the night of the reported gunshots that triggered the operation; the article gives no separate hour for the raid itself.
-  - No names were published and no charge, custody decision or court outcome beyond referral to the Civil Police was reported.
-  - No laboratory confirmation was reported for the substances described as maconha, Cannabis sativa or haxixe.
-  - The account rests on a single outlet relaying the Military Police version, with no second independent report opened.
+    - No weight was published for the maconha tablet, the Camboja Gold pot or the hashish portion, so no cannabis weight in kilograms is recorded.
+    - Cocaine, crack and ecstasy from the same seizure are described only to explain the event and are excluded from cannabis figures.
+    - No names were published and no charge, custody decision or court outcome beyond referral to the Civil Police was reported.
+    - No laboratory confirmation was reported for the substances described as maconha or haxixe.
+    - 'The two accounts place the adega in different municipalities: Rádio Itatiaia calls Ilha do Rio Doce an area of Caratinga, while Rádio Educadora places the bairro Ilha do Rio Doce in Ipatinga.'
+    - Both accounts relay the Military Police version of the operation without independent corroboration.
+media:
+  - kind: photo
+    url: https://radioeducadoramg.com.br/tiros-na-br-458-levam-pm-a-adega-em-ipatinga-com-arsenal-drogas-variadas-e-plantacao-de-maconha/
+    media_url: https://radioeducadoramg.com.br/wp-content/uploads/2026/11/Denuncia-de-tiros-na-BR-458-leva-PM-a-adega-no-bairro-Ilha-do-Rio-Doce-em-Ipatinga-com-armas-municoes-drogas-e-mudas-de-maconha.-Casal-foi-preso.jpg
+    publisher: Rádio Educadora
+    caption: 'Weapons, ammunition, drugs and cannabis seedlings seized at the adega in the Ilha do Rio Doce neighbourhood after the BR-458 shooting report. Photo: Rádio Educadora'
 ---
 
 Military Police arrested a 25-year-old man and a 19-year-old woman during an
 operation against drug trafficking and illegal possession of firearms in Ilha do
-Rio Doce, an area of Caratinga near the BR-458 metal bridge. [@1] The operation
+Rio Doce, an area of Caratinga near the BR-458 metal bridge. [@1,2] The operation
 was carried out by a Tático Móvel team from the 14th Battalion in Ipatinga, with
 dogs and Gepamor. [@1] Police said they had received information that a
 motorcyclist had fired shots on the BR-458 and fled toward the metal bridge on
-the night of Sunday 22 November. [@1] Police described the man as the owner of
+the night of Sunday 22 November. [@1] Police registered the operation at about 22h05 on the night of Sunday 22 November. [@2] Police described the man as the owner of
 an adega in Ilha do Rio Doce and a suspected drug trafficker in the region. [@1]
 When police arrived at the identified address, the man ran inside the residence
 and tried to get rid of illicit materials. [@1] After a police cordon and
@@ -70,16 +81,15 @@ tactical entry into the property, officers detained those present and searched
 the premises. [@1]
 
 Officers found two firearms at the site, a 12-gauge shotgun and a .38-calibre
-revolver. [@1] They also seized 58 firearm cartridges of different calibres, 30
-of calibre 32, 20 of calibre 38 and 8 of calibre 12. [@1] The drug seizure
+revolver. [@1,2] They also seized 58 firearm cartridges of different calibres, 30
+of calibre 32, 20 of calibre 38 and 8 of calibre 12. [@1,2] The drug seizure
 included one maconha tablet, one pot of Camboja Gold-type maconha, 13 Cannabis
-sativa seedlings and one portion of hashish. [@1] The same seizure included 21
+sativa seedlings and one portion of hashish. [@1,2] The same seizure included 21
 ecstasy tablets, two portions of cocaine, nine paper wraps and three pinos of
-the same substance, plus one portion and 11 stones of crack. [@1] Officers also
+the same substance, plus one portion and 11 stones of crack. [@1,2] Officers also
 seized two precision scales, packaging material, a 5.5-calibre pressure shotgun,
-a semi-automatic pistol replica, a monitoring camera and R$1,246 in cash. [@1]
+a semi-automatic pistol replica, a monitoring camera and R$1,246 in cash. [@1,2]
 
 The 25-year-old man and the 19-year-old woman were arrested and taken with all
 the seized material to the digital duty office at the 1st Civil Police station.
-[@1]
-
+[@1,2]
