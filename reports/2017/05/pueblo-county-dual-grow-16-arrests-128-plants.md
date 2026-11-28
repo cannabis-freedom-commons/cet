@@ -83,6 +83,11 @@ sources:
     publisher: Martí Noticias
     date: 2017-05-11
     language: es
+  - title: Arrestan a cubanos de Florida por cultivo ilegal de marihuana en Colorado
+    url: https://www.martinoticias.com/a/eeuu-cubanos-marihuana-detenidos-colorado/144631.html
+    publisher: Martí Noticias
+    date: 2017-05-10
+    language: es
 open_questions:
     - The Spanish accounts give 113 kilograms while the English AP account gives 250 pounds (about 113.4 kg); the report uses the stated 113 kilograms.
     - Martí Noticias puts the potential street value above half a million dollars, while the English accounts say about $500,000; the report keeps about half a million dollars as the authorities' estimate.
@@ -94,22 +99,22 @@ open_questions:
 
 Pueblo County sheriff's deputies arrested 16 people in raids on two illegal
 marijuana-growing operations on opposite sides of the county on 8 and 9 May
-2017. [@1,3,4] The sheriff's office said the two operations were discovered on a
+2017. [@1,3,4,5] The sheriff's office said the two operations were discovered on a
 Monday on opposite sides of the county. [@2] Those held were accused of
 cultivating and possessing marijuana, and most of them were Cubans. [@1,4] Many of
 the group had moved from Florida to Colorado, where growing marijuana was legal
 for medical use and personal recreation. [@1,4]
 
 The two raids yielded 128 marijuana plants and 113 kilograms of dried marijuana
-ready for shipment. [@1,3,4] The sheriff's office put the potential street-sale
+ready for shipment. [@1,3,4,5] The sheriff's office put the potential street-sale
 value of the haul at about half a million dollars. [@2,3] At a house in Avondale,
 near Pueblo, officers found about 70 plants in a large garage and detained three
 of the accused there. [@1]
 
 Those detained had been growing and processing the drug to send it illegally to
 other states through a wide trafficking network. [@1] They told officers they
-were working as unpaid volunteers. [@1,4] The sheriff's office said residents had
+were working as unpaid volunteers. [@1,4,5] The sheriff's office said residents had
 tipped it off to both operations. [@2] The sheriff's office said further arrests
-were expected as investigations into both grows continued. [@1,4]
+were expected as investigations into both grows continued. [@1,4,5] Sheriff Kirk Taylor said his office had made a dent in the number of illegal grows in Pueblo County but did not think such activity would go away, and he asked the state legislature and government to give security forces additional tools to eradicate the black market. [@5]
 
 Detectives found 57 plants in various stages of growth and the drying marijuana at the North Bear Gulch Lane home in Pueblo West, where 14 people were arrested and where workers were harvesting with commercial-grade trimming equipment. [@3] The tenant of the Pueblo West home, aged 33, told detectives the grow was his and his wife's and that he was growing for medicinal purposes but could not provide the required paperwork. [@3] The Pueblo County sheriff identified the owner of the Pueblo West house as Ely Smith, 33, who said he was growing marijuana for himself and his wife for medicinal purposes. [@4] The Pueblo West workers told detectives they had volunteered to help and were not being paid, and the sheriff's office said the tenant did not know all of them but described them as family and friends who had moved from Florida with ties to Cuba, Argentina and the Dominican Republic. [@3] At the home on U.S. 50 East in Avondale, detectives found more than 70 plants in a detached four-car garage and seized 71 plants; a 48-year-old woman and a man aged 32 were arrested on suspicion of cultivation of marijuana. [@3] Deputies arrested Diosniel Hernández, a 32-year-old Cuban, and Suyapa Isabel Castillo-Meraz, 48, at the Avondale house, where three people were present and two were detained. [@4] The Avondale residents said they had recently moved from Louisiana and had lived at the home for only a month, and the sheriff's office said the arrested man has ties to Cuba while the women have ties to Honduras. [@3] The sheriff's office said two people who were not at the Avondale home claimed responsibility for that grow, no proper documentation for a legal medical grow was provided, and additional arrests may follow in both cases. [@3]
