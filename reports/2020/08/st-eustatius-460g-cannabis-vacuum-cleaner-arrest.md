@@ -51,6 +51,10 @@ sources:
     url: https://www.thedailyherald.sx/islands/update-two-home-searches-in-connection-with-drug-arrest
     publisher: The Daily Herald
     date: 2020-08-10
+  - title: House search carried out in connection with drug arrest
+    url: https://www.thedailyherald.sx/islands/house-search-carried-out-in-connection-with-drug-arrest
+    publisher: The Daily Herald
+    date: 2020-08-07
 open_questions:
   - No count of the marijuana plants confiscated at the De Windtweg house was published.
   - The 190 grams of cocaine found in the same vacuum cleaner is excluded from the cannabis figures.
@@ -62,18 +66,17 @@ open_questions:
 ---
 
 A woman identified as G.C.M.M., 30, was arrested at the port of St. Eustatius on
-Wednesday 5 August 2020 for violation of the Opium Act. [@1] She was suspected
+Wednesday 5 August 2020 for violation of the Opium Act. [@1,2] She was suspected
 of smuggling marijuana and cocaine from St. Maarten hidden in a vacuum cleaner.
-[@1] Customs found 460 grams of cannabis and 190 grams of cocaine, and arrested
-her. [@1] The suspect and the drugs were handed to the Caribbean Netherlands
-Police Force KPCN, which investigated with Customs. [@1]
+[@1,2] Customs found 460 grams of cannabis and 190 grams of cocaine, and arrested
+her. [@1,2] A Customs officer on duty found the drugs during a routine check prompted by the contents of the package and the woman’s behaviour. [@2] The suspect and the drugs were handed to the Caribbean Netherlands
+Police Force KPCN, which investigated with Customs. [@1,2]
 
 On the morning of Friday 7 August, KPCN, Customs and the Royal Netherlands
 Marechaussee searched the house of D.H. on De Windtweg as part of the follow-up
-investigation. [@1] Marijuana plants were confiscated in the house, along with a
-syringe holding an unknown substance that was to be tested at a laboratory. [@1]
-A man who came out of the premises was searched and later allowed to leave. [@1]
+investigation. [@1,2] Marijuana plants were confiscated in the house, along with a
+syringe holding an unknown substance that was to be tested at a laboratory. [@1,2]
+A man who came out of the premises was searched and later allowed to leave. [@1,2]
 A second search was carried out around 8:00pm that Friday at a house under
 construction on Passion Fruit Road. [@1] The Chief of Police said the
-investigation was still ongoing. [@1]
-
+investigation was still ongoing. [@1] The Prosecutor’s Office may decide to arrest more suspects. [@2]
