@@ -44,19 +44,43 @@ sources:
     url: https://www.ghanacrimes.com/drug-offences/tema-police-seize-1522-parcels-of-suspected-cannabis-from-van-two-arrested
     publisher: GhanaCrimes
     date: 2026-11-25
+  - title: Tema police intercept van with 1,522 parcels of suspected cannabis; two arrested - Adomonline.com
+    url: https://www.adomonline.com/tema-police-intercept-van-with-1522-parcels-of-suspected-cannabis-two-arrested/
+    publisher: Adomonline.com
+    date: 2026-11-25
 open_questions:
-  - No weight, street value or laboratory confirmation for the 1,522 parcels was published.
-  - No charges or court date were reported; police said further details would follow.
-  - One account gives the tip at about 7:10am on Sunday, 22 November 2026; the other gives only the weekday.
-  - A September seizure at Dawhenya and two early-November seizures at Ada are separate incidents not covered here.
+    - No weight, street value or laboratory confirmation for the 1,522 parcels was published.
+    - No charges or court date were reported; police said further details would follow.
+    - A September seizure at Dawhenya and two early-November seizures at Ada are separate incidents not covered here.
+media:
+  - kind: photo
+    url: https://www.adomonline.com/tema-police-intercept-van-with-1522-parcels-of-suspected-cannabis-two-arrested/
+    media_url: https://www.adomonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-25-at-11.21.24.jpeg
+    publisher: Adomonline.com
+    caption: One of the photographs published with the Tema regional police account of the 1,522 taped parcels of suspected cannabis seized from the van at Doryumu.
+  - kind: photo
+    url: https://www.adomonline.com/tema-police-intercept-van-with-1522-parcels-of-suspected-cannabis-two-arrested/
+    media_url: https://www.adomonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-25-at-11.21.23-2.jpeg
+    publisher: Adomonline.com
+    caption: A photograph placed beside the account of the search that found the 1,522 taped parcels in the intercepted Ford Transit.
+  - kind: photo
+    url: https://www.adomonline.com/tema-police-intercept-van-with-1522-parcels-of-suspected-cannabis-two-arrested/
+    media_url: https://www.adomonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-25-at-11.21.24-2.jpeg
+    publisher: Adomonline.com
+    caption: A photograph placed beside the account of the search that found the 1,522 taped parcels in the intercepted Ford Transit.
+  - kind: photo
+    url: https://www.adomonline.com/tema-police-intercept-van-with-1522-parcels-of-suspected-cannabis-two-arrested/
+    media_url: https://www.adomonline.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-25-at-11.21.23.jpeg
+    publisher: Adomonline.com
+    caption: A photograph published after the line that photographs of the 1,522 pieces were taken for evidential purposes.
 ---
 
 An anonymous caller alerted the Tema Regional Police Intelligence Directorate at
-about 7:10am on Sunday 22 November 2026. [@2] The caller said a white Ford
+about 7:10am on Sunday 22 November 2026. [@2,3] The caller said a white Ford
 Transit had been loaded with suspected cannabis at Dzemeni in the Volta Region
-and was heading towards Tema. [@2] A team led by Tema Regional PID director ASP
+and was heading towards Tema. [@2] The van's registration number was GC 8834-12. [@3] A team led by Tema Regional PID director ASP
 Job Ahenkorah arrested the two men in charge of the van, aged 32 and 27, at
-Eastern Quarry near Doryumu. [@2]
+Eastern Quarry near Doryumu. [@2] Police named the two men in charge of the van as Charles Fiakpui, 32, and Edem Agbiti, 27. [@3]
 
 The van was taken to the regional police headquarters in Tema. [@1] A search
 there, with both suspects and Regional CID investigators present, found 1,522
@@ -64,7 +88,6 @@ taped parcels of what police suspect is cannabis. [@1] Police say the two men
 claimed ownership of the consignment. [@1] Photographs of the parcels were taken
 for evidential purposes. [@1]
 
-Both men and the parcels are now with the Regional CID in Tema. [@1] They are
+Both men and the parcels are now with the Regional CID in Tema. [@1] The two men and the parcels were handed to D/C/Inspr. Edem Adotse, station officer of the Regional CID in Tema, in the presence of D/C/Inspr. Frank Bafour Kyei, who is in charge of the investigation. [@3] They are
 suspected of possessing narcotics without lawful authority. [@1] Neither man has
 been charged and police said they would give more details later. [@1]
-
