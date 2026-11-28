@@ -55,6 +55,16 @@ media:
     media_url: https://www.youtube.com/watch?v=HqWv70gA3Ys
     publisher: TN8
     caption: TN8 video report on the two anti-narcotics operations in Estelí and the 24 pounds of marijuana seized.
+  - kind: photo
+    url: https://radioabcstereo.com/nota/dos-detenidos-con-marihuana-en-esteli
+    media_url: https://radioabcstereo.com/storage/news/07-2026/nR6Qr6TrOb6UzmoDjdW8rwdoM4x0K1Pq1tXn1EuT.jpg
+    publisher: Radio ABC Estéreo
+    caption: Photo published with the Radio ABC Estéreo report on the two Estelí anti-narcotics operations and the 24 pounds of marijuana seized.
+  - kind: photo
+    url: https://radioabcstereo.com/nota/dos-detenidos-con-marihuana-en-esteli
+    media_url: https://radioabcstereo.com/storage/news/images/4kz3IaMiaIB5i3TzGD2x4Mj8JdsK8XsTXKO1frLj.jpg
+    publisher: Radio ABC Estéreo
+    caption: Second photo published with the same report, captioned as showing the two detainees and the 24 pounds of marijuana seized in the Estelí operations.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: 2c88381166af58c29011d07b25a1adf2
@@ -70,6 +80,11 @@ sources:
     publisher: Diario Barricada
     date: 2026-07-28
     language: es
+  - title: Dos detenidos y 24 libras de marihuana incautadas en operativos policiales en Estelí
+    url: https://radioabcstereo.com/nota/dos-detenidos-con-marihuana-en-esteli
+    publisher: Radio ABC Estéreo
+    date: 2026-07-29
+    language: es
 open_questions:
   - No charge, plea or court outcome was reported after the two men were handed to the authorities.
   - No value or price estimate was published for the 24 pounds of marijuana.
@@ -80,21 +95,20 @@ open_questions:
 
 Nicaraguan National Police arrested two men in two operations in the
 municipality of Estelí on 23 July 2026, seizing 24 pounds (about 10.9 kg) of
-marijuana. [@1] The results were announced by Karen Obando, co-head of public
-relations for the National Police. [@1]
+marijuana. [@1,3] The results were announced by Karen Obando, co-head of public
+relations for the National Police. [@1,3] The results were announced at a press conference at the Faustino Ruiz police complex in Managua. [@3]
 
 In the first operation, at 10:00 am on 23 July, officers profiled and arrested
 Óscar Danilo Miranda Castillo, aged 20, in the parking area of the Cotrán Sur
-bus terminal. [@1] They found a cardboard box holding two rectangular packages
-of marijuana that weighed 16 pounds. [@1] Officers also seized a motorcycle, a
-mobile phone and cash. [@1]
+bus terminal. [@1,3] They found a cardboard box holding two rectangular packages
+of marijuana that weighed 16 pounds. [@1,3] Officers also seized a motorcycle, a
+mobile phone and cash. [@1] The motorcycle seized at the bus terminal carried Managua licence plates. [@3]
 
 Hours later, at 1:50 pm, police raided a home in the Justo Flores neighbourhood
-and arrested Winston Yosmarck Loaiza Mendoza, aged 32. [@1] In the house they
+and arrested Winston Yosmarck Loaiza Mendoza, aged 32. [@1,3] In the house they
 found a bag with eight transparent packages of marijuana weighing eight pounds.
-[@1] They seized two digital scales, a pickup truck and cash. [@1]
+[@1,3] They seized two digital scales, a pickup truck and cash. [@1]
 
 Both detainees were handed to the competent authorities together with the seized
-evidence for the judicial process. [@2] Police said they would keep carrying out
+evidence for the judicial process. [@2,3] Police said they would keep carrying out
 operations against drug trafficking in different parts of the country. [@1]
-
