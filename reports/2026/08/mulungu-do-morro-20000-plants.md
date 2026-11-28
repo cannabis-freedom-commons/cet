@@ -62,12 +62,17 @@ sources:
     publisher: Bahia Notícias
     date: 2026-08-06
     language: pt
+  - title: Mais de 20 mil pés de maconha são destruídos na cidade de Mulungu do Morro
+    url: https://www.instagram.com/reel/DbsrtUUAWVP/
+    publisher: BandNews FM Salvador
+    date: 2026-08-06
+    language: pt
 ---
 
 ## Operation Erva Daninha
 
-Bahia Civil Police destroyed about 20,000 cannabis plants in Mulungu do Morro on 5 August 2026 during Operation Erva Daninha. [@1,2] The state Public Security Secretariat said the operation caused an estimated loss of R$4 million to the group it believed was responsible for cultivation. [@1] Bahia Notícias also reported the estimate and attributed it to Civil Police. [@2] The outlet places the municipality in Bahia's central-north region, near Irecê. [@2]
+Bahia Civil Police destroyed about 20,000 cannabis plants in Mulungu do Morro on 5 August 2026 during Operation Erva Daninha. [@1,2,3] The state Public Security Secretariat said the operation caused an estimated loss of R$4 million to the group it believed was responsible for cultivation. [@1,3] Bahia Notícias also reported the estimate and attributed it to Civil Police. [@2] The outlet places the municipality in Bahia's central-north region, near Irecê. [@2]
 
 ## Equipment and investigation
 
-Officers found equipment used to dry, separate and package cannabis, and destroyed the crop, equipment and supplies at the site. [@1,2] The operation involved the 5th Narcotics and Toxics Division in Irecê and the Chapada Technical and Tactical Investigation Support Group. [@1,2] Police opened an inquiry to identify those involved and investigate the circumstances of the cultivation. [@1,2] Neither the state release nor Bahia Notícias names a suspect or reports an arrest. [@1,2]
+Officers found equipment used to dry, separate and package cannabis, and destroyed the crop, equipment and supplies at the site. [@1,2,3] The operation involved the 5th Narcotics and Toxics Division in Irecê and the Chapada Technical and Tactical Investigation Support Group. [@1,2] Police opened an inquiry to identify those involved and investigate the circumstances of the cultivation. [@1,2,3] Neither the state release nor Bahia Notícias names a suspect or reports an arrest. [@1,2]
