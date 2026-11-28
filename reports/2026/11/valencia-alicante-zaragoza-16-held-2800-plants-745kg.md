@@ -75,6 +75,11 @@ sources:
     url: https://diariodealicante.net/en/trafico-marihuana-red-16-detenidos/
     publisher: Diario de Alicante
     date: 2026-11-26
+  - title: Detenidas en la C.Valenciana y Zaragoza 16 personas dedicadas al tráfico de drogas y la trata de seres humanos
+    url: https://www.msn.com/es-es/noticias/otras/detenidas-en-la-cvalenciana-y-zaragoza-16-personas-dedicadas-al-tr%C3%A1fico-de-drogas-y-la-trata-de-seres-humanos/ar-AA2ihhe4
+    publisher: MSN (La Razón)
+    date: 2026-11-26
+    language: es
 media:
   - kind: video
     url: https://www.abc.es/espana/comunidad-valenciana/esclavos-marihuana-vivian-encerrados-chales-tiendas-campana-20261126104135-nt.html
@@ -86,10 +91,10 @@ media:
 National Police arrested 16 people in Valencia, Alicante and Zaragoza as alleged
 members of an organisation principally dedicated to cultivating and
 internationally trafficking marijuana, while also trafficking human beings to
-guard and maintain the plantations. [@1,3,4,5,6] The detainees were 13 men and three
-women aged between 27 and 53. [@2,4,5,6,7] Two of the suspects have been remanded in
+guard and maintain the plantations. [@1,3,4,5,6,8] The detainees were 13 men and three
+women aged between 27 and 53. [@2,4,5,6,7,8] Two of the suspects have been remanded in
 custody. [@2,3,4,5,6,7] Eleven of those arrested were placed at the disposal of the judicial authorities. [@3,6] All face allegations of drug trafficking, membership of a criminal
-organisation, electricity fraud and human trafficking. [@1,4,5,6] Investigators said
+organisation, electricity fraud and human trafficking. [@1,4,5,6,8] Investigators said
 some of the victims lived in cramped, squalid conditions and were not allowed to
 leave the properties where they were forced to care for the crops. [@2] The
 network allegedly brought in Albanian citizens with very limited resources and
@@ -97,10 +102,10 @@ forced them to live in inhuman conditions, never leaving the site, receiving
 food only during occasional visits. [@1,3,5]
 
 In total, police carried out 10 searches and dismantled six cannabis
-plantations, together with the equipment used to steal power from the grid. [@2,3,4,5,7] The ten searches were carried out in early November in Valencia, Alicante and Zaragoza, and dismantled six indoor plantations and one outdoor plot. [@6]
+plantations, together with the equipment used to steal power from the grid. [@2,3,4,5,7,8] The ten searches were carried out in early November in Valencia, Alicante and Zaragoza, and dismantled six indoor plantations and one outdoor plot. [@6]
 Officers seized more than 2,800 plants, with a combined weight of 745 kilos.
-[@1,3,4,5,6,7] The first lead in Puzol yielded about 1,400 plants and two residents
-detained. [@1,3,5,6,7] A plantation on an isolated rural site in Alicante province held
+[@1,3,4,5,6,7,8] The first lead in Puzol yielded about 1,400 plants and two residents
+detained. [@1,3,5,6,7,8] A plantation on an isolated rural site in Alicante province held
 more than 700 plants. [@2,5,7] The outdoor plot was in Alicante's El Comtat district, where two caretakers lived in a tent with basic survival supplies. [@3,6] The pair first arrested, a couple, survived crowded
 into a minimal space without going outside, tending the crop. [@1,3] The woman had
 arrived in Spain only days earlier through Barcelona airport, where a man
@@ -108,7 +113,7 @@ resident in Zaragoza collected and moved her. [@1,3,5,6]
 
 The investigation, led by the Sagunt local station with support from the
 Zaragoza judicial police brigade and GRECO Levante, began in March after a
-marijuana greenhouse was detected in a chalet in a Puzol housing estate. [@1,3,7] The operation drew a large police deployment including judicial police from Sagunto, Xirivella and Zaragoza, GRECO Levante, operational units and the police air unit. [@3]
+marijuana greenhouse was detected in a chalet in a Puzol housing estate. [@1,3,7,8] The operation drew a large police deployment including judicial police from Sagunto, Xirivella and Zaragoza, GRECO Levante, operational units and the police air unit. [@3]
 The network was described as an Albanian-Spanish criminal organisation. [@1,3,6] Its
 leaders located detached chalets, renting them for cash with false documents.
 [@1,3,5] They then installed growing infrastructure and made illegal connections to
