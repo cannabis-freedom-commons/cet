@@ -104,6 +104,11 @@ sources:
     publisher: Reporteri.net
     date: 2026-11-26
     language: sr
+  - title: In Griechenland wurden über 66 Kilogramm Marihuana beschlagnahmt, drei Albaner festgenommen
+    url: https://reporteri.net/de/Botschaft/Albanien/In-Griechenland-wurden-%C3%BCber-66-Kilogramm-Marihuana-beschlagnahmt--drei-Albaner-festgenommen/
+    publisher: Reporteri.net
+    date: 2026-11-26
+    language: de
 open_questions:
     - No place more precise than an area of the Thesprotia regional unit is given for either stop.
     - No value estimate for the 66.742 kg of cannabis was published.
@@ -112,17 +117,17 @@ open_questions:
 ---
 
 Three foreign nationals were arrested over the cannabis load in the Thesprotia
-regional unit on 25 November 2026. [@1,5,7,8] The three arrested were young Albanians from an area of Saranda. [@6,9] The cannabis was being taken from Albania to Igoumenitsa. [@9] One man drove the car carrying the drugs
+regional unit on 25 November 2026. [@1,5,7,8,10] The three arrested were young Albanians from an area of Saranda. [@6,9] The cannabis was being taken from Albania to Igoumenitsa. [@9,10] One man drove the car carrying the drugs
 while the other two went ahead as lookouts, telling him about possible police
-checks on the route. [@1,5,6,7,8,9] The operation was run at midday by the Igoumenitsa
+checks on the route. [@1,5,6,7,8,9,10] The operation was run at midday by the Igoumenitsa
 drug enforcement and investigation sub-directorate together with the Second
 Border Guard Department of Filiates. [@2,5,6,7,8]
 
 Inside the first car officers found 60 packages of raw cannabis weighing 66 kg
-and 742 g. [@3,5,6,7,8,9] Police seized the two cars used in the operation. [@1,5,7,8,9] Officers
-also seized 1,130 euros in cash and four mobile phones. [@1,5,6,7,8,9] The police dogs
+and 742 g. [@3,5,6,7,8,9,10] Police seized the two cars used in the operation. [@1,5,7,8,9,10] Officers
+also seized 1,130 euros in cash and four mobile phones. [@1,5,6,7,8,9,10] The police dogs
 Ikarus and Jerry took part in the searches. [@1,5,6,7,8]
 
 A felony case file was opened against the three and they were taken to the
-Thesprotia first-instance prosecutor's office. [@1,5,6,7,8,9] The force said the operation
+Thesprotia first-instance prosecutor's office. [@1,5,6,7,8,9,10] The force said the operation
 prevented the load from being moved on. [@4]
