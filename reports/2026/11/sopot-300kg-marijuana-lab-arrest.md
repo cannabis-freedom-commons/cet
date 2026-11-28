@@ -49,25 +49,40 @@ sources:
     publisher: Novosti
     date: 2026-11-26
     language: sr
+  - title: Zaplenjeno 300 kila marihuane kod Sopota
+    url: https://www.espreso.co.rs/vesti/hronika/1631981/zaplenjeno-300-kila-marihuane-kod-sopota
+    publisher: Espreso
+    date: 2026-11-26
+    language: sr
+  - title: 'FOTO: Laboratorija marihuane kod Sopota, zaplenjeno oko 300 kilograma marihuane'
+    url: https://www.021.rs/info/srbija/462658/foto-laboratorija-marihuane-kod-sopota-zaplenjeno-oko-300-kilograma-marihuane
+    publisher: 021.rs
+    date: 2026-11-26
+    language: sr
 open_questions:
-  - 'The plant count and weight are approximate: police reported ''about 500'' plants weighing ''close to 300 kilograms''.'
-  - No court outcome was reported; the suspect was detained for up to 48 hours and a criminal complaint was to follow.
-  - The precise location of the house near Sopot was not given.
-  - The account rests on a single news report rather than a police statement or a second outlet.
+    - 'The plant count and weight are approximate: police reported "about 500" plants weighing "close to 300 kilograms".'
+    - No court outcome was reported; the suspect was detained for up to 48 hours and a criminal complaint was to follow.
+    - The precise location of the house near Sopot was not given.
+    - No estimate of the value of the seized marijuana was published.
+media:
+  - kind: photo
+    url: https://www.espreso.co.rs/vesti/hronika/1631981/zaplenjeno-300-kila-marihuane-kod-sopota
+    media_url: https://www.espreso.co.rs/data/images/2026/11/26/16/1627198_05_ls.jpg
+    publisher: Espreso
+    caption: 'Photo from the marijuana laboratory and seizure near Sopot, credited to the Interior Ministry. Photo: MUP'
 ---
 
 Police in Serbia arrested a 34-year-old man, identified only as K.M., near Sopot
-on suspicion of unauthorised production and trafficking of narcotic drugs. [@1]
+on suspicion of unauthorised production and trafficking of narcotic drugs. [@1,2]
 The arrest was ordered by the Higher Public Prosecutor's Office in Belgrade.
 [@1] Officers found the suspect in a house containing an illegal laboratory.
 [@1] He was ordered held for up to 48 hours and was to be taken to the competent
-prosecutor's office with a criminal complaint. [@1]
+prosecutor's office with a criminal complaint. [@1,2]
 
 Officers from the criminal police's Service for Combating Drugs and the
 Department for Special Actions discovered the laboratory near Sopot on 26
-November 2026. [@1] In three separate rooms they found about 500 plants
-suspected of being marijuana, weighing close to 300 kilograms in total. [@1]
+November 2026. [@1,2] The interior ministry announced the laboratory's discovery and the arrest in a statement. [@3] In three separate rooms they found about 500 plants
+suspected of being marijuana, weighing close to 300 kilograms in total. [@1,2]
 Police also seized equipment for growing the drug under artificial conditions.
 [@1] Officers described the haul as close to 300 kilograms of the drug in raw
 form. [@1]
-
