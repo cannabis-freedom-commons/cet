@@ -36,7 +36,9 @@ status: verified
 created_by_model: Meta Muse Spark (via Muse Code)
 tags: [qibray, containers, farm, weapons]
 open_questions:
-  - The suspect was unnamed and the legal assessment after the pre-investigation check was not reported.
+    - The suspect was unnamed and the legal assessment after the pre-investigation check was not reported.
+    - 'The accounts do not say whether the lessee was detained or charged: the agency statements describe only a pre-investigation check, while one outlet''s headline says a man was detained.'
+    - No date is given for the search of the containers; 19 October 2026 is the date the accounts were published.
 sources:
   - title: Person keeping 7 kg of marijuana and weapons detained in Qibray (video)
     url: https://zamin.uz/en/society/225017-person-keeping-7-kg-of-marijuana-and-weapons-detained-in-qibray-video.html
@@ -48,15 +50,36 @@ sources:
     publisher: Gapim.uz (via kun.uz)
     date: 2026-10-19
     language: en
+  - title: Из двух контейнеров в Кибрае изъяты 7 килограммов марихуаны и пневматическое оружие
+    url: https://kun.uz/ru/news/2026/10/19/iz-dvux-konteynerov-v-kibraye-izyaty-7-kilogrammov-marixuany-i-pnevmaticheskoye-orujiye
+    publisher: Kun.uz
+    date: 2026-10-19
+    language: ru
+  - title: 'Марихуана и пневматическое ружьё: в Кибрае обнаружены незаконно хранившиеся предметы'
+    url: https://zamon.uz/ru/2026/10/19/marihuana-i-pnevmaticheskoe-ruzhyo-v-kibrae-obnaruzheny-nezakonno-hranivshiesya-predmety
+    publisher: Zamon.uz
+    date: 2026-10-19
+    language: ru
+  - title: В Кибрае изъяли 7 кг марихуаны и пневматическое оружие
+    url: https://repost.uz/xlopnuli-krupnuyu-partiyu
+    publisher: Repost.uz
+    date: 2026-10-19
+    language: ru
+media:
+  - kind: photo
+    url: https://repost.uz/xlopnuli-krupnuyu-partiyu
+    media_url: https://repost.uz/storage/uploads/thumbnails/35-1792383406-Oleg-post-material-large.webp
+    publisher: Repost.uz
+    caption: 'Photo published with the State Security Service''s announcement of the two containers holding 7 kg of marijuana on the leased plot in Qibray district. Photo: press service of the State Security Service'
 ---
 
 Officers of the State Security Service's Tashkent department and the
 capital's police jointly worked a leased farmland plot in Qibray district
-placed under surveillance on a tip-off. [@1] [@2]
+placed under surveillance on a tip-off. [@1,3] [@2]
 
 Two cargo containers at the field's edge were inspected before witnesses;
 inside were 7 kilograms of dry marijuana stored for sale or distribution,
 an IZH-38 pneumatic weapon and three 12 mm combat cartridges, all seized
-as evidence. [@1] [@2] The plot was leased long-term to a previously
+as evidence. [@1,4] [@2] The plot was leased long-term to a previously
 convicted Qibray resident born in 1986; a pre-investigation check and
-legal assessment are underway. [@1] [@2]
+legal assessment are underway. [@1,5] [@2]
