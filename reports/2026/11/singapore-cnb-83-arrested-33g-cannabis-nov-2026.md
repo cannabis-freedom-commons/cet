@@ -46,6 +46,11 @@ media:
     media_url: https://cassette.sphdigital.com.sg/image/straitstimes/3fef4d6587dd748f9b63c96f20520179eae04347125a1f16438fcdee8b7026d8
     publisher: The Straits Times
     caption: 'Children found in a home in Ang Mo Kio Avenue 3, with drug utensils left in the open. Photo: Central Narcotics Bureau'
+  - kind: photo
+    url: https://www.zaobao.com.sg/news/singapore/story20261123-10044550
+    media_url: https://cassette.sphdigital.com.sg/image/zaobao/cad9e526f06859b5c80677e5d43a06af77cc5906171fd15d8f5871eed255a86a?f=webp&o=zbimg&oloc=se
+    publisher: Lianhe Zaobao
+    caption: 'Drugs seized in the 16 to 20 November 2026 island-wide operation, in a photo supplied by the Central Narcotics Bureau. Photo: Central Narcotics Bureau'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: a33b232ee3f8cf923a4601d6bfd5ab72
@@ -73,33 +78,38 @@ sources:
     url: https://www.asiaone.com/singapore/cnb-anti-drug-raid-children-found-ang-mo-kio
     publisher: AsiaOne
     date: 2026-11-23
+  - title: 肃毒行动揭两住宅单位有孩童 最小仅5个月大 吸毒用具摆显眼处
+    url: https://www.zaobao.com.sg/news/singapore/story20261123-10044550
+    publisher: Lianhe Zaobao
+    date: 2026-11-23
+    language: zh
 open_questions:
     - No charges against any of the 83 people arrested had been reported; the bureau said investigations were ongoing.
     - Accounts describe the operation as both four days and five days over the same 16 to 20 November span.
 ---
 
 Singapore's Central Narcotics Bureau arrested 83 suspected drug offenders in
-island-wide raids from November 16 to 20, 2026. [@1,3,4,5] The operation covered Ang
-Mo Kio, Bedok, Bukit Merah, Hougang, Woodlands and Yishun. [@2,4,5] Investigations
+island-wide raids from November 16 to 20, 2026. [@1,3,4,5,6] The operation covered Ang
+Mo Kio, Bedok, Bukit Merah, Hougang, Woodlands and Yishun. [@2,4,5,6] Investigations
 into the drug activities of all arrested suspects are ongoing. [@2,4,5]
 
 Officers seized about 30 grams of heroin, 126 grams of Ice, 33 grams of
-cannabis, 15 grams of ketamine and 11 Ecstasy tablets. [@1,3,4,5] The bureau estimated
-the seized drugs were worth more than $21,500. [@1,4,5] In a separate raid on
+cannabis, 15 grams of ketamine and 11 Ecstasy tablets. [@1,3,4,5,6] The bureau estimated
+the seized drugs were worth more than $21,500. [@1,4,5,6] In a separate raid on
 November 17, officers forced their way into a home near Jalan Bukit Merah and
 arrested a 46-year-old man and his 39-year-old fiancee after they refused to
-open the door. [@1] Officers used necessary force to restrain the man after he
-put up a violent struggle on entry. [@1] A search found two packets containing
+open the door. [@1,6] Officers used necessary force to restrain the man after he
+put up a violent struggle on entry. [@1,6] A search found two packets containing
 Ice and cannabis respectively, while a third packet with a small amount of
-heroin had been thrown out of the kitchen window before the arrests. [@1] Three
+heroin had been thrown out of the kitchen window before the arrests. [@1,6] Three
 others, two men aged 40 and 64 and a 70-year-old woman, were arrested in the
-same estate after meeting the 46-year-old man earlier as suspected clients. [@1,5] Drugs were found on two of the three people, all Singaporeans aged between 40 and 70. [@5]
+same estate after meeting the 46-year-old man earlier as suspected clients. [@1,5,6] Drugs were found on two of the three people, all Singaporeans aged between 40 and 70. [@5]
 
 On the morning of November 17, officers arrested a 43-year-old woman and a
-38-year-old man in a residential unit in Ang Mo Kio Avenue 3. [@1,3,5] The woman's
+38-year-old man in a residential unit in Ang Mo Kio Avenue 3. [@1,3,5,6] The woman's
 14-year-old daughter and the man's 11-month-old baby were found there with drug
 paraphernalia left in an exposed area, and the children were placed in the care
-of next of kin. [@1,4,5] On November 19, officers arrested a 44-year-old man and a
+of next of kin. [@1,4,5,6] On November 19, officers arrested a 44-year-old man and a
 26-year-old woman at a home in Corporation Drive in Lakeside, seizing about 27
 grams of Ice and drug paraphernalia. [@1,5] The couple's five-month-old daughter
 was found there and arrangements were made to ensure the child's welfare. [@1,4,5]
