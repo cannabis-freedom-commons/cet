@@ -107,6 +107,11 @@ sources:
     publisher: Novinky
     date: 2026-11-26
     language: cs
+  - title: 'Droggal megpakolt bőröndökkel érkezett Thaiföldről Ferihegyre két férfi: azonnal elkapták őket a pénzügyőrök – videó a nagy fogásról'
+    url: https://budapestkornyeke.hu/droggal-megpakolt-borondokkel-erkezett-thaifoldrol-ferihegyre-ket-ferfi-azonnal-elkaptak-oket-a-penzugyorok-video-a-nagy-fogasrol/amp/
+    publisher: Budapestkörnyéke.hu
+    date: 2026-11-26
+    language: hu
 media:
   - kind: photo
     url: https://hvg.hu/itthon/20261126_rendorseg-nni-nav-ferihegy-72-kilogramm-marihuana-holland-ferfi-diler
@@ -133,28 +138,33 @@ media:
     media_url: https://d15-a.sdn.cz/d_15/c_img_qH_A/kPXU1fy4LrDPHZ1XpLIeFR4A/c52e/madarsko-drogy-zadrzeni.jpeg?fl=cro,0,0,1600,900%7Cres,722,,1%7Cwebp,75
     publisher: Novinky
     caption: 'Packages of marijuana seized from the two Dutch passengers at Budapest Ferenc Liszt International Airport. Photo: Police.hu'
+  - kind: video
+    url: https://budapestkornyeke.hu/droggal-megpakolt-borondokkel-erkezett-thaifoldrol-ferihegyre-ket-ferfi-azonnal-elkaptak-oket-a-penzugyorok-video-a-nagy-fogasrol/amp/
+    media_url: https://www.youtube.com/watch?v=ZSSmopaWkM0
+    publisher: Budapestkörnyéke.hu
+    caption: Video of the Ferihegy seizure published with the report, titled '72 kiló marihuánával landolt két holland Budapesten'.
 open_questions:
   - Novinky reported the haul as 72.5 kilograms, while the package weights the police listed add up to 72.42 kilograms and police described it as more than 72 kilograms.
 ---
 
 Hungarian customs officers detained two Dutch drug couriers at Budapest Ferenc
 Liszt International Airport who had tried to smuggle 72 kilograms of marijuana
-in four checked suitcases. [@1,5,6,7,9,10,11] The National Investigation Office's anti-drug
+in four checked suitcases. [@1,5,6,7,9,10,11,14] The National Investigation Office's anti-drug
 unit had warned the airport directorate of the National Tax and Customs
 Administration (NAV) on the morning of 25 November that a drug shipment was
-expected on a flight to Budapest. [@2,5,6,8,9,10,11] The two men had flown to Budapest from
-Bangkok with a stopover in Doha. [@1,5,8,9,11,13]
+expected on a flight to Budapest. [@2,5,6,8,9,10,11,14] The two men had flown to Budapest from
+Bangkok with a stopover in Doha. [@1,5,8,9,11,13,14]
 
 Customs officers found 125 packages in the four checked suitcases belonging to
-the two suspects. [@3,6,7,9,12] One man's two bags held 62 vacuum-packed packages
+the two suspects. [@3,6,7,9,12,14] One man's two bags held 62 vacuum-packed packages
 weighing 35.96 kg, while the other man's two suitcases held 63 foil-wrapped
 packages weighing 36.46 kg. [@2,5,6,7,8,9,11,13] A rapid test indicated that the material in all
-four suitcases was marijuana. [@3,5,6,7,8,9,13] Police seized the drugs and sent them to the
-National Forensic and Research Centre for a forensic chemistry examination. [@2,8,9]
+four suitcases was marijuana. [@3,5,6,7,8,9,13,14] Police seized the drugs and sent them to the
+National Forensic and Research Centre for a forensic chemistry examination. [@2,8,9,14]
 
 The two Dutch nationals were suspected of drug trafficking in a significant
 quantity, questioned and taken into custody, with investigators seeking their
-pretrial detention. [@2,6,7,8,9] Investigators also contacted foreign partner agencies to clarify the suspects' criminal records. [@6,7,8] The Budai Central District Court ordered the two men
+pretrial detention. [@2,6,7,8,9,14] Investigators also contacted foreign partner agencies to clarify the suspects' criminal records. [@6,7,8,14] The Budai Central District Court ordered the two men
 detained for one month at a hearing on 27 November 2026. [@4] Drug trafficking
 in a significant quantity carries five to 20 years or possibly life imprisonment
 if proved. [@4]
