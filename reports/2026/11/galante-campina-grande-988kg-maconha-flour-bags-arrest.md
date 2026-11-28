@@ -47,25 +47,30 @@ sources:
     publisher: Repórter PB
     date: 2026-11-26
     language: pt
+  - title: Homem é preso com cerca de 100kg de maconha escondidos em sacos de farinha, em Campina Grande
+    url: https://jornaldaparaiba.com.br/cotidiano/homem-e-preso-com-cerca-de-100kg-de-maconha-escondidos-em-sacos-de-farinha-em-campina-grande?_=amp
+    publisher: Jornal da Paraíba
+    date: 2026-11-26
+    language: pt
 open_questions:
-  - The whole account rests on a single source reporting the PRF version of the seizure; no independent second account was found.
-  - The suspect was reported only as a 25-year-old man, with no name published.
-  - No charge, custody decision or court outcome beyond the recording of the flagrant arrest was reported.
+    - Both published accounts relay the PRF version of the seizure; no independent account from another agency or participant was found.
+    - The suspect was reported only as a 25-year-old man, with no name published.
+    - Beyond the flagrant arrest and a citation for disobedience, no custody decision or court outcome was reported.
+    - 'The accounts differ on how the driver was stopped: one says he stopped and surrendered after a pursuit, the other says he was caught about 500 metres after fleeing.'
 ---
 
 Federal Highway Police officers arrested a 25-year-old man in flagrante on
 suspicion of drug trafficking on 25 November 2026 during an inspection on the
-BR-230 at the Galante district in Campina Grande, Paraiba. [@1] The driver
+BR-230 at the Galante district in Campina Grande, Paraiba. [@1,2] The stop took place near km 135 of the highway. [@2] The driver
 disobeyed an order to stop and fled along the highway, prompting a tactical
-pursuit. [@1] After a period of pursuit, the driver stopped the car and
+pursuit. [@1,2] In addition to the drug-trafficking suspicion, he was cited for disobedience for failing to obey the stop order and fleeing. [@2] The driver had no driving licence and was caught about 500 metres after fleeing. [@2] After a period of pursuit, the driver stopped the car and
 surrendered to the officers. [@1]
 
 Inside the vehicle, officers found several wheat-flour bags placed on the back
-seat. [@1] Inside the bags, officers found several marijuana tablets hidden in
-the product, totalling 98.8 kg. [@1]
+seat. [@1,2] Inside the bags, officers found several marijuana tablets hidden in
+the product, totalling 98.8 kg. [@1,2] The tablets were covered with brown adhesive tape. [@2]
 
 The suspect said he had received the load in Joao Pessoa and was to deliver it
-to a person in Campina Grande. [@1] The arrested man and the seized marijuana
+to a person in Campina Grande. [@1,2] He said the car was borrowed from a friend and did not say who had supplied the drug. [@2] He said he would telephone after arriving to learn where to make the delivery. [@2] The arrested man and the seized marijuana
 were taken to the Civil Police complex in Campina Grande for recording of the
-flagrant arrest and further legal measures. [@1]
-
+flagrant arrest and further legal measures. [@1,2]
