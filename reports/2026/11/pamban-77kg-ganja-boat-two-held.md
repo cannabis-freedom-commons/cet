@@ -97,6 +97,11 @@ sources:
     publisher: TamilWire
     date: 2026-11-23
     language: ta
+  - title: 'படகில் 76 கிலோ கஞ்சா பறிமுதல்: இருவா் கைது'
+    url: https://www.dinamani.com/all-editions/edition-madurai/ramanathapuram/2026/Nov/24/76-kg-ganja-seized-from-boat-two-arrested
+    publisher: தினமணி (Dinamani)
+    date: 2026-11-25
+    language: ta
 media:
   - kind: photo
     url: https://tamil.news18.com/tamil-nadu/77-kg-ganja-seized-near-pamban-nw-kpk-ws-l-2260254.html
@@ -108,15 +113,19 @@ media:
     media_url: https://www.tamilwire.in/wp-content/uploads/sites/2/2026/11/kancha.webp
     publisher: TamilWire
     caption: Photograph of the ganja seized from the boat in the 77 kg Coast Guard and Customs operation off Pamban.
+open_questions:
+    - Dinamani reported the seized quantity as 76 kg, while the other accounts said about 77 kg; the report uses about 77 kg.
+    - Dinamani dated the interception to Monday 23 November 2026, while the other accounts put it on 22 November 2026.
+    - Whether the 75.7 kg of ganja that Trichy Customs reported seizing on the Ramnad coast on 23 November 2026 was this same interception or a separate one remains unresolved.
 ---
 
 A joint team from the Indian Coast Guard station in Mandapam and the Tiruchi
 Customs intelligence wing intercepted a country boat moving suspiciously off the
-Pamban Kundukal coast near Rameswaram. [@2,5,9,10,12] The operation was launched on
+Pamban Kundukal coast near Rameswaram. [@2,5,9,10,12,13] The operation was launched on
 specific intelligence that narcotics were being transported to Sri Lanka by
-country boat from the Kundukal area. [@2,8,9] The two men on board were apprehended
+country boat from the Kundukal area. [@2,8,9,13] The two men on board were apprehended
 and identified as Aeronius, 33, and Gunasekaran, 42, both residents of Saveriyar
-Nagar in Thangachimadam. [@2,6,8,9,10]
+Nagar in Thangachimadam. [@2,6,8,9,10,13]
 
 A search of the vessel recovered about 77 kg of ganja packed into parcels and
 concealed in three gunny sacks. [@2,3,4,6,8,9,10,11,12] The interception took place near Pamban in
@@ -126,4 +135,4 @@ market value of the seized ganja at around Rs 25 lakh. [@2,8]
 The Indian Coast Guard Station, Mandapam, conducted the operation in
 coordination with the Customs Central Intelligence Unit, Tiruchy. [@1,4,5,6,7,11,12] The
 seized contraband, boat and two crew members were brought to Mandapam and handed
-over to the Customs Central Intelligence Unit for further legal action. [@1,4,5,6,7,10,11,12]
+over to the Customs Central Intelligence Unit for further legal action. [@1,4,5,6,7,10,11,12,13] Customs officers registered a case and are investigating the seizure. [@13]
