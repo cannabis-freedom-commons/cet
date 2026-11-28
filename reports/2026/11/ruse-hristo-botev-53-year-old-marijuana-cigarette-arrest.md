@@ -51,6 +51,11 @@ sources:
     publisher: Русе Нюз
     date: 2026-11-26
     language: bg
+  - title: 53-годишен мъж задържан с наркотици в Русе
+    url: https://sofiawire.com/article/53-godishen-mazh-zadarzhan-s-narkotitsi-v-ruse
+    publisher: Sofia Wire
+    date: 2026-11-26
+    language: bg
 open_questions:
   - No weight or quantity was published for the marijuana cigarette or for the dried plant matter.
   - The white crystalline substance was not identified or weighed and is not counted as cannabis.
@@ -61,20 +66,19 @@ open_questions:
 Officers of the patrol and guard service group at the First Regional Police
 Directorate in Ruse stopped a 53-year-old man from the city for a routine check
 on Hristo Botev Boulevard, heading towards Tsar Osvoboditel Boulevard, at about
-23:00 on 24 November 2026. [@1] The 53-year-old was detained after the patrol
+23:00 on 24 November 2026. [@1,4] The 53-year-old was detained after the patrol
 found marijuana and a white crystalline substance on him, and fast-track
 proceedings were opened against him. [@1]
 
 He first denied carrying any banned items, but during the personal search
 officers found a hand-rolled cigarette with a distinctive smell of marijuana in
-his cigarette case. [@3] The man told the officers the cigarette was for his own
-use. [@2] He was taken to the building of the First Regional Police Directorate
+his cigarette case. [@3,4] The man told the officers the cigarette was for his own
+use. [@2,4] He was taken to the building of the First Regional Police Directorate
 in Ruse, where a more thorough search of his outer clothing found a plastic
 capsule from a chocolate egg holding dried plant matter with a distinctive smell
-of marijuana, wrapped in a yellow polythene bag. [@2] The officers also found on
+of marijuana, wrapped in a yellow polythene bag. [@2,4] The officers also found on
 him a polythene wrap folded in three layers containing a white crystalline
 substance, which no account counted as cannabis. [@1]
 
 The Ruse directorate said the investigation was continuing to establish the
-origin and type of the seized substances. [@3]
-
+origin and type of the seized substances. [@3,4]
