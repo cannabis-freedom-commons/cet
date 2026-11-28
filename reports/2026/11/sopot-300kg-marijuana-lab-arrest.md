@@ -98,6 +98,11 @@ sources:
     publisher: KoSSev
     date: 2026-11-26
     language: es
+  - title: Un laboratoire clandestin de production de marijuana a été découvert près de Sopot ; environ 300 kilogrammes de drogue ont été saisis
+    url: https://kossev.info/fr/otkrivena-ilegalna-laboratorija-za-proizvodnju-marihuane-kod-sopota-zaplenjeno-oko-300-kilograma-droge/
+    publisher: KoSSev
+    date: 2026-11-26
+    language: fr
 open_questions:
     - 'The plant count and weight are approximate: police reported "about 500" plants weighing "close to 300 kilograms".'
     - No court outcome was reported; the suspect was detained for up to 48 hours and a criminal complaint was to follow.
@@ -127,16 +132,16 @@ media:
 ---
 
 Police in Serbia arrested a 34-year-old man, identified only as K.M., near Sopot
-on suspicion of unauthorised production and trafficking of narcotic drugs. [@1,2,3,4,6,8,9,10,11]
+on suspicion of unauthorised production and trafficking of narcotic drugs. [@1,2,3,4,6,8,9,10,11,12]
 The arrest was ordered by the Higher Public Prosecutor's Office in Belgrade.
-[@1,4,5,6,7,8,9,10,11] Officers found the suspect in a house containing an illegal laboratory.
-[@1,4,6,7,8,10,11] He was ordered held for up to 48 hours and was to be taken to the competent
-prosecutor's office with a criminal complaint. [@1,2,4,5,6,7,8,9,10,11]
+[@1,4,5,6,7,8,9,10,11,12] Officers found the suspect in a house containing an illegal laboratory.
+[@1,4,6,7,8,10,11,12] He was ordered held for up to 48 hours and was to be taken to the competent
+prosecutor's office with a criminal complaint. [@1,2,4,5,6,7,8,9,10,11,12]
 
 Officers from the criminal police's Service for Combating Drugs and the
 Department for Special Actions discovered the laboratory near Sopot on 26
-November 2026. [@1,2,4,9,10] The interior ministry announced the laboratory's discovery and the arrest in a statement. [@3] In three separate rooms they found about 500 plants
-suspected of being marijuana, weighing close to 300 kilograms in total. [@1,2,4,5,6,7,8,9,10,11]
+November 2026. [@1,2,4,9,10,12] The interior ministry announced the laboratory's discovery and the arrest in a statement. [@3,12] In three separate rooms they found about 500 plants
+suspected of being marijuana, weighing close to 300 kilograms in total. [@1,2,4,5,6,7,8,9,10,11,12]
 Police also seized equipment for growing the drug under artificial conditions.
-[@1,4,5,6,7,8,9,10,11] Officers described the haul as close to 300 kilograms of the drug in raw
-form. [@1,4,7,8,10,11]
+[@1,4,5,6,7,8,9,10,11,12] Officers described the haul as close to 300 kilograms of the drug in raw
+form. [@1,4,7,8,10,11,12]
