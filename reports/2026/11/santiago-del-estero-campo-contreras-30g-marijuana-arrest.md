@@ -40,6 +40,11 @@ media:
     media_url: https://www.elliberal.com.ar/img/publicaciones/2026/11/26/alta/1232753.jpg
     publisher: El Liberal
     caption: Lead picture published with El Liberal's report on the Campo Contreras operation, captioned 'La PFA detuvo al sujeto y secuestró cocaína, marihuana y una moto' and tied to the seizure it describes.
+  - kind: photo
+    url: https://www.diariopanorama.com/noticia/574277/golpe-al-narcomenudeo-policia-federal-detuvo-hombre-cocaina-marihuana-campos-contreras
+    media_url: https://www.diariopanorama.com/fotos/cache/notas/2026/11/26/1010x567_procedimiento-policia-federal-574277-180916.jpg
+    publisher: Diario Panorama
+    caption: Picture published with Diario Panorama's account of the federal police operation in barrio Campo Contreras, named in the image address for that procedure.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: d927782710e61c5864f7dc3ce75bda7a
@@ -50,29 +55,33 @@ sources:
     publisher: El Liberal
     date: 2026-11-26
     language: es
+  - title: 'Golpe al narcomenudeo: la Policía Federal detuvo a un hombre con cocaína y marihuana en el Campos Contreras'
+    url: https://www.diariopanorama.com/noticia/574277/golpe-al-narcomenudeo-policia-federal-detuvo-hombre-cocaina-marihuana-campos-contreras
+    publisher: Diario Panorama
+    date: 2026-11-26
+    language: es
 open_questions:
-  - 'Only the single wrapper is given a weight, so 30 grams understates the marijuana seized: the 20 wrappers divided for sale were not weighed in the account.'
-  - The ten cocaine wrappers carried no weight and are excluded from the cannabis figures.
-  - The account does not name the man, his age or nationality, and reports no charges, detention hearing or court outcome.
-  - The date is the Thursday of the operation, given as 26 November 2026, the same day El Liberal published the account; the time is given as about 16:00.
-  - The account rests on a single local outlet report, with no separate statement from the federal police or the prosecutor published.
-  - Whether the marijuana seized was intended for sale to others beyond the wrappers prepared for sale is not stated.
+    - 'Only the single wrapper is given a weight, so 30 grams understates the marijuana seized: the 20 wrappers divided for sale were not weighed in the account.'
+    - The ten cocaine wrappers carried no weight and are excluded from the cannabis figures.
+    - The accounts do not name the man, his age or nationality, and report no charges, detention hearing or court outcome.
+    - The date is the Thursday of the operation, given as 26 November 2026, the same day the first accounts were published; the time is given as about 16:00.
+    - Both accounts are from local outlets drawing on the same police information, with no separate statement from the federal police or the prosecutor published.
+    - Whether the marijuana seized was intended for sale beyond the wrappers prepared for sale is not stated.
 ---
 
 Federal police arrested a man in a drug operation in barrio Campo Contreras, in
 the Siglo XX sector of Santiago del Estero city, on the afternoon of Thursday 26
-November 2026. [@1] The operation took place at about 16:00 at the intersection
+November 2026. [@1,2] The operation was carried out by personnel of the Unidad Operativa Federal Santiago del Estero, the federal police's operational unit in the province. [@2] The operation took place at about 16:00 at the intersection
 of calle Ernesto "Che" Guevara and pasaje Ricardo Balbín. [@1] The brigade acted
 under guidelines from the national Security Ministry for combating drug
-trafficking and narcomenudeo, the retail sale of drugs by the dose. [@1]
+trafficking and narcomenudeo, the retail sale of drugs by the dose. [@1,2]
 
 Police said the drugs seized had already been divided for sale. [@1] Officers
-seized a single wrapper of marijuana weighing 30 grams. [@1] They also seized 20
-wrappers of marijuana already divided and ready for sale. [@1] Ten wrappers of
-cocaine, called bagullos in the report, were also seized. [@1] Officers also
-seized a Honda Wave motorcycle. [@1] A mobile phone was taken as well. [@1]
+seized a single wrapper of marijuana weighing 30 grams. [@1,2] They also seized 20
+wrappers of marijuana already divided and ready for sale. [@1,2] Ten wrappers of
+cocaine, called bagullos in the report, were also seized. [@1,2] Officers also
+seized a Honda Wave motorcycle. [@1,2] A mobile phone was taken as well. [@1,2]
 
 The duty prosecutor, Florencia Torrez, ordered the judicial measures against the
 detained man and the seizure of the drugs, the motorcycle and the phone. [@1]
 The case continued under investigation. [@1]
-
