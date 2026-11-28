@@ -62,20 +62,24 @@ sources:
     url: https://www.msn.com/en-in/news/other/woman-living-on-footpath-in-borivali-held-with-cannabis-worth-rs-40-650/ar-AA2hz9an
     publisher: MSN
     date: 2026-11-16
+  - title: Borivali woman arrested with over 800g marijuana worth Rs 40,650
+    url: https://www.msn.com/en-in/news/other/borivali-woman-arrested-with-over-800g-marijuana-worth-rs-40650/ar-AA2ilyAS
+    publisher: MSN
+    date: 2026-11-27
 open_questions:
-  - No laboratory confirmation of the seized substance was reported.
-  - Whether the cannabis was for sale rests on the police allegation; no plea or court finding was reported.
-  - No detention measure, charge sheet or court outcome beyond registration of the NDPS case was reported.
-  - The account rests on a single Mid-Day report of the Borivali police action; no independent second outlet was found.
-  - It is unclear whether the November 15 date marks the initial detention or the formal arrest, since she was first served a notice and released and then arrested on November 16.
+    - No laboratory confirmation of the seized substance was reported.
+    - Whether the cannabis was for sale rests on the police allegation; no plea or court finding was reported.
+    - No detention measure, charge sheet or court outcome beyond registration of the NDPS case was reported.
+    - Both accounts appear to rest on the Borivali police's own statement; no independent reporting explains how the trap was set.
+    - 'It is unclear whether the November 15 date marks the initial detention or the formal arrest: one account says she was served a notice and released, then arrested on November 16, while the other says police arrested her on November 15.'
 ---
 
 Borivali police arrested 48-year-old Lata Shahaji Kale near Satyanagar Road,
-Korakendra Ground No 4, on November 15. [@1] Because the operation continued beyond sunset, police first served her a notice under Section 43(5) of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 and released her, then arrested her on November 16. [@2] She was found near Satyanagar Road, Korakendra Ground No 4, on November 15 following a tip-off to the Borivali police. [@2] Kale was living on a footpath in
+Korakendra Ground No 4, on November 15. [@1,3] Because the operation continued beyond sunset, police first served her a notice under Section 43(5) of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 and released her, then arrested her on November 16. [@2] She was found near Satyanagar Road, Korakendra Ground No 4, on November 15 following a tip-off to the Borivali police. [@2,3] Kale was living on a footpath in
 Borivali and was allegedly possessing the cannabis for sale. [@1,2]
 
 Police seized 813 grams of cannabis valued at approximately Rs 40,650 during the
-operation. [@1,2] Police also seized Rs 3,100 in cash during the operation. [@1,2]
+operation. [@1,2,3] Police also seized Rs 3,100 in cash during the operation. [@1,2,3]
 
 A case was registered at Borivali Police Station under Section 8(c) and Section
 20(b) of the NDPS Act, 1985. [@1,2]
