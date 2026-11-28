@@ -43,24 +43,27 @@ sources:
     publisher: La Dépêche du Midi
     date: 2026-11-26
     language: fr
+  - title: Un mineur de 15 ans surpris en plein achat de drogue à Tarbes, deux dealers présumés arrêtés au volant en possession de cocaïne, de cannabis et de kétamine
+    url: https://www.nrpyrenees.fr/2026/11/26/un-mineur-de-15-ans-surpris-en-plein-achat-de-drogue-a-tarbes-deux-dealers-presumes-arretes-au-volant-en-possession-de-cocaine-de-cannabis-et-de-13673029.php
+    publisher: NRPyrenees.fr
+    date: 2026-11-26
+    language: fr
 open_questions:
-  - The article is partly paywalled and its text beyond the opening summary could not be read.
-  - The body reports three men plus a 15-year-old arrested, while the headline speaks of two suspected dealers arrested at the wheel.
-  - No charges, custody measures or court outcome are reported; the case appears to be at the investigation stage.
-  - No value or street estimate was published for the cannabis resin, ketamine or cocaine.
-  - The 7 grams of ketamine and 2.5 grams of cocaine are excluded from the cannabis figures.
+    - The headline refers to two suspected dealers arrested at the wheel, while the body reports three men plus a 15-year-old arrested; the report follows the body's count of four.
+    - No value or street estimate was published for the cannabis resin, ketamine or cocaine, and the 80 euros found is cash rather than a valuation.
+    - The 7 grams of ketamine and 2.5 grams of cocaine are excluded from the cannabis figures.
+    - Final court outcomes beyond the planned composition pénale, CRPC referral and presentation to the prosecutor were not reported.
 ---
 
 A police operation in Tarbes, in the Hautes-Pyrénées, on the evening of
 Wednesday 25 November 2026 led to the arrest of three men involved in a
-drug-trafficking case. [@1] A 15-year-old boy, described as a suspected buyer,
-was also arrested. [@1] The suspects were arrested at the wheel of a vehicle,
+drug-trafficking case. [@1,2] A 15-year-old boy, described as a suspected buyer,
+was also arrested. [@1,2] Judicially, the minor was given a composition pénale, the driver was to be referred through a CRPC (admission of guilt) procedure, and the passenger was due before the prosecutor on Friday 27 November. [@1] The buyer told investigators the products were for his own use, while the 27-year-old driver and 21-year-old passenger were both arrested for offering, transferring, possessing and transporting drugs. [@1] The suspects were arrested at the wheel of a vehicle,
 according to the newspaper's headline. [@1]
 
-Officers seized 8.6 grams of cannabis resin. [@1] The operation also yielded 7
+Officers seized 8.6 grams of cannabis resin. [@1,2] A search of the buyer, the driver and the passenger also turned up 80 euros in cash, and all three were placed in custody. [@1] The operation also yielded 7
 grams of ketamine and 2.5 grams of cocaine, which are not counted in the
-cannabis figures. [@1]
+cannabis figures. [@1,2]
 
 The operation was conducted in the evening in Tarbes, in the Hautes-Pyrénées.
-[@1] The three men were suspected of involvement in drug trafficking. [@1]
-
+[@1] Officers followed the car after a man stopped beside the suspected buyer and the exchange was repeated, which they took to indicate probable drug transactions. [@1] The operation took place around 20:00 on avenue Bertrand-Barère, where a police crew noticed a man waiting alone on the public road behaving suspiciously. [@2] The three men were suspected of involvement in drug trafficking. [@1]
