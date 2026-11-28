@@ -63,30 +63,29 @@ sources:
     publisher: Radio Paulina
     date: 2026-10-07
     language: es
-open_questions:
-  - No charges, court appearance or custody decision were reported for the detained man.
-  - The sources give no estimate of the marijuana's value and do not say where it was grown or where it was headed.
-  - The detained man is identified only by his initials, K.F.C.C.
-  - The customs service's headline and opening paragraph give 266.5 kg, while its regional director gives 266.55 kg; this report uses 266.55 kg.
+  - title: 'Decomisan cargamentos con 266 kilos de marihuana en El Loa: un detenido'
+    url: https://www.soychile.cl/iquique/policial/2026/10/06/967715/decomisan-cargamentos-droga-loa.html
+    publisher: SoyChile
+    date: 2026-10-06
+    language: es
 ---
 
 Customs officers at the El Loa checkpoint in northern Chile detained a
-35-year-old Colombian man who was guarding two large sacks of marijuana. [@1]
-The two sacks held 50 packages weighing 51 kg 550 g. [@1] He told officers his
+35-year-old Colombian man who was guarding two large sacks of marijuana. [@1,3]
+The two sacks held 50 packages weighing 51 kg 550 g. [@1,3] The 50 packages tested positive for marijuana in a NARK II field test. [@3] He told officers his
 only job was to watch them until third parties, whose identities he said he did
-not know, came to collect them. [@1]
+not know, came to collect them. [@1,3]
 
-The finds took place in the early hours of Monday 5 October 2026. [@1] The first
+The finds took place in the early hours of Monday 5 October 2026. [@1,3] The first
 came at 03:01, when inspectors checking behind the checkpoint's warehouse found
-eight large sacks abandoned on the ground. [@1] They counted 209 rectangular
-packages containing 215 kg of marijuana. [@1] At 03:55 officers spotted a
-torchlight behind the restaurant opposite the checkpoint. [@1]
+eight large sacks abandoned on the ground. [@1,3] The sacks lay in the part of the checkpoint reserved for vehicles seized under Chile's drug law, Law 20.000. [@3] They counted 209 rectangular
+packages containing 215 kg of marijuana. [@1,3] At 03:55 officers spotted a
+torchlight behind the restaurant opposite the checkpoint. [@1,3]
 
 In total, the Iquique customs office seized 259 packages weighing 266.55 kg of
-cannabis sativa, regional director Ricardo Aceituno said. [@1] Aceituno said
+cannabis sativa, regional director Ricardo Aceituno said. [@1,3] Aceituno said
 traffickers appeared to have used burreros — people carrying loads on foot —
 because landslides the previous month had restricted Route A-1 for trucks and
-buses. [@1] The PDI, Chile's investigative police, took charge of the drug and
-the suspect for transfer and custody. [@1] Detectives are investigating whether
-the two loads are linked and what the detained man's role was. [@2]
-
+buses. [@1,3] The PDI, Chile's investigative police, took charge of the drug and
+the suspect for transfer and custody. [@1,3] Detectives are investigating whether
+the two loads are linked and what the detained man's role was. [@2,3]
