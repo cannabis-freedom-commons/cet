@@ -1,46 +1,47 @@
 ---
 code: XNGF2T
 added_at: "2026-11-23T08:40:10.747539Z"
-date: 2026-11-20
+date: 2026-11-23
 country: ar
 place: Puente Internacional San Roque González de Santa Cruz, Posadas, Misiones
 coordinates: [-27.3679, -55.9014]
 precision: locality
-type: seizure
-also: [arrest]
-title: Argentine customs seize 212 kg of marijuana at Posadas bridge
-summary: >-
-  Argentine customs officers found 212 kilograms of marijuana hidden in a Chevrolet at the Argentine end of the Posadas-Encarnación international bridge on 20 November 2026. The 35-year-old Argentine driver was arrested and handed to the Posadas federal prosecutor's office on a charge of aggravated drug smuggling.
+type: prosecution
+also: [arrest, seizure]
+title: Posadas man charged, remanded over 212 kg of smuggled marijuana
+summary: A federal guarantee judge in Posadas ordered 90 business days of preventive detention for a 35-year-old man charged with attempted aggravated smuggling of 212 kilograms of marijuana hidden in his Chevrolet Spin. The drugs, valued at nearly 832 million pesos, were found at the San Roque González bridge on the Paraguay border, and the defence has appealed the detention order.
 figures:
-  arrested: 1
-  kg_seized: 212
-  value:
-    amount: 832000000
-    currency: ARS
+    arrested: 1
+    kg_seized: 212
+    value:
+        amount: 832000000
+        currency: ARS
+    charged: 1
 details:
-  agencies: [División Aduana Posadas (Dirección General de Aduanas)]
-  agency_types: [customs, prosecutor]
-  products:
-    - {product: flower, kg: 212}
-  activity: [smuggling]
-  setting: [border, vehicle]
-  charges: [contrabando agravado de estupefacientes]
-  case_stage: investigation
-  date_precision: exact
-  region: Misiones
-  route: {from: [py], to: [ar], crossing: Puente Internacional San Roque González de Santa Cruz}
+    agencies: [División Aduana Posadas (Dirección General de Aduanas)]
+    agency_types: [customs, prosecutor]
+    products:
+        - {product: flower, kg: 212}
+    activity: [smuggling]
+    setting: [border, vehicle]
+    charges: [contrabando de estupefacientes agravado en grado de tentativa]
+    case_stage: charged
+    date_precision: approximate
+    region: Misiones
+    route: {from: [py], to: [ar], crossing: Puente Internacional San Roque González de Santa Cruz}
 data_sources:
-  details.activity: [1]
-  details.agencies: [1]
-  details.agency_types: [1]
-  details.case_stage: [3]
-  details.charges: [1]
-  details.products: [1]
-  details.route: [4]
-  details.setting: [1]
-  figures.arrested: [3]
-  figures.kg_seized: [1]
-  figures.value: [1]
+    details.activity: [1]
+    details.agencies: [1]
+    details.agency_types: [1]
+    details.case_stage: [16]
+    details.charges: [16]
+    details.products: [1]
+    details.route: [4]
+    details.setting: [1]
+    figures.arrested: [16]
+    figures.kg_seized: [16]
+    figures.value: [16]
+    figures.charged: [16]
 media:
   - kind: photo
     url: https://www.mdzol.com/sociedad/2026/11/21/el-millonario-botin-en-droga-que-secuestraron-dentro-de-un-auto-en-la-frontera-con-paraguay-1997007.html
@@ -97,6 +98,16 @@ media:
     media_url: https://noticiasdel6.com/wp-content/uploads/2026/11/IMG-20261121-WA0007.jpg.webp
     publisher: Noticiasdel6.com
     caption: 'Frame from the Aduana handout published with the account of the 212 kg of marijuana found in a car at the Posadas international bridge. Photo: Aduana'
+  - kind: photo
+    url: https://www.fiscales.gob.ar/narcocriminalidad/misiones-imputaron-y-dictaron-prision-preventiva-a-un-hombre-que-intento-ingresar-212-kilos-de-marihuana-desde-paraguay-ocultos-en-un-auto/
+    media_url: https://www.fiscales.gob.ar/wp-content/uploads/2026/11/5-2.png
+    publisher: Fiscales.gob.ar
+    caption: 'X-ray scanner-truck image of the car, in which four sectors of abnormal density were detected. Photo: ARCA'
+  - kind: photo
+    url: https://www.fiscales.gob.ar/narcocriminalidad/misiones-imputaron-y-dictaron-prision-preventiva-a-un-hombre-que-intento-ingresar-212-kilos-de-marihuana-desde-paraguay-ocultos-en-un-auto/
+    media_url: https://www.fiscales.gob.ar/wp-content/uploads/2026/11/1-5.png
+    publisher: Fiscales.gob.ar
+    caption: 'Marijuana hidden in different internal parts of the camioneta. Photo: ARCA'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 7c913afa32222d733e6e156dbc810436
@@ -177,6 +188,17 @@ sources:
     publisher: Canal Doce Misiones
     date: 2026-11-21
     language: es
+  - title: 'Misiones: imputaron y dictaron prisión preventiva a un hombre que intentó ingresar 212 kilos de marihuana desde Paraguay ocultos en un auto'
+    url: https://www.fiscales.gob.ar/narcocriminalidad/misiones-imputaron-y-dictaron-prision-preventiva-a-un-hombre-que-intento-ingresar-212-kilos-de-marihuana-desde-paraguay-ocultos-en-un-auto/
+    publisher: Fiscales.gob.ar
+    date: 2026-11-26
+    language: es
+open_questions:
+  - The article places the arrest and the start of the investigation on 'last Saturday' (21 November 2026), while earlier reporting placed the stop on Friday 20 November 2026.
+  - The imputation is dated only as 'last Monday' relative to the 26 November publication, giving 23 November 2026.
+  - The article states both 90 business days of preventive detention and a deadline of 10 May without reconciling them.
+  - The expected sentence of four years and a half to 16 years is the penalty the charge could carry, not a sentence imposed.
+  - The outcome of the defence's appeal and the review hearing was not reported.
 ---
 
 Argentine customs officers seized 212 kilograms of marijuana from a car at the
@@ -188,14 +210,14 @@ prosecutor's office. [@3,5,6,7,8,9,10,11,12,13,14,15] The driver was held incomm
 Encarnación, Paraguay. [@4,5,12,13]
 
 The procedure began around 17:00 when a Chevrolet reached the migration control
-on the San Roque González de Santa Cruz bridge. [@3] The vehicle was a Chevrolet Spin. [@5,12,13,14] Officers diverted the car
+on the San Roque González de Santa Cruz bridge. [@3] The vehicle was a Chevrolet Spin. [@5,12,13,14,16] Officers diverted the car
 with Argentine plates to the inspection bays for a more thorough check. [@2,6,9,10,13,15]
 They found brick-shaped packages hidden under the bonnet, behind the dashboard
-and in the floor of the vehicle. [@1,6,9,10,12,13,14,15] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
-presence of the packages in those compartments. [@1,5,6,9,10,11,12,13]
+and in the floor of the vehicle. [@1,6,9,10,12,13,14,15] The charge states that 554 packages tested positive for marijuana in a field test, hidden in the dashboard area, floor, sides of the boot and a false bottom at the rear. [@16] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
+presence of the packages in those compartments. [@1,5,6,9,10,11,12,13,16]
 
 Officers opened the hidden compartments with tools. [@3] Customs valued the load
-at nearly 832 million pesos. [@1,5,6,8,9,10,11,12,14,15] The case was opened as aggravated smuggling of
-narcotics. [@1,5,9,10,11,12,13,15] The car was seized together with the marijuana and held for the judicial case. [@6,14,15]
+at nearly 832 million pesos. [@1,5,6,8,9,10,11,12,14,15,16] The case was opened as aggravated smuggling of
+narcotics. [@1,5,9,10,11,12,13,15] Prosecutors charged him with aggravated drug smuggling in its attempted form, as the principal offender, under article 866 of the Customs Code. [@16] The formal charge was brought on Monday 23 November by the prosecutor's office unit for simple cases, headed by Pablo Ricardo Di Loreto with assistant prosecutor Andrés Stuber. [@16] The car was seized together with the marijuana and held for the judicial case. [@6,14,15] The defence appealed the preventive detention, and a review hearing has yet to be held. [@16] Assistant prosecutor Stuber cited flight and obstruction risks, the lack of work and home ties, proximity to the border and an expected sentence of four and a half to 16 years. [@16] The judge set 10 May as the end of the investigation period. [@16] Federal guarantee judge María Verónica Skanata ordered 90 business days of preventive detention at the prosecutors' request. [@16]
 
 The operation began at around 17:00 when División Aduana Posadas staff diverted the car to the inspection bays. [@7,10] Officers found brick-type packages under the bonnet, behind the dashboard and on the floor of the car, and scanner-truck images confirmed their presence there. [@7]
