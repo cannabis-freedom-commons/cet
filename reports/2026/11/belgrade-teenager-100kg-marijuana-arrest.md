@@ -61,6 +61,11 @@ sources:
     publisher: Direktno
     date: 2026-11-27
     language: sr
+  - title: Ухапшен малолетник у Београду, пронађен снајпер, бомбе и више од 100 килограма дроге
+    url: https://www.in4s.net/uhapsen-maloletnik-u-beogradu-pronadjen-snajper-bombe-i-vise-od-100-kilograma-droge/
+    publisher: ИН4С
+    date: 2026-11-26
+    language: sr
 open_questions:
     - The material was described only as dried plant matter resembling marijuana, with no laboratory confirmation reported.
     - Police gave the weight as about 100 kilograms and published no exact figure.
@@ -84,19 +89,19 @@ media:
 ---
 
 A 17-year-old from the area around Petrovac na Mlavi was arrested in Belgrade on
-26 November 2026. [@1] Police searched his apartment and other rooms in a
-Belgrade motel that he used. [@1] Officers from Serbia's Ministry of Internal
+26 November 2026. [@1,6] Police searched his apartment and other rooms in a
+Belgrade motel that he used. [@1,6] Officers from Serbia's Ministry of Internal
 Affairs in Novi Sad made the arrest together with the Higher Public Prosecutor's
-Office in Požarevac, according to a ministry statement. [@1] He was suspected of
+Office in Požarevac, according to a ministry statement. [@1,6] He was suspected of
 unauthorised production and putting into circulation of narcotic drugs, as well
 as unauthorised production, possession, carrying and trade of weapons and
-explosive materials. [@1,2] Police linked the teenager to a group whose members were suspected of extorting businessmen in cities across Serbia. [@4]
+explosive materials. [@1,2,6] Police linked the teenager to a group whose members were suspected of extorting businessmen in cities across Serbia. [@4]
 
 In the searched rooms officers found about 100 kilograms of dried plant material
-resembling marijuana. [@1,3] The suspected marijuana was packed in 90 packages. [@4] The same search yielded about 3.5 kilograms of powder
+resembling marijuana. [@1,3,6] The suspected marijuana was packed in 90 packages. [@4] The same search yielded about 3.5 kilograms of powder
 resembling cocaine, about four kilograms of brown powder resembling heroin and
-two digital scales. [@1,3] They also found five hand grenades, one sniper rifle
-with a suppressor and five matching rounds. [@1,3]
+two digital scales. [@1,3,6] They also found five hand grenades, one sniper rifle
+with a suppressor and five matching rounds. [@1,3,6]
 
 The suspect was arrested and brought before a juvenile judge of the Higher Court
-in Požarevac within the legal time limit. [@1,4] A juvenile judge of the Higher Court in Požarevac ordered the teenager held in detention, citing the seriousness of the offences and the quantity of drugs and weapons seized. [@5]
+in Požarevac within the legal time limit. [@1,4,6] A juvenile judge of the Higher Court in Požarevac ordered the teenager held in detention, citing the seriousness of the offences and the quantity of drugs and weapons seized. [@5]
