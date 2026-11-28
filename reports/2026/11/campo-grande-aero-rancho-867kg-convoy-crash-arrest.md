@@ -111,6 +111,11 @@ sources:
     publisher: Dourados News
     date: 2026-11-26
     language: pt
+  - title: Perseguição ternina com batida em trailer e um preso com maconha
+    url: https://www.douradosnews.com.br/noticias/cidades/2026/11/27/perseguicao-ternina-com-batida-em-trailer-e-um-preso-com-maconha.html
+    publisher: Dourados News
+    date: 2026-11-26
+    language: pt
 open_questions:
   - No separate value for the cannabis was published; the battalion's estimate covered the drugs and the two vehicles together.
   - No formal charge, custody decision or court outcome beyond referral to Denar was reported.
@@ -128,10 +133,10 @@ Highway Police shared information about them. [@1,6,7] The loaded car's driver
 ignored a stop order at about 06:30 near Avenida Arquiteto Vila Nova Artigas,
 fled for roughly a kilometre and crashed at the junction of Ruas Carlos Drumond
 and Arquiteto Vila Nova Artigas. [@1,6,7] G1 reported that the pursuit ended when
-the car hit a hospital gate and a sugarcane-juice trailer. [@3] Residents told the outlet the trailer that was hit belonged to an elderly man who had died just over a year earlier and was up for sale. [@5] The footage showed the officers stopping beside the car and one of them opening its rear door as tablets of marijuana fell to the ground. [@5] Security-camera footage showed the car leaving Rua Carlos Drummond de Andrade and turning into Avenida Arquiteto Vila Nova Artigas before mounting the pavement of the Hospital Regional de Mato Grosso do Sul and hitting a garapa trailer. [@5]
+the car hit a hospital gate and a sugarcane-juice trailer. [@3] Residents told the outlet the trailer that was hit belonged to an elderly man who had died just over a year earlier and was up for sale. [@5,8] The footage showed the officers stopping beside the car and one of them opening its rear door as tablets of marijuana fell to the ground. [@5,8] Security-camera footage showed the car leaving Rua Carlos Drummond de Andrade and turning into Avenida Arquiteto Vila Nova Artigas before mounting the pavement of the Hospital Regional de Mato Grosso do Sul and hitting a garapa trailer. [@5,8]
 
 Officers found 801 tablets of marijuana in the passenger compartment and boot of
-the Fiat Argo, a load that totalled 867 kilograms. [@2,6,7] The load was spread loose through the vehicle, a method the outlet described with the local term cavalo doido. [@5] A second team stopped
+the Fiat Argo, a load that totalled 867 kilograms. [@2,6,7] The load was spread loose through the vehicle, a method the outlet described with the local term cavalo doido. [@5,8] A second team stopped
 the Chevrolet Agile and found a Starlink satellite internet antenna used to keep
 in contact during the journey. [@1,6,7] The Agile driver, 48-year-old Euler Lucas da
 Silva, said he had received 2,000 reais to collect the Fiat Argo in Ponta Porã
