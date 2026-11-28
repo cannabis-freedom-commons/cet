@@ -74,6 +74,11 @@ sources:
     url: https://www.arabtimesonline.com/news/4-arrested-in-kuwait-with-meth-hashish-heroin-and-thousands-of-drug-capsules/
     publisher: Arab Times
     date: 2026-11-26
+  - title: '«الداخلية»: ضبط 4 متهمين بحوزتهم أكثر من كيلوي حشيش و4 الآف حبة وكبسولة مخدرة و6 آلاف دينار حصيلة بيع'
+    url: https://arabic.pressbee.net/show11146167.html?title=%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%B6%D8%A8%D8%B7-4-%D9%85%D8%AA%D9%87%D9%85%D9%8A%D9%86-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D9%83%D9%8A%D9%84%D9%88%D9%8A-%D8%AD%D8%B4%D9%8A%D8%B4-%D9%884-%D8%A7%D9%84%D8%A2%D9%81-%D8%AD%D8%A8%D8%A9-%D9%88%D9%83%D8%A8%D8%B3
+    publisher: برس بي
+    date: 2026-11-26
+    language: ar
 open_questions:
     - No separate date is given for the arrests; 26 November 2026 is the date of the ministry's announcement used here.
     - The source does not say which of the three cases or which of the four suspects involved the hashish and hashish oil.
@@ -103,19 +108,19 @@ media:
 
 Kuwait's Interior Ministry announced that its Criminal Security Sector,
 represented by the General Directorate for Drug Control, arrested four suspects
-in three separate cases. [@1,3,5,6,7] The ministry made the announcement on Thursday 26
+in three separate cases. [@1,3,5,6,7,8] The ministry made the announcement on Thursday 26
 November 2026. [@2,5] The four were held because quantities of narcotic and
 psychotropic substances were found with them, with the apparent intent to
 traffic in and use them. [@1,4,5,7]
 
-The total seized across the three cases included 50 grams of hashish. [@1,4,5,6,7]
-Officers also recovered 120 shisha portions of hashish oil. [@2,4,5,6,7] The other
+The total seized across the three cases included 50 grams of hashish. [@1,4,5,6,7,8]
+Officers also recovered 120 shisha portions of hashish oil. [@2,4,5,6,7,8] The other
 materials seized in the three cases were 2.103 kilograms of shabu
 (methamphetamine), two grams of heroin, 224 sheets soaked in a substance called
 kīmikāl, 2,474 capsules of Lyrica (pregabalin), 1,000 Captagon tablets and 172
 capsules of psychotropic substances. [@1,7] The ministry said 600 Kuwaiti dinars
-were also seized from the proceeds of sales. [@1,4,5,6,7] Officers also seized two sensitive scales among the items from the three cases. [@6]
+were also seized from the proceeds of sales. [@1,4,5,6,7,8] Officers also seized two sensitive scales among the items from the three cases. [@6]
 
 The suspects and the seized materials were referred to the competent authority
-for the necessary legal measures. [@1,4,5,6,7] The ministry described the operation as
+for the necessary legal measures. [@1,4,5,6,7,8] The ministry described the operation as
 part of continuing security efforts against drugs. [@1,4,5,7]
