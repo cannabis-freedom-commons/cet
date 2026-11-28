@@ -69,27 +69,27 @@ sources:
     publisher: inaktau.kz
     date: 2026-11-26
     language: ru
-open_questions:
-    - The 18.61 grams of opium seized in the same search is not a cannabis product and is excluded from the drug weight reported here.
-    - Police did not say where the drugs came from or what they were intended for, and no laboratory confirmation of the marijuana was reported.
-    - No formal charge, trial date or court outcome was reported; the case remained at the investigation stage.
-    - All four accounts reproduce the same Mangistau police statement and are not independent reporting.
+  - title: В Жанаозене у 48-летнего мужчины изъяли почти 2 кг марихуаны и опий
+    url: https://aitmedia.kz/post/v-zhanaozene-u-48-letnego-muzhchiny-izyali-pochti-2-kg-marihuany-i-opiy
+    publisher: AIT Media
+    date: 2026-11-26
+    language: ru
 ---
 
 Police in Zhanaozen detained a 48-year-old local man near the Sak market in the
 Zhuldyz microdistrict on 24 November 2026, on suspicion of unlawful drug
-trafficking. [@2,4] The operation was carried out by officers of the criminal
-police department of the city police, according to Polisia.kz. [@3] A personal
-search of the man and a search of his home turned up marijuana and opium. [@1,4]
+trafficking. [@2,4,5] The operation was carried out by officers of the criminal
+police department of the city police, according to Polisia.kz. [@3,5] A personal
+search of the man and a search of his home turned up marijuana and opium. [@1,4,5]
 
-Police said the marijuana weighed 1 kilogram 825 grams, or 1.825 kg. [@1,4]
-Officers also seized 18.61 grams of opium in the same search. [@2,4]
+Police said the marijuana weighed 1 kilogram 825 grams, or 1.825 kg. [@1,4,5]
+Officers also seized 18.61 grams of opium in the same search. [@2,4,5]
 
 Mangistau police opened a criminal case over the unlawful trafficking of
-narcotic drugs. [@1,4] Caravan reported the case was registered under Article 297
+narcotic drugs. [@1,4,5] Caravan reported the case was registered under Article 297
 of Kazakhstan's Criminal Code, covering the unlawful handling of drugs for sale.
 [@2] A medical examination found the detainee was in a state of drug
-intoxication, police said. [@1,4] He was also held administratively liable under
-Article 440-1 of Kazakhstan's Administrative Offences Code. [@1] He was placed
+intoxication, police said. [@1,4,5] He was also held administratively liable under
+Article 440-1 of Kazakhstan's Administrative Offences Code. [@1,5] He was placed
 in a temporary detention facility and police said investigative actions were
-under way. [@1,4]
+under way. [@1,4,5]
