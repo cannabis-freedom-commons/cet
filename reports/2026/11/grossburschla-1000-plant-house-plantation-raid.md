@@ -84,6 +84,21 @@ sources:
     publisher: news.de
     date: 2026-11-26
     language: de
+  - title: 'Großburschla (Wartburgkreis): Cannabisplantage in Großburschla ausgehoben'
+    url: https://newsflash24.de/blaulicht/thueringen/grossburschla-wartburgkreis-cannabisplantage-in-grossburschla-ausgehoben/
+    publisher: Newsflash24
+    date: 2026-11-26
+    language: de
+  - title: 'LPI-GTH: Cannabisplantage ausgehoben'
+    url: https://www.presseportal.de/blaulicht/pm/126721/6398183
+    publisher: Presseportal
+    date: 2026-11-26
+    language: de
+  - title: Cannabis-Plantage mit 1.000 Pflanzen im Wartburgkreis aufgeflogen
+    url: https://www.mdr.de/nachrichten/thueringen/west-thueringen/wartburgkreis/illegale-plantage-polizei,cannabis-488.html
+    publisher: MDR
+    date: 2026-11-26
+    language: de
 open_questions:
     - The plant count is given only as about 1,000; no exact figure was published.
     - The sources do not say what happened to the 38-year-old, who was not among the two younger men held in pre-trial detention.
@@ -92,18 +107,18 @@ open_questions:
 ---
 
 Criminal police found a cannabis plantation with around 1,000 plants on 19
-November in an empty house in the centre of Großburschla. [@1,2,4,5] Großburschla lies in the Wartburgkreis district of Thuringia. [@4] The house had
-stood empty for a long time before residents alerted police. [@1] Three men aged
+November in an empty house in the centre of Großburschla. [@1,2,4,5,7] Großburschla lies in the Wartburgkreis district of Thuringia. [@4] The house had
+stood empty for a long time before residents alerted police. [@1,8] Three men aged
 19, 28 and 38 were provisionally arrested, as reported by the
-Landespolizeiinspektion Gotha. [@1,3,5] Police said the three men were Albanian nationals. [@6] Residents had noticed unusual movements in
-the house for about a year and contacted police in Eisenach. [@1,2] A court issued
-arrest warrants on Friday against the 19-year-old and the 28-year-old. [@1,6] Both
-men are held in a prison. [@1,5] The investigation is ongoing. [@1,5]
+Landespolizeiinspektion Gotha. [@1,3,5,7] Police said the three men were Albanian nationals. [@6,7] Residents had noticed unusual movements in
+the house for about a year and contacted police in Eisenach. [@1,2,7] A court issued
+arrest warrants on Friday against the 19-year-old and the 28-year-old. [@1,6,8] Both
+men are held in a prison. [@1,5,9] The investigation is ongoing. [@1,5,7]
 
-Early inquiries had pointed to an indoor plantation. [@1] Officers acted
-immediately because a handover of the marijuana was apparently imminent. [@1,3]
+Early inquiries had pointed to an indoor plantation. [@1,7] Officers acted
+immediately because a handover of the marijuana was apparently imminent. [@1,3,7]
 Around 30 kilograms of packaged marijuana lay ready for collection in the house.
-[@1,3,4,5] Cultivation and processing rooms spread over both residential floors, with
-extensive cultivation equipment. [@1] The operators tapped the electricity for
-the operation illegally before the meter. [@1,3,5] The plants were in different
-stages of growth. [@1,3]
+[@1,3,4,5,7] Cultivation and processing rooms spread over both residential floors, with
+extensive cultivation equipment. [@1,7] The operators tapped the electricity for
+the operation illegally before the meter. [@1,3,5,7] The plants were in different
+stages of growth. [@1,3,7]
