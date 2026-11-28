@@ -166,6 +166,10 @@ sources:
     url: https://asianews.network/sri-lankan-police-arrest-22-monks-over-110kg-cannabis-haul-from-thailand/
     publisher: Asia News Network
     date: 2026-04-29
+  - title: 22 Buddhist monks arrested at Sri Lanka airport with over 110kg of Kush in luggage
+    url: https://mixmag.asia/read/22-buddhist-monks-arrested-at-sri-lanka-airport-with-over-110kg-of-kush-in-luggage-local
+    publisher: Mixmag Asia
+    date: 2026-04-27
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -187,21 +191,19 @@ media:
     media_url: https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2272655605.jpg?c=original&q=w_860,c_fill/f_avif
     publisher: CNN
     caption: 'Sri Lankan monks arriving to appear before a court after their arrest in Negombo on 26 April 2026. Photo: Ishara S. Kodikara/AFP/Getty Images via CNN'
-open_questions:
-  - 'Accounts differ on the length of the Thailand trip: most reporting describes a four-day holiday, while this press review says the monks were coming back from a five-day holiday in Bangkok.'
 ---
 
 On the night of 25–26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at
 Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5
-million; it was reported as the country's largest single cannabis seizure. [@1,23,24,26,27,29,30,31,32] The Police Narcotics
+million; it was reported as the country's largest single cannabis seizure. [@1,23,24,26,27,29,30,31,32,33] The Police Narcotics
 Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arrested at about 10.10 pm.
 [@20] Customs called it the largest single detection of kush at the airport.
-[@3,6,7,9,11,12,13,14,16,17,19,20,23]
+[@3,6,7,9,11,12,13,14,16,17,19,20,23,33]
 
 ## The luggage
 
 Each monk carried about 5 kg of kush, a particularly potent form of cannabis, behind false walls in
-identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20,23,26,27,30,31,32] Customs gave
+identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20,23,26,27,30,31,32,33] Customs gave
 the total as 242 pounds [@3,6,9,10,11,13,15,16,17,20,23]; one account found about 112 kilograms. [@12] The
 government news portal put the value at over US$3.45 million (1.1 billion rupees). [@5,10,15,22,26,27,28]
 
@@ -231,3 +233,5 @@ General of Police. [@12] Deputy Minister Gamagedara Dissanayake said monks trave
 obtain letters of recommendation from their chief incumbent and provincial prelate, reviving an earlier
 rule that had lapsed, and that talks had begun on strengthening the rules governing temples and monastic
 discipline. [@21]
+
+The chief prelates also called for law enforcement to investigate drug networks recruiting young monks and asked senior Buddhist teachers to tighten supervision of novice monks. [@33]
