@@ -44,30 +44,33 @@ sources:
     publisher: وكالة صدى نيوز
     date: 2026-11-26
     language: ar
+  - title: الشرطة تضرب أوكار المخدرات من جديد في نابلس.. ضبط 20 بلاطة حشيش قبل ترويجها
+    url: https://www.nablustv.net/internal.asp?cat=13&newsID=478554&page=details
+    publisher: تلفزيون نابلس
+    date: 2026-11-27
+    language: ar
 open_questions:
-  - The substances were described only as suspected hashish and hashish paste, with no laboratory confirmation reported.
-  - No number of suspects or arrests, and no names or ages, were published.
-  - No charges, court appearance or sentence were reported; police spoke only of legal procedures against those involved.
-  - 26 November 2026 is the announcement and publication date, with the search described only as taking place on Thursday morning.
-  - The account rests on a single outlet reproducing the Palestinian police statement, with no independent corroboration found.
+    - The substances were described only as suspected hashish and hashish paste, with no laboratory confirmation reported.
+    - No number of suspects or arrests, and no names or ages, were published.
+    - No charges, court appearance or sentence were reported; police spoke only of legal procedures against those involved.
+    - The published accounts reproduce the same Palestinian police statement rather than independent reporting.
 ---
 
 Palestinian police announced on Thursday morning that officers had seized a
 quantity of suspected narcotic substances from the house of a drug dealer in
-Nablus Governorate. [@1] Police described the material as suspected hashish and
-hashish paste. [@1] Police said the seizure amounted to 20 slabs with a total
-weight of about 3.5 kilograms. [@1]
+Nablus Governorate. [@1,2] The operation took place on Thursday 26 November 2026. [@2] Police described the material as suspected hashish and
+hashish paste. [@1,2] Police said the seizure amounted to 20 slabs with a total
+weight of about 3.5 kilograms. [@1,2]
 
 The operation was carried out by the anti-narcotics branch of the police in
-Nablus Governorate. [@1] Police said the branch acted after receiving
+Nablus Governorate. [@1,2] Police said the branch acted after receiving
 intelligence information that the suspect was keeping narcotic substances in his
-house for the purpose of promotion. [@1] Officers completed search and
+house for the purpose of promotion. [@1,2] Officers completed search and
 investigation procedures before searching the house. [@1] The house search was
 conducted with the support of the joint force of the security services, and
-officers seized the substances and held them. [@1]
+officers seized the substances and held them. [@1,2]
 
 Police said operations to pursue drug dealers and promoters and to frustrate
 promotion attempts would continue. [@1] Police said the necessary legal
 procedures were taken against those involved in order to protect public safety.
-[@1]
-
+[@1,2]
