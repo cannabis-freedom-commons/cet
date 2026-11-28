@@ -53,23 +53,35 @@ sources:
     publisher: Dinamani
     date: 2026-11-26
     language: ta
+  - title: ஆந்திராவில் இருந்து புதுச்சேரிக்கு கஞ்சா கடத்தல் - விழுப்புரம் நீதிமன்றம் அதிரடி தீர்ப்பு!
+    url: https://tamil.abplive.com/news/tamil-nadu/viluppuram-puducherry-ganja-smuggling-prakash-5-years-rigorous-imprisonment-280588/amp
+    publisher: ABP Nadu
+    date: 2026-11-26
+    language: ta
+  - title: கஞ்சா வழக்கில் புதுச்சேரி வாலிபருக்கு 5 ஆண்டு சிறை
+    url: https://www.dinamalar.com/news/tamil-nadu-district-news-viluppuram/puducherry-youth-gets-5-year-jail-term-in-ganja-case/4386258
+    publisher: Dinamalar
+    date: 2026-11-25
+    language: ta
+  - title: 'திண்டிவனம் அருகே 1.3 கிலோ கஞ்சா கடத்தல் வழக்கு: புதுச்சேரி வாலிபருக்கு 5 ஆண்டு சிறை!'
+    url: https://tindivanamnews.in/tindivanam-ganja-smuggling-puducherry-youth-jail/
+    publisher: Tindivanam News
+    date: 2026-11-26
+    language: ta
 open_questions:
-  - No quantity or value of the ganja was published.
-  - No NDPS Act section or other charge detail was published.
-  - The sentence date of 25 November 2026 is inferred from the Wednesday judgment reported in the 26 November 2026 publication.
-  - No fine-default term, appeal or remand history was reported.
-  - The account rests on a single Dinamani report with no independent confirmation found.
+    - No estimated value was published for the 1.300 kg of ganja.
+    - No NDPS Act section or other charge detail was published.
+    - The reports do not say whether Prakash pleaded guilty or contested the charge, or whether he will appeal.
 ---
 
-R. Prakash, 23, of Lawspet, Puducherry, was the accused in the case. [@1]
+R. Prakash, 23, of Lawspet, Puducherry, was the accused in the case. [@1,2] Prakash was riding a Yamaha FZ motorcycle from Nagari in Andhra Pradesh towards Lawspet, Puducherry, when officers stopped him. [@2]
 Special Judge Ezhilarasi found the charge against Prakash proved and sentenced
-him to five years of rigorous imprisonment with a Rs 50,000 fine. [@1]
+him to five years of rigorous imprisonment with a Rs 50,000 fine. [@1,3] The judge ordered a further three months' imprisonment if Prakash fails to pay the fine. [@4]
 
 Brahmadesam police in Villuppuram district had arrested Prakash in the
-ganja-smuggling case on 20 November 2024. [@1] The judgment followed completion
+ganja-smuggling case on 20 November 2024. [@1,2] Officers seized 1.300 kg of ganja from him. [@3] The arrest came at a vehicle check near the Mannarsamy temple bus stop, led by the then Brahmadesam inspector Prakash. [@2] The judgment followed completion
 of the final trial in the Villuppuram special court for narcotics cases. [@1]
 
 Court police then took Prakash into custody and lodged him in Cuddalore Central
-Prison. [@1] The Villuppuram court delivered the sentence on Wednesday in the
+Prison. [@1,2] The Villuppuram court delivered the sentence on Wednesday in the
 case over ganja smuggling near Brahmadesam. [@1]
-
