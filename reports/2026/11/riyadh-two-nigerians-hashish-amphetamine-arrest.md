@@ -46,22 +46,27 @@ sources:
     publisher: صحيفة صدى الالكترونية
     date: 2026-11-25
     language: ar
+  - title: Two Foreigners Arrested in Riyadh on Drug-Dealing Allegations
+    url: https://www.urdupoint.com/en/world/riyadh-foreigners-arrested-drug-dealing-2298699.html
+    publisher: UrduPoint
+    date: 2026-11-26
+    language: en
 ---
 
 Patrols of the General Directorate of Mujahideen in the Riyadh region arrested
 two Nigerian nationals described as violators of the border-security system for
-promoting narcotic substances. [@1,3] The suspects were apprehended by patrol
+promoting narcotic substances. [@1,3,4] The suspects were apprehended by patrol
 officers of the General Directorate of Mujahideen, who reportedly found them in
 possession of the narcotic substances and medically regulated pills. [@2]
 
 Those arrested were accused of promoting two narcotic substances, hashish and
-amphetamine, alongside pills subject to medical circulation regulation. [@2,3]
+amphetamine, alongside pills subject to medical circulation regulation. [@2,3,4]
 Officers stopped and detained the two men, completed the statutory procedures
-against them and referred them to the competent authority. [@1,3]
+against them and referred them to the competent authority. [@1,3,4]
 
 The directorate urged anyone with information on smugglers and drug dealers to
 report on 911 in Makkah, Madinah, Riyadh and the Eastern Province. [@1] Callers
 in the rest of Saudi Arabia were directed to use emergency 999 or 995 for such
 reports. [@2] The General Directorate of Mujahideen also urged residents to
 report suspected drug-related activities through designated emergency numbers.
-[@2]
+[@2,4]
