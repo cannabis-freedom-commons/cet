@@ -64,22 +64,27 @@ sources:
     publisher: Каскад.тв
     date: 2026-11-18
     language: ru
+  - title: 'Итоги «Мак-2026» в Калининградской области: изъято более 19 кг наркотиков и свыше 220 кг наркосодержащих растений'
+    url: https://kaliningradfirst.ru/372097
+    publisher: Янтарный край
+    date: 2026-11-18
+    language: ru
 ---
 
 Police in Kaliningrad Oblast opened 28 criminal cases against 16 people during
 the interdepartmental preventive operation Mak-2026, with 17 cases for sale,
-nine for storage and two for illegal cultivation of drug-containing plants. [@1,3,4]
+nine for storage and two for illegal cultivation of drug-containing plants. [@1,3,4,5]
 Another 65 people were brought to administrative liability under articles 6.8
-and 6.9 of the Code of Administrative Offences. [@1,3,4] The regional interior
+and 6.9 of the Code of Administrative Offences. [@1,3,4,5] The regional interior
 ministry said the Mak-2026 operation has ended in the region. [@2]
 
 During the operation officers identified trafficking and cultivation offences
 involving drug-containing plants and blocked channels for drugs entering the
-region. [@1] Police described the discovery of two plots with illegally
+region. [@1,5] Police described the discovery of two plots with illegally
 cultivated hemp in Svetlovsky urban district as one of the operation's
-significant results. [@1,3,4] On one plot officers seized 536 plants with a combined
-weight of 121.4 kg. [@1,3,4] On the other plot they seized another 415 plants
-weighing 27.3 kg. [@1,3,4]
+significant results. [@1,3,4,5] On one plot officers seized 536 plants with a combined
+weight of 121.4 kg. [@1,3,4,5] On the other plot they seized another 415 plants
+weighing 27.3 kg. [@1,3,4,5]
 
 Police said more than 19 kg of plant-origin drugs and over 220 kg of
-drug-containing plants and parts were taken out of illegal circulation. [@1,3,4]
+drug-containing plants and parts were taken out of illegal circulation. [@1,3,4,5]
