@@ -162,6 +162,10 @@ sources:
     publisher: France 24
     date: 2026-04-29
     language: en
+  - title: Sri Lankan police arrest 22 monks over 110kg cannabis haul from Thailand
+    url: https://asianews.network/sri-lankan-police-arrest-22-monks-over-110kg-cannabis-haul-from-thailand/
+    publisher: Asia News Network
+    date: 2026-04-29
 media:
   - kind: photo
     url: https://www.bbc.com/news/articles/cn4v4nzwj94o
@@ -189,7 +193,7 @@ open_questions:
 
 On the night of 25–26 April 2026 police arrested 22 Sri Lankan monks returning from Thailand at
 Bandaranaike International Airport with 110 kg of kush hidden in their luggage, valued at about US$3.5
-million; it was reported as the country's largest single cannabis seizure. [@1,23,24,26,27,29,30,31] The Police Narcotics
+million; it was reported as the country's largest single cannabis seizure. [@1,23,24,26,27,29,30,31,32] The Police Narcotics
 Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arrested at about 10.10 pm.
 [@20] Customs called it the largest single detection of kush at the airport.
 [@3,6,7,9,11,12,13,14,16,17,19,20,23]
@@ -197,20 +201,20 @@ Bureau's airport unit acted on intelligence [@4,5,10,12], and the monks were arr
 ## The luggage
 
 Each monk carried about 5 kg of kush, a particularly potent form of cannabis, behind false walls in
-identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20,23,26,27,30,31] Customs gave
+identical luggage, among school supplies and sweets. [@2,3,6,8,9,10,11,13,15,16,17,18,19,20,23,26,27,30,31,32] Customs gave
 the total as 242 pounds [@3,6,9,10,11,13,15,16,17,20,23]; one account found about 112 kilograms. [@12] The
 government news portal put the value at over US$3.45 million (1.1 billion rupees). [@5,10,15,22,26,27,28]
 
 The monks, aged 19 to 28 and mostly students from remote areas, had left for Thailand on 22 April on an
-all-expenses-paid four-day trip to Bangkok paid for by a sponsor. [@2,3,5,11,13,14,15,16,17,18,19,20,21,27,30] The monks were reportedly young men and based in Sri Lanka for higher education. [@26,28]
-Phones showed them enjoying the holiday in casual clothes. [@2,7] It was the first time monks had been
-arrested at the airport carrying drugs, the state-owned Daily News said. [@5,15,20,26,27,28]
+all-expenses-paid four-day trip to Bangkok paid for by a sponsor. [@2,3,5,11,13,14,15,16,17,18,19,20,21,27,30,32] The monks were reportedly young men and based in Sri Lanka for higher education. [@26,28]
+Phones showed them enjoying the holiday in casual clothes. [@2,7,32] It was the first time monks had been
+arrested at the airport carrying drugs, the state-owned Daily News said. [@5,15,20,26,27,28,32]
 
 ## The organisers
 
 A 23rd monk, believed to have organised the trip, was later arrested in a Colombo suburb; police said he
 had told the others the parcels were "a donation" and that a van would collect them, and that they
-potentially did not know what they were carrying. [@2,18,31] Other investigators said three monks from a
+potentially did not know what they were carrying. [@2,18,31,32] Other investigators said three monks from a
 temple in Jamburaliya may have recruited 19 others through Facebook, that an alleged mastermind had been
 arrested at Meegahamulla in Gampaha, and that the group might have run a similar trip with 12 monks
 before. [@12] Investigators said an earlier group of monks had brought narcotics to Sri Lanka on a previous trip and hidden them at a house in Athurugiriya, where the owner was arrested. [@24] Police later named the organiser as a monk, Amithananda Thera, arrested after hiding in a
@@ -220,7 +224,7 @@ examining links to local trafficking networks. [@22,27] Police said the operatio
 ## Court and clergy
 
 The 22 appeared before the Negombo Magistrate's Court on Sunday and were remanded in custody for seven
-days. [@2,5,6,7,12,15,18,26] On 12 May 2026 the Negombo Magistrate's Court further remanded all 23 monks until 26 May. [@25] Senior clergy called them "imposter monks" [@6], and the chief prelates of the
+days. [@2,5,6,7,12,15,18,26,32] On 12 May 2026 the Negombo Magistrate's Court further remanded all 23 monks until 26 May. [@25] Senior clergy called them "imposter monks" [@6], and the chief prelates of the
 three main chapters said those found guilty would be expelled from the order. [@8,20] On 28 April
 President Anura Kumara Dissanayake held a meeting with senior monks and officials including the Inspector
 General of Police. [@12] Deputy Minister Gamagedara Dissanayake said monks travelling abroad must again
