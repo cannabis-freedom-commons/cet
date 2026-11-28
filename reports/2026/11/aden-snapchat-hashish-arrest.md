@@ -86,25 +86,31 @@ sources:
     publisher: عدن الغد
     date: 2026-11-25
     language: ar
-open_questions:
-    - No weight or quantity was published for the suspected hashish seized from the woman.
-    - The accounts reproduce the same Aden anti-narcotics statement and are not independent reporting.
-    - No charge, detention measure or court step in the case was reported.
+  - title: من التباهي والإستعراض بتعاطيها الحشيش عبر حسابها في السناب شات والاستهتار بالقانون.. صاحبة حساب «غزال» في قبضة العقيد مياس الجعدني بعد رصدها وضبطها متلبسة بحيازة مادة الحشيش المخدر
+    url: https://www.adenvoice.net/news/AU12XI79-9Z6710-3727
+    publisher: صوت عدن
+    date: 2026-11-26
+    language: ar
+  - title: «غزال سناب» في قبضة الأمن.. ضبط مشهورة سناب شات متلبسة بحيازة الحشيش بعد فيديو فضحها .
+    url: https://www.albaud4.net/news/35818
+    publisher: البعد الرابع
+    date: 2026-11-25
+    language: ar
 ---
 
 Aden's anti-narcotics police and the National Security Forces, led by Colonel
-Miyas Al-Ja'dani, detained a young woman known on Snapchat as 'Ghazal'. [@4,5,6,7,8,9] The
+Miyas Al-Ja'dani, detained a young woman known on Snapchat as 'Ghazal'. [@4,5,6,7,8,9,10] The
 security media office dated its statement Wednesday 25 November 2026. [@3] She
 was accused of possessing hashish and of displaying her use of it on her
-Snapchat account. [@2,5,6] Officers caught her in Al-Ma'la district of Aden after a
-monitoring and tracking operation. [@4,6,9] The Security Media Centre said the
+Snapchat account. [@2,5,6,11] Officers caught her in Al-Ma'la district of Aden after a
+monitoring and tracking operation. [@4,6,9,10] The Security Media Centre said the
 arrest came after she posted photos and videos on her account boasting about
 taking hashish. [@4,5,6,7]
 
 The operation produced a substance suspected to be hashish, and a photo
 circulated after the arrest showing the items seized from her. [@1,8] The case
 file and the seized items were handed to the Security and Investigation
-Prosecution to refer the woman to justice. [@4,5,6,7,9]
+Prosecution to refer the woman to justice. [@4,5,6,7,9,11]
 
 Colonel Al-Ja'dani said social media was not a space for evading accountability
 and that anyone involved in possessing, promoting or using drugs would face
