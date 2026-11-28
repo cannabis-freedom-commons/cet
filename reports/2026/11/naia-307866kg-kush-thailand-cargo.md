@@ -50,6 +50,11 @@ media:
     media_url: https://balita.com/wp-content/uploads/2026/11/8ceRpKh1vLZMrvz0Wp1xnC3tWQS8BGT7FjdPZ7j2.webp
     publisher: balita.com
     caption: 'BOC handout of the high-grade marijuana (''kush'') from Thailand seized at NAIA, published under a caption describing 307.87 kg worth an estimated PHP369.44 million found in two shipments. Photo: Bureau of Customs.'
+  - kind: video
+    url: https://www.facebook.com/pnagovph/posts/authorities-seized-a-total-of-307866-kg-of-marijuana-worth-around-php36943-milli/1572186034957845/
+    media_url: https://www.facebook.com/100064993891753/videos/pcb.1572186034957845/1608597237703389
+    publisher: Philippine News Agency
+    caption: PDEA video posted with the Philippine News Agency account of the 307.866 kg marijuana interdiction. Video courtesy of PDEA.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: f09faca861ba79a8ef35c803979df690
@@ -67,19 +72,23 @@ sources:
     url: https://balita.com/p370m-worth-of-high-grade-marijuana-from-thailand-seized-at-naia/
     publisher: balita.com
     date: 2026-11-26
+  - title: Authorities seized a total of... - Philippine News Agency | Facebook
+    url: https://www.facebook.com/pnagovph/posts/authorities-seized-a-total-of-307866-kg-of-marijuana-worth-around-php36943-milli/1572186034957845/
+    publisher: Philippine News Agency
+    date: 2026-11-25
+    language: en
 open_questions:
     - No arrests or charges were reported; the consignees in Bulacan and Caloocan City were not named, though PDEA said they were being investigated for drug importation.
     - No separate weights were published for the marijuana in each of the two shipments.
-    - Both accounts reproduce official statements from the Bureau of Customs and PDEA rather than independent reporting; no independent second source was located.
-    - It was not reported whether the seized marijuana was turned over to PDEA for laboratory testing or disposition.
-    - The value was given as P369.44 million in the original account and P369.43 million in the Philstar account, and the weight as 307.866 kilograms versus over 307 kilos.
+    - The accounts reproduce official statements from the Bureau of Customs and PDEA rather than independent reporting; no independent second source was located.
+    - The value was given as P369.44 million in the original account and P369.43 million in the Philstar and Philippine News Agency accounts, and the weight as 307.866 kilograms versus over 307 kilos.
 ---
 
 The Bureau of Customs–Ninoy Aquino International Airport (BOC-NAIA) seized
 307.866 kilograms of high-grade marijuana, known as kush, from two shipments
-from Thailand on 23 November 2026. [@1,2,3] Customs valued the seized marijuana at
+from Thailand on 23 November 2026. [@1,2,3,4] Customs valued the seized marijuana at
 an estimated 369.44 million pesos. [@1,2,3] Both shipments were bound for consignees
-in Bulacan and Caloocan City. [@1,3] PDEA chief Isagani Nerez did not disclose the identities of the two consignees, who are being investigated for drug importation. [@2]
+in Bulacan and Caloocan City. [@1,3,4] PDEA chief Isagani Nerez did not disclose the identities of the two consignees, who are being investigated for drug importation. [@2]
 
 BOC-NAIA District Collector Yasmin Mapa reported to Customs Commissioner
 Charlito Martin Mendoza that personnel flagged both shipments based on
@@ -88,4 +97,4 @@ revealed suspicious images, after which the Philippine Drug Enforcement Agency
 (PDEA) conducted a K9 inspection of the shipments. [@1,3] The drugs originated from Thailand and were found during an interdiction operation using narcotics detection dogs at the Pair-Pags Center, a commercial and logistics hub at the airport. [@2] During the physical
 examination, Customs personnel found kush in 164 boxes. [@1,3] The cargo
 declarations listed truck side mirrors and assorted children's plastic toys.
-[@1,2,3]
+[@1,2,3,4] The seized drug evidence was to be submitted to the PDEA Laboratory Service for forensic examination. [@4]
