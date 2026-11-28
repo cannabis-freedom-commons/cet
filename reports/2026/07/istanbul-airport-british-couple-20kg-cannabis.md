@@ -79,22 +79,32 @@ sources:
     url: https://www.thesun.co.uk/news/39859715/brit-drug-mule-jailed-cannabis-suitcases-turkey/
     publisher: The Sun
     date: 2026-07-24
+  - title: Moment Brit 'drug mule' couple caught with £280k of cannabis at Turkish airport as alleged smugglers face 30 years in prison
+    url: https://www.lbc.co.uk/article/drug-mule-couple-cannabis-turkish-airport-5HjdYpT_2/
+    publisher: LBC
+    date: 2026-05-07
+  - title: British couple arrested in Turkey after 'trying to smuggle suitcases full of cannabis into UK'
+    url: https://www.gbnews.com/news/world/turkey-british-couple-smuggle-suitcases-cannabis
+    publisher: GB News
+    date: 2026-05-06
 open_questions:
-  - Turkish customs put the haul at 20 kg, while The Sun reported 19 kg in 17 vacuum-packed bags; the report uses 20 kg.
-  - The Sun gives the value as both about £280,000 and £300,000 in the same article, so no value is recorded.
-  - No separate judgment date was published; 24 July 2026 is the date of the article reporting the sentence and acquittal.
-  - The Sun does not say what charge Cooper faced or whether her acquittal is final.
-  - Johnson's lawyer said there would be no appeal, but no court record of the sentence was published.
-  - The account of the sentence and acquittal rests on a single newspaper report.
-  - 'Left out, as its quotation was not found in The Sun: His lawyer said the prosecutor accepted that the cannabis was being transported in transit rather than imported into Turkey.'
+    - The 20 kg figure is the customs total; other reports put the haul at 19 kg or 19.2 kg in 17 vacuum-packed bags.
+    - The value was reported as both about £280,000 and £300,000, so no value is recorded.
+    - No separate judgment date was published; 24 July 2026 is the date of the article reporting the sentence and acquittal.
+    - It is not clear what charge Cooper faced or whether her acquittal is final.
+    - Johnson's lawyer said there would be no appeal, but no court record of the sentence was published.
+    - The account of the sentence and acquittal rests on a single newspaper report.
+    - Turkish authorities have not confirmed the family's claim that Johnson was beaten in detention.
+    - 'The accounts differ on the couple''s home towns: one places both in Wednesbury, while others put Cooper in Coseley and Johnson in Wednesbury.'
+    - Reports before trial said a conviction carried 10 to 30 years, but Johnson was sentenced to nine years and two months; the court's reasons for the lower term are not explained.
 ---
 
 Holly Cooper and Taylor Johnson, both 20 and from the West Midlands, were
-arrested at Istanbul Airport on the night of 26 April 2026. [@3] They were
+arrested at Istanbul Airport on the night of 26 April 2026. [@3,4] They were
 flying home from a holiday in Thailand and changing flights in Istanbul when
 officers stopped them. [@3] Turkish customs officers found 20 kilograms of
 cannabis in a suitcase belonging to one of them, sealed in vacuum-packed
-wrapping. [@1] The two were questioned and placed in pre-trial detention. [@1]
+wrapping. [@1] The two were questioned and placed in pre-trial detention. [@1] Friends raised £455 through a GoFundMe for legal fees in five days, and the page was later taken down. [@4] A family friend said the couple had been recruited and groomed by bigger criminals and exploited by them. [@4] They faced a possible sentence of between 10 and 30 years if convicted. [@4] They had no private lawyers and were expected to be defended by public lawyers. [@4] Johnson's family said he was beaten in an overcrowded cell before the couple were moved to another jail, where they could be held for up to a year before trial. [@5]
 British authorities confirmed the arrests on 7 May and said they were supporting
 the two nationals and their families. [@2]
 
@@ -109,4 +119,3 @@ The Sun reported the haul as 19 kilograms of cannabis in 17 black, vacuum-packed
 bags. [@3] Thailand decriminalised cannabis in 2022, and British officials have
 warned travellers not to bring it home after a rise in arrests at UK airports.
 [@1]
-
