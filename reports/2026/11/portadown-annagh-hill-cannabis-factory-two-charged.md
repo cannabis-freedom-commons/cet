@@ -57,6 +57,11 @@ media:
     media_url: https://www.newsletter.co.uk/jpim-static/image/2026/11/26/7/55/Cannabis-Factory-(4).jpeg?trim=0,4,342,0&crop=&width=990&quality=65
     publisher: Belfast News Letter
     caption: 'The cannabis factory discovered in the Annagh Hill industrial estate in Portadown. Photo: Pacemaker/PSNI'
+  - kind: photo
+    url: https://www.belfastlive.co.uk/news/two-men-due-court-over-34967199
+    media_url: https://i2-prod.belfastlive.co.uk/article34967212.ece/ALTERNATES/s1200e/0_Cannabis-Factory-1.jpg
+    publisher: Belfast Live
+    caption: Police photo of the cannabis factory found in the Annagh Hill Industrial Estate, Portadown.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: eb86b0d24fa75515cba5bd9cfd55e501
@@ -91,20 +96,27 @@ sources:
     url: https://www.newsletter.co.uk/news/courts/two-men-due-in-court-over-substantial-cannabis-factory-discovery-9374967
     publisher: Belfast News Letter
     date: 2026-11-26
+  - title: Two men due in court over 'substantial' cannabis factory discovery
+    url: https://www.belfastlive.co.uk/news/two-men-due-court-over-34967199
+    publisher: Belfast Live
+    date: 2026-11-25
+open_questions:
+    - No figure for the number of plants seized or the weight of cannabis was published.
+    - No court outcome from the scheduled Lisburn Magistrates Court appearance has been reported.
 ---
 
 Police found a substantial cannabis factory at a commercial unit in the Annagh
 Hill industrial estate in Portadown in the early hours of Wednesday 25 November
-2026, after noting a strong smell of cannabis. [@2,4,5,7] Two men, aged 32 and 27, who
-were inside the property were arrested. [@1,4,5,6,7,8]
+2026, after noting a strong smell of cannabis. [@2,4,5,7,9] Two men, aged 32 and 27, who
+were inside the property were arrested. [@1,4,5,6,7,8,9]
 
 The operation spanned three floors and contained plants police said had an
-estimated street value of £200,000. [@1,4,6] PSNI Chief Inspector Flannigan said the
+estimated street value of £200,000. [@1,4,6,9] PSNI Chief Inspector Flannigan said the
 operation was capable of producing large quantities of cannabis that would have
 reached the local community. [@1,4,6]
 
 The men were charged with cultivating cannabis, possession of a Class B
 controlled drug, possession with intent to supply and being concerned in the
-supply of a Class B drug. [@1,5,6,7,8] They were expected to appear before Lisburn
+supply of a Class B drug. [@1,5,6,7,8,9] They were expected to appear before Lisburn
 Magistrates Court on Thursday 26 November. [@3,5,6,7,8] PSNI said the charges would be
 reviewed by the Public Prosecution Service. [@3,5,7,8]
