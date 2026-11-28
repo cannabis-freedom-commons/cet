@@ -58,27 +58,37 @@ sources:
     publisher: 112Groningen.nl
     date: 2026-11-24
     language: nl
+  - title: Politie ontdekt hennepkwekerij met ruim 50 kilo hennep in Froombosch
+    url: https://www.ad.nl/midden-groningen/politie-ontdekt-hennepkwekerij-met-ruim-50-kilo-hennep-in-froombosch~aa3dcb43/
+    publisher: AD.nl
+    date: 2026-11-26
+    language: nl
 media:
   - kind: photo
     url: https://112groningen.nl/440123/groningen/hennepkwekerij-met-1120-planten-en-ruim-50-kilo-hennep-opgerold-in-froombosch/
     media_url: https://112groningen.nl/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-11-52-10-Instagram.png?v=1795517605
     publisher: 112Groningen.nl
     caption: 'Image from the Froombosch cannabis nursery announcement posted by the Ommelanden Midden police account on Instagram. Photo: Ommelanden Midden/Instagram.'
+  - kind: photo
+    url: https://www.ad.nl/midden-groningen/politie-ontdekt-hennepkwekerij-met-ruim-50-kilo-hennep-in-froombosch~aa3dcb43/
+    media_url: https://images.ad.nl/ZGlvLzI3OTI1MDc2OC9maXQtd2lkdGgvNjc2/bij-de-actie-hield-de-politie-een-man-uit-de-gemeente-midden-groningen-aan
+    publisher: AD.nl
+    caption: 'Police detaining a man from the municipality of Midden-Groningen during the Froombosch nursery operation. Photo: Josh Walet.'
 ---
 
 A man who lives in the municipality of Midden-Groningen was arrested in
-connection with the Froombosch nursery. [@1,3,4] After questioning by the police,
+connection with the Froombosch nursery. [@1,3,4,5] After questioning by the police,
 the arrested man was sent home, although the police account says that he remains
-a suspect in the ongoing case. [@1,3,4] Police said they do not rule out that more
-than one person was involved in setting up and running the nursery. [@1,4]
+a suspect in the ongoing case. [@1,3,4,5] Police said they do not rule out that more
+than one person was involved in setting up and running the nursery. [@1,4,5]
 
 During a police operation in Froombosch on Thursday 19 November 2026, officers
 discovered a professionally constructed cannabis nursery that included a
-separate drying facility. [@1,4] During the operation in Froombosch, officers
-found a total of 1,120 cannabis plants at the nursery site. [@1,2,4] At the same
+separate drying facility. [@1,4,5] During the operation in Froombosch, officers
+found a total of 1,120 cannabis plants at the nursery site. [@1,2,4,5] At the same
 nursery site, officers also found just over 50 kilograms of cannabis alongside
-the growing plants. [@1,3,4] At the site, officers also established that electricity
-was being tapped illegally to supply the nursery. [@1,3,4]
+the growing plants. [@1,3,4,5] At the site, officers also established that electricity
+was being tapped illegally to supply the nursery. [@1,3,4,5]
 
 Police said the investigation into the nursery, the arrested suspect and any
-other people involved was still running. [@1,4] Colleagues from Police Unit Northern Netherlands came to the scene to carry out a forensic examination. [@4]
+other people involved was still running. [@1,4,5] Colleagues from Police Unit Northern Netherlands came to the scene to carry out a forensic examination. [@4,5]
