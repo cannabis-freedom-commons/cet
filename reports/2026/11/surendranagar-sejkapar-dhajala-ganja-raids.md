@@ -70,6 +70,11 @@ sources:
     publisher: Sandesh
     date: 2026-11-26
     language: gu
+  - title: 'સાયલામાં 5.39 કિલો સૂકા ગાંજા સાથે યુવક ઝડપાયો: SOGએ સેજકપર ગામની સીમમાં આવેલી એક વાડીમાંથી રૂ. 2.69 લાખનો જથ્થો જપ્ત કર્યો'
+    url: https://www.divyabhaskar.co.in/local/gujarat/surendranagar/sayla/news/sayla-sog-seizes-ganja-shekhpar-farm-arrest-139805623.html
+    publisher: Divya Bhaskar
+    date: 2026-11-26
+    language: gu
 open_questions:
     - The article gives no separate date for either raid; 26 November 2026 is its publication date and stands in for the incident date.
     - The 8 kg is the stated weight of the 36 plants, not dried cannabis, and is kept out of the dried-ganja weight.
@@ -83,8 +88,8 @@ open_questions:
 Surendranagar's Special Operations Group (SOG) raided a field on the outskirts
 of Sejkapar in Sayla taluka after a tip-off that ganja was being kept there for
 sale. [@2,3] The field was held by Devsangbhai Sheikh of Dhamarala village, who
-had no pass or permit to keep ganja. [@2] Police seized 5 kg 390 g of dried
-green ganja. [@1,3] Police valued the dried ganja at Rs 2,69,500. [@1] Police
+had no pass or permit to keep ganja. [@2] The man arrested in the Sejkapar raid was 18 years and 8 months old. [@4] Police seized 5 kg 390 g of dried
+green ganja. [@1,3,4] Police valued the dried ganja at Rs 2,69,500. [@1,4] Police
 arrested him and registered a case at Sayla police station. [@2]
 
 Dhajala and Panshina police teams acting on a tip-off separately seized 36 ganja
