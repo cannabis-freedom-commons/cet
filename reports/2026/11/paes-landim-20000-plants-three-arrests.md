@@ -118,6 +118,11 @@ sources:
     publisher: Portal Clube News
     date: 2026-11-04
     language: pt
+  - title: PF erradica 20 mil pés de maconha e prende três pessoas no Piauí
+    url: https://cidadesnanet.com/portal/destaque-3/pf-erradica-20-mil-pes-de-maconha-e-prende-tres-pessoas-no-piaui/
+    publisher: Cidades na Net
+    date: 2026-11-04
+    language: pt
 open_questions:
   - Agência Gov names the rural zone of Paes Landim, in southern Piauí, while the Federal Police's own statement names the rural zone of Simplício Mendes; the report uses the submitted account's place and cannot say which municipality is correct.
   - No area in hectares was published for the four cultivation plots.
@@ -134,13 +139,13 @@ open_questions:
 
 The Federal Police eradicated about 20,000 cannabis plants and arrested three
 people on Wednesday 4 November 2026 in the rural zone of Paes Landim, in
-southern Piauí. [@1,4,5,6,7,8,9,10,11] The operation was run from the Federal Police's Picos base
+southern Piauí. [@1,4,5,6,7,8,9,10,11,12] The operation was run from the Federal Police's Picos base
 in Piauí. [@1]
 
-During the operation the teams found four plots used to grow the drug. [@1,3,4,5,7,8,10,11] The
+During the operation the teams found four plots used to grow the drug. [@1,3,4,5,7,8,10,11,12] The
 Federal Police estimated the potential production of the plots at about four
-tonnes of cannabis. [@1,3,4,5,7,8,10,11] Officers also found irrigation machinery, fertilisers,
-cultivation tools and a structure for raising seedlings at the sites. [@1,3,4,5,7,8,10,11]
+tonnes of cannabis. [@1,3,4,5,7,8,10,11,12] Officers also found irrigation machinery, fertilisers,
+cultivation tools and a structure for raising seedlings at the sites. [@1,3,4,5,7,8,10,11,12]
 
 The Federal Police's own statement gives the location as the rural zone of
 Simplício Mendes rather than Paes Landim. [@2]
