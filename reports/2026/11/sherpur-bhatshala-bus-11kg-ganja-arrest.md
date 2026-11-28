@@ -46,21 +46,30 @@ sources:
     publisher: Dhaka Today
     date: 2026-11-21
     language: bn
+  - title: শেরপুরে সাড়ে ১১ কেজি গাঁজাসহ মাদক কারবারি আটক
+    url: https://www.rupalibangladesh.com/all-bd-news/sherpur/182029
+    publisher: Rupali Bangladesh
+    date: 2026-11-21
+    language: bn
+open_questions:
+    - Accounts differ on which road the checkpoint stood on, naming both the Dhaka-Sherpur road and the Sherpur-Roumari road.
+    - No amount was published for the cash seized from the man.
+    - What happened at his court appearance after the handover to Sherpur Sadar police was not reported.
 ---
 
 SRB-14 members set up a special checkpoint on the Sherpur-Roumari road and
 searched vehicles on the basis of secret information. [@1] They stopped a
 Cumilla-to-Roumari Nur Paribahan passenger bus and first detained passenger
 Joynal Abedin. [@1,2] The detention took place on Saturday morning in front of the
-Haji Filling Station at Bhatshala in Sadar Upazila. [@1,2] The detained man was
-41-year-old Joynal Abedin. [@1] He is the son of Mokhsed Ali from Jigabari in
+Haji Filling Station at Bhatshala in Sadar Upazila. [@1,2,3] The detained man was
+41-year-old Joynal Abedin. [@1,3] He is the son of Mokhsed Ali from Jigabari in
 Erendabari Union, Fulchhari, Gaibandha. [@1]
 
 Acting on information given by him, officers recovered 11 kg 460 grams of ganja
-from a trolley bag kept in the bus locker. [@1,2] SRB also seized a mobile phone
-and cash said to have been used for buying and selling drugs. [@1] SRB then
-handed Joynal with the ganja to Sherpur Sadar police station. [@1,2] A case was
-filed against him at the station. [@1,2] He was to be produced before the court on
+from a trolley bag kept in the bus locker. [@1,2,3] SRB also seized a mobile phone
+and cash said to have been used for buying and selling drugs. [@1,3] SRB then
+handed Joynal with the ganja to Sherpur Sadar police station. [@1,2,3] A case was
+filed against him at the station. [@1,2,3] SRB-14 itself was the complainant in the case, filed under the Narcotics Control Act at Sherpur Sadar police station. [@3] He was to be produced before the court on
 Sunday, according to Sadar station officer-in-charge Khokon Chandra Ghosh. [@1]
 
 Jamalpur SRB-14 CPC-1 company commander Major Labid Ahmed said the trader had
