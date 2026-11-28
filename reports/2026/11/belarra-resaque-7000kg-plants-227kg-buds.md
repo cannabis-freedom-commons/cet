@@ -69,19 +69,19 @@ sources:
     publisher: Reporteri.net
     date: 2026-11-26
     language: sr
-open_questions:
-  - The authorities gave the weight of the plants, seven tonnes, but no count of individual plants.
-  - The accounts give no separate date for the operation; 24 November 2026 is their publication date, used here as the incident date.
-  - It was not reported whether the second caretaker was later arrested or what court action followed.
-  - The text gives a number of plants ("7,000 kg of plants") but the figures have no plants_destroyed; check whether it belongs there.
+  - title: Zwei Albaner, die im Verdacht stehen, eine riesige Marihuana-Plantage bewacht zu haben; 7 Tonnen Cannabis beschlagnahmt.
+    url: https://reporteri.net/de/Botschaft/Albanien/Zwei-Albaner-unter-Verdacht--eine-riesige-Marihuana-Plantage-bewacht-zu-haben%3B-7-Tonnen-Cannabis-beschlagnahmt/
+    publisher: Reporteri.net
+    date: 2026-11-26
+    language: de
 ---
 
 Spanish National Police dismantled a large cannabis plantation hidden in a
 hard-to-reach forest in the Aragonese Pyrenees, seizing seven tonnes of cannabis
-plants and 227 kilograms of buds (cogollos). [@1,3] Officers identified two
+plants and 227 kilograms of buds (cogollos). [@1,3,4] Officers identified two
 Albanian men as the people who guarded and cared for the crop; one was arrested
 as he tried to leave Spain, while an arrest warrant was issued for the second.
-[@1,3] Both men are suspected of offences against public health and the
+[@1,3,4] Both men are suspected of offences against public health and the
 environment and of membership of a criminal organisation. [@2]
 
 The plantation lay near the village of Belarra, in the municipality of
