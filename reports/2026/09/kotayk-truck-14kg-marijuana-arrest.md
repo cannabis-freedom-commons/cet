@@ -66,18 +66,22 @@ sources:
     publisher: NEWS.am
     date: 2026-10-02
     language: ru
+  - title: Лицо, контрабандой ввезшее 14 кг наркотиков на территорию Армении, задержано
+    url: https://investigative.am/ru/articles/%D5%B6%D5%B8%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%B1%D0%B0%D0%BD%D0%B4%D0%B0-%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B8
+    publisher: Investigative Committee of the Republic of Armenia
+    date: 2026-10-01
+    language: ru
 open_questions:
-  - The exact factory and parking location was not named beyond a factory site near the Yerevan-Sevan highway.
-  - The suspect was identified only as a 45-year-old foreign national; name and citizenship were not published.
-  - The origin, entry point and intended distribution route of the marijuana were not reported.
-  - No charge, custody ruling beyond detention, or court outcome was reported; the investigation was still under way.
-  - Verelq headlines the amount as 14 kg while its body gives the precise 14.2 kg used in the report.
-  - Verelq calls the fourth participant the patrol service without a Kotayk-regional qualifier, while the report says Kotayk regional patrol police; the joint-operation match is otherwise exact.
-  - 'Left out, as its quotation was not found in Hetq: Authorities classified the 14.2 kg as an especially large quantity.'
+    - The exact factory and parking location was not named beyond a factory site near the Yerevan-Sevan highway.
+    - The suspect was identified only as a 45-year-old foreign national; name and citizenship were not published.
+    - The origin, entry point and intended distribution route of the marijuana were not reported.
+    - No charge, custody ruling beyond detention, or court outcome was reported; the investigation was still under way.
+    - Verelq headlines the amount as 14 kg while its body gives the precise 14.2 kg used in the report.
+    - Verelq calls the fourth participant the patrol service without a Kotayk-regional qualifier, while the report says Kotayk regional patrol police; the joint-operation match is otherwise exact.
 ---
 
 Armenian officers detained one person for attempting to illegally bring drugs
-into the country in an especially large amount of 14.2 kg. [@1,4] The detainee is
+into the country in an especially large amount of 14.2 kg. [@1,4,6] The detainee is
 a 45-year-old foreign national suspected of smuggling drugs into Armenia for
 distribution. [@2,3,5] Police found the man at about 2:30 a.m. on 29 September in a
 truck parked at a factory site near the Yerevan-Sevan highway. [@2,3,4] Officers
@@ -85,11 +89,11 @@ took the suspect to a detention facility. [@2,3,4]
 
 A subsequent search of the truck uncovered 30 packages containing a total of
 14.2 kg of marijuana. [@2,3,5] The marijuana was found inside the cabin of the
-truck. [@1,3,4] Authorities classified the 14.2 kg as an especially large quantity.
-[@1] The search followed joint operational-investigative measures carried out
-with National Security Service and Interior Ministry officers. [@1]
+truck. [@1,3,4,6] Authorities classified the 14.2 kg as an especially large quantity.
+[@1,6] The search followed joint operational-investigative measures carried out
+with National Security Service and Interior Ministry officers. [@1,6]
 
 The detention followed a joint operation involving the Kotayk regional
 criminal-police department, the National Security Service, the Investigative
 Committee and the Kotayk regional patrol police. [@2,3,5] The preliminary
-investigation in the criminal case is continuing. [@1,3,4]
+investigation in the criminal case is continuing. [@1,3,4] The Investigative Committee said the case was opened by its Kotayk regional investigative department. [@6]
