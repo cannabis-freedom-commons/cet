@@ -42,6 +42,11 @@ media:
     media_url: https://imagenes.hoy.com.do/files/image_video_mobile/uploads/2026/06/26/6a3ecd5f19dd2.jpeg
     publisher: Hoy
     caption: 'Presumed marijuana and cocaine packages seized from the narcolancha off Punta Salinas, laid out after the interception. Photo: DNCD via Hoy'
+  - kind: photo
+    url: https://elnacional.com.do/nacionales/policiales/decomisan-1-743-paquetes-drogas-bani-capturan-dos-hombres_574393.html
+    media_url: https://imagenes.elnacional.com.do/files/image_media_main_desktop/files/fp/uploads/2026/06/26/6a3ebf3fbf139.r_d.2278-1673-2976.jpeg
+    publisher: El Nacional
+    caption: 'Packages of suspected marijuana and cocaine seized from the fast boat off Baní, laid out after the interception. Photo: external source (Fuente externa) via El Nacional'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: 4fd24f3df657e2f5bdd69d758ab3f229
@@ -62,6 +67,11 @@ sources:
     publisher: Acento
     date: 2026-06-26
     language: es
+  - title: Decomisan 1,743 paquetes de drogas en Baní y capturan a dos hombres
+    url: https://elnacional.com.do/nacionales/policiales/decomisan-1-743-paquetes-drogas-bani-capturan-dos-hombres_574393.html
+    publisher: El Nacional
+    date: 2026-06-26
+    language: es
 open_questions:
   - No weight was published for the 1,730 marijuana packages; the load went to Inacif for exact weight and typing.
   - No separate date or time is given for the interception; 26 June 2026 is the day the DNCD announced it.
@@ -73,26 +83,25 @@ open_questions:
 ---
 
 Two Dominican men were detained after the interception and were to face a
-request for a coercion measure within hours. [@1] The two detainees were to be
+request for a coercion measure within hours. [@1,4] The two detainees were to be
 brought before the competent court within hours for the coercion hearing. [@3]
 
 Officers found 38 sacks holding 1,730 packages of suspected marijuana and 13
 packages of suspected cocaine, wrapped in tape and marked with logos used by
-trafficking networks. [@1] Authorities put the whole cargo at 1,743 packages of
-suspected marijuana and cocaine. [@2] The load was sent to Inacif, the national
+trafficking networks. [@1,4] Authorities put the whole cargo at 1,743 packages of
+suspected marijuana and cocaine. [@2,4] The load was sent to Inacif, the national
 forensic institute, to establish the exact type and weight of the substances.
-[@2]
+[@2,4]
 
 The boat was intercepted several nautical miles south of Punta Salinas, on the
 coast of the Baní municipality in Peravia province, after hours of surveillance
-and pursuit. [@1] The interception was carried out by the DNCD, the Dominican
+and pursuit. [@1,4] The interception was carried out by the DNCD, the Dominican
 Republic's drug-control agency, with the Dominican Navy (ARD), the Air Force
-(FARD), state intelligence agencies and the Public Ministry. [@1] Authorities
+(FARD), state intelligence agencies and the Public Ministry. [@1,4] Authorities
 said the boat came from South America and that the network brings large loads to
-the Dominican Republic on narcolanchas, fast smuggling boats. [@2]
+the Dominican Republic on narcolanchas, fast smuggling boats. [@2,4]
 
 Since Friday 26 June authorities have kept an intensive operation along the Baní
 coastline, seeking further evidence and more detentions. [@1] The Public
 Ministry and the DNCD opened an investigation into other members of the network.
-[@2]
-
+[@2,4] Authorities said the seizure formed part of strengthened interdiction operations against trafficking networks and transnational organised crime. [@4]
