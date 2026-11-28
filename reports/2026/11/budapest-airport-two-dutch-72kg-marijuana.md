@@ -88,6 +88,11 @@ sources:
     publisher: Helló Magyar
     date: 2026-11-26
     language: hu
+  - title: Két holland férfit fogtak el a Liszt Ferenc repülőtéren, 72 kiló marihuána volt a bőröndjükben
+    url: https://www.okoshir.hu/2026/11/26/ket-holland-ferfit-fogtak-el-a-liszt-ferenc-repuloteren-72-kilo-marihuana-volt-a-borondjukben/
+    publisher: Okoshír.hu
+    date: 2026-11-26
+    language: hu
 media:
   - kind: photo
     url: https://hvg.hu/itthon/20261126_rendorseg-nni-nav-ferihegy-72-kilogramm-marihuana-holland-ferfi-diler
@@ -113,10 +118,10 @@ media:
 
 Hungarian customs officers detained two Dutch drug couriers at Budapest Ferenc
 Liszt International Airport who had tried to smuggle 72 kilograms of marijuana
-in four checked suitcases. [@1,5,6,7,9] The National Investigation Office's anti-drug
+in four checked suitcases. [@1,5,6,7,9,10] The National Investigation Office's anti-drug
 unit had warned the airport directorate of the National Tax and Customs
 Administration (NAV) on the morning of 25 November that a drug shipment was
-expected on a flight to Budapest. [@2,5,6,8,9] The two men had flown to Budapest from
+expected on a flight to Budapest. [@2,5,6,8,9,10] The two men had flown to Budapest from
 Bangkok with a stopover in Doha. [@1,5,8,9]
 
 Customs officers found 125 packages in the four checked suitcases belonging to
