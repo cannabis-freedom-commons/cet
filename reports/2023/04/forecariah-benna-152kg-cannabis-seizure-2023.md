@@ -45,19 +45,30 @@ sources:
     publisher: Ledjely
     date: 2023-04-14
     language: fr
+  - title: 'Guinée: plus de 150 kilogrammes de cannabis et de faux produits pharmaceutiques saisis par les services spéciaux'
+    url: https://www.guinee114.com/2023/04/14/guinee-plus-de-150-kilogrammes-de-cannabis-et-de-faux-produits-pharmaceutiques-saisis-par-les-services-speciaux/
+    publisher: Guinee114.com
+    date: 2023-04-14
+    language: fr
 open_questions:
-  - The reports give no separate seizure date; 13 April 2023 is the press-presentation date and is used as the incident date.
-  - Guinee7 quotes 150 kg in its direct quotation while Ledjely reports 152 kg; the report records 152 kg as the more precise figure.
-  - The suspect was not named and no age or further identity was published.
-  - No court outcome was reported; the suspect was only reported as due to be sent to the prosecutor or magistrates.
+    - Accounts differ on the press-presentation date, given as Thursday 13 April 2023 by two reports and as Thursday 14 April 2023 by Guinee114, and none gives a separate seizure date; 13 April 2023 is used as the incident date.
+    - Guinee7 and the headline of the Guinee114 article give 150 kg while Ledjely and the Guinee114 text report 152 kg; the report records 152 kg as the more precise figure.
+    - The suspect was not named and no age or further identity was published.
+    - No court outcome was reported; the suspect was only reported as due to be sent to the prosecutor or magistrates.
+media:
+  - kind: photo
+    url: https://www.guinee114.com/2023/04/14/guinee-plus-de-150-kilogrammes-de-cannabis-et-de-faux-produits-pharmaceutiques-saisis-par-les-services-speciaux/
+    media_url: https://www.guinee114.com/wp-content/uploads/2023/04/IMG-20230414-WA0000-1024x576.jpg
+    publisher: Guinee114.com
+    caption: 'Press presentation by Guinea''s special services of the cannabis seized at Benna alongside counterfeit pharmaceutical products. Photo: Guinee114.com'
 ---
 
 Guinea's special services seized cannabis at the home of a Guinean at Benna, in
-Forécariah prefecture on the Guinea-Sierra Leone border. [@2] The services
+Forécariah prefecture on the Guinea-Sierra Leone border. [@2,3] The services
 presented 152 kg of cannabis to the press on Thursday 13 April at the
 presidency's special-services premises. [@2] The man found in possession of the
 cannabis in his house was arrested and was to be brought before magistrates to
-decide his fate. [@1]
+decide his fate. [@1,3]
 
 Officers found the 152 kg concealed in bags during a meticulous search of the
 trafficker's house. [@2] The Guinee7 account quotes the displayed seizure as 150
@@ -67,8 +78,7 @@ at Benna. [@1]
 
 Divisional Commissioner Abdoul Malick Koné described the cannabis as the raw
 material used to make the drug called Kush, which he said has bereaved many
-families. [@2] He said the presumed trafficker would be sent to the prosecutor's
-office to answer for his acts because it is a prohibited substance. [@2] Koné
+families. [@2,3] He said the presumed trafficker would be sent to the prosecutor's
+office to answer for his acts because it is a prohibited substance. [@2,3] Koné
 urged young people to stay away from drugs because they destroy lives and the
 workforce, adding that the services also have a preventive role. [@2]
-
