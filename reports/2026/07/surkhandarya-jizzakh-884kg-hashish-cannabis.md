@@ -51,6 +51,11 @@ sources:
     publisher: yuz.uz
     date: 2026-07-27
     language: ru
+  - title: Почти 9 килограммов наркотиков изъяли в двух регионах Узбекистана
+    url: https://podrobno.uz/cat/proisshestviya/pochti-9-kilogrammov-narkotikov-izyali-v-dvukh-regionakh-uzbekistana/
+    publisher: Podrobno.uz
+    date: 2026-07-27
+    language: ru
 open_questions:
   - No separate date was given for either operation; 27 July 2026 is the date of the SGB announcement and of publication and is used as the incident date.
   - 'Accounts differ on the Jizzakh suspect''s home district: most name Zarbdor, while some say Zamin or Zardaryin.'
@@ -63,19 +68,18 @@ open_questions:
 Uzbekistan's State Security Service (SGB), working with the country's internal
 affairs bodies, carried out two separate operations in Surkhandarya and Jizzakh
 regions that together seized about 9 kilograms of cannabis products, according
-to the SGB. [@1] The agency described the outcome as about 9 kilograms of
+to the SGB. [@1,4] The agency described the outcome as about 9 kilograms of
 narcotic substances taken out of illicit circulation across the two regions.
-[@2]
+[@2,4]
 
 In Jizzakh city, officers of the SGB's Jizzakh regional department and internal
 affairs bodies stopped a resident of Zarbdor district born in 1981 for a check.
 [@1] In the household sack he was carrying they found 4 kilograms 840 grams of
-cannabis, which was seized as material evidence. [@1] That find was reported as
-almost 5 kilograms of cannabis. [@2]
+cannabis, which was seized as material evidence. [@1,4] That find was reported as
+almost 5 kilograms of cannabis. [@2,4]
 
 In Termez district, Surkhandarya region, officers found 4 kilograms of hashish
 that had been left by unknown people on an agricultural field during a
-preventive operation and completed the necessary procedural documents. [@1]
+preventive operation and completed the necessary procedural documents. [@1,4]
 Criminal cases were opened on both incidents and investigators were taking
-measures to identify everyone involved. [@3]
-
+measures to identify everyone involved. [@3,4]
