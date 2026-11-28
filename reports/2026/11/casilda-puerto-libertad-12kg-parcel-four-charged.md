@@ -102,29 +102,36 @@ sources:
     publisher: MisionesOnline
     date: 2026-11-23
     language: es
+  - title: Secuestraron más de 12 kilos de marihuana que llegaron a Santa Fe en encomiendas desde Misiones - Sol Play 91.5
+    url: https://www.sol915.com.ar/secuestraron-mas-de-12-kilos-de-marihuana-que-llegaron-a-santa-fe-en-encomiendas-desde-misiones/
+    publisher: Sol Play 91.5
+    date: 2026-11-26
+    language: es
+open_questions:
+    - Three men collected the parcels in Casilda but the accounts name only two of them among the four people detained, and do not say what happened to the third.
 ---
 
 Four men were charged on Thursday 19 November 2026 in Rosario's federal courts
 over two parcels of marijuana sent from Puerto Libertad, Misiones, to the Correo
-Argentino branch in Casilda, Santa Fe. [@1,5] Judge of Garantías Eduardo Rodrígues
+Argentino branch in Casilda, Santa Fe. [@1,5,9] Judge of Garantías Eduardo Rodrígues
 Da Cruz ordered 90 days of preventive detention for the two Paraguayan nationals
-and house arrest with restrictions for the other two. [@1,5,6,7,8] In Puerto Libertad
+and house arrest with restrictions for the other two. [@1,5,6,7,8,9] In Puerto Libertad
 officers arrested a 22-year-old Argentine and a 31-year-old Paraguayan who had
-returned to the parcel dispatch point with another package. [@2,6,7,8] In Casilda they
+returned to the parcel dispatch point with another package. [@2,6,7,8,9] In Casilda they
 arrested a 25-year-old Paraguayan and a 54-year-old Argentine at the housing
 complex where the parcels were taken. [@2,6]
 
 On 16 November 2026 Prefectura Naval officers opened the parcels at the Casilda
 post office with judicial authorisation and found 12.140 kg of marijuana that
-tested positive in a narcotest. [@1,5,6,7,8] The drug was replaced with inert material
-and the parcels were tracked as part of a controlled delivery. [@1,6,7,8] In the
+tested positive in a narcotest. [@1,5,6,7,8,9] The drug was replaced with inert material
+and the parcels were tracked as part of a controlled delivery. [@1,6,7,8,9] In the
 afternoon three men collected the parcels in Casilda and drove them to a housing
-complex, where officers searched two homes. [@1,6] One of the intercepted parcels was seized inside one of the two searched homes. [@6] Officers seized 278,000 pesos
+complex, where officers searched two homes. [@1,6,9] One of the intercepted parcels was seized inside one of the two searched homes. [@6] Officers seized 278,000 pesos
 in cash, a precision scale, a vacuum sealing machine and five phones in one
-home, and three marijuana seedlings and a phone in the other. [@1,5,6,7,8]
+home, and three marijuana seedlings and a phone in the other. [@1,5,6,7,8,9]
 
 The federal prosecutor's office charged the four with transporting narcotics,
-aggravated by the involvement of three or more people. [@4,6,7] The case is handled
+aggravated by the involvement of three or more people. [@4,6,7,9] The case is handled
 by the decentralised federal prosecutor's office in San Lorenzo, with federal
-prosecutor Claudio Kishimoto. [@1,8] The parcels were addressed to a resident of
-Casilda. [@3]
+prosecutor Claudio Kishimoto. [@1,8,9] The parcels were addressed to a resident of
+Casilda. [@3,9]
