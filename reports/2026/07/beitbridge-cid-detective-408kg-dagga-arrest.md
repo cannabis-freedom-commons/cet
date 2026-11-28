@@ -52,6 +52,10 @@ sources:
     url: https://www.southertonbusinesstimes.com/post/cid-officer-charged-over-alleged-dagga-codeine-smuggling
     publisher: Southerton Business Times
     date: 2026-07-22
+  - title: Anti-drugs detective arrested over mbanje, BronCleer smuggling
+    url: https://www.heraldonline.co.zw/anti-drugs-detective-arrested-over-mbanje-broncleer-smuggling/
+    publisher: The Herald
+    date: 2026-07-21
 open_questions:
   - It is not reported whether Kumbirai faces the same charges as Mashoko or has appeared in court.
   - The reported US$50,960 street value covers the dagga and the BronCleer together, with no separate cannabis-only value given.
@@ -61,34 +65,33 @@ open_questions:
 ---
 
 John Mashoko, 37, is a police officer attached to the CID Drugs and Narcotics
-Unit in Beitbridge. [@1] On 19 July he checked out of Buffalo Lodge accompanied
+Unit in Beitbridge. [@1,3] On 19 July he checked out of Buffalo Lodge accompanied
 by Tawanda Kumbirai, 27, a nurse employed by the Ministry of Health and Child
-Care at Beitbridge General Hospital. [@2] Mashoko appeared before Harare
+Care at Beitbridge General Hospital. [@2,3] It is alleged that Mashoko took the driver’s seat while Kumbirai occupied the front passenger seat before detectives approached the pair, identified themselves and sought permission to search the vehicle. [@3] Mashoko appeared before Harare
 magistrate Lazini Ncube facing charges of contravening the Medicines and Allied
 Substances Control Act, dealing in dangerous drugs and criminal abuse of duty as
-a public officer. [@1] Mashoko has not yet entered a plea, and the allegations
+a public officer. [@1,3] Mashoko has not yet entered a plea, and the allegations
 remain unproven until tested in court. [@2] Mashoko and Kumbirai were
-subsequently arrested. [@1]
+subsequently arrested. [@1,3]
 
 During the search of the vehicle, police allegedly recovered 26 compressed
 packets of dagga weighing 40.8kg concealed in the boot, together with 200
 bottles of 100ml BronCleer cough syrup containing 10mg of codeine per bottle.
-[@2] Police also seized the dagga, the medicines, the vehicle and two mobile
-phones, a Samsung Galaxy A17 and a Samsung Galaxy A16. [@1] According to the
+[@2,3] Police also seized the dagga, the medicines, the vehicle and two mobile
+phones, a Samsung Galaxy A17 and a Samsung Galaxy A16. [@1,3] According to the
 State, preliminary checks of the phones revealed messages and recordings
 allegedly linked to the acquisition, transportation, distribution and sale of
-the dagga and medicines. [@1] The recovered drugs and medicines are estimated to
-have a street value of US$50,960. [@1]
+the dagga and medicines. [@1,3] The recovered drugs and medicines are estimated to
+have a street value of US$50,960. [@1,3]
 
 The State alleges that on 18 July 2026 detectives led by Detective Assistant
 Inspector Simbi Padzakashamba received information that Mashoko had smuggled the
 dagga and medicines into Zimbabwe the previous day through illegal crossing
-points west of the Beitbridge Border Post. [@1] Mashoko allegedly used his
+points west of the Beitbridge Border Post. [@1,3] Mashoko allegedly used his
 private vehicle to transport the contraband from the Limpopo River after it had
-been brought across the border. [@1] The court heard that Mashoko had booked
+been brought across the border. [@1,3] The court heard that Mashoko had booked
 Room 1 at Buffalo Lodge, located at the 15km peg along the Beitbridge-Masvingo
 Road, while travelling to Harare, where he allegedly intended to sell the drugs.
-[@1] Acting on the information, detectives went to the lodge, found Mashoko's
+[@1,3] Acting on the information, detectives went to the lodge, found Mashoko's
 vehicle parked on the premises and conducted an overnight surveillance
-operation. [@1]
-
+operation. [@1,3]
