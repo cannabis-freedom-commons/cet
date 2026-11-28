@@ -36,6 +36,11 @@ media:
     media_url: https://cache.pressmailing.net/thumbnail/story_hires/b0de8fd6-9c02-498d-a3dd-35b4e547ae16/BTMundMesser.png.jpg
     publisher: Polizei Köln
     caption: 'Narcotics and knives seized during the ''Fokus Sicherheit'' checks in Cologne-Kalk on 25 November 2026. Photo: Polizei Köln'
+  - kind: photo
+    url: https://www.blick-aktuell.de/Nachrichten/Grosskontrolle-in-Koeln-Drogen-Waffen-und-Faelschungen-entdeckt-683327.html
+    media_url: https://www.blick-aktuell.de/Bilder/Gefaelschte-Markenprodukte-und-Bargeld-1033959h.webp
+    publisher: BLICK aktuell
+    caption: 'Counterfeit brand products and cash seized during the ''Fokus Sicherheit'' checks in Cologne on 25 November 2026. Photo: Polizei Köln'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: bb49bc126c1e3e57fb938b0495f295b0
@@ -71,6 +76,11 @@ sources:
     publisher: t-online
     date: 2026-11-26
     language: de
+  - title: 'Großkontrolle in Köln: Drogen, Waffen und Fälschungen entdeckt'
+    url: https://www.blick-aktuell.de/Nachrichten/Grosskontrolle-in-Koeln-Drogen-Waffen-und-Faelschungen-entdeckt-683327.html
+    publisher: BLICK aktuell
+    date: 2026-11-26
+    language: de
 open_questions:
   - No weight, value or plant count was published for the cannabis and hashish found in the seven businesses.
   - The police statement does not name anyone charged over the cannabis or say how many of the criminal proceedings concern it.
@@ -80,18 +90,18 @@ open_questions:
 
 With nearly 100 officers, Cologne police checked businesses, people and vehicles
 on the evening of 25 November 2026 under the 'Fokus Sicherheit' project,
-supported by staff from the city's public order office. [@1,5,6] The control teams
-examined seven businesses, among them cafés, bars and kiosks. [@4,6] Officers
+supported by staff from the city's public order office. [@1,5,6,7] The control teams
+examined seven businesses, among them cafés, bars and kiosks. [@4,6,7] Officers
 examining those businesses found cannabis and hashish alongside suspected
-cocaine and ecstasy tablets. [@2,5,6] A police dog also found a bag of cannabis in a
-backyard. [@2,5,6]
+cocaine and ecstasy tablets. [@2,5,6,7] A police dog also found a bag of cannabis in a
+backyard. [@2,5,6,7]
 
 Police opened several criminal proceedings, including on suspicion of drug
-trafficking and of violations of the weapons law. [@2,5] The city's public order
+trafficking and of violations of the weapons law. [@2,5,7] The city's public order
 office sealed a kiosk where partially hidden illegal vapes and snus were found.
-[@3,6] The city's public order office also shut two cafés, citing unreliable operators and a suspected sham business registration and illegal gambling. [@5,6] Officers also seized three knives, a stolen e-bike, suspected counterfeit
-brand products and nearly €1,000 in cash. [@1,5] Part of the Kalk-Mülheimer Straße
-was closed during the checks. [@1,5,6]
+[@3,6,7] The city's public order office also shut two cafés, citing unreliable operators and a suspected sham business registration and illegal gambling. [@5,6,7] Officers also seized three knives, a stolen e-bike, suspected counterfeit
+brand products and nearly €1,000 in cash. [@1,5,7] Part of the Kalk-Mülheimer Straße
+was closed during the checks. [@1,5,6,7]
 
 A 27-year-old paid a fine on the spot because an arrest warrant was outstanding
-against him. [@2,5] Officers stopped a French-registered car carrying five people, found 41 suspected counterfeit Apple products and nearly €1,000 in cash inside it, and the 44-year-old driver had to post a security deposit. [@5]
+against him. [@2,5,7] Officers stopped a French-registered car carrying five people, found 41 suspected counterfeit Apple products and nearly €1,000 in cash inside it, and the 44-year-old driver had to post a security deposit. [@5,7]
