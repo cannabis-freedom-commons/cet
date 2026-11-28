@@ -103,10 +103,11 @@ sources:
     publisher: tylkoMałopolska
     date: 2026-11-26
     language: pl
-open_questions:
-    - 'The weight of the dried plant material was published only as an approximate figure: almost 900 grams in Bochnia county and almost 23 grams in Brzesko county.'
-    - The almost 900 grams from Bochnia county was only preliminarily identified as marijuana; no laboratory confirmation was reported.
-    - The 1 gram of crystalline substance found in Brzesko county tested as mephedrone and is not counted in the cannabis figures.
+  - title: Prawie 900 gramów marihuany w domu, plantacja na poddaszu. Dwaj mężczyźni w areszcie
+    url: https://www.kryminalki.pl/artykul/37253,prawie-900-gramow-marihuany-w-domu-plantacja-na-poddaszu-dwaj-mezczyzni-w-areszcie
+    publisher: kryminalki.pl
+    date: 2026-11-27
+    language: pl
 ---
 
 Police from the criminal division of the Dąbrowa Tarnowska county police
@@ -115,16 +116,16 @@ operation led to the detention of three men and the seizure of a large amount of
 dried plant material and an illegal cannabis cultivation. [@1,2,3]
 
 The first detentions took place on 17 November in Bochnia county, at the homes
-of two men aged 29 and 31. [@1,2,3,4] In the living quarters officers found almost 900
-grams of dried plant material preliminarily identified as marijuana. [@1,2,3,4] In the
+of two men aged 29 and 31. [@1,2,3,4,5] In the living quarters officers found almost 900
+grams of dried plant material preliminarily identified as marijuana. [@1,2,3,4,5] In the
 attic of the building they found 39 non-fibre cannabis shrubs, the Polish term
-for drug-type cannabis, together with equipment needed to grow plants. [@1,2,3,4] A
+for drug-type cannabis, together with equipment needed to grow plants. [@1,2,3,4,5] A
 further detention took place on 23 November in Brzesko county, where officers
-detained a 23-year-old man. [@1,2,3,4] At his residence they found almost 23 grams of
-dried plant material and one gram of a crystalline substance. [@1,2,3,4] Preliminary
-tests showed the secured substances were marijuana and mephedrone. [@1,2,3,4]
+detained a 23-year-old man. [@1,2,3,4,5] At his residence they found almost 23 grams of
+dried plant material and one gram of a crystalline substance. [@1,2,3,4,5] Preliminary
+tests showed the secured substances were marijuana and mephedrone. [@1,2,3,4,5]
 
 Charges were brought for drug offences including possession of a significant
-quantity of narcotics and illegal cultivation of non-fibre cannabis. [@1,2,3,4] The
+quantity of narcotics and illegal cultivation of non-fibre cannabis. [@1,2,3,4,5] The
 court ordered the first two suspects held in pre-trial detention for three
-months, while the third was granted a property surety. [@1,2,3,4]
+months, while the third was granted a property surety. [@1,2,3,4,5]
