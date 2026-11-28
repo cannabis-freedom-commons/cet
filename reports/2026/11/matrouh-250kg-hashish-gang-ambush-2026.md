@@ -92,6 +92,11 @@ sources:
     publisher: جريدة المال
     date: 2026-11-23
     language: ar
+  - title: تفكيك عصابة خطيرة في مطروح وضبط 6 ملايين قرص مخدر و250 كيلو حشيش بحوزتها
+    url: https://nni-egypt.org/157796
+    publisher: NNI مصر
+    date: 2026-11-23
+    language: ar
 media:
   - kind: photo
     url: https://www.elaosboa.com/3031709/
@@ -132,14 +137,14 @@ media:
 
 Security forces ambushed and detained members of a gang described as highly
 dangerous criminals while they were in Matrouh Governorate, with the Central
-Security Sector taking part. [@1,2,3,7,8,9,10,11,12] Legal procedures were taken after the
+Security Sector taking part. [@1,2,3,7,8,9,10,11,12,13] Legal procedures were taken after the
 detentions. [@1,4,5,6,8,10,12] The case was referred to the Public Prosecution for investigations. [@12]
 
 Officers seized about one million Tramadol pills, 250 kg of hashish and one
 million smuggled cigarette packs, which police valued together at about 250
-million pounds. [@1,2,3,4,5,6,7,8,9,10,11,12] They also seized five million Captagon pills, which police
+million pounds. [@1,2,3,4,5,6,7,8,9,10,11,12,13] They also seized five million Captagon pills, which police
 valued at 6.5 billion pounds in the destination countries, for a combined total
-of about 6.75 billion pounds. [@1,2,3,4,5,6,7,8,9,10,11,12]
+of about 6.75 billion pounds. [@1,2,3,4,5,6,7,8,9,10,11,12,13]
 
 The operation followed information and investigations by the Sector for
 Combating Drugs, Unlicensed Arms and Ammunition, Egypt's anti-narcotics body, in
