@@ -184,6 +184,11 @@ sources:
     publisher: Anbaetv (الأنباء تيفي)
     date: 2026-11-26
     language: ar
+  - title: مصالح الأمن تعتقل مواطنا إسبانيا يدير ورشات سرية لإعداد وتهريب الحشيش - الحدث 24
+    url: https://www.elhadat24.com/society/298048/
+    publisher: الحدث 24 (El Hadat 24)
+    date: 2026-11-26
+    language: ar
 open_questions:
     - The Marrakech Post account says all three of the other detainees were the subject of multiple national arrest warrants, while other accounts say one of them was.
     - No weight was published for the hashish seized in the warehouses, and no amount for the cash found with the detainees.
@@ -192,26 +197,26 @@ open_questions:
 
 A joint security operation in the early hours of Thursday 26 November 2026 in
 Chefchaouen province arrested a 49-year-old Spanish citizen from the Basque
-Country, suspected of links to an international drug-trafficking network. [@1,4,5,6,7,8,9,10,11,12,14,15,16,17,19]
+Country, suspected of links to an international drug-trafficking network. [@1,4,5,6,7,8,9,10,11,12,14,15,16,17,19,20]
 Officers caught him in the act at warehouses in the rural commune of Talambot,
 where he was allegedly preparing shipments for international drug trafficking.
-[@1,5,6,7,8,9,10,11,13,14,15,17,19] Three other people were arrested in related field operations, one of them
+[@1,5,6,7,8,9,10,11,13,14,15,17,19,20] Three other people were arrested in related field operations, one of them
 wanted under several national warrants over drug possession, trafficking and
-substances harmful to public health. [@1,5,7,8,9,10,11,13,14,15,17,19]
+substances harmful to public health. [@1,5,7,8,9,10,11,13,14,15,17,19,20]
 
 The raid was mounted on intelligence from the General Directorate for
 Territorial Surveillance (DGST) and involved the National Judicial Police
 Brigade, the Royal Gendarmerie's judicial investigation brigade, the anti-gang
 unit of the Tetouan security prefecture and DGST's rapid intervention force.
-[@3,4,5,6,7,8,9,10,11,13,14,15,18,19] Searches uncovered secret workshops for wrapping and preparing slabs and
+[@3,4,5,6,7,8,9,10,11,13,14,15,18,19,20] Searches uncovered secret workshops for wrapping and preparing slabs and
 capsules of chira, the Moroccan term for cannabis resin, meant for smuggling by
-sea or by swallowing capsules for air travel. [@1,4,5,6,7,8,9,10,11,13,14,15,17,19] Officers seized shipments and
+sea or by swallowing capsules for air travel. [@1,4,5,6,7,8,9,10,11,13,14,15,17,19,20] Officers seized shipments and
 capsules of hashish, an electronic scale, bladed weapons of various sizes, a
 plastic replica of a firearm, a spearfishing gun, and photography and digital
-storage equipment sent for forensic examination. [@3,4,5,6,7,8,9,10,11,13,14,15,17,19] Security services also
-seized sums of money suspected of being proceeds of crime. [@1,4,5,6,7,8,9,10,11,13,14,15,17,19] Quantities of
-smuggled alcoholic beverages were also found with the detainees. [@1,4,5,6,7,8,9,10,11,13,14,15,19]
+storage equipment sent for forensic examination. [@3,4,5,6,7,8,9,10,11,13,14,15,17,19,20] Security services also
+seized sums of money suspected of being proceeds of crime. [@1,4,5,6,7,8,9,10,11,13,14,15,17,19,20] Quantities of
+smuggled alcoholic beverages were also found with the detainees. [@1,4,5,6,7,8,9,10,11,13,14,15,19,20]
 
 The Spanish citizen and the three others were placed at the disposal of the
 public prosecutor, which ordered an investigation into possible links with
-criminal networks in Spain and the international reach of the organisation. [@2,5,6,7,8,9,10,11,13,14,15,17,19]
+criminal networks in Spain and the international reach of the organisation. [@2,5,6,7,8,9,10,11,13,14,15,17,19,20]
