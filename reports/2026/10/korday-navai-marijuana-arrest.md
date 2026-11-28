@@ -205,6 +205,11 @@ sources:
     publisher: Живая Кубань
     date: 2026-10-15
     language: ru
+  - title: Суд в Казахстане арестовал рэпера Navai на два месяца по делу о контрабанде наркотиков
+    url: https://vot-tak.tv/95940619/navai-otpravili-v-sizo-v-kazahstane-na-dva-mesyaca
+    publisher: Вот Так
+    date: 2026-10-15
+    language: ru
 media:
   - kind: photo
     url: https://news.ru/culture/navai-arestovali-po-delu-o-kontrabande-narkotikov-v-kazahstane
@@ -234,8 +239,8 @@ later released [@11,20], while investigators established who owned the substance
 Police opened a criminal case for attempted smuggling of narcotics [@1,7,10,11,17,21,28] under Article 286 of
 the Criminal Code, which allows up to five years in prison [@4]; the charges were reported as smuggling
 and unlawful transportation of narcotics without intent to sell. [@5,11,20,33] The Korday district court ordered
-him held in custody for two months. [@5,6,8,15,16,17,18,19,20,23,24,27,32,33] The Korday district court made that order on the morning of 15 October. [@24] Questioned, he admitted buying the drugs in Bishkek
-[@8,9,15,16,17,20,25,29,34] Navai said he knew that storing drugs was banned but had not expected the car to be searched. [@20,25], and Kyrgyzstan's border service opened an internal inquiry into how he crossed with
+him held in custody for two months. [@5,6,8,15,16,17,18,19,20,23,24,27,32,33,35] According to Baza, the court ordered detention because Bakirov might flee, as he had no registration and no close relatives in Kazakhstan. [@35] His lawyer Rena Kerimova told the outlet 112 that she hoped to have the detention measure changed and said she had joined the case too late. [@35] Navai intends to appeal the detention order, and the defence has three days to file the appeal. [@35] The Korday district court made that order on the morning of 15 October. [@24] Questioned, he admitted buying the drugs in Bishkek
+[@8,9,15,16,17,20,25,29,34,35] Navai said he knew that storing drugs was banned but had not expected the car to be searched. [@20,25], and Kyrgyzstan's border service opened an internal inquiry into how he crossed with
 them. [@8,17,33] On 20 October police said the case had been closed on non-rehabilitating grounds, citing a
 first offence and active remorse, and that he had been expelled from Kazakhstan. [@14,16]
 
