@@ -51,30 +51,27 @@ sources:
     publisher: Seneweb
     date: 2026-02-23
     language: fr
-open_questions:
-  - 21 February 2026 is inferred as the Saturday before the Monday 23 February 2026 publication; no calendar date for the interception was stated.
-  - No names, ages or nationalities were published for the arrested courier or the accomplice who fled.
-  - The material was described only as chanvre indien and prohibited herb, with no laboratory confirmation reported.
-  - No value estimate for the 56 kg was published.
-  - No charges, custody decision or court outcome were reported; the investigation was still continuing.
-  - The account rests on a single correspondent report; no separate agency statement was opened.
+  - title: 'Sédhiou: 56 kg of Indian hemp seized in Koussy'
+    url: https://www.seneweb.com/en/news/Societe/sedhiou-saisie-de-56-kg-de-chanvre-indien-a-koussy_n_484365.html
+    publisher: Seneweb
+    date: 2026-02-23
+    language: en
 ---
 
 At about 4 a.m. on Saturday morning, officers of the Narcotics Brigade
-intercepted an unusual convoy on the route. [@1] Two individuals travelling
+intercepted an unusual convoy on the route. [@1,2] Two individuals travelling
 together by bicycle were trying to reach Guinea-Bissau with 56 kilograms of
-cannabis carried on board. [@1] The interception operation was conducted near
-the locality of Koussy and brought their onward progression to a halt. [@1] One
+cannabis carried on board. [@1,2] The interception operation was conducted near
+the locality of Koussy and brought their onward progression to a halt. [@1,2] One
 of the two accomplices managed to disappear into the surroundings while the
-second was apprehended by the officers. [@1]
+second was apprehended by the officers. [@1,2]
 
 At the scene, police officers seized one bicycle together with several bags
-containing the prohibited herb. [@1] In total, the full 56-kg cannabis load was
-divided into 32 blocks together with several filled sisal sacks. [@1]
+containing the prohibited herb. [@1,2] In total, the full 56-kg cannabis load was
+divided into 32 blocks together with several filled sisal sacks. [@1,2]
 
 During questioning, the arrested courier admitted he had accepted to take this
-risk in exchange for the derisory sum of 60,000 FCFA. [@1] The investigation was
+risk in exchange for the derisory sum of 60,000 FCFA. [@1,2] The investigation was
 still continuing actively in order to identify the organizer behind this
-cross-border trafficking operation. [@1] Chanvre indien is the French term for
+cross-border trafficking operation. [@1,2] Chanvre indien is the French term for
 Indian hemp, used in Senegal to refer to cannabis. [@1]
-
