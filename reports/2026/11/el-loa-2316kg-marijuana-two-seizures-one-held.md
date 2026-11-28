@@ -60,26 +60,36 @@ sources:
     publisher: Cooperativa.cl
     date: 2026-11-26
     language: es
+  - title: Incautan 2,3 toneladas de marihuana en 24 horas
+    url: https://veredictum.cl/incautan-23-toneladas-de-marihuana-en-24-horas/
+    publisher: Veredictum
+    date: 2026-11-26
+    language: es
+open_questions:
+    - 'Accounts differ on the investigation period: Veredictum reports 100 days and other coverage 120 days.'
+    - 'Accounts differ on the order and timing of the two seizures: Veredictum puts the Calama truck seizure first on Sunday and the minibus seizure in the early hours of Monday, while other coverage describes both as on Sunday and puts the minibus first.'
+    - The acting regional prosecutor is named as Eduardo Peña Martínez in one account and Ricardo Peña Martínez in another.
+    - No court outcome beyond preventive detention and the investigation period is reported.
 ---
 
 Carabineros seized 2,316 kilos and 100 grams of processed marijuana in two
-procedures carried out on Sunday 22 November in El Loa province. [@1,2,3] The
+procedures carried out on Sunday 22 November in El Loa province. [@1,2,3,5] The
 operations also led to the detention of one man and were part of a deployment
-against drug trafficking and organized crime. [@1,2,3] The results were announced in
+against drug trafficking and organized crime. [@1,2,3,5] The results were announced in
 Calama by Carabineros Director General Marcelo Araya with acting Regional
 Prosecutor Ricardo Peña Martínez and El Loa provincial delegate Cristian
 Ramírez. [@1,2,3] Director General Marcelo Araya called the result "a great blow to organized crime" and said every effort was being made to stop the drug being marketed and reaching the main distribution centres. [@4] The truck operation ended with the detention of a 34-year-old man
-who was in an irregular migration situation. [@1,2,3,4] The detained man was placed in
+who was in an irregular migration situation. [@1,2,3,4] The detained man was Colombian, and the Public Prosecutor's Office formalised him. [@5] The detained man was placed in
 preventive detention while the court set a 120-day investigation period. [@1,2,3,4]
 
 The first operation was carried out by officers of the Ascotán post during
 preventive patrols and border surveillance on Route 21-CH. [@1,2,3] Officers seized
 1,590 kilos and 500 grams of processed marijuana from a minibus in that
-procedure. [@1,2,3,4] The minibus driver abandoned the vehicle after evading the
+procedure. [@1,2,3,4,5] The minibus driver abandoned the vehicle after evading the
 police check. [@1,2,3,4] The second procedure was led by Carabineros of the OS7 El Loa
 section in coordination with the Public Prosecutor's Office. [@1,2,3,4] Officers
 seized 725 kilos and 600 grams of processed marijuana being transported in a
-truck. [@1,2,3,4] The truck seizure took place in Calama. [@2,3,4]
+truck. [@1,2,3,4,5] The truck seizure took place in Calama. [@2,3,4]
 
 According to the acting regional prosecutor, both loads were to be stored in the
 Antofagasta region for later distribution to different parts of the country.
