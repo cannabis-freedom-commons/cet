@@ -46,6 +46,10 @@ sources:
     url: https://amandala.com.bz/news/joint-operation-impacts-belize-drug-trade/
     publisher: Amandala Newspaper
     date: 2013-10-11
+  - title: Joint Task Force-Bravo supports marijuana eradication operation in Belize
+    url: https://www.jtfb.southcom.mil/Media/Article/842798/joint-task-force-bravo-supports-marijuana-eradication-operation-in-belize/
+    publisher: Joint Task Force-Bravo
+    date: 2013-10-03
 open_questions:
     - No arrests, charges or court outcomes were reported for the operation.
     - The reports do not name the districts where the 22 fields were located, saying only that they were spread across the country.
@@ -54,20 +58,20 @@ open_questions:
 
 The U.S. Embassy Military Liaison Office in Belmopan and Joint Task Force-Bravo
 partnered with Belizean military forces in a marijuana eradication operation in
-Belize from 25 to 28 September 2013. [@1,2] Personnel from the Belize Defence
+Belize from 25 to 28 September 2013. [@1,2,3] Personnel from the Belize Defence
 Force Special Assignment Group, the Belize Coast Guard SEALs and the Belize
 National Police Anti-Drug Unit served as the ground force for the operation.
-[@1] Joint Task Force-Bravo provided aviation support, on-call casualty
+[@1,3] Joint Task Force-Bravo provided aviation support, on-call casualty
 evacuation and insertion and extraction training for the 38 Belizean military
-and law enforcement personnel who took part. [@1]
+and law enforcement personnel who took part. [@1,3]
 
 Belizean forces destroyed 22 marijuana fields holding approximately 37,970
-mature marijuana plants. [@1,2] The destroyed plants had an initial estimated
-value of $13 million. [@1,2] The team also found and destroyed four pounds of
-marijuana seeds. [@1,2]
+mature marijuana plants. [@1,2,3] The destroyed plants had an initial estimated
+value of $13 million. [@1,2,3] The team also found and destroyed four pounds of
+marijuana seeds. [@1,2,3]
 
 The training involved using a caving ladder lowered from a helicopter to insert
-ground forces into otherwise inaccessible areas. [@1] The U.S. military provided
+ground forces into otherwise inaccessible areas. [@1,3] The U.S. military provided
 the transportation and reconnaissance the ground teams needed, and the teams
 worked through very thick jungle to reach objectives that were difficult to
-access. [@1]
+access. [@1,3]
