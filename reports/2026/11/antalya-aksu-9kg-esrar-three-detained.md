@@ -46,6 +46,11 @@ media:
     media_url: https://cdn.iha.com.tr/Contents/images/2026/11/26/20261126aw840719-1.jpg
     publisher: İhlas Haber Ajansı
     caption: Second photograph published by İhlas Haber Ajansı with the same report on the Aksu vehicle searches and the 9 kilo esrar seizure. No individual credit given.
+  - kind: video
+    url: https://www.sabah.com.tr/video/yasam/antalyada-2-aracta-yapilan-aramada-9-kilogram-esrar-ele-gecirildi-video
+    media_url: https://doiszsroym.erbvr.com/vms/e/2f/79/e2f795b0-978f-4bd5-b3b3-d1d3afc3c1d3/e2f795b0-978f-4bd5-b3b3-d1d3afc3c1d3_288p_800k.mp4
+    publisher: Sabah
+    caption: 'Sabah''s video report on the searches of two vehicles in Fettahlı Mahallesi, Aksu, and the 9 kilograms of esrar seized there. Video: Sabah'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: f0c9097fded107dd29d34904ae2155a5
@@ -66,6 +71,11 @@ sources:
     publisher: Yeni Alanya
     date: 2026-11-26
     language: tr
+  - title: Antalya’da 2 araçta yapılan aramada 9 kilogram esrar ele geçirildi | Video
+    url: https://www.sabah.com.tr/video/yasam/antalyada-2-aracta-yapilan-aramada-9-kilogram-esrar-ele-gecirildi-video
+    publisher: Sabah
+    date: 2026-11-26
+    language: tr
 open_questions:
     - No separate date for the vehicle searches was given; 26 November 2026 is the publication date and is used as the incident date.
     - No breakdown of the 9 kilograms between the two vehicles was published.
@@ -81,10 +91,10 @@ or stimulant substances, the Turkish charge of uyuşturucu veya uyarıcı madde
 ticareti yapmak ve sağlamak. [@1,3]
 
 Officers searching two vehicles in Fettahlı Mahallesi seized 9 kilograms of
-esrar, the cannabis seized in this event. [@1,2,3] The search was carried out by
+esrar, the cannabis seized in this event. [@1,2,3,4] The search was carried out by
 teams of the Antalya Police Directorate anti-narcotics branch, the Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, as part of its province-wide enforcement work.
-[@1,2,3]
+[@1,2,3,4]
 
 The branch describes that work as aimed at drying up the source of narcotics
 across the province and at preventing their trade and use. [@1] The account was
