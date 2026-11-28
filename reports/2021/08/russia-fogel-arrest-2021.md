@@ -41,6 +41,10 @@ sources:
     url: https://www.nbcnews.com/news/us-news/marc-fogel-american-teacher-held-russia-3-12-years-released-rcna191722
     publisher: NBC News
     date: 2025-02-11
+  - title: Russia Sentences U.S. Citizen To 14 Years In Prison For Marijuana He Says Was Prescribed
+    url: https://www.rferl.org/a/russia-american-medical-marijuana-prison/31902563.html
+    publisher: RadioFreeEurope/RadioLiberty (RFE/RL)
+    date: 2022-06-17
 media:
   - kind: photo
     url: https://www.aljazeera.com/news/2025/2/12/who-is-marc-fogel-the-us-teacher-released-by-russia
@@ -52,10 +56,16 @@ media:
     media_url: https://www.aljazeera.com/wp-content/uploads/2025/02/AFP__20250212__36XN7R2__v2__HighRes__UsDetaineeMarcFogelFreedByRussiaHeadingHomeWhit-1739352883.jpg?w=770&resize=770%2C546&quality=80
     publisher: Al Jazeera
     caption: 'US President Donald Trump greets teacher Marc Fogel as he arrives at the White House under heavy snowfall in Washington, DC, on 11 February 2025. Photo: Ting Shen/AFP'
+  - kind: photo
+    url: https://www.rferl.org/a/russia-american-medical-marijuana-prison/31902563.html
+    media_url: https://gdb.rferl.org/08810000-0a00-0242-ebd7-08d9e19b14d7_w1023_r1_s.jpg
+    publisher: RadioFreeEurope/RadioLiberty (RFE/RL)
+    caption: Marc Fogel, captioned as detained in August 2021 on his arrival in Moscow with his wife.
 open_questions:
     - Whether Fogel was formally pardoned or released on other grounds was not established.
     - The Russian freed in exchange was not named when the release was announced.
-    - 'Accounts differ on the amount of cannabis found in Fogel''s luggage: the submitted source gives less than an ounce (28.35 g), while other accounts of the same seizure give about 17 grams.'
+    - 'Accounts differ on the amount of cannabis found in Fogel''s luggage: one account gives less than an ounce (28.35 g), while other accounts give about 17 grams.'
+    - The court statement gave no date of its own for the sentence beyond saying it was passed the day before the 17 June 2022 report.
 ---
 
-Customs officers at Sheremetyevo airport found about 17 grams of cannabis in the luggage of Marc Fogel, a history teacher who had worked in Russia since 2012; an American doctor had prescribed it for chronic pain. In June 2022 he was convicted of drug trafficking and sentenced to 14 years. He was released on 11 February 2025, after three and a half years, in an exchange for a Russian held in the United States. [@1,2,3,4]
+Customs officers at Sheremetyevo airport found about 17 grams of cannabis in the luggage of Marc Fogel, a history teacher who had worked in Russia since 2012; an American doctor had prescribed it for chronic pain. A court in Khimki, near Moscow, said on 17 June 2022 that it had sentenced him the day before. [@5] Fogel was quoted at the time of his detention as saying that he had not known that medical marijuana was illegal in Russia. [@5] The court statement said Fogel had pleaded guilty. [@5] In June 2022 he was convicted of drug trafficking and sentenced to 14 years. He was released on 11 February 2025, after three and a half years, in an exchange for a Russian held in the United States. [@1,2,3,4]
