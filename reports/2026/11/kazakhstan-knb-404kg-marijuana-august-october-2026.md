@@ -50,6 +50,11 @@ media:
     media_url: https://yk.kz/assets/yk-news-webp/v1/d7/d72fd5f03305c9ca23229013d84921b2ceba11c586b6f041d0a6d84fc11c1f79.webp
     publisher: YK.KZ
     caption: 'KNB handout photograph on the announcement of the August–October 2026 drug seizures. Photo: КНБ РК'
+  - kind: photo
+    url: https://total.kz/ru/news/proisshestviya/bolee_13_tonni_narkotikov_izyal_knb_kazahstana_v_2026_godu_date_2026_11_24_11_45_52
+    media_url: https://total.kz/storage/5e/5e760475c5dc0c359b571c2b028173ad_resize_w_830_h_465.jpg
+    publisher: Total.kz
+    caption: 'KNB press-service photograph published with the announcement of the August–October 2026 drug seizures and detentions. Photo: press service of the KNB of Kazakhstan'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: e9b250ad81188d2276dae35081b013c7
@@ -85,16 +90,22 @@ sources:
     publisher: YK.KZ
     date: 2026-11-24
     language: ru
+  - title: Более 1,3 тонны наркотиков изъял КНБ Казахстана в 2026 году
+    url: https://total.kz/ru/news/proisshestviya/bolee_13_tonni_narkotikov_izyal_knb_kazahstana_v_2026_godu_date_2026_11_24_11_45_52
+    publisher: Total.kz
+    date: 2026-11-24
+    language: ru
 open_questions:
-  - The KNB dated the operations only to August–October 2026 and gave no calendar day for the seizures; 24 November 2026, the announcement date, is used as the incident date.
-  - The regions where the operations took place were not disclosed.
-  - No names, charges or court outcomes for the 45 detainees were published; pre-trial investigations were still under way.
-  - The 320.6 kg of cannabis bushes was given as a weight, with no count of individual plants.
-  - The more than 1.3 tonnes total covers all drugs, including synthetic opioids, synthetic drugs and opium, not cannabis alone.
-  - No value or estimate was published for the cannabis seized.
-  - The five underground laboratories were not linked specifically to cannabis in the statement.
-  - The same accounts reproduce a single KNB press-service statement rather than independent reporting.
-  - A separate Kokshetau seizure mentioned at the end of the Kazinform article is a different event and is not included.
+    - The KNB dated the operations only to August–October 2026 and gave no calendar day for the seizures; 24 November 2026, the announcement date, is used as the incident date.
+    - The regions where the operations took place were not disclosed.
+    - No names, charges or court outcomes for the 45 detainees were published; pre-trial investigations were still under way.
+    - The 320.6 kg of cannabis bushes was given as a weight, with no count of individual plants.
+    - The more than 1.3 tonnes total covers all drugs, including synthetic opioids, synthetic drugs and opium, not cannabis alone.
+    - No value or estimate was published for the cannabis seized.
+    - The five underground laboratories were not linked specifically to cannabis in the statement.
+    - The same accounts reproduce a single KNB press-service statement rather than independent reporting.
+    - A separate Kokshetau seizure mentioned at the end of the Kazinform article is a different event and is not included.
+    - One outlet's headline describes the figures as covering 2026, while the KNB statement it quotes covers August to October 2026.
 ---
 
 Kazakhstan's National Security Committee (KNB) said 45 people were detained on
@@ -105,14 +116,14 @@ held, citing investigative secrecy under article 201 of the Criminal Procedure
 Code. [@2]
 
 The KNB said the sweep closed 19 drug supply channels and stopped the work of
-five underground laboratories between August and October 2026. [@1,4,5,6] Of the
-channels, eight were international and 11 regional. [@1,4,5] Eight international
+five underground laboratories between August and October 2026. [@1,4,5,6,7] Of the
+channels, eight were international and 11 regional. [@1,4,5,7] Eight international
 anti-drug operations were carried out with the competent authorities of other
-states. [@1,6] The total haul exceeded 1.3 tonnes of drugs. [@1,5] The KNB itemised
+states. [@1,6,7] The total haul exceeded 1.3 tonnes of drugs. [@1,5,7] The KNB itemised
 the cannabis seized as 404.6 kg of marijuana, 320.6 kg of cannabis bushes and
-14.2 kg of hashish. [@3,4,6] Separately, officers seized 2.6 tonnes of precursors
+14.2 kg of hashish. [@3,4,6,7] Separately, officers seized 2.6 tonnes of precursors
 and 2,650 tablets of potent substances, which are not cannabis and are excluded
-from the figures. [@1]
+from the figures. [@1,7]
 
-The statement said 40 Kazakh citizens and five foreigners were detained. [@3,4] It
-said pre-trial investigations were continuing. [@3,6]
+The statement said 40 Kazakh citizens and five foreigners were detained. [@3,4,7] It
+said pre-trial investigations were continuing. [@3,6,7]
