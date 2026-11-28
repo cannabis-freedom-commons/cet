@@ -51,6 +51,11 @@ sources:
     publisher: بوابة الوسط
     date: 2026-11-20
     language: ar
+  - title: مكافحة المخدرات تضبط 100 كيلوغرام من الحشيش في أمساعد
+    url: https://w.almustaqbal.ly/news/6170
+    publisher: وكالة أنباء المستقبل
+    date: 2026-11-20
+    language: ar
 open_questions:
     - The account refers to a single accused being questioned but does not state an arrest count or give a name, so no arrest figure is recorded.
     - The 100 kilograms was reported as hashish with no packaging breakdown or laboratory confirmation stated.
@@ -71,11 +76,11 @@ media:
 Officers of the General Directorate for Combating Drugs and Psychotropic
 Substances raided a house in the city of Musaid. [@1,2] The raid took place on Thursday 19 November 2026. [@3] The raid was carried out
 by members of the directorate's Tobruk branch with permission from the Public
-Prosecution as part of efforts against drug trading. [@1] The directorate said
+Prosecution as part of efforts against drug trading. [@1,4] The directorate said
 the accused was undergoing questioning ahead of referral to the Public
-Prosecution for further legal procedures. [@1,3]
+Prosecution for further legal procedures. [@1,3,4]
 
-Officers seized 100 kilograms of hashish inside the house. [@1,3] The directorate
+Officers seized 100 kilograms of hashish inside the house. [@1,3,4] The directorate
 announced the operation in a statement posted on its Facebook page. [@1] The
 directorate said the operation was carried out on the instructions of its
 director, Maj. Gen. Ahmed Al-Shamkh. [@1] The directorate presented the raid as
