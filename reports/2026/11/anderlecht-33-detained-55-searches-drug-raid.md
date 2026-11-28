@@ -55,11 +55,22 @@ sources:
     publisher: VRT NWS
     date: 2026-11-26
     language: nl
+  - title: 55 huiszoekingen en 12 aanhoudingen bij grote drugsactie in Anderlecht
+    url: https://www.hln.be/brussel/55-huiszoekingen-en-12-aanhoudingen-bij-grote-drugsactie-in-anderlecht~a8c003f4/
+    publisher: HLN
+    date: 2026-11-26
+    language: nl
 open_questions:
     - No quantity, value or plant count was published for the cannabis seized, so no cannabis weight is recorded.
     - Early reports on 25 November spoke of about 50 searches and around ten people detained; the prosecutor's office confirmed 55 searches and 33 detained the following day.
     - The investigation began in March 2026 and was still ongoing, so any further charges or outcomes were not reported.
     - No street value was published for the cannabis or cocaine, and the €10,000–€15,000 per 24 hours figure is an estimate of dealing-location revenue, not a seizure value.
+media:
+  - kind: photo
+    url: https://www.hln.be/brussel/55-huiszoekingen-en-12-aanhoudingen-bij-grote-drugsactie-in-anderlecht~a8c003f4/
+    media_url: https://images.hln.be/MzFlZDVkMTg5MjNhZWRiZjk4YmMvZGlvLzI3NTExMDU4NC9mb2N1cy1hbmQtZmlsbC8wLjUwLzAuNTAvMTIwMC82MzA/politie-en-parket-hielden-een-gerechtelijke-operatie-tegen-drugshandel-in-de-wijk-aumale-in-anderlecht
+    publisher: HLN
+    caption: 'Police and prosecutors during the operation against drug trafficking in the Aumale district of Anderlecht. Photo: Marc Baert'
 ---
 
 A major police operation targeting a suspected drug trafficking network in
@@ -69,7 +80,7 @@ police officers took part in the operation, which primarily targeted the Aumale
 and Saint-Guidon districts of Anderlecht, areas known for drug trafficking. [@1]
 Of the 33 people detained during the operation, 25 were brought before an
 investigating judge; twelve were remanded in custody, five were released under
-conditions, and others face criminal charges. [@1,2]
+conditions, and others face criminal charges. [@1,2,4]
 
 The investigation, launched in March 2026 by the Brussels Federal Judicial
 Police’s narcotics division, uncovered what investigators believe to be a
@@ -77,18 +88,18 @@ hierarchically structured criminal organisation controlling several drug dealing
 locations across Brussels. [@1] According to the prosecutor’s office, the
 suspected organisation was also involved in violence and money laundering. [@1,2]
 A total of 55 searches were conducted, mainly in Anderlecht but also in several
-prisons. [@1] Officers seized around 70 mobile phones, more than 100 SIM cards,
+prisons. [@1,4] Officers seized around 70 mobile phones, more than 100 SIM cards,
 several laptops, cannabis, cocaine and drug packaging equipment, along with
-approximately €25,000 in cash. [@1,2] Investigators estimate that some of the drug
+approximately €25,000 in cash. [@1,2,4] Investigators estimate that some of the drug
 dealing locations generated between €10,000 and €15,000 in revenue every 24
-hours. [@1,2]
+hours. [@1,2,4]
 
 The operation also extended to northern France, where two Belgian nationals
 already imprisoned there had their cells searched and were questioned by
-investigators. [@1,2] A Brussels investigating judge issued European arrest
+investigators. [@1,2,4] A Brussels investigating judge issued European arrest
 warrants against both individuals on suspicion of offences including leading a
 criminal organisation, drug possession and trafficking within a criminal
-organisation, and weapons possession. [@1,2] The operation involved more than 700
+organisation, and weapons possession. [@1,2,4] The operation involved more than 700
 officers from the Brussels Federal Judicial Police, other federal judicial
 departments, federal special units, specialised local police intervention teams
 and the Brussels-Midi police zone. [@1,3]
