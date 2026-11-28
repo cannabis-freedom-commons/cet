@@ -218,6 +218,11 @@ sources:
     publisher: 조선일보
     date: 2026-11-27
     language: ja
+  - title: 평범한 서울 주택가인 줄 알았는데…건물 한 층서 ‘3700명분’ 대마 쏟아졌다
+    url: https://www.daily25news.com/news/articleView.html?idxno=9481
+    publisher: 데일리25
+    date: 2026-11-27
+    language: ko
 media:
   - kind: photo
     url: https://news.sbs.co.kr/english/article.do?news_id=N1008832708
@@ -229,6 +234,9 @@ media:
     media_url: https://news.sbs.co.kr/english/player.do?newsId=N1008832708
     publisher: SBS World News
     caption: 'SBS video report on the two men sent to prosecutors over the Seongbuk cannabis grow, showing the cultivation equipment and plants. Video: SBS (Lee Eui-seon)'
+open_questions:
+    - Whether either man has been tried or sentenced since the 5 November 2026 referral is not reported.
+    - The same article reports a separate Jungnang-gu home-growing case, in which a 33-year-old received a one-year suspended term, a different event left out here.
 ---
 
 The Narcotics Joint Investigation Division of the Suwon Regional Office of the Serious Crime
@@ -245,10 +253,10 @@ November. [@7,10,13,14]
 
 ## The grow
 
-The two men, both 29, were friends. [@17,19,22,23,24,26,32,34,35,36] They are accused of leasing the fourth
+The two men, both 29, were friends. [@17,19,22,23,24,26,32,34,35,36,37] They are accused of leasing the fourth
 floor of a building in a Seongbuk residential area and growing cannabis there with specialised
 facilities, in large volumes, from around January last year until recently.
-[@1,4,5,6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29,32,34,35,36] Investigators put the time at about 22
+[@1,4,5,6,7,8,9,10,12,14,15,18,20,21,22,24,27,28,29,32,34,35,36,37] Investigators put the time at about 22
 months, one year and ten months of professional growing. [@23,25,26,32] They bought the equipment
 through overseas direct-purchase websites. [@6,7,10,14,15,19,20,21,22,24,25,27,28,29,33]
 
