@@ -65,28 +65,33 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-26
     language: gu
+  - title: 'Surendranagar News: સાયલામાં નશાના વેપલા સામે પોલીસ આકરા પાણીએ, સેજકપર અને ધજાળામાંથી ગાંજાનો જથ્થો ઝડપાયો'
+    url: https://sandesh.com/gujarat/maru-saher-maru-gaam/news/surendranagar/sayla-ganja-raid-sog-police-action
+    publisher: Sandesh
+    date: 2026-11-26
+    language: gu
 open_questions:
-  - The article gives no separate date for either raid; 26 November 2026 is its publication date and stands in for the incident date.
-  - The whole account rests on a single Divya Bhaskar report; no second outlet account was found.
-  - The 8 kg is the stated weight of the 36 plants, not dried cannabis, and is kept out of the dried-ganja weight.
-  - No arrest was reported for Dipak Sarvaiya in the Dhajala case, and no custody or court outcome was reported in either case.
-  - The seized ganja was described only as dried green ganja, with no laboratory confirmation reported.
-  - Police put a separate value of about Rs 4 lakh on the 36 plants, distinct from the Rs 2,69,500 put on the dried ganja.
+    - The article gives no separate date for either raid; 26 November 2026 is its publication date and stands in for the incident date.
+    - The 8 kg is the stated weight of the 36 plants, not dried cannabis, and is kept out of the dried-ganja weight.
+    - The Dhajala cultivator was described as an absconding accused, and no arrest, custody or court outcome was reported in either case.
+    - The seized ganja was described only as dried green ganja, with no laboratory confirmation reported.
+    - Police put a separate value of about Rs 4 lakh on the 36 plants, distinct from the Rs 2,69,500 put on the dried ganja, and Sandesh published no valuation of its own.
+    - Sandesh credits the Dhajala raid to Dhajala police alone, while the other account described a joint Dhajala and Panshina team.
+    - Sandesh reported the two hauls together as 13.390 kg, which adds the 8 kg of whole plants to the dried ganja.
 ---
 
 Surendranagar's Special Operations Group (SOG) raided a field on the outskirts
 of Sejkapar in Sayla taluka after a tip-off that ganja was being kept there for
-sale. [@2] The field was held by Devsangbhai Sheikh of Dhamarala village, who
+sale. [@2,3] The field was held by Devsangbhai Sheikh of Dhamarala village, who
 had no pass or permit to keep ganja. [@2] Police seized 5 kg 390 g of dried
-green ganja. [@1] Police valued the dried ganja at Rs 2,69,500. [@1] Police
+green ganja. [@1,3] Police valued the dried ganja at Rs 2,69,500. [@1] Police
 arrested him and registered a case at Sayla police station. [@2]
 
 Dhajala and Panshina police teams acting on a tip-off separately seized 36 ganja
-plants from the outskirts of Dhajala village in Sayla taluka. [@2] Police said
+plants from the outskirts of Dhajala village in Sayla taluka. [@2,3] Police said
 the plants weighed 8 kg and put their value at about Rs 4 lakh. [@2]
 
 Police said the accused there, Dipak Sarvaiya, grew the ganja in his field among
-cotton and castor crops for sale. [@2] Police registered a case against him
+cotton and castor crops for sale. [@2,3] Police said the farm where the Dhajala plants were found belonged to an accused who was absconding. [@3] Police registered a case against him
 under the NDPS Act, India's narcotics law. [@2] Further investigation is with
 Dhajala police station. [@2]
-
