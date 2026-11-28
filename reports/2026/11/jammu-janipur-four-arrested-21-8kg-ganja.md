@@ -45,27 +45,28 @@ sources:
     url: https://www.rediff.com/news/report/over-21-kg-cannabis-seized-four-peddlers-arrested-in-jammu/20261125.htm
     publisher: Rediff
     date: 2026-11-25
-open_questions:
-  - The cannabis was described only as suspected ganja, with no laboratory confirmation reported.
-  - The names and ages of the four detainees and the charges against them were not published.
-  - No custody measure or court outcome was reported.
+  - title: Four held with 21.8 kg cannabis-like substance
+    url: https://www.dailyexcelsior.com/four-held-with-21-8-kg-cannabis-like-substance/
+    publisher: Daily Excelsior
+    date: 2026-11-26
+    language: en
 ---
 
 Jammu police arrested four suspected drug smugglers during an evening checking
 drive in the Janipur area on Wednesday 25 November 2026, recovering suspected
-ganja from their possession. [@1,2] A team from Janipur police station stopped a
-car near Paloura Talab during the drive after finding it suspicious. [@1,2] The intercepted car was a Maruti Suzuki Ignis. [@2] The
+ganja from their possession. [@1,2,3] A team from Janipur police station stopped a
+car near Paloura Talab during the drive after finding it suspicious. [@1,2,3] The intercepted car was a Maruti Suzuki Ignis. [@2,3] The
 four detained people were described as suspected smugglers of narcotic
 substances. [@1]
 
 Officers who searched the stopped vehicle said they recovered about 21 kilograms
-800 grams of suspected narcotic substance from inside the car. [@1,2] The seized
+800 grams of suspected narcotic substance from inside the car. [@1,2,3] The seized
 quantity was described as 21.8 kilograms of suspected ganja found in the
 smugglers' possession. [@1] The seizure from the four suspects totalled 21.8
 kilograms by the officials' reported weight. [@1]
 
 Police seized the recovered narcotic substance and also took the car used to
-transport it into custody. [@1] Police registered a case in connection with the
-interception, the recovery and the four arrests. [@1,2] The checking operation
+transport it into custody. [@1,3] Police registered a case in connection with the
+interception, the recovery and the four arrests. [@1,2] The case was registered at Police Station Janipur, and investigators said further inquiry would examine the source of the contraband and the forward and backward linkages of the drug trafficking network. [@3] The checking operation
 that produced the arrests took place in Jammu's Janipur locality on Wednesday
 evening. [@1] The arrests were made as part of the ongoing anti-narcotics drive under Operation Sanjeevani. [@2]
