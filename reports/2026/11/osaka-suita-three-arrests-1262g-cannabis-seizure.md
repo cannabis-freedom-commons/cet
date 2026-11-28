@@ -64,6 +64,11 @@ media:
     media_url: https://www.sankei.com/resizer/v2/Z47UOXIZCJKBVD3VTGIUJ3ECUI.jpg?auth=ebc6740a82621458eb3695e5f7e0506ab2b00c8983364d14d73a16f19f1fd7a4&quality=40&focal=1150%2C1319&width=1200
     publisher: 産経ニュース
     caption: 'Drugs and cash believed to be sales proceeds, seized from locations linked to the group and laid out for display in Chuo-ku, Osaka. Photo: Kento Nishiura / Sankei Shimbun'
+  - kind: photo
+    url: https://www.yomiuri.co.jp/local/kansai/news/20261127-GYO1T00071/
+    media_url: https://www.yomiuri.co.jp/media/2026/11/20261127-GYO1I00072-1.jpg?type=large
+    publisher: 読売新聞
+    caption: Stimulants and cannabis seized in the case, displayed at Osaka Prefectural Police headquarters.
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: e0de255666dde17a6323a9e1dc285e62
@@ -134,6 +139,11 @@ sources:
     publisher: 中日新聞Web
     date: 2026-11-26
     language: ja
+  - title: 大型薬物密売事件「宅配便で全国発送」摘発、覚醒剤の錠剤１４０５錠や大麻など押収…２０代の男３人を容疑で逮捕【押収物の写真】
+    url: https://www.yomiuri.co.jp/local/kansai/news/20261127-GYO1T00071/
+    publisher: 読売新聞
+    date: 2026-11-27
+    language: ja
 open_questions:
     - The sources give no separate date for the arrests; 26 November 2026 is the day Osaka Prefectural Police announced them.
     - No weights were published for the cocaine, ketamine tablets and other drugs seized alongside the cannabis and stimulants.
@@ -147,7 +157,7 @@ for-profit possession of stimulants and other drugs. [@1,4,8,9,10,11,13] The all
 the three conspired on 14 October to possess about 93 grams of stimulants, about
 1,260 grams of cannabis and other drugs for profit in a room of an apartment in
 Suita. [@1,6,8,11] Police did not disclose whether the suspects admitted or denied the
-allegations. [@1,5,6,8,11] A second account describes the 26 November action as the
+allegations. [@1,5,6,8,11,14] The other two arrested men were a 25-year-old from Osaka's Kita ward and a 27-year-old from Toyonaka, both of undisclosed occupation. [@14] A second account describes the 26 November action as the
 arrest and re-arrest of the three on suspected violations of the Stimulants
 Control Act and the Narcotics Control Act for trafficking and for-profit
 possession. [@2,3,4,6,9,13] Police said the three had first been arrested in October on suspicion of trafficking the drugs. [@13]
@@ -160,8 +170,8 @@ other drugs alongside the stimulants and cannabis. [@2,3,4,9,13]
 
 The drug-control unit began investigating after cannabis was found in the Katano
 station area in February 2024. [@1,11] The group used the Suita apartment as a base
-to recruit customers through social media and send drugs by courier. [@1,7,10,11] The apartment the group used as a storage base was in the Senzan-nishi district of Suita. [@12] Buyers were instructed to transfer payment to a designated bank account. [@7] For courier shipments, the group allegedly packed the drugs in small boxes and plastic bags and declared them mainly as small goods such as accessories. [@7] Komori allegedly couriered drugs to three recipients in Tokyo and Yamaguchi prefectures from May 2026. [@5] One of the men was also suspected of conspiring with others between May and August to sell a total of about 9 grams of stimulants, cannabis and other drugs for 118,000 yen to three people in their 20s to 50s in Yamaguchi and Tokyo. [@7] Police
+to recruit customers through social media and send drugs by courier. [@1,7,10,11] The apartment the group used as a storage base was in the Senzan-nishi district of Suita. [@12] Buyers were instructed to transfer payment to a designated bank account. [@7] For courier shipments, the group allegedly packed the drugs in small boxes and plastic bags and declared them mainly as small goods such as accessories. [@7] Komori allegedly couriered drugs to three recipients in Tokyo and Yamaguchi prefectures from May 2026. [@5] One of the men was also suspected of conspiring with others between May and August to sell a total of about 9 grams of stimulants, cannabis and other drugs for 118,000 yen to three people in their 20s to 50s in Yamaguchi and Tokyo. [@7] One of the charged transfers was about 4.9 grams of cannabis sold for 27,000 yen to a man in his 20s in Yamaguchi Prefecture in August 2026. [@14] Police
 believe the Osaka-based group delivered illegal drugs nationwide in at least
-2,000 transactions worth over 100 million yen. [@1,3,4,5,9,10,11,13] Police believe other people
+2,000 transactions worth over 100 million yen. [@1,3,4,5,9,10,11,13,14] Police believe other people
 were also involved and are continuing to clarify the full scope of the group.
 [@1,5,8]
