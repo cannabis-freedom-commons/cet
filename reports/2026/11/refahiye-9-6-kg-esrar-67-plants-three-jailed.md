@@ -66,29 +66,45 @@ sources:
     publisher: Ensonhaber
     date: 2026-11-27
     language: tr
+  - title: Refahiye uyuşturucu operasyonunda 9 kilo 600 gram esrar ele geçirildi
+    url: https://www.haberkenti.com/refahiye-uyusturucu-operasyonunda-9-kilo-600-gram-esrar-ele-gecirildi
+    publisher: Haber Kenti
+    date: 2026-11-27
+    language: tr
+  - title: 'Jandarmadan Uyuşturucuya Darbe: 9,6 Kilogram Esrar Ele Geçirildi'
+    url: https://erzincan.jandarma.gov.tr/erzincan-il
+    publisher: Erzincan İl Jandarma Komutanlığı
+    date: 2026-11-26
+    language: tr
 open_questions:
-  - No date is given for the operation or the arrests; 27 November 2026, the publication date, stands in for the incident date.
-  - The suspects' names and ages and the court that ordered their detention were not published.
-  - No street value was published for the 9 kg 600 g of esrar, the 67 plants or the seeds.
-  - The reports do not say whether the 67 plants were destroyed or kept as evidence; they are counted here as seized.
-  - The reports do not say what kind of building held the 15-by-12-metre room or where in Refahiye it was.
-  - The account rests on the İHA wire report and its syndications; no separate gendarmerie or prosecutor statement was opened.
+    - The gendarmerie command dates the operation to 5 November 2026, while the news accounts appeared on 27 November 2026; the reason for the gap is not explained.
+    - The suspects' names and ages and the court that ordered their detention were not published.
+    - No street value was published for the 9 kg 600 g of esrar, the 67 plants or the seeds.
+    - Neither the gendarmerie nor the news reports say whether the 67 plants were destroyed or kept as evidence; they are counted here as seized.
+    - The reports do not say what kind of building held the 15-by-12-metre room or where in Refahiye it was.
+    - The gendarmerie statement gives no further detail on the evidence or on the investigation after the three suspects were sent to prison.
+media:
+  - kind: photo
+    url: https://erzincan.jandarma.gov.tr/erzincan-il
+    media_url: https://erzincan.jandarma.gov.tr/kurumlar/erzincan.jandarma/haberler/2026/kasim/IMG_5432.JPG?mode=resize&width=800
+    publisher: Erzincan İl Jandarma Komutanlığı
+    caption: 'The gendarmerie command''s photo published with its statement on the Refahiye operation. Photo: Erzincan İl Jandarma Komutanlığı'
 ---
 
 Erzincan provincial gendarmerie's narcotics branch and intelligence unit carried
 out the operation in Refahiye district after intelligence work on drug
-production and trafficking in the area. [@2,4] The raid was staged simultaneously
+production and trafficking in the area. [@2,4,5] The Erzincan provincial gendarmerie command said the operation took place on 5 November 2026. [@6] The raid was staged simultaneously
 against three suspects who, according to the gendarmerie, were producing and
 selling drugs with the help of a climate-control system installed in a room.
 [@1]
 
 Inside the room, which measured 15 by 12 metres, officers found the
-climate-control installation and its equipment. [@3,4] The room held 9 kg 600 g of
-kubar esrar, a cannabis product. [@2,4] Officers also seized 67 cannabis plants,
-15 g of cannabis seeds and three mobile phones. [@1,4] The plants, seeds and drugs
+climate-control installation and its equipment. [@3,4,5] The room held 9 kg 600 g of
+kubar esrar, a cannabis product. [@2,4,5] Officers also seized 67 cannabis plants,
+15 g of cannabis seeds and three mobile phones. [@1,4,5] The plants, seeds and drugs
 were found together with the climate-control equipment. [@3]
 
-All three suspects were taken into custody during the operation. [@2] They were
+All three suspects were taken into custody during the operation. [@2,5] They were
 remanded on charges of manufacturing and trading narcotic or stimulant
 substances under article 188 of the Turkish criminal code (TCK 188) and sent to
-prison. [@1,4]
+prison. [@1,4,5]
