@@ -41,13 +41,46 @@ sources:
     publisher: Glas Srpske
     date: 2026-11-26
     language: sr
+  - title: 'Više od 100 kilograma droge i oružje pronađeni u Novom Sadu: Maloletnik uhapšen zbog veze sa vračarskom grupom'
+    url: https://www.press.rs/hronika/domaca-hronika/vise-od-100-kilograma-droge-i-oruzje-pronadeni-u-novom-sadu-maloletnik-uhapsen-zbog-veze-sa-vracarskom-grupom
+    publisher: Press.rs
+    date: 2026-11-26
+    language: sr
+  - title: Kod sedamnaestogodišnjaka pronađeno 3,5 kg kokaina, 100 kg marihuane, 4,5 kg heroina, ručne bombe i snajper
+    url: https://www.danas.rs/vesti/drustvo/kod-sedamnaestogodisnjaka-pronadjeno-35-kg-kokaina-100-kg-marihuane-45-kg-heroina-rucne-bombe-i-snajper
+    publisher: Danas
+    date: 2026-11-26
+    language: sr
+  - title: KAKAV ULOV NOVOSADSKE POLICIJE! Uhapsili sedamnaestogodišnjaka u Starčevu, a onda su u stanu pronašli OVO! - Vesti - Telegraf.rs
+    url: https://www.telegraf.rs/vesti/hronika/4440464-kakav-ulov-novosadske-policije-uhapsili-sedamnaestogodisnjaka-u-starcevu-a-onda-su-u-stanu-pronasli-ovo
+    publisher: Telegraf.rs
+    date: 2026-11-26
+    language: sr
+  - title: Određen pritvor tinejdžeru (17) kod kog su nađeni snajper, bombe i droga
+    url: https://direktno.rs/hronika/754528/pritvor-maloletnik-petrovac-na-mlavi-snajper-bomba.html
+    publisher: Direktno
+    date: 2026-11-27
+    language: sr
 open_questions:
-  - The material was described only as dried plant matter resembling marijuana, with no laboratory confirmation reported.
-  - Police gave the weight as about 100 kilograms and published no exact figure.
-  - The cocaine, heroin and weapons found in the same search are excluded from the cannabis figures.
-  - No formal charge or court outcome beyond the initial appearance before the juvenile judge was reported.
-  - The account rests on a single police statement republished by one outlet.
-  - Left out charges, as its quotation was not found in Glas Srpske.
+    - The material was described only as dried plant matter resembling marijuana, with no laboratory confirmation reported.
+    - Police gave the weight as about 100 kilograms and published no exact figure.
+    - The cocaine, heroin and weapons found in the same search are excluded from the cannabis figures.
+    - 'Accounts disagree on the location: Starčevo in Telegraf, Direktno and Press, but a motel in Belgrade with the suspect from near Petrovac na Mlavi in Danas and later reporting.'
+    - Telegraf places the search on 25 November 2026, while other accounts carry a 26 November ministry statement; the exact date of the search is unclear.
+    - The juvenile judge ordered detention, but no formally filed charges or trial date were reported.
+    - Danas's headline gives 4.5 kilograms of heroin while its text and the other accounts give about four kilograms.
+    - The accounts largely reproduce versions of the Novi Sad police statement rather than independent reporting.
+media:
+  - kind: photo
+    url: https://www.telegraf.rs/vesti/hronika/4440464-kakav-ulov-novosadske-policije-uhapsili-sedamnaestogodisnjaka-u-starcevu-a-onda-su-u-stanu-pronasli-ovo
+    media_url: https://xdn.tf.rs/2026/11/26/unnamed-340120-830x0.webp
+    publisher: Telegraf.rs
+    caption: 'Weapons seized in the Starčevo case, published with the Interior Ministry announcement. Photo: MUP Srbija'
+  - kind: photo
+    url: https://www.press.rs/hronika/domaca-hronika/vise-od-100-kilograma-droge-i-oruzje-pronadeni-u-novom-sadu-maloletnik-uhapsen-zbog-veze-sa-vracarskom-grupom
+    media_url: https://ps.rmgcdn.com/2026/11/26/vise-od-100.webp
+    publisher: Press.rs
+    caption: 'Police photograph accompanying the report on the seizure of more than 100 kg of drugs and weapons. Photo: MUP Srbija'
 ---
 
 A 17-year-old from the area around Petrovac na Mlavi was arrested in Belgrade on
@@ -57,14 +90,13 @@ Affairs in Novi Sad made the arrest together with the Higher Public Prosecutor's
 Office in Požarevac, according to a ministry statement. [@1] He was suspected of
 unauthorised production and putting into circulation of narcotic drugs, as well
 as unauthorised production, possession, carrying and trade of weapons and
-explosive materials. [@1]
+explosive materials. [@1,2] Police linked the teenager to a group whose members were suspected of extorting businessmen in cities across Serbia. [@4]
 
 In the searched rooms officers found about 100 kilograms of dried plant material
-resembling marijuana. [@1] The same search yielded about 3.5 kilograms of powder
+resembling marijuana. [@1,3] The suspected marijuana was packed in 90 packages. [@4] The same search yielded about 3.5 kilograms of powder
 resembling cocaine, about four kilograms of brown powder resembling heroin and
-two digital scales. [@1] They also found five hand grenades, one sniper rifle
-with a suppressor and five matching rounds. [@1]
+two digital scales. [@1,3] They also found five hand grenades, one sniper rifle
+with a suppressor and five matching rounds. [@1,3]
 
 The suspect was arrested and brought before a juvenile judge of the Higher Court
-in Požarevac within the legal time limit. [@1]
-
+in Požarevac within the legal time limit. [@1,4] A juvenile judge of the Higher Court in Požarevac ordered the teenager held in detention, citing the seriousness of the offences and the quantity of drugs and weapons seized. [@5]
