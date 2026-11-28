@@ -54,6 +54,10 @@ sources:
     url: https://www.msn.com/en-in/news/other/407-kg-ganja-seized-from-container-truck-two-arrested/ar-AA2i81g4
     publisher: MSN
     date: 2026-11-24
+  - title: 'Interstate Drug Racket Busted: 407 Kg Ganja Seized In Chhattisgarh'
+    url: https://www.rediff.com/news/report/407-kg-ganja-seized-from-truck-two-arrested-in-chhattisgarh/20261124.htm
+    publisher: Rediff.com
+    date: 2026-11-24
 open_questions:
     - No court appearance, formal charge or case outcome for the two arrested men was reported.
     - A separate 447 kg ganja seizure on 1 September in the same Chilphi police station area, worth Rs 2.23 crore, is mentioned in the accounts but is a different event.
@@ -61,23 +65,23 @@ open_questions:
 
 Kabirdham police in Chhattisgarh arrested Raju Yadav, 27, and Vikas Yadav, 26,
 both residents of Aligarh district in Uttar Pradesh, after stopping a container
-truck they were travelling in at Chilphi. [@1,3] The truck was intercepted on
+truck they were travelling in at Chilphi. [@1,3,4] The truck was intercepted on
 National Highway 30 near the Madhya Pradesh border on Monday following a
-tip-off, Kabirdham superintendent of police Jitendra Kumar Yadav said. [@1,3]
+tip-off, Kabirdham superintendent of police Jitendra Kumar Yadav said. [@1,3,4]
 
 A search found a specially designed concealed compartment above the driver's
-seat holding 192 packets of ganja wrapped in brown adhesive tape. [@1,3] Police
+seat holding 192 packets of ganja wrapped in brown adhesive tape. [@1,3,4] Police
 seized 407 kg of ganja, which they estimated to be worth Rs 2.03 crore, from the
-truck in Kabirdham district. [@1,3] The value of all items seized, including the
-ganja, the truck and a mobile phone, was estimated at Rs 2.29 crore. [@2,3]
+truck in Kabirdham district. [@1,3,4] The value of all items seized, including the
+ganja, the truck and a mobile phone, was estimated at Rs 2.29 crore. [@2,3,4]
 
 During questioning the men said they had left Aligarh with the container truck
 on 17 November and that about four quintals of ganja were loaded into the
-concealed compartment at Sunkighati in Odisha on 21 November. [@1,3] They were
+concealed compartment at Sunkighati in Odisha on 21 November. [@1,3,4] They were
 allegedly carrying the consignment to Aligarh through Raipur and Kawardha when
-the truck was stopped before it entered Madhya Pradesh. [@1,3] Both accused were
+the truck was stopped before it entered Madhya Pradesh. [@1,3,4] Both accused were
 arrested under relevant provisions of the law, and police said further
 investigation was under way to identify others involved in supplying the ganja,
-running the trafficking network and handling its financial transactions. [@2,3]
+running the trafficking network and handling its financial transactions. [@2,3,4]
 Police said they had intensified surveillance and vehicle checks on interstate
-routes to curb the smuggling of narcotic substances. [@2,3]
+routes to curb the smuggling of narcotic substances. [@2,3,4]
