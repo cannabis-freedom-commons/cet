@@ -165,6 +165,10 @@ sources:
     publisher: الاتحاد الاشتراكي
     date: 2026-11-26
     language: ar
+  - title: شفشاون.. توقيف إسباني يدير ورشات سرية لإعداد وتهريب الحشيش نحو الخارج
+    url: https://inews.ma/news/8822517
+    publisher: أخبار المغرب العاجلة (inews.ma)
+    language: ar
 open_questions:
     - The Marrakech Post account says all three of the other detainees were the subject of multiple national arrest warrants, while other accounts say one of them was.
     - No weight was published for the hashish seized in the warehouses, and no amount for the cash found with the detainees.
@@ -173,7 +177,7 @@ open_questions:
 
 A joint security operation in the early hours of Thursday 26 November 2026 in
 Chefchaouen province arrested a 49-year-old Spanish citizen from the Basque
-Country, suspected of links to an international drug-trafficking network. [@1,4,5,6,7,8,9,10,11,12,14,15]
+Country, suspected of links to an international drug-trafficking network. [@1,4,5,6,7,8,9,10,11,12,14,15,16]
 Officers caught him in the act at warehouses in the rural commune of Talambot,
 where he was allegedly preparing shipments for international drug trafficking.
 [@1,5,6,7,8,9,10,11,13,14,15] Three other people were arrested in related field operations, one of them
