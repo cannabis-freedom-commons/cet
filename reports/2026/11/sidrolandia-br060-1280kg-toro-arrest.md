@@ -53,6 +53,11 @@ media:
     media_url: https://uploads.acritica.net/2026/11/dof-fiat-toro-maconha-sidrolandia-br060-1000.jpg
     publisher: A Crítica de Campo Grande
     caption: 'Police accompany the white Fiat Toro seized by the DOF with 1,280 kg of marijuana in Sidrolândia. Photo: Reprodução'
+  - kind: photo
+    url: https://www.campograndenews.com.br/cidades/interior/fuga-na-rodovia-termina-com-apreensao-de-1-2-tonelada-de-maconha
+    media_url: https://cdn6.campograndenews.com.br/uploads/noticias/2026/11/26/1v82i3vwf2bv0.jpg
+    publisher: Campo Grande News
+    caption: 'Wellington Arruda Amorim after his arrest following the pursuit on the BR-060. Photo: Direto das Ruas'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 9870a8a22683589f1e0a314ba1b2af3f
@@ -73,30 +78,35 @@ sources:
     publisher: A Crítica de Campo Grande
     date: 2026-11-26
     language: pt
+  - title: Fuga na rodovia termina com apreensão de 1,2 tonelada de maconha
+    url: https://www.campograndenews.com.br/cidades/interior/fuga-na-rodovia-termina-com-apreensao-de-1-2-tonelada-de-maconha
+    publisher: Campo Grande News
+    date: 2026-11-26
+    language: pt
 open_questions:
     - No charge or court outcome beyond the custody hearing scheduled for 26 November 2026 was reported.
-    - No kilometre marker was given, so the exact spot of the roadblock, crash and arrest on the BR-060 near the Sidrolandia access is unknown.
-    - Both accounts reproduce the DOF statement, so the reporting is not independent even though two outlets carried it.
+    - No kilometre marker was published; the roadblock is identified only as the stretch near the Fazenda Trevo in the Distrito Industrial.
+    - The accounts reproduce the DOF statement, so the reporting is not independent.
 ---
 
 Military police officers of the DOF seized 1,280 kg of maconha on the BR-060 in
 Sidrolandia on 24 November 2026. [@1,3] A 28-year-old man was arrested while
-transporting the marijuana in a Fiat Toro pickup. [@1,2,3] The driver was identified as Wellington Arruda Amorim, 28. [@2] Officers manning a
+transporting the marijuana in a Fiat Toro pickup. [@1,2,3,4] The driver was identified as Wellington Arruda Amorim, 28. [@2,4] Officers manning a
 roadblock ordered the driver to stop, and he disobeyed and fled toward the town.
-[@1,3] Officers had set up the roadblock near the city's Distrito Industrial when the white Fiat Toro approached from Nioaque toward Sidrolândia. [@3] During the pursuit he drove at high speed and repeatedly entered the
-opposite lane, endangering other road users. [@1,2] Near the Sidrolandia access
+[@1,3,4] Officers had set up the roadblock near the city's Distrito Industrial when the white Fiat Toro approached from Nioaque toward Sidrolândia. [@3] The roadblock stood on the stretch near the Fazenda Trevo. [@4] During the pursuit he drove at high speed and repeatedly entered the
+opposite lane, endangering other road users. [@1,2,4] Near the Sidrolandia access
 junction he lost control of the pickup, left the road and struck tree trunks and
-piles of sand. [@1,2,3] He then abandoned the vehicle and tried to escape on foot
-through a soybean field, but officers caught and arrested him. [@1,2,3] He said he had no personal documents and threw his mobile phone into the plantation while fleeing. [@2]
+piles of sand. [@1,2,3,4] He then abandoned the vehicle and tried to escape on foot
+through a soybean field, but officers caught and arrested him. [@1,2,3,4] He said he had no personal documents and threw his mobile phone into the plantation while fleeing. [@2,4]
 
 The suspect said he had received the pickup already loaded with the drug near
-Antonio Joao. [@1,2,3] He said he would be paid R$10,000 to carry the load to Campo
-Grande. [@1,2,3] Checks showed the Fiat Toro wore false plates and was recorded as
-stolen in Presidente Prudente, Sao Paulo state, in May of that year. [@1,2] Officers also seized a Starlink Mini antenna with cable and the plate fitted to the pickup. [@2,3] After the pickup became stuck in ground soaked by rain, rural producers helped pull it out with a tractor. [@3]
-Officers seized a total of 1,280 kg of marijuana from the vehicle. [@1,3] The 1,280 kg was divided into 914 tablets. [@2,3] Police
+Antonio Joao. [@1,2,3,4] He said he would be paid R$10,000 to carry the load to Campo
+Grande. [@1,2,3,4] Checks showed the Fiat Toro wore false plates and was recorded as
+stolen in Presidente Prudente, Sao Paulo state, in May of that year. [@1,2] Officers also seized a Starlink Mini antenna with cable and the plate fitted to the pickup. [@2,3,4] After the pickup became stuck in ground soaked by rain, rural producers helped pull it out with a tractor. [@3,4]
+Officers seized a total of 1,280 kg of marijuana from the vehicle. [@1,3,4] The 1,280 kg was divided into 914 tablets. [@2,3,4] Police
 estimated the operation cost the criminal organizations R$2.7 million. [@1] The
 man, the pickup and the drug were taken to the Civil Police station in
-Sidrolandia for legal procedures. [@1,2,3] He was due to appear at a custody hearing on Thursday 26 November. [@2,3]
+Sidrolandia for legal procedures. [@1,2,3,4] He was due to appear at a custody hearing on Thursday 26 November. [@2,3,4]
 
 The operation was recorded under Operacao Protetor das Fronteiras e Divisas, a
 partnership between the Mato Grosso do Sul justice and public security
