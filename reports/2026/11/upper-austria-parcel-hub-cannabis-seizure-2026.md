@@ -82,28 +82,54 @@ sources:
     publisher: Kronen Zeitung
     date: 2026-11-26
     language: de
+  - title: Kiloweise Drogen in Logistikzentrum in Oberösterreich sichergestellt
+    url: https://www.derstandard.at/story/3000000351139/kiloweise-drogen-in-logistikzentrum-in-ober246sterreich-sichergestellt?rank=1&ref=niewidget
+    publisher: DER STANDARD
+    date: 2026-11-26
+    language: de
+  - title: Kiloweise Cannabis und Kokain – Zoll sichert massenhaft Suchtmittel in Oberösterreich
+    url: https://www.bmf.gv.at/presse/pressemeldungen/2026/november-2026/suchtmittel-aufgriff.html
+    publisher: Bundesministerium für Finanzen
+    date: 2026-11-26
+    language: de
+  - title: "\U0001F4E6 Zoll sicherte mehr wie 200 Pakete mit knapp 900 Kilo Marihuana!"
+    url: https://linznews.com/2026/11/zoll-sicherte-mehr-wie-200-pakete-mit-knapp-900-kilo-marihuana
+    publisher: Linz News
+    date: 2026-11-26
+    language: de
+  - title: Zoll stellt bei Logistiker in Linz-Land über 200 Drogenpakete sicher
+    url: https://www.austria.com/artikel/zoll-stellt-bei-logistiker-in-linz-land-ueber-200-drogenpakete-sicher/10040285
+    publisher: austria.com
+    date: 2026-11-26
+    language: de
 open_questions:
-    - The reports do not name the town in Upper Austria where the logistics centre is located.
+    - The logistics company is identified only by district; the town in the Linz-Land district where it operates was not published.
+    - The Finance Ministry put the cannabis at about 900 kg of marijuana and 62.35 kg of resin, while the Upper Austrian police put it at 800 kg of flowers and 92 kg of resin; the report keeps the ministry's figures.
+    - The ministry dated its first finds to 15, 17 and 20 July 2026 but described them as happening in the recent weeks before its 26 November statement, while the police dated the series from mid-July to the end of September 2026.
+    - No arrests, charges or court outcome were reported; the case was at the investigation stage.
+    - No figure was published for how many of the more than 200 parcels contained cannabis rather than other drugs.
+    - The street value in the double-digit millions of euros covers the cannabis and the cocaine together and is not broken down.
+    - The ministry's figure of about 900 kg of marijuana is rounded, so the 962.35 kg cannabis total is approximate.
 ---
 
 Austrian customs seized large quantities of drugs in a series of checks at a
-parcel-delivery logistics centre in Upper Austria over recent weeks. [@2,5,6,7,8] The
+parcel-delivery logistics centre in Upper Austria over recent weeks. [@2,5,6,7,8,9] The
 Finance Ministry said the drugs had a street value in the double-digit millions
-of euros. [@1,5,6,7,8] The ministry's final tally was about 900 kilograms of marijuana,
+of euros. [@1,5,6,7,8,9] The ministry's final tally was about 900 kilograms of marijuana,
 62.35 kilograms of cannabis resin and 26.55 kilograms of cocaine, the last of
-which is not counted in the cannabis figures. [@2,8] No arrests were reported and
-those behind the shipments had not been identified. [@4,5]
+which is not counted in the cannabis figures. [@2,8,10] No arrests were reported and
+those behind the shipments had not been identified. [@4,5] The Upper Austrian criminal police's narcotics unit is investigating the recipients at Austrian addresses and the unknown senders in Spain. [@12]
 
 The first large find came on 15 July 2026, when a routine check at the logistics
 centre uncovered more than 120 kilograms of cannabis flower and about 1.2
-kilograms of cocaine. [@2,5,8] The drugs travelled on a Spanish lorry in 27
+kilograms of cocaine. [@2,5,8,10] The drugs travelled on a Spanish lorry in 27
 shipments, vacuum-packed and treated with odour-neutralising materials to hinder
 detection. [@2,5,6,8] Most parcels were addressed to recipients in Greece, with others
-bound for Hungary, Romania and Austria. [@2,5,6,7,8] Two days later officers found 62
+bound for Hungary, Romania and Austria. [@2,5,6,7,8,10] Two days later officers found 62
 more parcels containing cannabis at the same site, and on 20 July 2026 they
 seized 42 boxes of drugs from another Spanish lorry. [@2,5,8]
 
-Further finds followed almost daily in the days that followed. [@3,5] Finance
+Further finds followed almost daily in the days that followed. [@3,5] Customs found drugs in more than 200 parcels at a logistics company in the Linz-Land district of Upper Austria between mid-July and the end of September 2026. [@11] Finance
 Minister Markus Marterbauer called the find a blow against drug crime in Europe
 and a preventively important step. [@2] Customs officers documented and secured
 the seized substances. [@2,8]
