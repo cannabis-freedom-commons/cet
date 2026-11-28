@@ -49,6 +49,10 @@ sources:
     publisher: fijivillage
     date: 2026-08-05
     language: en
+  - title: 8,000 marijuana plants seized in Northern raid
+    url: https://www.fbcnews.com.fj/news/8000-marijuana-plants-seize-in-northern-raid/
+    publisher: FBC News
+    date: 2026-08-05
 media:
   - kind: photo
     url: https://fijisun.com.fj/news/nation/drone-community-tip-off-lead-to-8000-marijuana-plant-bust
@@ -60,8 +64,17 @@ media:
     media_url: https://www.fijivillage.com/news_images/20260805081442_media_6a7247aa426f47_40058171.jpg
     publisher: fijivillage
     caption: 'Photo published with the fijivillage report on the Bilobiloca seizure, credited to the Fiji Police Force. Photo: Fiji Police Force'
+  - kind: photo
+    url: https://www.fbcnews.com.fj/news/8000-marijuana-plants-seize-in-northern-raid/
+    media_url: https://www.fbcnews.com.fj/wp-content/uploads/2026/08/Marijuana-1.png
+    publisher: FBC News
+    caption: 'Police photo published with the FBC News report on the Bilobiloca seizure. Photo: Fiji Police Force/Facebook'
+open_questions:
+    - The plant count was published only as close to 8,000, with no exact figure, weight, area, value or plant size given.
+    - The plants are described only as believed to be marijuana, with no laboratory confirmation reported.
+    - No suspect had been identified or arrested as of the 12 August 2026 follow-up, and no charges were reported.
 ---
 
-Fiji Police said a community tip led to a raid at the Bilobiloca farming area in the Northern Division, where a drone confirmed the cultivation site. [@1,3,4]
+Fiji Police said a community tip led to a raid at the Bilobiloca farming area in the Northern Division, where a drone confirmed the cultivation site. [@1,3,4,5]
 
-Close to 8,000 plants believed to be marijuana were seized. [@1,3,4] The Fiji Sun reported a week later that no suspects had been identified or arrested and that the investigation continued. [@2]
+Close to 8,000 plants believed to be marijuana were seized. [@1,3,4,5] Assistant Commissioner of Police Operations Kasiano Vusonilawe said the operation was driven by information provided to police and that community support remained critical to the success of drug operations, seizures and arrests. [@5] The Fiji Sun reported a week later that no suspects had been identified or arrested and that the investigation continued. [@2]
