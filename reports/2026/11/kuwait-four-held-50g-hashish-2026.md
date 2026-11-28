@@ -50,31 +50,57 @@ sources:
     publisher: كويتنا نيوز
     date: 2026-11-26
     language: ar
+  - title: '«المكافحة»: ضبط 4 متهمين بـ «مواد مخدرة»'
+    url: https://www.alraimedia.com/ampArticle/10883949
+    publisher: الراي
+    date: 2026-11-26
+    language: ar
+  - title: ضبط (4) متهمين بحوزتهم أكثر من كيلوي حشيش
+    url: https://www.alanba.com.kw/1386802
+    publisher: جريدة الأنباء الكويتية
+    date: 2026-11-26
+    language: ar
 open_questions:
-  - No separate date is given for the arrests; 26 November 2026 is the date of the ministry's announcement used here.
-  - The source does not say which of the three cases or which of the four suspects involved the hashish and hashish oil.
-  - No weight was given for the 120 shisha portions of hashish oil, so only the 50 grams of hashish appear in the cannabis weight figure.
-  - The shabu, heroin, kīmikāl-soaked sheets, Lyrica capsules, Captagon tablets and other psychotropic capsules from the same three cases are outside the cannabis figures.
-  - No formal charges or court outcome were reported; the suspects and seizures were referred to the competent authority.
-  - All accounts reproduce the same Interior Ministry statement rather than independent reporting.
+    - No separate date is given for the arrests; 26 November 2026 is the date of the ministry's announcement used here.
+    - The source does not say which of the three cases or which of the four suspects involved the hashish and hashish oil.
+    - No weight was given for the 120 shisha portions of hashish oil, so only the 50 grams of hashish appear in the cannabis weight figure.
+    - The shabu, heroin, kīmikāl-soaked sheets, Lyrica capsules, Captagon tablets and other psychotropic capsules from the same three cases are outside the cannabis figures.
+    - No formal charges or court outcome were reported; the suspects and seizures were referred to the competent authority.
+    - All accounts reproduce the same Interior Ministry statement rather than independent reporting.
+    - The Al-Anba headline put the sale proceeds at 6,000 dinars while its text and the other reports said 600; the report uses 600.
+media:
+  - kind: photo
+    url: https://www.alanba.com.kw/1386802
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1386802-1.jpg?w=600
+    publisher: جريدة الأنباء الكويتية
+    caption: 'A suspect, his face blurred, standing behind a table of seized packets, capsules and cash beneath the emblem of Kuwait''s General Department for Combating Narcotics, in one of three ministry photographs of the cases. Photo: Kuwait Ministry of Interior'
+  - kind: photo
+    url: https://www.alanba.com.kw/1386802
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1386802-2.jpg?w=600
+    publisher: جريدة الأنباء الكويتية
+    caption: 'A second suspect, his face blurred, behind a table of seized drugs and cash under the emblem of the General Department for Combating Narcotics. Photo: Kuwait Ministry of Interior'
+  - kind: photo
+    url: https://www.alanba.com.kw/1386802
+    media_url: https://media.alanba.com.kw/articlefiles/2026/11/1386802-3.jpg?w=600
+    publisher: جريدة الأنباء الكويتية
+    caption: 'Seized packets, capsules and drug items laid out on a table in front of the emblem of Kuwait''s General Department for Combating Narcotics. Photo: Kuwait Ministry of Interior'
 ---
 
 Kuwait's Interior Ministry announced that its Criminal Security Sector,
 represented by the General Directorate for Drug Control, arrested four suspects
-in three separate cases. [@1] The ministry made the announcement on Thursday 26
+in three separate cases. [@1,3] The ministry made the announcement on Thursday 26
 November 2026. [@2] The four were held because quantities of narcotic and
 psychotropic substances were found with them, with the apparent intent to
-traffic in and use them. [@1]
+traffic in and use them. [@1,4]
 
-The total seized across the three cases included 50 grams of hashish. [@1]
-Officers also recovered 120 shisha portions of hashish oil. [@2] The other
+The total seized across the three cases included 50 grams of hashish. [@1,4]
+Officers also recovered 120 shisha portions of hashish oil. [@2,4] The other
 materials seized in the three cases were 2.103 kilograms of shabu
 (methamphetamine), two grams of heroin, 224 sheets soaked in a substance called
 kīmikāl, 2,474 capsules of Lyrica (pregabalin), 1,000 Captagon tablets and 172
 capsules of psychotropic substances. [@1] The ministry said 600 Kuwaiti dinars
-were also seized from the proceeds of sales. [@1]
+were also seized from the proceeds of sales. [@1,4]
 
 The suspects and the seized materials were referred to the competent authority
-for the necessary legal measures. [@1] The ministry described the operation as
-part of continuing security efforts against drugs. [@1]
-
+for the necessary legal measures. [@1,4] The ministry described the operation as
+part of continuing security efforts against drugs. [@1,4]
