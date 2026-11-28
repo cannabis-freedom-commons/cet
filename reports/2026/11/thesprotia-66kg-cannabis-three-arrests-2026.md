@@ -89,6 +89,11 @@ sources:
     url: https://www.balkanweb.com/en/Dozens-of-kilograms-of-cannabis-seized-at-the-Greek-border--three-Albanians-in-handcuffs/
     publisher: Balkanweb.com
     date: 2026-11-26
+  - title: «Μπλόκο» σε 66 κιλά κάνναβης στη Θεπρωτία – Τρεις συλλήψεις - Newsbeast
+    url: https://www.newsbeast.gr/society/arthro/13523671/bloko-se-66-kila-kannavis-sti-theprotia-treis-syllipseis
+    publisher: Newsbeast
+    date: 2026-11-26
+    language: el
 open_questions:
     - No place more precise than an area of the Thesprotia regional unit is given for either stop.
     - No value estimate for the 66.742 kg of cannabis was published.
@@ -97,17 +102,17 @@ open_questions:
 ---
 
 Three foreign nationals were arrested over the cannabis load in the Thesprotia
-regional unit on 25 November 2026. [@1,5] The three arrested were young Albanians from an area of Saranda. [@6] One man drove the car carrying the drugs
+regional unit on 25 November 2026. [@1,5,7] The three arrested were young Albanians from an area of Saranda. [@6] One man drove the car carrying the drugs
 while the other two went ahead as lookouts, telling him about possible police
-checks on the route. [@1,5,6] The operation was run at midday by the Igoumenitsa
+checks on the route. [@1,5,6,7] The operation was run at midday by the Igoumenitsa
 drug enforcement and investigation sub-directorate together with the Second
-Border Guard Department of Filiates. [@2,5,6]
+Border Guard Department of Filiates. [@2,5,6,7]
 
 Inside the first car officers found 60 packages of raw cannabis weighing 66 kg
-and 742 g. [@3,5,6] Police seized the two cars used in the operation. [@1,5] Officers
-also seized 1,130 euros in cash and four mobile phones. [@1,5,6] The police dogs
-Ikarus and Jerry took part in the searches. [@1,5,6]
+and 742 g. [@3,5,6,7] Police seized the two cars used in the operation. [@1,5,7] Officers
+also seized 1,130 euros in cash and four mobile phones. [@1,5,6,7] The police dogs
+Ikarus and Jerry took part in the searches. [@1,5,6,7]
 
 A felony case file was opened against the three and they were taken to the
-Thesprotia first-instance prosecutor's office. [@1,5,6] The force said the operation
+Thesprotia first-instance prosecutor's office. [@1,5,6,7] The force said the operation
 prevented the load from being moved on. [@4]
