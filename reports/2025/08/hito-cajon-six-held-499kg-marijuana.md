@@ -66,6 +66,16 @@ sources:
     publisher: ADN Radio
     date: 2025-08-30
     language: es
+  - title: Fiscalía formaliza a seis bolivianos detenidos con droga y armas de guerra en Hito Cajón
+    url: https://www.elmostrador.cl/noticias/pais/2025/08/29/fiscalia-formaliza-a-seis-bolivianos-detenidos-con-droga-y-armas-de-guerra-en-hito-cajon/
+    publisher: El Mostrador
+    date: 2025-08-29
+    language: es
+  - title: Bolivia solicita repatriar a policías detenidos en Hito Cajón y afirma que estaban en un operativo antidrogas
+    url: https://www.lanacion.cl/bolivia-solicita-repatriar-a-policias-detenidos-en-hito-cajon-y-afirma-que-estaban-en-un-operativo-antidrogas/
+    publisher: La Nación
+    date: 2025-09-01
+    language: es
 open_questions:
   - 'Accounts differ on the day of the detention: La Tercera and BioBioChile give Sunday 24 August 2025, while Cooperativa reports the arrest took place on the Monday.'
   - Cooperativa described the two vehicles as half-buried in the desert, while La Tercera and BioBioChile said they were stuck in snow.
@@ -79,20 +89,20 @@ open_questions:
 
 Five Bolivian police officers and a Bolivian civilian were detained on Sunday 24
 August 2025 at Hito Cajón, 1.8 kilometres from the border with Bolivia in
-Chile's Antofagasta region. [@1] Carabineros from the 2nd San Pedro de Atacama
+Chile's Antofagasta region. [@1,5] Carabineros from the 2nd San Pedro de Atacama
 precinct were patrolling route CH-27 when, at kilometre 50, they saw a group
-trying to recover two vehicles stuck in snow at a non-authorised crossing. [@1]
+trying to recover two vehicles stuck in snow at a non-authorised crossing. [@1,5]
 The civilian was travelling in a Toyota pickup with an outstanding theft report
 in Chile. [@2] The pickup carried false plates and had been stolen in
 Antofagasta in 2021. [@1]
 
 In the pickup officers found 499 kilograms 850 grams of marijuana and 73
-kilograms 750 grams of cocaine base paste. [@2] The other vehicle, a Nissan
+kilograms 750 grams of cocaine base paste. [@2,5] The other vehicle, a Nissan
 Patrol, carried large-calibre firearms, ammunition, fourteen mobile phones and
 Bolivian licence plates. [@2] Prosecutors said the detainees fired shots and
 overpowered a person, handcuffing him and holding him in the snow. [@2] The
 Antofagasta regional prosecutor said the vehicles carried about 600 kilograms of
-drugs in total. [@3]
+drugs in total. [@3,5]
 
 On 29 August, at the Calama guarantee court, prosecutors formalised the five
 officers on charges of illegal possession of prohibited firearms, illegal
@@ -102,8 +112,7 @@ stolen vehicle. [@2] The court ordered preventive detention for all six because
 it considered them a danger to society. [@2] It set an investigation period of
 150 days. [@2] Regional prosecutor Juan Castro Bekios said the evidence
 indicated that five of the detainees were police in Bolivia and the sixth a
-civilian. [@1] He said anyone entering Chile, whether a police officer or a
+civilian. [@1,5] He said anyone entering Chile, whether a police officer or a
 civilian in their own country, is subject to the principle of equality before
-the law. [@1] ADN Radio reported that the five belonged to Bolivia's Special
-Force to Fight Drug Trafficking (FELCN). [@4]
-
+the law. [@1,5] ADN Radio reported that the five belonged to Bolivia's Special
+Force to Fight Drug Trafficking (FELCN). [@4] Bolivia's police commander said the FELCN officers crossed the border without realising it. [@6] Bolivia's deputy minister said his officers chased a vehicle carrying drugs toward Chile until it stopped in snow, then detained the driver. [@6] Bolivia's deputy minister for controlled substances asked Chile to return the five officers, saying they formed part of an anti-drug patrol working the border, and Chile rejected the request. [@6]
