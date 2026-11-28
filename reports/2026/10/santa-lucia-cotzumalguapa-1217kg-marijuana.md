@@ -32,6 +32,11 @@ media:
     media_url: https://cdn.albertonews.com/wp-content/uploads/2026/10/image-2026-10-29T211503.905.jpg
     publisher: AlbertoNews
     caption: Wrapped packages of plant material published with AlbertoNews's account of the Santa Lucía Cotzumalguapa marijuana seizure. No photo credit is given.
+  - kind: photo
+    url: https://www.prensalibre.com/guatemala/justicia/marihuana-escondida-en-rollos-de-tela-asi-fue-el-decomiso-de-droga-en-escuintla-breaking/
+    media_url: https://www.prensalibre.com/wp-content/uploads/2026/10/MARIHUANA-DECOMISADA-EN-SANTA-LUCIA-COTZUMALGUAPA-.png
+    publisher: Prensa Libre
+    caption: 'Packages of marijuana seized in Santa Lucía Cotzumalguapa, Escuintla, laid out in a field. Photo: PNC / Prensa Libre'
 details:
   activity: [trafficking]
   agency_types: [anti-narcotics, police, prosecutor]
@@ -96,6 +101,11 @@ sources:
     publisher: Tenemos Noticias
     date: 2026-10-30
     language: es
+  - title: 'Marihuana escondida en rollos de tela: así fue el decomiso de droga en Escuintla'
+    url: https://www.prensalibre.com/guatemala/justicia/marihuana-escondida-en-rollos-de-tela-asi-fue-el-decomiso-de-droga-en-escuintla-breaking/
+    publisher: Prensa Libre
+    date: 2026-10-29
+    language: es
 open_questions:
   - No arrests, charges or court steps were reported; the sources name no suspect or organisation.
   - The Interior Ministry's statement of 28 October put the load at about 1,005 pounds (453 kilograms); the PNC's later update gave 1,217 kilograms, and the report uses the later figure.
@@ -116,8 +126,8 @@ Guatemalan police seized 880 packages of suspected marijuana in El Socorro, a
 rural subdivision of Santa Lucía Cotzumalguapa, Escuintla, on 28 October 2026.
 [@1,4] No arrests were reported, and police said they were still trying to
 identify and capture those responsible. [@3] The rolls had been left at the edge
-of a dirt road, and the drug was hidden inside the fabric. [@1,4] Officers counted
-44 rolls holding nylon bags of the drug. [@1]
+of a dirt road, and the drug was hidden inside the fabric. [@1,4,10] Officers counted
+44 rolls holding nylon bags of the drug. [@1,10]
 
 The operation was run by SGAIA, the National Civil Police's anti-narcotics
 analysis unit, with prosecutors from the Public Ministry present. [@1,4] The
@@ -126,13 +136,13 @@ planned to move them from Escuintla to Guatemala City. [@2,4] The find stopped t
 load from continuing its journey, the ministry said. [@2]
 
 The PNC put the load's weight at 1,217 kilograms and valued it at 18,573,854
-quetzales. [@1,4,5] The force said it fixed the weight and the value after finishing
+quetzales. [@1,4,5,10] The force said it fixed the weight and the value after finishing
 its count of the packages. [@1] An initial Interior Ministry statement had given
 about 1,005 pounds, or 453 kilograms. [@2] The ministry said investigators were
 still trying to establish the drug's origin and any links to trafficking
 structures. [@2,5,7,9]
 
-The investigation that led to the find began after a citizen complaint. [@4,6]
+The investigation that led to the find began after a citizen complaint. [@4,6,10]
 
 The government valued the load at about 2.4 million US dollars, or 18.5 million quetzales. [@7,8,9]
 
