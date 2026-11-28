@@ -52,6 +52,11 @@ sources:
     url: https://www.fijivillage.com/f/five-arrested-in-separate-drug-related-cases-across-fiji-cca68a/
     publisher: Fijivillage
     date: 2026-09-23
+  - title: Five arrested in separate drug-related cases across Fiji
+    url: https://www.fijivillage.com/news/five-arrested-in-separate-drug-related-cases-across-fiji-cca68a/
+    publisher: Fijivillage
+    date: 2026-09-23
+    language: en
 open_questions:
   - The man is not named, and no charge, court appearance or later outcome is reported.
   - The sources give no weight or value for the 177 branches.
@@ -59,6 +64,6 @@ open_questions:
   - All three reports repeat the police account; no independent account of the arrest was found.
 ---
 
-Police arrested a 30-year-old man from Lautoka at Lomolomo Beach on 22 September 2026 after allegedly finding 177 branches of dried leaves believed to be marijuana in his possession. [@1,2,3]
+Police arrested a 30-year-old man from Lautoka at Lomolomo Beach on 22 September 2026 after allegedly finding 177 branches of dried leaves believed to be marijuana in his possession. [@1,2,3,4]
 
-The reports said the branches were wrapped in aluminium foil. [@1,2,3] Fiji One News said the investigation was continuing. [@1]
+The reports said the branches were wrapped in aluminium foil. [@1,2,3,4] Fiji One News said the investigation was continuing. [@1]

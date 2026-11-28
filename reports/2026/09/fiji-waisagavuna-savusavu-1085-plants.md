@@ -53,15 +53,20 @@ sources:
     url: https://www.fijivillage.com/p/five-arrested-in-separate-drug-related-cases-across-fiji-cca68a/
     publisher: Fijivillage
     date: 2026-09-23
+  - title: Five arrested in separate drug-related cases across Fiji
+    url: https://www.fijivillage.com/news/five-arrested-in-separate-drug-related-cases-across-fiji-cca68a/
+    publisher: Fijivillage
+    date: 2026-09-23
+    language: en
 ---
 
 Fiji police uprooted 1,085 suspected marijuana plants from an unidentified
 farm in the Waisagavuna area of Savusavu, on Vanua Levu, in an operation the
-Fiji Police Force announced on 23 September 2026. [@1,2,3,4]
+Fiji Police Force announced on 23 September 2026. [@1,2,3,4,5]
 
 The plants ranged from five centimetres to one metre in height and were
 seized during the police operation at the farm, whose ownership was not
-disclosed. [@1,2,3,4] No arrest was reported in connection with the farm, and
+disclosed. [@1,2,3,4,5] No arrest was reported in connection with the farm, and
 the police force said investigations into the discovery were continuing.
 [@1,2] The operation was part of the force's routine ongoing work against
 illegal drug cultivation and distribution. [@1,3]
