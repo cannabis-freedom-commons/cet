@@ -51,6 +51,11 @@ media:
     media_url: https://image.fnnews.com/resource/media/image/2026/11/25/202611251509033375_l.avif
     publisher: 파이낸셜뉴스
     caption: 'Police seized items (경찰 압수품) from the case. Photo: Yonhap News, supplied by Busan Saha Police Station.'
+  - kind: photo
+    url: https://www.mediainnews.com/news/articleView.html?idxno=49141
+    media_url: https://cdn.mediainnews.com/news/photo/202611/49141_60713_2457.jpg
+    publisher: 미디어인뉴스
+    caption: 'Police handout published with the report on the 13 arrests in Changwon. Photo: Busan Police Agency (사진제공=부산경찰청).'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: 20bbe3cb6a48a36c85f39fc01ee79a26
@@ -86,6 +91,11 @@ sources:
     publisher: 동아일보
     date: 2026-11-25
     language: ko
+  - title: 고물상 직원으로 위장한 마약 거래…필로폰·대마 맞교환 일당 13명 검거
+    url: https://www.mediainnews.com/news/articleView.html?idxno=49141
+    publisher: 미디어인뉴스
+    date: 2026-11-25
+    language: ko
 open_questions:
     - The account does not say whether the 13 have appeared in court or been formally charged.
     - No price or street value was given for the 56.3 grams of cannabis or the methamphetamine.
@@ -96,19 +106,19 @@ identified as A, for violating the Narcotics Control Act on psychotropic drugs.
 [@1,3,4,5,6] All 13 suspects are men whose alleged roles included
 methamphetamine-cannabis trading, purchase, sale, use, possession and brokerage.
 [@1] The group allegedly traded methamphetamine for cannabis in the Changwon
-area between June and September 2026. [@1,3,4,5,6] The deals took place inside vehicles
+area between June and September 2026. [@1,3,4,5,6,7] The deals took place inside vehicles
 parked on roads near a terminal in Changwon. [@2,4,6]
 
-Police seized 56.3 grams of cannabis during the investigation. [@2,4,5,6] Police also
+Police seized 56.3 grams of cannabis during the investigation. [@2,4,5,6,7] Police also
 seized 28.46 grams of methamphetamine, described as enough for 948 people to use
-at once. [@2,5,6]
+at once. [@2,5,6,7]
 
 Those involved had met during prison terms for similar offences or through
-acquaintances and continued offending after release. [@1,3,5,6] A worked as a
+acquaintances and continued offending after release. [@1,3,5,6,7] A worked as a
 junk-shop employee and led an outwardly stable working life that avoided
-suspicion. [@1,3,4,5,6] A allegedly exchanged cannabis for methamphetamine over several
-years with a seller identified as B and used the methamphetamine received. [@1,5,6]
+suspicion. [@1,3,4,5,6,7] A allegedly exchanged cannabis for methamphetamine over several
+years with a seller identified as B and used the methamphetamine received. [@1,5,6,7]
 Police said the arrests cut off a link that would have spread drugs into the
-local community. [@1,5,6] Police said they will trace the source of the cannabis A
-exchanged and investigate other accomplices. [@1,3,4,5] Police said they will continue
-joint prevention campaigns with district offices and public health centres. [@1,3,5,6]
+local community. [@1,5,6,7] Police said they will trace the source of the cannabis A
+exchanged and investigate other accomplices. [@1,3,4,5,7] Police said they will continue
+joint prevention campaigns with district offices and public health centres. [@1,3,5,6,7]
