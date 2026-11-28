@@ -39,6 +39,11 @@ media:
     media_url: https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/11/pm_f4722c.jpeg?w=660&h=440&quality=75
     publisher: Rádio Itatiaia
     caption: 'The three seized cannabis plants, each about 1.5 metres tall, at the rural property. Photo: Polícia Militar'
+  - kind: video
+    url: https://www.alterosa.com.br/programas/alterosa-em-alerta-suldeminas/policia-apreende-rifle-municoes-e-pes-de-maconha-em-bocaina-de-minas/
+    media_url: https://www.youtube.com/watch?v=MxUcRG2gB9E
+    publisher: TV Alterosa
+    caption: 'Alterosa Alerta television report on the seizure of the rifle, ammunition and cannabis plants at a rural property in Bocaina de Minas. Video: TV Alterosa'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: f16b5d00fc28b70a629a6d21b343e167
@@ -64,12 +69,17 @@ sources:
     publisher: Jornal Panorama
     date: 2026-11-25
     language: pt
+  - title: Polícia apreende rifle, munições e pés de maconha em Bocaina de Minas
+    url: https://www.alterosa.com.br/programas/alterosa-em-alerta-suldeminas/policia-apreende-rifle-municoes-e-pes-de-maconha-em-bocaina-de-minas/
+    publisher: TV Alterosa
+    date: 2026-11-26
+    language: pt
 open_questions:
-  - The 51-year-old man was described as taken in for judicial police procedures rather than formally arrested, and no charge was reported.
-  - No weight or value was published for the three cannabis plants.
-  - No outcome of the judicial procedures was reported.
-  - The four accounts all reproduce the same Military Police statement and are not independent reporting.
-  - The plants were described only as resembling Cannabis sativa, with no laboratory confirmation reported.
+    - The 51-year-old man was described as taken in for judicial police procedures rather than formally arrested, and no charge was reported.
+    - No weight or value was published for the three cannabis plants.
+    - No outcome of the judicial procedures was reported.
+    - The accounts reproduce the same Military Police statement and are not independent reporting.
+    - The plants were described only as resembling Cannabis sativa, with no laboratory confirmation reported.
 ---
 
 Military Police seized three cannabis plants, a .22-calibre rifle and 684 rounds
@@ -77,7 +87,7 @@ of ammunition on a rural property in the Serra do Palmital region of Bocaina de
 Minas, Minas Gerais, on Tuesday 24 November 2026. [@1] The operation began after
 an anonymous tip reported possible cultivation of narcotics on the property.
 [@3] A 51-year-old man was taken to the Civil Police station with the seized
-materials. [@2]
+materials. [@2,5]
 
 Officers who went to the indicated address found three plants with
 characteristics similar to Cannabis sativa, each roughly 1.5 metres tall. [@4]
@@ -89,4 +99,3 @@ The weapon, ammunition and plants were handed to the authorities responsible for
 continuing the legal procedures. [@3] The Military Police said anonymous tips
 can be made free of charge through the 181 hotline and emergencies reported on
 190. [@1]
-
