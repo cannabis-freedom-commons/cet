@@ -42,6 +42,21 @@ media:
     media_url: https://gomesnews.com.br/wp-content/uploads/2026/09/maconha-1024x576.jpeg
     publisher: Gomes News
     caption: 'The Cannabis sativa crop still standing at the rural Campo Formoso property, in a second police handout photo. Photo: 54ª CIPM – Campo Formoso/PMBA'
+  - kind: photo
+    url: https://glomes.com.br/policia-erradica-plantio-de-maconha-e-apreende-grande-quantidade-de-droga-no-interior-da-bahia/
+    media_url: https://glomes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-14.58.37.jpeg
+    publisher: Grupo Lomes de Comunicação
+    caption: 'The cannabis material found at the rural Campo Formoso property, in the police handout photo carried at the top of the report. Photo: Divulgação/Ascom/SSP-BA'
+  - kind: photo
+    url: https://glomes.com.br/policia-erradica-plantio-de-maconha-e-apreende-grande-quantidade-de-droga-no-interior-da-bahia/
+    media_url: https://glomes.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-15.00.06.jpeg
+    publisher: Grupo Lomes de Comunicação
+    caption: 'The cannabis plot cleared by the 54th CIPM in rural Campo Formoso, in a police handout photo published with the report. Photo: Divulgação/Ascom/SSP-BA'
+  - kind: video
+    url: https://glomes.com.br/policia-erradica-plantio-de-maconha-e-apreende-grande-quantidade-de-droga-no-interior-da-bahia/
+    media_url: https://glomes.com.br/wp-content/uploads/2026/09/WhatsApp-Video-2026-09-09-at-14.59.34.mp4
+    publisher: Grupo Lomes de Comunicação
+    caption: 'Video distributed with the police handout on the Campo Formoso eradication. Video: Divulgação/Ascom/SSP-BA'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: 5e093b537a675029bc101a4dbc81ee52
@@ -62,6 +77,11 @@ sources:
     publisher: Gomes News
     date: 2026-09-09
     language: pt
+  - title: Polícia erradica plantio de maconha e apreende grande quantidade de droga no interior da Bahia
+    url: https://glomes.com.br/policia-erradica-plantio-de-maconha-e-apreende-grande-quantidade-de-droga-no-interior-da-bahia/
+    publisher: Grupo Lomes de Comunicação
+    date: 2026-09-10
+    language: pt
 open_questions:
   - No weight for the marijuana in the eight sacks and no count of plants destroyed was published.
   - The police did not say whether anyone was arrested; the reports describe only the three men who fled.
@@ -73,7 +93,7 @@ open_questions:
 
 Military police from the 54th Independent Military Police Company eradicated a
 Cannabis sativa plantation and seized a large quantity of marijuana on a rural
-property in Campo Formoso, northern Bahia. [@1] The operation took place on
+property in Campo Formoso, northern Bahia. [@1,4] The operation took place on
 Wednesday 9 September 2026 at Saquinho dos Pauzinhos, a locality in rural Campo
 Formoso. [@2] It began after reports of people suspected of theft in the area,
 and three men at the property fled as the officers arrived. [@2]
@@ -88,4 +108,3 @@ manufacture during the search. [@2]
 The firearm and the seized marijuana were taken to the Campo Formoso Territorial
 Police Station, where the Civil Police opened an inquiry to identify the
 landowners and those responsible for the planting. [@3]
-
