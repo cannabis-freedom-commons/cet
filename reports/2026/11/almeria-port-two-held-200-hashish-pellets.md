@@ -95,6 +95,11 @@ sources:
     publisher: Kech24
     date: 2026-11-26
     language: ar
+  - title: 'Port Almería : deux personnes arrêtées avec 200 capsules de cannabis dans le corps'
+    url: https://www.yabiladi.com/articles/details/208819/port-almer-deux-personnes-avec.html
+    publisher: Yabiladi
+    date: 2026-11-26
+    language: fr
 open_questions:
     - No total weight was published for the 200 hashish pellets.
     - No court appearance or detention decision was reported.
@@ -102,12 +107,12 @@ open_questions:
 
 Guardia Civil officers detained two people at the Port of Almería for suspected
 drug trafficking after finding 200 hashish pellets inside their bodies during a
-passenger and goods check on arrivals from Nador, Morocco. [@1,3,4,5,6,7,8] Officers of the
+passenger and goods check on arrivals from Nador, Morocco. [@1,3,4,5,6,7,8,9] Officers of the
 fiscal and border analysis unit interviewed the two couriers and, noting their
 nervous demeanour, asked them to undergo a voluntary X-ray examination at a
-medical centre, to which both agreed. [@1,4,8] The examination detected numerous
+medical centre, to which both agreed. [@1,4,8,9] The examination detected numerous
 rounded foreign bodies consistent with the wrappers, which were later expelled
-and seized by officers. [@1] One detained person carried 105 small hashish wrappers and the other carried 95. [@3,4,6,7,8]
+and seized by officers. [@1,9] One detained person carried 105 small hashish wrappers and the other carried 95. [@3,4,6,7,8,9]
 
 The pair were intercepted during a passenger and goods check on services
 arriving from Nador. [@2] Officers with the fiscal and border analysis unit
@@ -117,4 +122,4 @@ both people were arrested on suspicion of drug trafficking. [@2] The Guardia
 Civil said this method of concealment can be dangerous because any rupture of
 the packets can have serious consequences for the people who ingest them. [@2,6]
 The arrests form part of the force's wider operation against drug trafficking,
-cultivation and production in the province of Almeria. [@2,4,6]
+cultivation and production in the province of Almeria. [@2,4,6,9]
