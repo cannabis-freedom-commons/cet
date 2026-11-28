@@ -62,6 +62,11 @@ sources:
     publisher: YA62.ru
     date: 2026-11-27
     language: ru
+  - title: Жителя Путятинского округа будут судить за незаконный оборот наркотиков
+    url: https://62info.ru/news/obshchestvo/157855-zhitelya-putyatinskogo-okruga-budut-sudit-za-nezakonnyy-oborot-narkotikov/
+    publisher: 62ИНФО
+    date: 2026-11-27
+    language: ru
 open_questions:
   - The indictment has no separate date in the accounts; 27 November 2026, when the prosecutor's office announced it, is used as the incident date.
   - No exact weight was published; the prosecutor's office says only that more than 700 grams were seized.
@@ -74,14 +79,13 @@ A resident of the village of Putyatino in Ryazan Oblast will stand trial on a
 charge of illegally acquiring and storing narcotics without intent to sell, the
 regional prosecutor's office said on 27 November 2026. [@1] Investigators say
 that in September 2026 he found bushes of wild cannabis on a plot of open land.
-[@3] He collected parts of the plants and kept them at his home for personal
-use, according to the prosecutor's office. [@2]
+[@3,5] He collected parts of the plants and kept them at his home for personal
+use, according to the prosecutor's office. [@2,5]
 
 Police operational search measures stopped the storage. [@1] Officers seized
-more than 700 grams of prohibited substances. [@4] The Putyatinsky district
+more than 700 grams of prohibited substances. [@4,5] The Putyatinsky district
 prosecutor's office approved an indictment under part 2 of article 228 of the
 Criminal Code, which covers illegal acquisition and storage without intent to
 sell on a large scale. [@3] The case was sent to Shatsky District Court for
-trial on the merits. [@1] The accounts identify the defendant only as a local
+trial on the merits. [@1] The accused faces up to 10 years in prison if convicted. [@5] The accounts identify the defendant only as a local
 resident and give no age. [@4]
-
