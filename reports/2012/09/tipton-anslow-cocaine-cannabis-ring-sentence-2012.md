@@ -45,6 +45,11 @@ media:
     media_url: https://ichef.bbci.co.uk/ace/standard/624/mcs/media/images/73862000/jpg/_73862466_anslow2.jpg
     publisher: BBC News
     caption: 'Seized drugs described as large amounts of cocaine and cannabis found at different addresses. Photo: West Midlands Police'
+  - kind: photo
+    url: https://www.coventrytelegraph.net/news/coventry-news/crime-lords-coventry-warwickshire-15448873
+    media_url: https://i2-prod.coventrytelegraph.net/article3417750.ece/ALTERNATES/s615/John-Anslow.jpg
+    publisher: Coventry Live
+    caption: John Anslow, the Tipton man jailed for leading the cocaine and cannabis supply ring.
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 238894e3177bb7572c4092dc3baaeec7
@@ -74,12 +79,16 @@ sources:
     url: https://www.expressandstar.com/news/crime/drugs-baron-john-anslow-fails-in-bid-to-clear-name-6326009
     publisher: Express and Star
     date: 2015-10-30
+  - title: The rise and fall of the crime lords who ruled the streets
+    url: https://www.coventrytelegraph.net/news/coventry-news/crime-lords-coventry-warwickshire-15448873
+    publisher: Coventry Live
+    date: 2018-11-24
 ---
 
 John Anslow, 33, from Tipton, was sentenced in September 2012 to 22 years in
 prison for conspiracy to supply cocaine and cannabis, convicted in his absence
-while on the run. [@1,5,6] He led a UK-wide gang distributing large quantities of
-cocaine and cannabis. [@1,5,6] The network distributed drugs across the country from
+while on the run. [@1,5,6,7] He led a UK-wide gang distributing large quantities of
+cocaine and cannabis. [@1,5,6,7] The network distributed drugs across the country from
 a Tipton base. [@1] He was sentenced alongside seven others for large-scale drug
 supply. [@4] His later appeal described concurrent terms for cocaine supply and
 for cannabis supply. [@3]
@@ -93,9 +102,9 @@ police investigation uncovered the extensive dealing network based in the West
 Midlands but spread further afield. [@4]
 
 On 23 January 2012 Anslow was sprung from a prison van while held over a murder
-case. [@1] He spent 13 months on the run in northern Cyprus, held over
+case. [@1] The breakout made Anslow Britain's most wanted man at the time. [@7] He spent 13 months on the run in northern Cyprus, held over
 immigration offences before deportation to the UK. [@1] He fled to Cyprus and
 was on the run until March of last year, when he was arrested on immigration
-offences and deported back to the UK. [@4] Reporting restrictions were then
+offences and deported back to the UK. [@4,7] Reporting restrictions were then
 lifted, revealing that he was serving a 22-year drug-trafficking sentence
-alongside a further term for the escape. [@4]
+alongside a further term for the escape. [@4] He was found guilty of escaping from custody, adding another seven years to his original sentence. [@7]
