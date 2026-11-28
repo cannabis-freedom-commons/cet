@@ -80,6 +80,11 @@ sources:
     publisher: Navarashtra
     date: 2026-11-26
     language: mr
+  - title: अडीचशे किलो गांजासह दीड कोटींचा मुद्देमाल जप्त, अमरावतीच्या दोघांना गुन्हे शाखेकडून जेरबंद
+    url: https://www.loksatta.com/pune/pune-police-seize-250-kg-ganja-worth-1-50-crore-shirur-amravati-accused-arrested-ssb-93-6275005/
+    publisher: Loksatta
+    date: 2026-11-26
+    language: mr
 media:
   - kind: photo
     url: https://pudhari.news/maharashtra/pune/shirur-police-seize-250-kg-ganja-worth-1-52-crore-sk04
@@ -92,32 +97,33 @@ media:
     publisher: Navarashtra
     caption: Pune police during the three-hour city-wide combing operation in which the anti-narcotics squad seized 250 kg of ganja, published with Navarashtra's report on the drive.
 open_questions:
-  - One Marathi account values the seized narcotics at Rs 1.51 crore, the total other accounts give for the ganja, the SUV and the phones together, while police valued the ganja alone at Rs 1.25 crore.
-  - The combing drive is dated to the night of Tuesday 25 November, although 25 November 2026 was a Wednesday, leaving the exact night of the operation unclear.
+    - One Marathi account values the ganja, SUV and phones together at Rs 1.51 crore and Loksatta puts the same combined total at Rs 1.50 crore, while police valued the ganja alone at Rs 1.25 crore.
+    - Loksatta reports the ganja was brought from Odisha for sale in Pune, while other accounts said police did not state where it was procured or where it was being taken.
+    - No charge sheet, court production or custody decision was reported.
 ---
 
 On 25 November 2026, the Anti-Narcotics Squad-II of the Pune City Police Crime
 Branch arrested two men and seized 250 kg of ganja after a chase in the Shirur
-area. [@3,5,6,8,9] The seizure was made during a city-wide night combing operation that ran from 10 pm on 25 November to 1 am the next morning on the orders of Police Commissioner Amitesh Kumar, called after a shooting and knife attack on a man accused of murder in the Shivajinagar court complex. [@9] The accused were identified as 24-year-old Sameer Purushottam Raut of
+area. [@3,5,6,8,9,10] The seizure was made during a city-wide night combing operation that ran from 10 pm on 25 November to 1 am the next morning on the orders of Police Commissioner Amitesh Kumar, called after a shooting and knife attack on a man accused of murder in the Shivajinagar court complex. [@9] The accused were identified as 24-year-old Sameer Purushottam Raut of
 Sangol and 30-year-old Ajay Jagdish Mohite of Bagapur, both in Chandur Railway
-taluka of Amravati district. [@3,6,7,8] Raut works as a paver-block operator and
+taluka of Amravati district. [@3,6,7,8,10] Raut works as a paver-block operator and
 Mohite does furniture work. [@2,4] Officers intercepted their car in Shirur city
 and, after the pair abandoned it and fled into the dark, apprehended them in an
 open plot near Datt Mandir opposite the Satyabhama Niwas building in State Bank
 Colony. [@3,5,7] A case was registered against both men at Shirur Police Station,
 and further investigation is under way. [@3]
 
-During a search of the vehicle, police recovered 250 kg of ganja. [@3,5,6,8] Officials
+During a search of the vehicle, police recovered 250 kg of ganja. [@3,5,6,8,10] Officials
 announcing the seizure on Thursday said a sports utility vehicle was also seized
 with the ganja in Pune district. [@1,7] Police valued the seized ganja at Rs 1.25
-crore. [@2,4,7] Police also seized a Mahindra XUV 700 worth Rs 25 lakh and two
+crore. [@2,4,7,10] Police also seized a Mahindra XUV 700 worth Rs 25 lakh and two
 mobile phones valued at Rs 1.20 lakh, putting the total seizure at Rs 1.51
 crore. [@2,4,6]
 
 A team led by Police Inspector Jeevan Mane had been patrolling in the Loni
 Kalbhor police station area when it spotted a speeding white car near Kunjir
-Lawns and signalled it to stop, but the driver sped toward Solapur. [@3] The operation was carried out by a team led by Police Inspector Jeevan Mane, along with Assistant Police Inspectors Afroz Pathan and Nitinkumar Naik and other personnel of Anti-Narcotics Squad-II. [@4] The
+Lawns and signalled it to stop, but the driver sped toward Solapur. [@3,10] The operation was carried out by a team led by Police Inspector Jeevan Mane, along with Assistant Police Inspectors Afroz Pathan and Nitinkumar Naik and other personnel of Anti-Narcotics Squad-II. [@4,10] The
 team pursued the car into the Yavat police station area with local help and an
 alert to the Pune Rural Police Control Room that it was heading for Shirur. [@3]
 Police did not say where the ganja was procured or where it was being taken.
-[@3]
+[@3] Loksatta reported that the two men had brought the ganja from Odisha to sell in Pune. [@10]
