@@ -81,14 +81,20 @@ sources:
     publisher: Министерство внутренних дел Республики Казахстан
     date: 2026-11-24
     language: ru
+  - title: Гражданку Казахстана задержали в ОАЭ по делу о мошенничестве на 24 млн теңге
+    url: https://www.inform.kz/ru/grazhdanku-kazahstana-zaderzhali-voae-podelu-omoshennichestve-na24mln-tenge-050b2d88
+    publisher: Kazinform
+    date: 2026-11-24
+    language: ru
 open_questions:
-  - The regional police accounts state the material was marijuana; no laboratory confirmation was reported.
-  - No breakdown of the 130 kg between the car, the base and the rented flat was published.
-  - No value or street-price estimate was published for the 130 kg.
-  - Police date the searches to 19 November 2026, but the ministry said the Pravoporyadok operation ran from 20 November, so it is unclear how the case falls within the operation.
-  - The police accounts call the detainee a native of Russia living temporarily in Aktau, while Otpan News described him as a citizen of a neighbouring state.
-  - No charge, plea, detention order or court outcome was reported; he was held in a temporary detention centre while investigators worked.
-  - Police did not say where the marijuana was grown or where it was to be sold.
+    - The regional police accounts state the material was marijuana; no laboratory confirmation was reported.
+    - No breakdown of the 130 kg between the car, the base and the rented flat was published.
+    - No value or street-price estimate was published for the 130 kg.
+    - Police date the searches to 19 November 2026, but the ministry said the Pravoporyadok operation ran from 20 November, so it is unclear how the case falls within the operation.
+    - The police accounts call the detainee a native of Russia living temporarily in Aktau, while Otpan News described him as a citizen of a neighbouring state.
+    - No charge, plea, detention order or court outcome was reported; he was held in a temporary detention centre while investigators worked.
+    - Police did not say where the marijuana was grown or where it was to be sold.
+    - The ministry roundup gives the quantity as about 130 kilograms, while the regional police accounts give 130 kilograms exactly.
 ---
 
 The operation was carried out on 19 November 2026 by officers of the organised
@@ -100,11 +106,11 @@ placed in a temporary detention centre. [@3]
 
 In the three places officers found 327 plastic bags and four sacks holding plant
 material. [@3] Police said the material was marijuana and that the total weight
-seized was 130 kilograms. [@2] The Interior Ministry said police found bags of
+seized was 130 kilograms. [@2,7] The Interior Ministry said police found bags of
 suspected marijuana while checking a car in the Mangistau Region and later found
 another batch at one of the region's bases. [@1] The ministry reported the case
 within its Pravoporyadok operation, which it said ran across the country from 20
-November. [@6]
+November. [@6,7]
 
 A criminal case was opened under Article 297 of the Criminal Code. [@2] Article
 297 covers the illegal acquisition, storage and transport of drugs for sale, and
@@ -114,4 +120,3 @@ use. [@2] The accounts said the necessary investigative steps were still being
 carried out. [@3] Caravan.kz, citing Lada.kz, described the case as the break-up
 of a large drug sales channel. [@5] Otpan News described the detainee as a
 citizen of a neighbouring state. [@4]
-
