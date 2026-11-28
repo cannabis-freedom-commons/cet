@@ -87,6 +87,11 @@ sources:
     publisher: Córdoba Hoy
     date: 2026-11-26
     language: es
+  - title: Cinco operaciones contra el cultivo y la venta de droga en el sur de Córdoba
+    url: https://www.andaluciacentro.com/cinco-operaciones-contra-el-cultivo-y-la-venta-de-droga-en-el-sur-de-cordoba/
+    publisher: Andalucía Centro
+    date: 2026-11-26
+    language: es
 open_questions:
     - No exact dates in October were published, so 31 October 2026 stands in for the month with approximate precision.
     - The 308 cultivation pots and the dried marijuana in the Fernán Núñez indoor grow were not weighed or counted as plants, so they are not in the cannabis totals.
@@ -100,27 +105,27 @@ Five people were detained and six others were investigated after five October
 Guardia Civil operations in La Carlota, Fernán Núñez and La Rambla. [@2,3,4] Three of the six investigated people were suspected of crimes against public health and three of electricity fraud. [@4] The
 operations dismantled four marijuana plantations, two outdoors and two inside
 houses, plus an active drug sale point. [@2,3,4] In Montealto in La Carlota officers
-found five large marijuana plants hidden by a mesh screen inside a parcel. [@1,3,4]
+found five large marijuana plants hidden by a mesh screen inside a parcel. [@1,3,4,5]
 In a second Montealto action with La Victoria officers and La Carlota local
 police, officers found 14 more marijuana plants in a vegetable garden. [@1,3,4]
 Three local residents were investigated over the two La Carlota crops for
 alleged crimes against public health involving cultivation. [@2,3,4]
 
 In Fernán Núñez officers dismantled an indoor marijuana plantation inside a
-house. [@2,3,4] Inside they found 308 cultivation pots and dried marijuana, plus
+house. [@2,3,4,5] Inside they found 308 cultivation pots and dried marijuana, plus
 more than 20 litres of fertiliser, lamps, scales, bags, heat lamps and
 air-conditioning equipment. [@2,3,4] Two people were detained in that indoor action
 and a third was investigated for alleged electricity fraud. [@2,3,4] At a second
 Fernán Núñez action officers dismantled an active drug sale point, seizing 250
 grams of buds in 1-gram bags, 390 grams of chopped marijuana and 1.63 grams of
-hashish plus cash. [@2,3,4] They also found two precision scales, two mobile phones,
+hashish plus cash. [@2,3,4,5] They also found two precision scales, two mobile phones,
 a knife, a short compressed-air weapon and contraband tobacco, detaining two
 people and investigating the property owner for electricity fraud. [@2,4] In La
 Rambla officers searched a house with judicial authorisation and found two
 upstairs rooms fitted for growing with lights, climate control and odour
 filters. [@2,3,4] There they seized 248 drying marijuana plants and 300 cuttings
 ready for planting, plus remains of earlier harvests indicating continuous
-cultivation. [@2,3,4]
+cultivation. [@2,3,4,5]
 
 The La Rambla homeowner was detained for alleged crimes against public health
 and electricity fraud. [@2,3,4] Montilla Guardia Civil units ran the five actions
