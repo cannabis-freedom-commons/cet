@@ -46,31 +46,34 @@ sources:
     publisher: جريدة البلاد
     date: 2026-11-25
     language: ar
+  - title: 114kg drug haul ends in life sentences
+    url: https://www.newsofbahrain.com/en/article/114kg-drug-haul-ends-in-life-sentences
+    publisher: News of Bahrain
+    date: 2026-11-26
+    language: en
 open_questions:
-  - No separate date for the judgment was given; 25 November 2026 is the publication date and is used as the incident date.
-  - No breakdown of the more than 114 kilograms between hashish and marijuana was published.
-  - The three defendants were not named, and no ages or nationalities for them were given; Asian nationality was mentioned only for the outside networks.
-  - No separate seizure location or seizure and arrest dates were published.
-  - No appeal or further court outcome was reported.
-  - The account rests on a single source.
+    - No separate date for the judgment was given; 25 November 2026 is the publication date and is used as the incident date.
+    - No breakdown of the more than 114 kilograms between hashish and marijuana was published.
+    - The three defendants were not named, and no ages or nationalities for them were given; Asian nationality was mentioned only for the outside networks.
+    - No separate seizure location or seizure and arrest dates were published.
+    - No appeal or further court outcome was reported.
 ---
 
 Bahrain's High Criminal Court convicted three defendants of bringing and
 possessing narcotic substances with intent to traffic. [@1] The court sentenced
 the first and second defendants to life imprisonment and fined each of them
-10,000 dinars. [@1] It sentenced the third defendant to 10 years in prison,
+10,000 dinars. [@1,2] It sentenced the third defendant to 10 years in prison,
 fined him 5,000 dinars, ordered his permanent deportation after he serves the
-sentence and ordered the seized drugs confiscated. [@1]
+sentence and ordered the seized drugs confiscated. [@1,2]
 
 The case began after the Anti-Narcotics Directorate told the Public Prosecution
 that inquiries had confirmed information about an organised network bringing
 drugs into Bahrain by sea with outside networks including people of Asian
-nationality to distribute them inside the kingdom. [@1] Officers apprehended the
-defendants holding more than 114 kilograms of hashish and marijuana. [@1]
+nationality to distribute them inside the kingdom. [@1,2] Officers apprehended the
+defendants holding more than 114 kilograms of hashish and marijuana. [@1,2]
 
 Prosecutors went to the seizure site to inspect it, questioned the defendants,
 confronted them with the seized substances and the evidence against them and
-ordered them held in pretrial detention. [@1] After completing the
+ordered them held in pretrial detention. [@1,2] After completing the
 investigations and establishing the evidence, the prosecution referred the case
-to the High Criminal Court, which issued the sentences. [@1]
-
+to the High Criminal Court, which issued the sentences. [@1,2]
