@@ -65,6 +65,11 @@ sources:
     publisher: Afrikinfos Mali
     date: 2024-08-09
     language: fr
+  - title: Saisie de 78 Briquettes de Cannabis à la Frontière Mali-Sénégal
+    url: https://www.leral.net/Saisie-de-78-Briquettes-de-Cannabis-a-la-Frontiere-Mali-Senegal_a369266.html
+    publisher: Leral.net
+    date: 2024-08-09
+    language: fr
 open_questions:
   - No weight was published for the 78 packages of cannabis resin, so no kilogram figure is given.
   - No number of people detained was reported; Malijet said those responsible were handed to law enforcement, while Journal du Niger described investigations to identify network members as ongoing.
@@ -74,16 +79,16 @@ open_questions:
 
 Malian customs officers said they seized 78 packages of cannabis resin,
 concealed in an old Mercedes in the Diboli area, on the night of 7 to 8 August
-2024. [@1] The drugs were hidden in secret compartments fitted inside the
+2024. [@1,5] The drugs were hidden in secret compartments fitted inside the
 vehicle's cabin and were found only after careful dismantling. [@1] The customs
 service said vigilance and precise intelligence had let its officers disrupt a
 well-organised trafficking operation. [@1] It said active investigations were
 under way to identify members of the network and its leaders. [@1]
 
 A customs patrol acting on intelligence intercepted the car at Diboli, on the
-Mali–Senegal border, as it came from Bamako and was heading for Senegal. [@2]
+Mali–Senegal border, as it came from Bamako and was heading for Senegal. [@2,5]
 Officers dismantled the rear seats and opened up the boot's partition walls to
-reach the drugs. [@2] Malijet reported that officers of the research brigade
+reach the drugs. [@2,5] Malijet reported that officers of the research brigade
 made the seizure during a patrol on the night of 7 to 8 August 2024. [@3] It
 added that the drugs and those responsible were handed over to law enforcement.
 [@3]
@@ -93,4 +98,3 @@ seized 78 briquettes, or compressed blocks, of cannabis at Diboli, coming from
 Bamako and bound for Senegal. [@4] Its press office said the cannabis had been
 buried in the cabin of an old Mercedes. [@4] The customs director general
 praised the officers' vigilance after the operation. [@4]
-
