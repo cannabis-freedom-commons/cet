@@ -56,26 +56,31 @@ sources:
     url: https://www.hamropatro.com/en/news/detail/1795679169614105580-indian-national-arrested-at-airport-with-nearly-5-kg-of
     publisher: Hamro Patro
     date: 2026-11-26
+  - title: Indian national arrested at TIA with 4.8kg of marijuana
+    url: https://thehimalayantimes.com/kathmandu/indian-national-arrested-at-tia-with-48kg-of-marijuana
+    publisher: The Himalayan Times
+    date: 2026-11-25
+    language: en
 ---
 
 Nepal's Narcotics Control Bureau arrested an Indian national at Tribhuvan
 International Airport in Kathmandu with nearly five kilograms of Thai cannabis.
-[@1,3,4] Police identified the man as 29-year-old Abdul Nausad, a resident of
+[@1,3,4,5] Police identified the man as 29-year-old Abdul Nausad, a resident of
 Mulariya in Kerala, India, carrying Thai cannabis flown into Nepal by air. [@1,3]
 He had arrived in Kathmandu from Thailand via Malaysia on a Batik Air flight.
-[@1]
+[@1,5]
 
 The bureau said he travelled aboard Batik Air flight OD 182 from Thailand via
-Kuala Lumpur, Malaysia, before reaching Kathmandu with the cannabis load. [@2]
+Kuala Lumpur, Malaysia, before reaching Kathmandu with the cannabis load. [@2,5]
 Officers detained the 29-year-old man from Kerala, India, on Tuesday after
-monitoring passengers arriving on international flights for smuggling. [@2]
+monitoring passengers arriving on international flights for smuggling. [@2,5]
 Officers recovered 4.8 kilograms of marijuana from his possession during the
-search at the airport. [@2,3] Officers also seized his passport and a mobile phone
-alongside the drugs for the investigation. [@2]
+search at the airport. [@2,3,5] Officers also seized his passport and a mobile phone
+alongside the drugs for the investigation. [@2,5]
 
 The Narcotics Control Bureau in Koteshwar took him into custody and launched an
 investigation into the case and its trafficking links. [@1] Investigators said
 further inquiry would establish the circumstances surrounding the case and any
-possible links to wider drug-trafficking activity. [@2] No charges, court
+possible links to wider drug-trafficking activity. [@2,5] No charges, court
 production, detention order or other case outcome had been reported, with both
 accounts describing the matter as under further investigation. [@2]
