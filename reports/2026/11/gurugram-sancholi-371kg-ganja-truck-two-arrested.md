@@ -65,21 +65,21 @@ sources:
     url: https://www.hindustantimes.com/cities/gurugram-news/two-held-with-371kg-marijuana-worth-70-lakh-in-gurugram-101795717595438.html
     publisher: Hindustan Times
     date: 2026-11-27
-open_questions:
-    - 'Accounts differ on the consignment''s origin: STF officials told Hindustan Times it came from Chhattisgarh while PTI reported the supplier was in Odisha, and the precise pickup point was not established.'
-    - No plea or trial outcome beyond the 10-day police custody remand was reported.
-    - All published accounts derive from the STF and police version of the interception.
+  - title: Haryana STF seizes truck with 371 kg ganja, arrests two
+    url: https://www.thesamaja.com/en/news/haryana-stf-seizes-truck-with-371-kg-ganja-arrests-two
+    publisher: The Samaja
+    date: 2026-11-26
 ---
 
 Haryana Special Task Force officers arrested two men from Churu district,
 Rajasthan, in a truck on the Ballabhgarh-Sohna road near Sancholi village in
-Sohna, Gurugram. [@1,3] Questioning identified the driver as Sajjan of Chandgothi,
+Sohna, Gurugram. [@1,3,6] Questioning identified the driver as Sajjan of Chandgothi,
 Rajgarh, and the man on the conductor seat as Ram Singh of Tripali Chhoti, both
-in Churu. [@1] A second account names the two people taken into custody as
+in Churu. [@1,6] A second account names the two people taken into custody as
 Sajjan and Ram Singh, both from Rajasthan. [@2,3]
 
 The STF Central Unit recovered 371.680 kilograms of ganja from the
-Rajasthan-registered Tata truck. [@1] Officials valued the seized cannabis at about 70 lakh rupees. [@4] The load was packed in 19 plastic sacks of
+Rajasthan-registered Tata truck. [@1,6] Officials valued the seized cannabis at about 70 lakh rupees. [@4,6] The load was packed in 19 plastic sacks of
 different colours, hidden under black polythene and a tarpaulin in the truck's
 rear compartment. [@1,3] Police weighed each sack on an electronic scale at the
 scene, sealed all 19 sacks with two prepared samples, and seized the consignment
@@ -93,6 +93,6 @@ and overpowered both occupants. [@1] Sohna naib tehsildar Bir Singh reached the
 spot about 9:50 p.m. as duty magistrate. [@1] The magistrate first searched the
 police team and then the two accused in his presence, finding no narcotics on
 their clothes. [@1] Sadar Sohna police station registered an FIR against both
-accused under NDPS Act sections on the police complaint. [@1,3] The two suspects were produced before a court on Thursday evening and remanded in police custody for 10 days. [@5] Police are
+accused under NDPS Act sections on the police complaint. [@1,3,6] The two suspects were produced before a court on Thursday evening and remanded in police custody for 10 days. [@5] Police are
 investigating where the smugglers brought the consignment from and where it was
 to be supplied. [@1] STF officials said the consignment was being carried from Chhattisgarh to Churu via the Delhi-Mumbai Expressway. [@5]
