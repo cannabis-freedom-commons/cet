@@ -85,6 +85,10 @@ sources:
     publisher: Thai Examiner
     date: 2026-11-25
     language: en
+  - title: Police free 2 Indian men held for ransom in Bangkok and arrest 5 suspects
+    url: https://thethaiger.com/news/bangkok/2-indian-men-held-for-ransom-at-bangkok-house
+    publisher: The Thaiger
+    date: 2026-11-25
 open_questions:
   - No weight, plant count or value was published for the cannabis buds found in the house, so no cannabis quantity is recorded.
   - The arrest count is reported as five suspects by Thairath and the Bangkok Post, while another Thai account reports six people including the leader; this report uses five.
@@ -95,9 +99,9 @@ open_questions:
 
 On 24 November at 16:00, Immigration Bureau chief Noppasin Poonsawat led
 immigration investigators to rescue two kidnapped Indian victims and arrest
-Indian suspects linked to a cross-border cannabis-smuggling network. [@1,3] The
+Indian suspects linked to a cross-border cannabis-smuggling network. [@1,3,6] One of the five arrested suspects, an Indian woman, had earlier been caught by customs officers with cannabis hidden in her luggage and released on bail. [@6] The
 raid hit a three-storey attached townhouse in a luxury village in Bangkok's
-Phatthanakan area. [@1] The house stands off Pattanakan Soi 38 in Suan Luang
+Phatthanakan area. [@1] Immigration police had earlier received a complaint from a neighbour about a strong cannabis smell coming from the townhouse. [@6] The house stands off Pattanakan Soi 38 in Suan Luang
 district, and the raid followed a family's complaint that they had lost contact
 with one victim for four days. [@2,3,4]
 
