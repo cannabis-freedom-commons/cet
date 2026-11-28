@@ -39,6 +39,11 @@ media:
     media_url: https://i2-prod.lancs.live/article34967432.ece/ALTERNATES/s1200f/926418663_1475485034690735_2363605318774033407_n.jpg
     publisher: LancsLive
     caption: 'Some of the plants found inside one of the properties. Photo: Colne and West Craven Police'
+  - kind: photo
+    url: https://www.lancashiretelegraph.co.uk/news/26763969.one-arrested-343-cannabis-plants-found-barnoldswick/
+    media_url: https://www.lancashiretelegraph.co.uk/resources/images/21765727.jpg?type=mds-article-962
+    publisher: Lancashire Telegraph
+    caption: 'Photo published with the report of the two cannabis farms found in Essex Street, Barnoldswick. Photo: Lancashire Police'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: ae4252619599c298f9be1b3f34f28da8
@@ -56,6 +61,10 @@ sources:
     url: https://pendleinsider.co.uk/police-seize-343-cannabis-plants-from-two-properties-on-essex-street-in-barnoldswick/
     publisher: Pendle Insider
     date: 2026-11-26
+  - title: One arrested after 343 cannabis plants found in Barnoldswick
+    url: https://www.lancashiretelegraph.co.uk/news/26763969.one-arrested-343-cannabis-plants-found-barnoldswick/
+    publisher: Lancashire Telegraph
+    date: 2026-11-26
 open_questions:
   - The identity, age and custody status of the arrested person were not reported.
   - No street value or weight was published for the 343 plants.
@@ -63,21 +72,20 @@ open_questions:
 ---
 
 Officers raided two addresses on Essex Street in Barnoldswick on Wednesday 25
-November 2026. [@1] Colne and West Craven Police said officers entered and
+November 2026. [@1,4] Colne and West Craven Police said officers entered and
 searched the two properties that day. [@1] One person was arrested during the
-operation and police said enquiries are ongoing. [@1]
+operation and police said enquiries are ongoing. [@1,4]
 
 Inside the properties officers found two substantial cannabis farms, with
 cultivation operations inside both premises. [@1] Officers seized a combined
-total of 343 mature cannabis plants from the two properties. [@3] The identity
+total of 343 mature cannabis plants from the two properties. [@3,4] The identity
 of the arrested person, the individual property addresses and any street value
 were not disclosed. [@3]
 
 Police said information from local residents is extremely valuable in helping
-tackle drug-related activity and keep neighbourhoods safe. [@2] The force asked
+tackle drug-related activity and keep neighbourhoods safe. [@2,4] The force asked
 anyone who suspects a property is being used to grow cannabis or has information
 about drug activity to contact local officers. [@2] Residents can also report
 information through Lancashire Police. [@3] Police said residents' reports
 matter and asked the community to help keep Barnoldswick a safe place to live
 and work. [@1]
-
