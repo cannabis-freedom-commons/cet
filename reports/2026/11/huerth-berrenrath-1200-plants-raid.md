@@ -67,20 +67,25 @@ sources:
     publisher: Polizei Rhein-Erft-Kreis
     date: 2026-11-23
     language: de
+  - title: '261123-6: Über 1.200 Cannabispflanzen sichergestellt'
+    url: https://www.ad-hoc-news.de/polizeimeldungen/pol-rek-261123-6-ueber-1-200-cannabispflanzen-sichergestellt/70547062
+    publisher: ad-hoc-news.de / presseportal
+    date: 2026-11-23
+    language: de
 ---
 
 Four suspects aged 19, 22, 24 and 49 were found in the house during the search.
-[@1,5] A fifth suspect, aged 28, was found at his registered address in Hürth.
-[@1,5] The four men in the house were suspected, among other things, of living in
-Germany without legal status. [@1] All five now face criminal investigation
-proceedings, and the inquiry by Kriminalkommissariat 13 continues. [@1]
+[@1,5,6] A fifth suspect, aged 28, was found at his registered address in Hürth.
+[@1,5,6] The four men in the house were suspected, among other things, of living in
+Germany without legal status. [@1,6] All five now face criminal investigation
+proceedings, and the inquiry by Kriminalkommissariat 13 continues. [@1,6]
 
 Officers of the Rhein-Erft-Kreis police seized more than 1,200 cannabis plants
 of different sizes and cultivation equipment from a plantation in a residential
-house in Hürth-Berrenrath on Friday 20 November 2026. [@1,5] Extensive inquiries
+house in Hürth-Berrenrath on Friday 20 November 2026. [@1,5,6] Extensive inquiries
 by Kriminalkommissariat 13 led police to the site, after which they sought
-search warrants from the Cologne public prosecutor's office. [@1,5] Two houses
-were searched that Friday and the plantation was found in one of them. [@2]
+search warrants from the Cologne public prosecutor's office. [@1,5,6] Two houses
+were searched that Friday and the plantation was found in one of them. [@2,6]
 Police and the Cologne public prosecutor announced on Monday that officers had
 found the plants and extensive growing accessories in a residential building the
 previous Friday. [@3]
