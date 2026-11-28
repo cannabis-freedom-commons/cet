@@ -51,28 +51,37 @@ sources:
     publisher: Зеркало
     date: 2026-08-26
     language: ru
+  - title: Белорусские пограничники задержали двух мужчин, которые пытались ввезти из Польши наркотики
+    url: https://belta.by/society/view/belorusskie-pogranichniki-zaderzhali-dvuh-muzhchin-kotorye-pytalis-vvezti-iz-polshi-narkotiki-797887-2026/
+    publisher: БелТА
+    date: 2026-08-26
+    language: ru
+  - title: Пограничники в Брузгах и Бресте пресекли ввоз наркотиков из Польши
+    url: https://grodnonews.by/news/proisshestviya/bruzgi_narkotikov_polsha.html
+    publisher: Гродзенская праўда
+    date: 2026-08-26
+    language: ru
 open_questions:
-  - No weight for the marijuana packet was published.
-  - The Polish man was not named, and no age was given.
-  - No court outcome was reported; seven years is the maximum he faces, not a sentence.
-  - A separate 24 August stop at the Bruzgi checkpoint involved a crystalline psychotropic, not cannabis, and is not included in the figures.
-  - The account rests on one news report of a State Border Committee statement.
+    - No weight for the marijuana packet was published.
+    - The Polish man was not named, and no age was given.
+    - No court outcome was reported; seven years is the maximum he faces, not a sentence.
+    - A separate 24 August stop at the Bruzgi checkpoint involved a crystalline psychotropic, not cannabis, and is not included in the figures.
+    - All accounts reproduce a State Border Committee statement and are not independent reporting.
 ---
 
 Border guards detained a Belarusian man and a Polish man on the
 Belarusian-Polish border as they tried to bring narcotics into the country. [@1]
-The State Border Committee of Belarus reported the detentions. [@1] On 25 August
+The State Border Committee of Belarus reported the detentions. [@1,2] On 25 August
 2026, at the Brest checkpoint, the guards detained the Polish man and found a
-packet of marijuana in his car. [@1] A committee photograph shows the drugs
+packet of marijuana in his car. [@1,3] A committee photograph shows the drugs
 found on the Polish man at the border on 25 August 2026. [@1]
 
 The day before, on 24 August, at the Bruzgi checkpoint, border guards found a
 suspicious packet under the driver's seat of a car in which a resident of Gomel
-region was returning home. [@1] The packet contained a white crystalline
+region was returning home. [@1,2] A service dog helped the patrol find the packet under the driver's seat. [@2] The packet contained a white crystalline
 substance. [@1] Testing identified that substance as a particularly dangerous
-psychotropic. [@1]
+psychotropic. [@1] The examination found the powder contained 4-CMC and 4-BMC. [@3]
 
 Criminal cases were opened against the detained men for illegal trafficking in
-narcotics and for moving drugs across the border. [@1] Both detained men face up
-to seven years in prison. [@1]
-
+narcotics and for moving drugs across the border. [@1,3] Both detained men face up
+to seven years in prison. [@1,2]
