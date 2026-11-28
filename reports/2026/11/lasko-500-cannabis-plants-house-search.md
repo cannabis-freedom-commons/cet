@@ -66,6 +66,11 @@ sources:
     publisher: Celje.info
     date: 2026-11-26
     language: sl
+  - title: '(FOTO) Laško: Tujca v prirejenih prostorih v centru gojila konopljo'
+    url: https://vecer.com/kronika/lasko-center-hisa-tujca-zaseg-konoplja-gojenje-10501085
+    publisher: Večer
+    date: 2026-11-26
+    language: sl
 open_questions:
   - No exact date is given for the house search; police said it was carried out in recent days, and 26 November 2026 is the date of the announcement and publication.
   - Police gave the number of plants only as more than 500; no exact count was published.
@@ -76,17 +81,16 @@ open_questions:
 ---
 
 Police officers from Laško searched a residential house in the centre of Laško.
-[@2] Two tenants, both foreign nationals, lived in the house and set up a
+[@2,4] Two tenants, both foreign nationals, lived in the house and set up a
 production of the prohibited drug there. [@2] In the room the tenants grew the
-prohibited drug cannabis. [@1] Police said the two would be reported to the
+prohibited drug cannabis. [@1,4] Police said the two would be reported to the
 prosecutor on suspicion of unauthorised production of and trafficking in
-prohibited drugs. [@1]
+prohibited drugs. [@1,4]
 
-Officers found and seized more than 500 cannabis plants. [@1] The room was well
+Officers found and seized more than 500 cannabis plants. [@1,4] The room was well
 equipped, with a separate ventilation and irrigation system and appropriate
-artificial lighting. [@1] The house search was carried out in the days before
+artificial lighting. [@1,4] The house search was carried out in the days before
 the announcement. [@3]
 
 Celje.info reported that police would file a criminal complaint against both
 suspects. [@3]
-
