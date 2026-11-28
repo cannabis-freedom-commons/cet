@@ -98,6 +98,15 @@ sources:
     publisher: Teraz.sk / TASR
     date: 2026-11-26
     language: sk
+  - title: 72 kilos of marijuana seized as two Dutch couriers land in Budapest
+    url: https://europecrime.com/article/72-kilo-marihuana-hollanders-budapest-airport
+    publisher: EuropeCrime
+    date: 2026-11-26
+  - title: Na budapešťském letišti našli u dvou mužů přes 72 kilogramů marihuany
+    url: https://www.novinky.cz/clanek/zahranicni-evropa-na-budapestskem-letisti-nasli-u-dvou-muzu-pres-72-kilogramu-marihuany-40610783
+    publisher: Novinky
+    date: 2026-11-26
+    language: cs
 media:
   - kind: photo
     url: https://hvg.hu/itthon/20261126_rendorseg-nni-nav-ferihegy-72-kilogramm-marihuana-holland-ferfi-diler
@@ -119,6 +128,13 @@ media:
     media_url: https://hellomagyar.hu/wp-content/uploads/2026/11/foto06_0-1280x960.webp
     publisher: Helló Magyar
     caption: 'Police handout photo of the more than 72 kilograms of marijuana seized at Budapest airport. Photo: police.hu'
+  - kind: photo
+    url: https://www.novinky.cz/clanek/zahranicni-evropa-na-budapestskem-letisti-nasli-u-dvou-muzu-pres-72-kilogramu-marihuany-40610783
+    media_url: https://d15-a.sdn.cz/d_15/c_img_qH_A/kPXU1fy4LrDPHZ1XpLIeFR4A/c52e/madarsko-drogy-zadrzeni.jpeg?fl=cro,0,0,1600,900%7Cres,722,,1%7Cwebp,75
+    publisher: Novinky
+    caption: 'Packages of marijuana seized from the two Dutch passengers at Budapest Ferenc Liszt International Airport. Photo: Police.hu'
+open_questions:
+  - Novinky reported the haul as 72.5 kilograms, while the package weights the police listed add up to 72.42 kilograms and police described it as more than 72 kilograms.
 ---
 
 Hungarian customs officers detained two Dutch drug couriers at Budapest Ferenc
@@ -127,13 +143,13 @@ in four checked suitcases. [@1,5,6,7,9,10,11] The National Investigation Office'
 unit had warned the airport directorate of the National Tax and Customs
 Administration (NAV) on the morning of 25 November that a drug shipment was
 expected on a flight to Budapest. [@2,5,6,8,9,10,11] The two men had flown to Budapest from
-Bangkok with a stopover in Doha. [@1,5,8,9,11]
+Bangkok with a stopover in Doha. [@1,5,8,9,11,13]
 
 Customs officers found 125 packages in the four checked suitcases belonging to
-the two suspects. [@3,6,7,9] One man's two bags held 62 vacuum-packed packages
+the two suspects. [@3,6,7,9,12] One man's two bags held 62 vacuum-packed packages
 weighing 35.96 kg, while the other man's two suitcases held 63 foil-wrapped
-packages weighing 36.46 kg. [@2,5,6,7,8,9,11] A rapid test indicated that the material in all
-four suitcases was marijuana. [@3,5,6,7,8,9] Police seized the drugs and sent them to the
+packages weighing 36.46 kg. [@2,5,6,7,8,9,11,13] A rapid test indicated that the material in all
+four suitcases was marijuana. [@3,5,6,7,8,9,13] Police seized the drugs and sent them to the
 National Forensic and Research Centre for a forensic chemistry examination. [@2,8,9]
 
 The two Dutch nationals were suspected of drug trafficking in a significant
