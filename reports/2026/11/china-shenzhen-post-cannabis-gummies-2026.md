@@ -53,6 +53,11 @@ sources:
     publisher: 堅料網
     date: 2026-11-24
     language: zh
+  - title: 20袋大麻软糖伪装包装袋入境被查获：申报为“聚酯薄膜袋”
+    url: https://3g.china.com/act/news/10000169/20261127/49912949.html
+    publisher: 中华网
+    date: 2026-11-27
+    language: zh
 media:
   - kind: photo
     url: https://www.kinliu.hk/news/%E7%81%A3%E5%8D%80%E5%A0%85%E6%96%99/%E6%B7%B1%E5%9C%B3%E9%83%B5%E5%B1%80%E6%B5%B7%E9%97%9C%E6%9F%A5%E7%8D%B2%E9%80%BE3%E5%85%AC%E6%96%A4%E5%A4%A7%E9%BA%BB%E9%A3%9F%E5%93%81-%E5%A4%96%E8%A7%80%E8%88%87%E6%99%AE%E9%80%9A%E8%BB%9F%E7%B3%96%E9%AB%98%E5%BA%A6%E7%9B%B8%E4%BC%BC/508073.html?id=88&from=home&bc1=%E9%A6%96%E9%A0%81&bc1to=%2F
@@ -64,19 +69,22 @@ media:
     media_url: https://img.kinliu.hk/data/article/2026-11-24/%E8%BD%AF%E7%B3%960.jpg
     publisher: 堅料網
     caption: 'Close-up of the seized gummies reported as weighing over 3 kg gross. Photo: Customs via Kinliu'
+open_questions:
+    - No sender, origin or recipient of the express parcel was named.
+    - No arrest, charge or further outcome was reported after the case was handed to the anti-smuggling department.
 ---
 
 Shenzhen Post Office Customs officers supervising inbound express parcels
 flagged one parcel declared as “polyester film bags” because its
-machine-inspection image was abnormal. [@3,4] Officers then opened that abnormal
+machine-inspection image was abnormal. [@3,4,5] Officers then opened that abnormal
 parcel for inspection on the same day. [@1]
 
 Inside the parcel, officers found one loose bag of suspected cannabis gummies
-and 19 packaged bags of suspected cannabis gummies. [@1] The 20 bags together
-had a gross weight of 3,158.7 grams. [@1,4] The gummies looked highly similar to ordinary gummies. [@4] Testing by a professional institution
+and 19 packaged bags of suspected cannabis gummies. [@1,5] The 20 bags together
+had a gross weight of 3,158.7 grams. [@1,4,5] The gummies looked highly similar to ordinary gummies. [@4] Customs officers said the packaging was labelled as containing THC, the psychoactive compound in cannabis. [@5] Testing by a professional institution
 later found tetrahydrocannabinol and cannabinol components in all of the
-gummies. [@2,4]
+gummies. [@2,4,5]
 
 The case was transferred to the customs anti-smuggling department for handling.
-[@1,4] Customs reminded that smuggling, selling, transporting or manufacturing
+[@1,4,5] Customs reminded that smuggling, selling, transporting or manufacturing
 drugs is subject to criminal liability regardless of the quantity. [@1]
