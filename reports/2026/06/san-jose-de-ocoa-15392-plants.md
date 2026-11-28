@@ -84,6 +84,11 @@ sources:
     publisher: HolaNews
     date: 2026-06-21
     language: es
+  - title: Desmantelan mayor cultivo de marihuana en República Dominicana
+    url: https://www.elhorizonte.mx/internacional/desmantelan-mayor-cultivo-de-marihuana-en-republica-dominicana/4597040339
+    publisher: El Horizonte
+    date: 2026-06-21
+    language: es
 media:
   - kind: video
     url: https://www.telemundo.com/noticias/edicion-noticias-telemundo/internacional/video/autoridades-incautan-mas-de-15-000-plantas-de-marihuana-en-republica-dominicana-tmvo13196126
@@ -115,14 +120,18 @@ media:
     media_url: https://resources.diariolibre.com/images/2026/06/21/whatsapp-image-2026-06-21-at-111547-am-4afe03db.jpeg
     publisher: Diario Libre
     caption: 'Equipment seized inside the collection centre dismantled in El Pinar, including jugs and boxes of marijuana, shredders, tanks and other items. Photo: Diario Libre / Steven Curiel'
+open_questions:
+    - No arrests or charges were reported in the El Pinar case; the more than 10 people questioned were not publicly identified as suspects.
+    - Investigators said they were examining whether the El Pinar plantation was linked to an earlier 3,533-plant bust about 25 km away, and no finding has been reported.
+    - No figure for the area cleared or the number of parcels planted was published.
 ---
 
-The National Drug Control Agency (DNCD) and the Public Ministry uprooted 15,392 marijuana plants from a plantation in the hills of El Pinar municipal district, San José de Ocoa province, the agency said. [@1,2,3,4,6,9,10] The El Pinar plantation lay about 25 kilometres north of the site where authorities had recently seized another plantation of more than 3,500 plants. [@9] The DNCD called it the largest cultivation bust in the country's history. [@1,2,3,5,6,7,9,10]
+The National Drug Control Agency (DNCD) and the Public Ministry uprooted 15,392 marijuana plants from a plantation in the hills of El Pinar municipal district, San José de Ocoa province, the agency said. [@1,2,3,4,6,9,10,11] The El Pinar plantation lay about 25 kilometres north of the site where authorities had recently seized another plantation of more than 3,500 plants. [@9] The DNCD called it the largest cultivation bust in the country's history. [@1,2,3,5,6,7,9,10,11]
 
 More than 70 officers took part in the three-day operation, using drone overflights and tracking. [@1,2,3,6,9] The plantation had a drip-irrigation system. [@1,2,4]
 
-Officers also raided a house used as a collection centre. [@1,3,5,6,9,10] Inside they found 17 jugs and boxes filled with marijuana and dried plants, seven tanks, four shredders, a chainsaw, fertilisers, 10 fans, four batteries, an inverter, a hydraulic press, a scale, submersible and fumigation pumps, eight solar panels, a satellite dish, wire and hoses. [@1]
+Officers also raided a house used as a collection centre. [@1,3,5,6,9,10,11] Inside they found 17 jugs and boxes filled with marijuana and dried plants, seven tanks, four shredders, a chainsaw, fertilisers, 10 fans, four batteries, an inverter, a hydraulic press, a scale, submersible and fumigation pumps, eight solar panels, a satellite dish, wire and hoses. [@1]
 
-The Public Ministry and the DNCD questioned more than 10 Dominicans and Haitians. [@1,5,7,9,10] The agency said the plants were sent under chain of custody to the National Institute of Forensic Sciences (INACIF) to determine their total weight. [@1,2,5,10] On 22 June 2026 the DNCD said INACIF experts and DNCD chain-of-custody officers had spent more than 15 hours counting and analysing the seized plants, which weighed 13,863 pounds (about 6,288 kg). [@7,8] Security forces kept a presence in the area to gather further evidence. [@1,5,10]
+The Public Ministry and the DNCD questioned more than 10 Dominicans and Haitians. [@1,5,7,9,10,11] The agency said the plants were sent under chain of custody to the National Institute of Forensic Sciences (INACIF) to determine their total weight. [@1,2,5,10,11] On 22 June 2026 the DNCD said INACIF experts and DNCD chain-of-custody officers had spent more than 15 hours counting and analysing the seized plants, which weighed 13,863 pounds (about 6,288 kg). [@7,8] Security forces kept a presence in the area to gather further evidence. [@1,5,10,11]
 
 Agents had to reach the mountain-slope plantations on horses and mules because the sites are practically inaccessible by vehicle. [@6]
