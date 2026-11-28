@@ -67,6 +67,11 @@ sources:
     publisher: العرائش نيوز - Larachenews
     date: 2026-11-20
     language: ar
+  - title: 'صدمة بالفنيدق: الدرك الملكي يحجز “غواصة” لتهريب المخدرات!'
+    url: https://www.elhadat24.com/society/297358/
+    publisher: الحدث 24
+    date: 2026-11-20
+    language: ar
 open_questions:
     - No weight was published for the hashish seized in Fnideq, described only as a shipment or a quantity.
     - No arrests or detention measures were reported; the suspects escaped and investigations to identify them are ongoing.
@@ -82,7 +87,7 @@ provincial gendarmerie commands as part of surveillance of the kingdom's
 northern coasts against criminal exploitation of sea routes. [@2,3,4,6] The gendarmerie stopped the attempt on Thursday 19 November 2026 as the hashish was being taken by sea toward the Spanish enclave of Ceuta. [@3,5,6] Investigations
 under the competent public prosecution are expected to establish the equipment's
 source, the identity of its users and any link to the network known as
-Al-Ghassasa. [@2] The gendarmerie said its inquiries were continuing to identify the suspects, arrest them and uncover the criminal network's other branches and the parties that provide its logistics for smuggling along the northern coasts. [@3,4,6] The suspects escaped and none was arrested. [@3,4,6]
+Al-Ghassasa. [@2] The networks known as al-Ghassasa, suspected of being linked to the seized device, have stopped relying only on traditional means of moving drugs and now use specialized technical equipment that lets them travel underwater and try to evade maritime surveillance. [@7] The gendarmerie said its inquiries were continuing to identify the suspects, arrest them and uncover the criminal network's other branches and the parties that provide its logistics for smuggling along the northern coasts. [@3,4,6] The suspects escaped and none was arrested. [@3,4,6]
 
 The device is a specialized professional diving apparatus that lets users travel
 underwater by electric propulsion and cover sea distances without traditional
@@ -90,7 +95,7 @@ swimming. [@2] Such specialized devices are costly, with market prices ranging
 between 40,000 and 75,000 euros depending on type, specifications and
 operational capabilities. [@2,6] Investigators are examining whether the device
 was intended for maritime drug smuggling using diving equipment along routes
-that are difficult to monitor. [@1]
+that are difficult to monitor. [@1,7]
 
 An informed source said a maritime smuggling technique first used off the coast
 of occupied Ceuta was uncovered during this Fnideq operation, in which advanced
