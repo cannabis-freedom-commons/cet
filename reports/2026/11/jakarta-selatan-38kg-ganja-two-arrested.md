@@ -39,6 +39,11 @@ media:
     media_url: https://cdn1-production-images-kly.akamaized.net/_eaIKvqicN36tsODFOps7HiFDcA=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9406152/original/089855300_1795664536-1001180773.jpg
     publisher: Liputan6.com
     caption: Packages of cannabis presented as evidence by Satresnarkoba of the South Jakarta Metro Police after the 38.7 kg seizure.
+  - kind: photo
+    url: https://news.detik.com/berita/d-8770064/polres-jaksel-tangkap-2-pengedar-narkoba-38-kg-ganja-disita?single=1
+    media_url: https://awsimages.detik.net.id/community/media/visual/2026/11/25/polres-metro-jaksel-menangkap-2-pengedar-jaringan-lintas-provinsi-dan-menyita-38-kilogram-ganja-1795615826208_169.jpeg?w=700&q=90
+    publisher: detikNews
+    caption: 'Cannabis packages displayed as evidence after the South Jakarta Metro Police arrested two dealers and seized 38.7 kg. Photo: Dok. Istimewa (South Jakarta Metro Police handout)'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 617c27630ef90ceaf4eaf822783a1a8f
@@ -79,24 +84,37 @@ sources:
     publisher: DKYLB
     date: 2026-11-26
     language: id
+  - title: Gudang dan Ganja 38,7 Kg Digerebek, 2 Pengedar Diciduk
+    url: https://beritabuana.co/2026/11/26/gudang-dan-ganja-387-kg-digerebek-2-pengedar-diciduk/
+    publisher: Beritabuana.co
+    date: 2026-11-26
+    language: id
+  - title: Polres Jaksel Tangkap 2 Pengedar Narkoba, 38 Kg Ganja Disita
+    url: https://news.detik.com/berita/d-8770064/polres-jaksel-tangkap-2-pengedar-narkoba-38-kg-ganja-disita?single=1
+    publisher: detikNews
+    date: 2026-11-25
+    language: id
+open_questions:
+    - The 38,783 grams is a gross (bruto) weight including packaging, so the net weight of the cannabis is not stated.
+    - The accounts give no separate date for the searches at the Palmerah house and AD's room in Sawah Besar.
 ---
 
 South Jakarta Metro Police's narcotics unit, Satresnarkoba, arrested two
-suspects identified only as AD and SAM. [@1,4,5,6,7] The two were detained in the
-Ciputat area of South Tangerang on Monday 23 November 2026. [@2,4,5,6] The case began
+suspects identified only as AD and SAM. [@1,4,5,6,7,8] The two were detained in the
+Ciputat area of South Tangerang on Monday 23 November 2026. [@2,4,5,6,8] The arrests took place at Villa Gunung Lesatari in Jombang, Ciputat, in South Tangerang. [@9] At the arrest the two were carrying one small and one large package weighing about a kilogram, which police said was to be delivered to someone. [@9] The case began
 with information from the public, which police followed up through
-investigation. [@1,4,5,6,7]
+investigation. [@1,4,5,6,7,8]
 
 Investigators were led to a rented house in Palmerah, West Jakarta, believed to
-be used to store the cannabis. [@1,4,5,6,7] At that house officers found 37 large
-packages of cannabis. [@1,4,5] Other evidence was found at AD's home in Sawah Besar,
-Central Jakarta. [@1,4,5,6,7] After the arrests police searched two different locations
+be used to store the cannabis. [@1,4,5,6,7,8] The rented house used as the warehouse was on Jalan Belibis Terusan in Palmerah. [@9] At that house officers found 37 large
+packages of cannabis. [@1,4,5,8] Other evidence was found at AD's home in Sawah Besar,
+Central Jakarta. [@1,4,5,6,7,8] A small package of 14 grams of cannabis was found at AD's rented room on Jalan Dwiwarna IV in Karang Anyar, Sawah Besar. [@9] After the arrests police searched two different locations
 for further evidence. [@3] In total police seized 38 large and two small
 packages of cannabis with a gross weight of 38,783 grams, about 38.7 kg, plus a
-digital scale and two mobile phones. [@1,4,5,6,7]
+digital scale and two mobile phones. [@1,4,5,6,7,8]
 
 Preliminary checks suggested the cannabis had been sent from West Sumatra for
-distribution in and around Jakarta. [@1,4,5,6,7] The suspected sender, identified as S
+distribution in and around Jakarta. [@1,4,5,6,7,8] The suspected sender, identified as S
 or Y, was placed on the wanted list while investigators examined links between
-those involved. [@1,4,5,6,7] Both suspects were undergoing legal process and police were
-still tracing the network and other possible participants. [@1,4,5,6]
+those involved. [@1,4,5,6,7,8] Police said AD was paid Rp 500,000 for each kilogram he handled, money that came from the wanted sender. [@9] Both were held at the South Jakarta police headquarters and accused under article 114(2) and a subsidiary charge under article 111(2) of the 2009 narcotics law, which carry a minimum of five years. [@9] Both suspects were undergoing legal process and police were
+still tracing the network and other possible participants. [@1,4,5,6,8]
