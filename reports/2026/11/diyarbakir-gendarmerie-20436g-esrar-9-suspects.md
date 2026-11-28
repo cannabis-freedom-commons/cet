@@ -46,6 +46,11 @@ sources:
     publisher: İhlas Haber Ajansı (İHA)
     date: 2026-11-24
     language: tr
+  - title: 20 kilo 436 gram esrar ele geçirildi
+    url: https://diyarbakirsoz.com/amp/diyarbakir/20-kilo-436-gram-esrar-ele-gecirildi-571852
+    publisher: Diyarbakır Söz
+    date: 2026-11-25
+    language: tr
 open_questions:
     - No separate date for the operations was given; 24 November 2026 is the publication date and is used as the incident date.
     - No breakdown of the 20.436 kg across the nine incidents was published.
@@ -56,15 +61,15 @@ open_questions:
 ---
 
 Diyarbakir gendarmerie teams carried out operations targeting people who trade
-in and use narcotic substances. [@1,2] The operations were coordinated by the
+in and use narcotic substances. [@1,2,4] The operations were coordinated by the
 Narcotics Crimes Branch of the Diyarbakir Provincial Gendarmerie Command and
-covered the provincial centre and districts. [@1,3] Officers recorded nine
-separate incidents during the operations. [@1,2] Legal proceedings were opened
-against nine suspects in connection with those incidents. [@1,2]
+covered the provincial centre and districts. [@1,3,4] Officers recorded nine
+separate incidents during the operations. [@1,2,4] Legal proceedings were opened
+against nine suspects in connection with those incidents. [@1,2,4]
 
 Teams seized 20 kilograms 436 grams of esrar, the Turkish word for cannabis.
-[@1,3] Teams also seized eight drug pills alongside the cannabis, which are not
-counted in the cannabis figures. [@1,3] No suspect was named, and no detention,
+[@1,3,4] Teams also seized eight drug pills alongside the cannabis, which are not
+counted in the cannabis figures. [@1,3,4] No suspect was named, and no detention,
 charge or court outcome was reported beyond the opening of legal proceedings.
 [@1]
 
