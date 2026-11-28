@@ -41,6 +41,31 @@ media:
     media_url: https://source.diarionorte.com/content/bucket/8/481748w800h600c.jpg
     publisher: Diario Norte
     caption: 'Gendarmes beside a motorcycle and packages on the ground at night during the Clorinda operation. Photo: Diario Norte'
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/en-dos-procedimientos-secuestran-en-formosa-mas-de-17-kilos-de-marihuana
+    media_url: https://www.argentina.gob.ar/sites/default/files/formosa_17kg_marihuana_1.jpeg
+    publisher: Argentina.gob.ar (Ministerio de Seguridad Nacional)
+    caption: 'Gendarmes and civilians beside a box at the Paso Internacional La Fraternidad during the first procedure. Photo: Gendarmería Nacional Argentina'
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/en-dos-procedimientos-secuestran-en-formosa-mas-de-17-kilos-de-marihuana
+    media_url: https://www.argentina.gob.ar/sites/default/files/formosa_17kg_marihuana_2.jpeg
+    publisher: Argentina.gob.ar (Ministerio de Seguridad Nacional)
+    caption: 'A gendarme examines the plastic- and tape-wrapped package abandoned in the bag at the border crossing. Photo: Gendarmería Nacional Argentina'
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/en-dos-procedimientos-secuestran-en-formosa-mas-de-17-kilos-de-marihuana
+    media_url: https://www.argentina.gob.ar/sites/default/files/formosa_17kg_marihuana_3.jpeg
+    publisher: Argentina.gob.ar (Ministerio de Seguridad Nacional)
+    caption: 'Gendarmes and two civilians with the opened package during the first procedure. Photo: Gendarmería Nacional Argentina'
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/en-dos-procedimientos-secuestran-en-formosa-mas-de-17-kilos-de-marihuana
+    media_url: https://www.argentina.gob.ar/sites/default/files/formosa_17kg_marihuana_5.jpeg
+    publisher: Argentina.gob.ar (Ministerio de Seguridad Nacional)
+    caption: 'Orange-taped packages of marijuana laid out on the floor after the motorcycle stop. Photo: Gendarmería Nacional Argentina'
+  - kind: photo
+    url: https://www.argentina.gob.ar/noticias/en-dos-procedimientos-secuestran-en-formosa-mas-de-17-kilos-de-marihuana
+    media_url: https://www.argentina.gob.ar/sites/default/files/formosa_17kg_marihuana_6.jpeg
+    publisher: Argentina.gob.ar (Ministerio de Seguridad Nacional)
+    caption: 'Gendarmes and two civilians with the orange-taped packages seized in the second procedure. Photo: Gendarmería Nacional Argentina'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: 814c824a89437bcf37f37b24807e1830
@@ -61,6 +86,11 @@ sources:
     publisher: Diario Formosa
     date: 2026-11-25
     language: es
+  - title: 'En dos procedimientos: Secuestran en Formosa más de 17 kilos de marihuana'
+    url: https://www.argentina.gob.ar/noticias/en-dos-procedimientos-secuestran-en-formosa-mas-de-17-kilos-de-marihuana
+    publisher: Argentina.gob.ar (Ministerio de Seguridad Nacional)
+    date: 2026-11-24
+    language: es
 open_questions:
   - The accounts give no separate date for the two procedures; 24 November 2026 is the date of the Gendarmería release and is used as the incident date.
   - No charge against the detained driver over the marijuana was reported; the only warrant mentioned is for robbery.
@@ -73,18 +103,17 @@ Gendarmería Nacional said its Squadron 16 Clorinda seized 17 kilos 215 grams of
 marijuana in two procedures in the city of Clorinda, Formosa. [@2] Officers
 detained the motorcyclist stopped in the second procedure, who had an
 outstanding arrest warrant for robbery issued by the Superior Tribunal de
-Justicia de Formosa. [@1]
+Justicia de Formosa. [@1,4]
 
 At the Paso Internacional Pasarela La Fraternidad, gendarmes detected two people
-coming from the Paraguayan city of Nanawa at a non-permitted hour. [@1] The pair
+coming from the Paraguayan city of Nanawa at a non-permitted hour. [@1,4] The first procedure at the border crossing took place in the early hours of the morning. [@4] The pair
 fled on foot towards Paraguay when they saw the officers, abandoning a bag at
 the crossing. [@3] In a search carried out in front of witnesses, officers found
-a package hidden among items of clothing. [@1] A field test confirmed cannabis
-sativa weighing 2 kilos 885 grams. [@1]
+a package hidden among items of clothing. [@1,4] A field test confirmed cannabis
+sativa weighing 2 kilos 885 grams. [@1,4]
 
 In the second procedure, near the water containment barrier of barrio Bolsón
 Grande, gendarmes stopped a man on a motorcycle carrying a box covered with a
-black bag. [@1] Inside were packages wrapped in orange tape holding another 14
-kilos 330 grams of marijuana. [@1] By order of the Unidad Fiscal de Formosa, all
-the drug was seized and the driver was detained. [@1]
-
+black bag. [@1,4] Inside were packages wrapped in orange tape holding another 14
+kilos 330 grams of marijuana. [@1,4] By order of the Unidad Fiscal de Formosa, all
+the drug was seized and the driver was detained. [@1,4]
