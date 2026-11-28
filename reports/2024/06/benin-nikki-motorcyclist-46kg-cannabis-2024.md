@@ -62,6 +62,11 @@ sources:
     publisher: Bénin Web TV
     date: 2024-06-18
     language: fr
+  - title: 'Lutte contre la prolifération des ghettos au Bénin : Interpellations et saisie d’une importante quantité de chanvre indien'
+    url: https://matinlibre.com/2024/06/19/lutte-contre-la-proliferation-des-ghettos-au-benin-interpellations-et-saisie-dune-importante-quantite-de-chanvre-indien/
+    publisher: Matin Libre
+    date: 2024-06-19
+    language: fr
 open_questions:
     - No charge, hearing or court outcome was reported after the suspect was handed to OCERTID.
     - No weight more precise than about 46 kilograms was published, and the accounts do not say whether the 55 plaquettes are resin or compressed plant material.
@@ -72,12 +77,12 @@ open_questions:
 Police in Nikki, in Benin's Borgou department, arrested a motorcyclist carrying
 cannabis on Sunday 9 June 2024. [@3,5] Officers located and stopped him in the
 town centre on precise intelligence and with the help of customs officials
-posted at Nikki. [@1,5] Opening the parcel revealed 55 slabs of cannabis weighing about 46 kilograms. [@5]
+posted at Nikki. [@1,5,6] Opening the parcel revealed 55 slabs of cannabis weighing about 46 kilograms. [@5]
 
 Questioned, the man said a driver had entrusted him with the parcel for Kalalé
 and that he did not know what it contained. [@1,5] He was handed to the Central
 Office for the Repression of Illicit Drug Trafficking and Precursors (OCERTID)
-for the investigation to continue. [@2,5]
+for the investigation to continue. [@2,5,6]
 
 The police directorate announced the seizure in a statement published on 18 June
 2024. [@4,5] Police said the operation formed part of their fight against the
