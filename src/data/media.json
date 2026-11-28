@@ -10884,6 +10884,7 @@
 "https://www.dcnewsnow.com/wp-content/uploads/sites/14/2026/11/image_f82fdb-edited.png":{"status":"ok","sha256":"15ec68a403b57fd54a9d8fd254b4fa6710f0285195718d166fa811632d31dcd6","width":1200,"height":900,"type":"image/webp","thumbhash":"KAgGBYKRmJicd3ePdneHcYh1j3r4","bytes":208612,"fetched":"2026-11-07T03:05:08.608Z","via":"service"},
 "https://www.dcnewsnow.com/wp-content/uploads/sites/14/2026/11/WhatsApp-Image-2026-11-16-at-8.30.33-AM-e1794857493695.jpeg?w=876&h=493&crop=1":{"status":"ok","sha256":"530066520e46f6d540e0d1ec680f81cfecadb99d60eb2f4608486d6aaef55bd9","width":876,"height":493,"type":"image/webp","thumbhash":"IPgJHILtZqmPeHZWZ2izYFUNdw==","bytes":70052,"fetched":"2026-11-16T23:51:05.904Z","via":"service"},
 "https://www.dea.gov/sites/default/files/divisions/car/2008/carib062008_fig1.jpg":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T02:42:49.863Z"},
+"https://www.dea.gov/sites/default/files/divisions/phx/2009/phnx081209_fig1.jpg":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-28T18:59:37.882Z"},
 "https://www.dea.gov/sites/default/files/divisions/sea/2008/seattle091108_fig1.jpg":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T02:42:49.814Z"},
 "https://www.dea.gov/sites/default/files/divisions/sf/2007/sanfran092707_002.jpg":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T02:42:50.235Z"},
 "https://www.dea.gov/sites/default/files/divisions/sf/2007/sanfran092707_003.jpg":{"status":"unavailable","error":"HTTP 403","fetched":"2026-11-06T02:42:50.245Z"},
