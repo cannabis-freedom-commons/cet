@@ -390,8 +390,10 @@ sources:
     publisher: وكالة سوا الإخبارية
     date: 2026-11-22
     language: ar
-open_questions:
-    - This account places Interior Minister Anas Khattab's X statement, saying the quantities were destroyed "today", on Monday 23 November 2026, one day after the 22 November date given for the destruction.
+  - title: CENTCOM Praises Syria’s Efforts to Curb Cross-Border Smuggling
+    url: https://english.enabbaladi.net/archives/2026/11/centcom-praises-syrias-efforts-to-curb-cross-border-smuggling/
+    publisher: Enab Baladi
+    date: 2026-11-26
 ---
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
@@ -402,9 +404,9 @@ were destroyed in batches under approved legal and environmental procedures.
 efforts against drugs. [@2,25,35,41,51]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,60,61] The destruction also covered tools, equipment and chemicals linked to making, smuggling, hiding and transporting drugs. [@59] Security expert Ismat al-Abssi estimated the value of the destroyed drugs at more than $10 billion. [@40,50] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,60,61,62] The destruction also covered tools, equipment and chemicals linked to making, smuggling, hiding and transporting drugs. [@59] Security expert Ismat al-Abssi estimated the value of the destroyed drugs at more than $10 billion. [@40,50] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
-pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27,29,30,31,33,35,36,37,39,41,43,45,46,48,49,51,54,55,56,57,58,60,61] The directorate also destroyed
+pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27,29,30,31,33,35,36,37,39,41,43,45,46,48,49,51,54,55,56,57,58,60,61,62] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
 drugs. [@1,6,8,9,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,34,35,36,37,39,40,41,43,45,46,48,49,51,52,53,54,56,57,60]
 
