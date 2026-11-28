@@ -56,6 +56,11 @@ media:
     media_url: https://static.78.ru/images/uploads/media/2026/11/25/1795590505704.mp4
     publisher: 78.ru
     caption: 'Interior Ministry video of the traffic stop and marijuana find near Shushary. Video: ГУ МВД РФ по СПБ и ЛО'
+  - kind: video
+    url: https://lentv24.ru/na-trasse-m-11-v-peterburge-zaderzali-inostrannogo-studenta-s-10-kg-marixuany.htm
+    media_url: https://lentv24.ru/media/videos/63565_1.mp4
+    publisher: lentv24.ru
+    caption: 'Interior Ministry video of the traffic stop and marijuana find near Shushary. Video: press service of the Interior Ministry directorate for St Petersburg and Leningrad Oblast.'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: cc580bd981177503d655e363898eac97
@@ -76,6 +81,11 @@ sources:
     publisher: 78.ru
     date: 2026-11-25
     language: ru
+  - title: На трассе М-11 в Петербурге задержали иностранного студента с 10 кг марихуаны
+    url: https://lentv24.ru/na-trasse-m-11-v-peterburge-zaderzali-inostrannogo-studenta-s-10-kg-marixuany.htm
+    publisher: lentv24.ru
+    date: 2026-11-25
+    language: ru
 open_questions:
     - The published weight of about 10 kg includes the packaging; no net weight of the cannabis was given.
     - Only one of the 36 packets was reported as tested and confirmed to contain cannabis.
@@ -87,17 +97,17 @@ open_questions:
 
 At about 6 a.m. on Tuesday 24 November 2026, traffic inspectors stopped a Kia
 Quoris for a document check at the 681st kilometre of the M-11 Neva highway near
-the settlement of Shushary in St Petersburg's Pushkinsky District. [@1] The
+the settlement of Shushary in St Petersburg's Pushkinsky District. [@1,4] The
 driver was a 27-year-old citizen of an African country studying at a university
-in the capital. [@1,3] He became noticeably nervous during the check, so the
-inspectors searched the car. [@1,3]
+in the capital. [@1,3,4] He became noticeably nervous during the check, so the
+inspectors searched the car. [@1,3,4]
 
 In the boot they found 36 vacuum-sealed polymer packets of green plant material
-weighing about 10 kilograms together with the packaging. [@1,3] Testing the
+weighing about 10 kilograms together with the packaging. [@1,3,4] Testing the
 contents of one packet showed that it was the narcotic drug cannabis
-(marijuana). [@1,3] The Interior Ministry's regional directorate said a criminal
+(marijuana). [@1,3,4] The Interior Ministry's regional directorate said a criminal
 case was opened under part 3 of article 30 and paragraph г of part 4 of article
-228.1 of the Russian Criminal Code and the suspect was detained. [@1] The case
+228.1 of the Russian Criminal Code and the suspect was detained. [@1,4] The case
 was described as an attempt to sell drugs on a large scale. [@2]
 
 The ministry said the measure of restraint would be announced separately. [@1]
