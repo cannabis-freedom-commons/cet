@@ -68,41 +68,38 @@ sources:
     url: https://en.cibercuba.com/noticias/2026-11-26-u1-e74-s27061-nid346702-condenan-20-anos-prision-campesino-cultivar-mil-plantas
     publisher: CiberCuba
     date: 2026-11-26
-open_questions:
-  - No date for the trial or the sentence was published; 26 November 2026 is the article's publication date.
-  - The plants were counted only as "more than a thousand"; no exact number was given.
-  - The 4,300 grams is the net weight of the seized plants, not of dried cannabis, and the sources do not say whether the material was dried.
-  - No case number, sentence accessory penalties or appeal were reported.
-  - The account comes from one outlet reproducing the ¡Ahora! report by Yanela Ruiz González; the original article was not opened.
-  - The article says the plants were grown near the farmer's home but does not say how large the plot was.
+  - title: Un paysan est condamné à 20 ans de prison pour avoir cultivé plus de mille plants de marijuana à Holguín
+    url: https://fr.cibercuba.com/noticias/2026-11-26-u1-e74-s27061-nid346702-condenan-20-anos-prision-campesino-cultivar-mil-plantas
+    publisher: CiberCuba
+    date: 2026-11-26
+    language: fr
 ---
 
 The First Criminal Chamber of the Provincial People's Court of Holguín sentenced
 Miguel Adriel Gordo García, a farmer with no criminal record, to 20 years in
-prison for cultivating marijuana. [@1] More than a thousand marijuana plants
+prison for cultivating marijuana. [@1,3] More than a thousand marijuana plants
 were seized from a plot he cultivated beside his home in La Gejira, a locality
-of Velasco in Gibara municipality. [@1]
+of Velasco in Gibara municipality. [@1,3]
 
 According to the ¡Ahora! account, he was caught in the furrow pulling up the
 plants and stacking them on a tarp, and the plantation was irrigated, which the
-court read as proof that he knew what he was growing. [@1] Laboratory analyses
+court read as proof that he knew what he was growing. [@1,3] Laboratory analyses
 put the net weight of the plants above 4,300 grams and found a high
 concentration of tetrahydrocannabinol, the main psychoactive compound in
-cannabis. [@1] Single doses were selling at the time for between 500 and 600
-Cuban pesos. [@1]
+cannabis. [@1,3] Single doses were selling at the time for between 500 and 600
+Cuban pesos. [@1,3]
 
 Cuba's Supreme People's Court has set 460 grams as the threshold for a
 "relatively large quantity", the aggravating circumstance in article 235.2 of
-the Penal Code, Law 151 of 2022. [@1] The 4,300 grams were almost ten times that
+the Penal Code, Law 151 of 2022. [@1,3] The 4,300 grams were almost ten times that
 limit, which raised the applicable penalty to a range of 10 to 30 years, with
-the possibility of life imprisonment or death. [@2] The court described the
+the possibility of life imprisonment or death. [@2,3] The court described the
 trial as exemplary and placed it within the government's "zero tolerance" drugs
 policy. [@1] In its ruling the judges cited the potential harm to health,
 "mainly among young people", and the impact on social calm. [@1]
 
 The sentence drew attention because it fell on a farmer who, according to the
-official account itself, had "until that moment maintained normal conduct". [@1]
+official account itself, had "until that moment maintained normal conduct". [@1,3]
 The case was reported by Yanela Ruiz González of ¡Ahora!, the Communist Party
 newspaper in Holguín, whose account ended with a call for the public to denounce
-drug activity. [@1]
-
+drug activity. [@1,3]
