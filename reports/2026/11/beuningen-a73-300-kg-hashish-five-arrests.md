@@ -164,17 +164,22 @@ sources:
     publisher: De Gelderlander
     date: 2026-11-20
     language: nl
+  - title: Tilburgers opgepakt voor witwassen en drugsbezit, 300 kilo hasj gevonden
+    url: https://drimble.nl/regio/gelderland/nijmegen/108664403/tilburgers-opgepakt-voor-witwassen-en-drugsbezit-300-kilo-hasj-gevonden.html
+    publisher: Drimble.nl
+    date: 2026-11-20
+    language: nl
 ---
 
 Dutch police arrested five men on suspicion of money laundering and drug
-possession. [@1,2,5,7,8,9,10,11,13,14,15,16,17,18,19,20] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8,14,15,16]
+possession. [@1,2,5,7,8,9,10,11,13,14,15,16,17,18,19,20,21] The five arrests were made on Thursday 19 November 2026. [@2,5,6,7,8,14,15,16]
 The operation began around 20:00 when an automatic number-plate recognition
 alert flagged a vehicle, and after the driver ignored a stop sign a short chase
 ended on the A73 at Beuningen where the driver and passenger were arrested. [@2,5,9,12,13,16,17,19]
 The first two, a 20-year-old and a 22-year-old from Tilburg, were followed by
 three more arrests in Oosterhout: a 22-year-old with no fixed residence and two
 men aged 18 and 19 from Tilburg. [@2,5,9,13,16,17] Omroep Brabant reported that four of those
-held were from Tilburg and one had no fixed residence. [@4,6,8]
+held were from Tilburg and one had no fixed residence. [@4,6,8,21]
 
 Searching the vehicles in Oosterhout, officers found a hidden compartment in one
 of them holding over 300 kilograms of hashish, the police said. [@2,5,6,7,8,9,10,13,16,17,19,20] According
