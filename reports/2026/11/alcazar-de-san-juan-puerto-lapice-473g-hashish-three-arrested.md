@@ -47,31 +47,35 @@ sources:
     publisher: MSN (Europa Press)
     date: 2026-11-26
     language: es
+  - title: Detenidas 3 personas en Tomelloso y Puerto Lápice por tráfico de drogas
+    url: https://cadenaser.com/castillalamancha/2026/11/26/detenidas-3-personas-en-tomelloso-y-puerto-lapice-por-trafico-de-drogas-ser-alcazar/
+    publisher: Cadena SER
+    date: 2026-11-26
+    language: es
 open_questions:
-  - No separate day is given for the seizure within the first fortnight of November 2026, so 15 November is used as an approximate incident date.
-  - Only the Puerto Lápice hashish seizure is described in detail, with no separate account of the other detentions behind the three-arrest total.
-  - Different narcotic substances are said to have been intercepted, but only the 473 grams of hashish is weighed separately, so no other drug weight is recorded.
-  - The hashish was identified by officers at the roadside and no laboratory confirmation was reported.
-  - No court outcome or identity details were reported beyond detention for a serious crime against public health.
-  - The account rests on a single republication of one agency report, with no independent second account.
+    - No separate day is given for the seizure within the first fortnight of November 2026, so 15 November is used as an approximate incident date.
+    - The two accounts give different hashish weights, 473 grams and 508 grams; the report keeps the lower figure.
+    - No account separates the drugs and the detentions between Tomelloso and Puerto Lápice.
+    - The hashish was identified by officers at the roadside and no laboratory confirmation was reported.
+    - No court outcome has been reported; the case file and the detainees were sent to the courts of Alcázar de San Juan and Tomelloso.
+    - Both accounts reproduce the same Guardia Civil statement and are not independent reporting.
 ---
 
 Guardia Civil officers detained three men in an operation against drug
-trafficking in the Alcázar de San Juan area. [@1] The detentions came during
+trafficking in the Alcázar de San Juan area. [@1] The detentions were made in the towns of Tomelloso and Puerto Lápice, in the province of Ciudad Real. [@2] The detentions came during
 several operations in the first fortnight of November under a police plan
 against retail drug trafficking and consumption. [@1] Officers first approached
 a suspicious vehicle near a fuel service station in Puerto Lápice to identify
-the people inside. [@1] The vehicle fled, joined the A-4 slip road and white
+the people inside. [@1,2] The vehicle fled, joined the A-4 slip road and white
 objects were thrown into the ditch during the chase. [@1]
 
 Officers identified the occupants kilometres further on, returned to the spot
 where the objects had been thrown and found three white packages containing a
 brown substance. [@1] The substance was identified as hashish and weighed 473
-grams. [@1] After collecting the seized substance, officers found one of the
+grams. [@1] In the operation that ended with the three detentions, officers also seized 21 grams of cocaine, 2.82 grams of marijuana and 400 euros in cash. [@2] After collecting the seized substance, officers found one of the
 previously identified people at the scene when he came to collect a second
 vehicle linked to the incident. [@1] That man was detained as a perpetrator for
-a serious crime against public health. [@1]
+a serious crime against public health. [@1] The detainees and the case file were sent to the courts of Alcázar de San Juan and Tomelloso. [@2]
 
 The service station where officers first acted is in the town of Puerto Lápice.
 [@1] The fleeing vehicle joined the slip road of the A-4 motorway. [@1]
-
