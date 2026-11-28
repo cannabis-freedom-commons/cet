@@ -85,6 +85,11 @@ sources:
     publisher: Loksatta
     date: 2026-11-26
     language: mr
+  - title: 'Ganja Seized : अलिशान मोटारीतून गांजाची तस्करी! थरारक पाठलागानंतर गांजा घेणारी मोटार दोघा गांजा तस्करांसह घेतली ताब्यात'
+    url: https://www.esakal.com/pune/ganja-smuggling-in-luxury-car-police-seize-vehicle-along-with-two-smugglers-after-thrilling-chase-crime-shirur-pjp78
+    publisher: Esakal
+    date: 2026-11-26
+    language: mr
 media:
   - kind: photo
     url: https://pudhari.news/maharashtra/pune/shirur-police-seize-250-kg-ganja-worth-1-52-crore-sk04
@@ -96,34 +101,42 @@ media:
     media_url: https://media.assettype.com/navarashtra%2F2026-11-26%2Fyqj851r4%2FPune-Police-Combing-Operation?w=768&auto=format%2Ccompress&fit=max
     publisher: Navarashtra
     caption: Pune police during the three-hour city-wide combing operation in which the anti-narcotics squad seized 250 kg of ganja, published with Navarashtra's report on the drive.
+  - kind: photo
+    url: https://www.esakal.com/pune/ganja-smuggling-in-luxury-car-police-seize-vehicle-along-with-two-smugglers-after-thrilling-chase-crime-shirur-pjp78
+    media_url: https://cf-images.assettype.com/esakal%2F2026-11-26%2Fb3n7xfh3%2FGanja-Seized-in-shirur?w=768&auto=format%2Ccompress&fit=max
+    publisher: Esakal
+    caption: 'Ganja seized by police in Shirur, photographed for the Esakal report on the bust. Photo: Sakal'
 open_questions:
     - One Marathi account values the ganja, SUV and phones together at Rs 1.51 crore and Loksatta puts the same combined total at Rs 1.50 crore, while police valued the ganja alone at Rs 1.25 crore.
     - Loksatta reports the ganja was brought from Odisha for sale in Pune, while other accounts said police did not state where it was procured or where it was being taken.
     - No charge sheet, court production or custody decision was reported.
+    - The Esakal report says the operation happened at dawn on 26 November 2026, while the report and other accounts date it to 25 November.
+    - The Esakal report puts the ganja alone at about Rs 1.52 crore and the SUV at about Rs 10 lakh, figures that differ from the police valuation used in the report.
+    - The Esakal report describes a checkpost between Patas and Daund on the Solapur road and a diversion via Kashti and Nimone toward Shirur, while other accounts describe a patrol that spotted the car near Kunjir Lawns.
 ---
 
 On 25 November 2026, the Anti-Narcotics Squad-II of the Pune City Police Crime
 Branch arrested two men and seized 250 kg of ganja after a chase in the Shirur
-area. [@3,5,6,8,9,10] The seizure was made during a city-wide night combing operation that ran from 10 pm on 25 November to 1 am the next morning on the orders of Police Commissioner Amitesh Kumar, called after a shooting and knife attack on a man accused of murder in the Shivajinagar court complex. [@9] The accused were identified as 24-year-old Sameer Purushottam Raut of
+area. [@3,5,6,8,9,10,11] The seizure was made during a city-wide night combing operation that ran from 10 pm on 25 November to 1 am the next morning on the orders of Police Commissioner Amitesh Kumar, called after a shooting and knife attack on a man accused of murder in the Shivajinagar court complex. [@9] The accused were identified as 24-year-old Sameer Purushottam Raut of
 Sangol and 30-year-old Ajay Jagdish Mohite of Bagapur, both in Chandur Railway
-taluka of Amravati district. [@3,6,7,8,10] Raut works as a paver-block operator and
+taluka of Amravati district. [@3,6,7,8,10,11] Raut works as a paver-block operator and
 Mohite does furniture work. [@2,4] Officers intercepted their car in Shirur city
 and, after the pair abandoned it and fled into the dark, apprehended them in an
 open plot near Datt Mandir opposite the Satyabhama Niwas building in State Bank
-Colony. [@3,5,7] A case was registered against both men at Shirur Police Station,
+Colony. [@3,5,7,11] A case was registered against both men at Shirur Police Station,
 and further investigation is under way. [@3]
 
-During a search of the vehicle, police recovered 250 kg of ganja. [@3,5,6,8,10] Officials
+During a search of the vehicle, police recovered 250 kg of ganja. [@3,5,6,8,10,11] Officials
 announcing the seizure on Thursday said a sports utility vehicle was also seized
 with the ganja in Pune district. [@1,7] Police valued the seized ganja at Rs 1.25
 crore. [@2,4,7,10] Police also seized a Mahindra XUV 700 worth Rs 25 lakh and two
 mobile phones valued at Rs 1.20 lakh, putting the total seizure at Rs 1.51
-crore. [@2,4,6]
+crore. [@2,4,6] The seized SUV carried the registration number MH 27 DL 6984. [@11]
 
 A team led by Police Inspector Jeevan Mane had been patrolling in the Loni
 Kalbhor police station area when it spotted a speeding white car near Kunjir
-Lawns and signalled it to stop, but the driver sped toward Solapur. [@3,10] The operation was carried out by a team led by Police Inspector Jeevan Mane, along with Assistant Police Inspectors Afroz Pathan and Nitinkumar Naik and other personnel of Anti-Narcotics Squad-II. [@4,10] The
+Lawns and signalled it to stop, but the driver sped toward Solapur. [@3,10] The operation was carried out by a team led by Police Inspector Jeevan Mane, along with Assistant Police Inspectors Afroz Pathan and Nitinkumar Naik and other personnel of Anti-Narcotics Squad-II. [@4,10] The operation was carried out under the guidance of Pune city police Deputy Commissioner Gohar Hasan. [@11] The
 team pursued the car into the Yavat police station area with local help and an
 alert to the Pune Rural Police Control Room that it was heading for Shirur. [@3]
 Police did not say where the ganja was procured or where it was being taken.
-[@3] Loksatta reported that the two men had brought the ganja from Odisha to sell in Pune. [@10]
+[@3] Loksatta reported that the two men had brought the ganja from Odisha to sell in Pune. [@10,11]
