@@ -34,9 +34,15 @@ sources:
     url: https://www.gazettelive.co.uk/news/local-news/fugitive-gary-robb-jailed-drug-3701701
     publisher: Teesside Live
     date: 2013-05-13
+  - title: Former Norton club owner in court after deportation
+    url: https://www.thenorthernecho.co.uk/news/4087475.former-norton-club-owner-court-deportation/
+    publisher: The Northern Echo
+    date: 2009-01-29
 open_questions:
-  - No separate weight or count for the cannabis was published; the £15,000 seizure total covers ecstasy, amphetamine and cannabis together, so no cannabis quantity or value is recorded.
-  - 8 July 2010 is used as the sentencing date from the BBC report published that day; the Northern Echo report published 9 July 2010 describes the jailing as the previous night.
+    - No separate weight or count for the cannabis was published; the £15,000 seizure total covers ecstasy, amphetamine and cannabis together, so no cannabis quantity or value is recorded.
+    - 8 July 2010 is used as the sentencing date from the BBC report published that day; the Northern Echo report published 9 July 2010 describes the jailing as the previous night.
+    - The 29 January 2009 hearing recorded no pleas, while the report's account has Robb pleading guilty after his return; the sources do not say when the plea was entered.
+    - The sources do not say how the conspiracy-to-supply charges against Robb, or the perverting-the-course-of-justice charges against his mother, were resolved; his 2010 conviction was for permitting premises to be used for drug supply.
 ---
 
 Former nightclub boss Gary Robb, 47, was jailed for five years at Teesside Crown
@@ -48,10 +54,10 @@ Colosseum nightclub in Norton Road, Stockton. [@1]
 He went on trial in September 1997 but skipped bail and fled to the Turkish
 Republic of Northern Cyprus, where he remained until January last year. [@1] He
 was returned only after the Cyprus authorities deemed him persona non grata and
-he was arrested by police on arrival at Stansted Airport. [@1] A police raid on
+he was arrested by police on arrival at Stansted Airport. [@1,4] A five-minute hearing at Teesside Crown Court on 29 January 2009 entered no pleas and remanded both in custody until 27 February. [@4] A police raid on
 February 3, 1996 seized ecstasy, amphetamine and cannabis with a total street
-value of £15,000. [@1] He fled to northern Cyprus in 1997 after his Stockton
-club was raided by drugs officers in 1996. [@2] He was deported in January 2009
+value of £15,000. [@1] He also faced a charge of failing to surrender to Teesside Crown Court on 24 July 1998. [@4] Robb was charged with two counts of conspiracy to supply Class A and Class B drugs. [@4] He fled to northern Cyprus in 1997 after his Stockton
+club was raided by drugs officers in 1996. [@2,4] His 71-year-old mother faced two charges of doing acts tending and intended to pervert the course of justice between 18 September and 30 November 1997, accused of helping him leave the jurisdiction. [@4] He was deported in January 2009
 and pleaded guilty at Teesside Crown Court. [@2]
 
 He will serve half of the five-year sentence, with 525 days already spent in
