@@ -193,6 +193,11 @@ sources:
     publisher: Fiscales.gob.ar
     date: 2026-11-26
     language: es
+  - title: Intentó ingresar por el puente Posadas-Encarnación con 212 kilos de marihuana ocultos en su vehículo
+    url: https://eldopolis.com/news/B536RfMyyz0Cy3yaIH4A
+    publisher: Eldópolis
+    date: 2026-11-21
+    language: es
 open_questions:
   - The article places the arrest and the start of the investigation on 'last Saturday' (21 November 2026), while earlier reporting placed the stop on Friday 20 November 2026.
   - The imputation is dated only as 'last Monday' relative to the 26 November publication, giving 23 November 2026.
@@ -202,22 +207,22 @@ open_questions:
 ---
 
 Argentine customs officers seized 212 kilograms of marijuana from a car at the
-international bridge in Posadas, Misiones. [@1,5,6,7,8,9,10,11,12,13,15] The car was detained on the
+international bridge in Posadas, Misiones. [@1,5,6,7,8,9,10,11,12,13,15,17] The car was detained on the
 afternoon of Friday 20 November 2026 at the Argentine end of the
 Posadas-Encarnación bridge. [@3,5,8] Its driver, a 35-year-old Argentine, was
 arrested and placed at the disposal of the Unidad Fiscal Posadas, the federal
-prosecutor's office. [@3,5,6,7,8,9,10,11,12,13,14,15] The driver was held incommunicado. [@12] He was bringing the load into Argentina from
+prosecutor's office. [@3,5,6,7,8,9,10,11,12,13,14,15,17] The driver was held incommunicado. [@12] He was bringing the load into Argentina from
 Encarnación, Paraguay. [@4,5,12,13]
 
 The procedure began around 17:00 when a Chevrolet reached the migration control
-on the San Roque González de Santa Cruz bridge. [@3] The vehicle was a Chevrolet Spin. [@5,12,13,14,16] Officers diverted the car
+on the San Roque González de Santa Cruz bridge. [@3] The vehicle was a Chevrolet Spin. [@5,12,13,14,16,17] Officers diverted the car
 with Argentine plates to the inspection bays for a more thorough check. [@2,6,9,10,13,15]
 They found brick-shaped packages hidden under the bonnet, behind the dashboard
-and in the floor of the vehicle. [@1,6,9,10,12,13,14,15] The charge states that 554 packages tested positive for marijuana in a field test, hidden in the dashboard area, floor, sides of the boot and a false bottom at the rear. [@16] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
+and in the floor of the vehicle. [@1,6,9,10,12,13,14,15,17] The charge states that 554 packages tested positive for marijuana in a field test, hidden in the dashboard area, floor, sides of the boot and a false bottom at the rear. [@16] Some packages were hidden in the sides of the bodywork and under the seats. [@5] Images from a scanner truck confirmed the
 presence of the packages in those compartments. [@1,5,6,9,10,11,12,13,16]
 
 Officers opened the hidden compartments with tools. [@3] Customs valued the load
-at nearly 832 million pesos. [@1,5,6,8,9,10,11,12,14,15,16] The case was opened as aggravated smuggling of
-narcotics. [@1,5,9,10,11,12,13,15] Prosecutors charged him with aggravated drug smuggling in its attempted form, as the principal offender, under article 866 of the Customs Code. [@16] The formal charge was brought on Monday 23 November by the prosecutor's office unit for simple cases, headed by Pablo Ricardo Di Loreto with assistant prosecutor Andrés Stuber. [@16] The car was seized together with the marijuana and held for the judicial case. [@6,14,15] The defence appealed the preventive detention, and a review hearing has yet to be held. [@16] Assistant prosecutor Stuber cited flight and obstruction risks, the lack of work and home ties, proximity to the border and an expected sentence of four and a half to 16 years. [@16] The judge set 10 May as the end of the investigation period. [@16] Federal guarantee judge María Verónica Skanata ordered 90 business days of preventive detention at the prosecutors' request. [@16]
+at nearly 832 million pesos. [@1,5,6,8,9,10,11,12,14,15,16,17] The case was opened as aggravated smuggling of
+narcotics. [@1,5,9,10,11,12,13,15,17] Prosecutors charged him with aggravated drug smuggling in its attempted form, as the principal offender, under article 866 of the Customs Code. [@16] The formal charge was brought on Monday 23 November by the prosecutor's office unit for simple cases, headed by Pablo Ricardo Di Loreto with assistant prosecutor Andrés Stuber. [@16] The car was seized together with the marijuana and held for the judicial case. [@6,14,15,17] The defence appealed the preventive detention, and a review hearing has yet to be held. [@16] Assistant prosecutor Stuber cited flight and obstruction risks, the lack of work and home ties, proximity to the border and an expected sentence of four and a half to 16 years. [@16] The judge set 10 May as the end of the investigation period. [@16] Federal guarantee judge María Verónica Skanata ordered 90 business days of preventive detention at the prosecutors' request. [@16]
 
 The operation began at around 17:00 when División Aduana Posadas staff diverted the car to the inspection bays. [@7,10] Officers found brick-type packages under the bonnet, behind the dashboard and on the floor of the car, and scanner-truck images confirmed their presence there. [@7]
