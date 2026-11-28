@@ -53,6 +53,11 @@ media:
     media_url: https://www.thephuketnews.com/photo/listing/2026/1783658724_1-org.jpg
     publisher: The Phuket News
     caption: 'Photo published with the report of the two women''s arrests at Phuket airport. Photo: Sakhu Police'
+  - kind: photo
+    url: https://www.straitstimes.com/asia/se-asia/two-women-arrested-at-phuket-airport-with-32kg-of-cannabis
+    media_url: https://cassette.sphdigital.com.sg/image/straitstimes/d35efc5faa1f0e10d6cdedecca7821262b3336635974e632898c6e4a557f2fa7
+    publisher: The Straits Times
+    caption: 'Penpitcha Phutsiang''s suitcase held 16 vacuum-sealed packages of cannabis flowers weighing 17.6kg. Photo: The Nation/Asia News Network'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: adc770e809a3ea593c27adf02d3684ba
@@ -78,38 +83,36 @@ sources:
     url: https://thethaiger.com/news/national/thai-filipina-women-arrested-cannabis-phuket-airport
     publisher: Thaiger
     date: 2026-07-10
-open_questions:
-  - The weights of 14.5kg and 17.6kg include the packaging, so the net weight of cannabis is not known.
-  - Most outlets said more than 32kg while Thaiger gave 32.1kg; the report uses the more precise 32.1kg.
-  - The Thai suspect's name appears as Penpitcha Phutsiang, Penpicha Pudsiang and Penpitcha Pudsiang across the sources.
-  - No court outcome or trial date was reported; both women were handed to Sakhu Police Station for further investigation.
-  - The intended destinations of the seized cannabis were not disclosed.
+  - title: Two women arrested at Phuket airport with 32kg of cannabis
+    url: https://www.straitstimes.com/asia/se-asia/two-women-arrested-at-phuket-airport-with-32kg-of-cannabis
+    publisher: The Straits Times
+    date: 2026-07-10
+    language: en
 ---
 
 Customs officers and police arrested a Thai woman and a Filipino national at
 Phuket International Airport on 9 July 2026. [@3] The arrests were made by
 Phuket Airport Customs House officers working with Sakhu Police Station inside
-the international departures terminal. [@1] Authorities alleged that both women
+the international departures terminal. [@1,6] Authorities alleged that both women
 tried to take cannabis flowers out of Thailand without completing the required
-customs procedures. [@1] The first was 18-year-old Filipino national Levannah
-Chelsea Guzman. [@1] The second was Thai national Penpitcha Phutsiang. [@1]
+customs procedures. [@1,6] The first was 18-year-old Filipino national Levannah
+Chelsea Guzman. [@1] The first arrest took place at about 11am. [@6] The second was Thai national Penpitcha Phutsiang. [@1] A second arrest followed at about 1pm. [@6]
 
 Guzman's suitcase held 14 vacuum-sealed packages of cannabis flowers weighing
-14.5kg including the wrapping. [@1] Guzman admitted the suitcase and all the
-seized items belonged to her. [@1] Phutsiang's suitcase held 16 vacuum-sealed
-packages of cannabis flowers with a combined weight of 17.6kg. [@1] Phutsiang
-also admitted that the suitcase and all the seized items belonged to her. [@1]
+14.5kg including the wrapping. [@1,6] Guzman admitted the suitcase and all the
+seized items belonged to her. [@1,6] Phutsiang's suitcase held 16 vacuum-sealed
+packages of cannabis flowers with a combined weight of 17.6kg. [@1,6] Phutsiang
+also admitted that the suitcase and all the seized items belonged to her. [@1,6]
 The two seizures were reported together as 32.1kg of cannabis flower. [@5]
 
 Guzman was charged with attempting to take goods out of the country before
-customs procedures under the Customs Act BE 2560 (2017). [@1] Further charges
+customs procedures under the Customs Act BE 2560 (2017). [@1,6] Further charges
 were brought under the Narcotics Code, the Protection and Promotion of
 Traditional Thai Medicine Wisdom Act BE 2542 (1999) and a 2025 Public Health
-Ministry notification on controlled herbs concerning cannabis. [@1] Phutsiang
+Ministry notification on controlled herbs concerning cannabis. [@1,6] Phutsiang
 was charged with offences of the same nature and both women were taken with the
-seized cannabis to Sakhu Police Station for further investigation. [@1] The
+seized cannabis to Sakhu Police Station for further investigation. [@1,6] The
 Phuket News reported that the two arrests were separate cases on 9 July. [@2]
 Officials had not identified a common organiser or the intended destinations of
 the seized cannabis. [@2] The arrests formed part of stricter measures to
-prevent cannabis flowers from being illegally exported through airports. [@4]
-
+prevent cannabis flowers from being illegally exported through airports. [@4,6]
