@@ -35,6 +35,11 @@ media:
     media_url: https://dbcnews.tv/_next/image?url=https%3A%2F%2Fassets.dbcnews.tv%2F173372%2Fcac09a72-6146-45d0-bd65-eeafaa55975a.webp&w=640&q=75
     publisher: DBC News
     caption: 'The 100 kg of cannabis and bottles of Iskaf syrup seized at the Comilla border. Photo: DBC News'
+  - kind: photo
+    url: https://www.bd24live.com/bangla/814440
+    media_url: https://www.bd24live.com/bangla/public/images/image_306091_1795693228_original_1795694790.jpg
+    publisher: BD24Live
+    caption: 'BGB personnel of the Mathurapur border outpost behind sacks of ganja and boxes of Indian Iskaf syrup seized on 26 November 2026, with the outpost''s sign in front. Photo: BD24Live Cumilla correspondent'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: f83a5a7915ebb586c88ac915ab8ebc14
@@ -50,14 +55,22 @@ sources:
     publisher: Eye News BD
     date: 2026-11-26
     language: bn
+  - title: কুমিল্লায় ১’শ কেজি গাঁজা ও ২ হাজার বোতল ইস্কাপ সিরাপ আটক
+    url: https://www.bd24live.com/bangla/814440
+    publisher: BD24Live
+    date: 2026-11-26
+    language: bn
 open_questions:
   - No one was arrested or named in either account; the drugs were found abandoned.
   - No estimated value, separate weight for the syrup, or later court case was reported.
   - The headlines round the syrup to 2,000 bottles while both articles' bodies say 2,002.
+  - No one was arrested or named in the accounts; one report says the drugs were found abandoned.
+  - The headlines round the syrup to 2,000 bottles while the articles' bodies say 2,002.
+  - 'Accounts differ on the timing: one puts the Mathurapur patrol operation at about 1 am on 26 November, another at midday.'
 ---
 
 Border Guard Bangladesh seized 100 kg of cannabis and 2,002 bottles of Indian
-Iskaf syrup in a border-area operation in Comilla. [@1] A special patrol team of
+Iskaf syrup in a border-area operation in Comilla. [@1,3] A special patrol team of
 the Mathurapur border outpost in Comilla Sadar Dakshin upazila carried out the
 operation at about 1 am on Thursday 26 November. [@1] The patrol was under
 Comilla Battalion, known as 10 BGB, and was under way before dawn on 26 November
@@ -68,7 +81,6 @@ about 70 yards inside Bangladesh from the border. [@2] The cannabis and the
 syrup bottles were found abandoned, with no owner at the scene. [@1]
 
 BGB said 10 Battalion regularly runs drives to stop smuggling and cross-border
-crime in its assigned border area. [@2] Lieutenant Colonel Mir Ali Ejaz,
+crime in its assigned border area. [@2,3] Lieutenant Colonel Mir Ali Ejaz,
 commanding officer of the Comilla Battalion (10 BGB), said necessary legal
 action would be taken over the seized drugs. [@1]
-
