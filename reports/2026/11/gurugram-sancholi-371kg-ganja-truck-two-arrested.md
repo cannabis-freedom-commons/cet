@@ -39,6 +39,11 @@ media:
     media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/26/cover_1795709978582.jpg
     publisher: Dainik Bhaskar
     caption: 'The two arrested smugglers with the seized ganja in Gurugram. Photo: Dainik Bhaskar'
+  - kind: photo
+    url: https://www.bhaskar.com/local/haryana/palwal/news/palwal-stf-arrest-drug-smugglers-ganja-seized-truck-expressway-139806746.html
+    media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/26/315690d6-d0af-4de2-b585-837c413865c6_1795698963980.jpg
+    publisher: Dainik Bhaskar
+    caption: 'Accused arrested by Palwal police in the ganja seizure. Photo: Dainik Bhaskar'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: e868deed44858ddcfb18ad67525db0b3
@@ -69,19 +74,26 @@ sources:
     url: https://www.thesamaja.com/en/news/haryana-stf-seizes-truck-with-371-kg-ganja-arrests-two
     publisher: The Samaja
     date: 2026-11-26
+  - title: 'पलवल में ट्रक से 3.71 क्विंटल गांजा बरामद: STF ने दो को गिरफ्तार किया; तिरपाल के नीचे 19 कट्टों में छिपाकर ले जा रहे - Palwal STF Drug Bust | Truck Seized With 371kg Ganja On Expressway'
+    url: https://www.bhaskar.com/local/haryana/palwal/news/palwal-stf-arrest-drug-smugglers-ganja-seized-truck-expressway-139806746.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-26
+    language: hi
+open_questions:
+    - One Dainik Bhaskar account places the checkpoint and seizure in Palwal on the Vadodara-Mumbai Expressway, while other accounts place them near Sancholi village in Sohna, Gurugram on the Sohna-Ballabgarh Road.
 ---
 
 Haryana Special Task Force officers arrested two men from Churu district,
 Rajasthan, in a truck on the Ballabhgarh-Sohna road near Sancholi village in
-Sohna, Gurugram. [@1,3,6] Questioning identified the driver as Sajjan of Chandgothi,
+Sohna, Gurugram. [@1,3,6,7] Questioning identified the driver as Sajjan of Chandgothi,
 Rajgarh, and the man on the conductor seat as Ram Singh of Tripali Chhoti, both
 in Churu. [@1,6] A second account names the two people taken into custody as
 Sajjan and Ram Singh, both from Rajasthan. [@2,3]
 
 The STF Central Unit recovered 371.680 kilograms of ganja from the
-Rajasthan-registered Tata truck. [@1,6] Officials valued the seized cannabis at about 70 lakh rupees. [@4,6] The load was packed in 19 plastic sacks of
+Rajasthan-registered Tata truck. [@1,6,7] Officials valued the seized cannabis at about 70 lakh rupees. [@4,6] The load was packed in 19 plastic sacks of
 different colours, hidden under black polythene and a tarpaulin in the truck's
-rear compartment. [@1,3] Police weighed each sack on an electronic scale at the
+rear compartment. [@1,3,7] Police weighed each sack on an electronic scale at the
 scene, sealed all 19 sacks with two prepared samples, and seized the consignment
 and the truck as evidence. [@1]
 
