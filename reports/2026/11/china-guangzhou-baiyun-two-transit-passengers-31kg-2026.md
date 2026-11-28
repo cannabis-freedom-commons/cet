@@ -128,6 +128,11 @@ sources:
     publisher: 搜狐网（大西北消息速览）
     date: 2026-11-19
     language: zh
+  - title: 天网恢恢 广州白云机场海关连续查获总计50多千克大麻
+    url: https://news.qq.com/rain/a/20261127A0CPT900
+    publisher: 腾讯新闻（新华网）
+    date: 2026-11-27
+    language: zh
 media:
   - kind: photo
     url: https://finance.sina.cn/2026-11-17/detail-iniyyzyp7716496.d.html?vt=4
@@ -144,20 +149,28 @@ media:
     media_url: https://flv3.bn.netease.com/e6a796c2bbcb9d8a4da6b6470dd3f22ddc49b0cfa0ad6f44b68bd0a3437d5424a8038496d68ebafd4a70e295f3ea83a7eb3c22bfceae14eabeb3dbc2033a94a75265b672177cc494935819197e4a9f367d6539bfde7e6daafaf5726e050b6fee056d4bcf07c1e8aa17e9c9203f7e5628e0725398df7f7db2.m3u8
     publisher: 网易视频 / 齐鲁频道
     caption: Video posted by Qilu Channel on NetEase about Guangzhou Customs seizing two passengers carrying two suitcases filled with more than 60 jin of cannabis.
+  - kind: video
+    url: https://news.qq.com/rain/a/20261127A0CPT900
+    media_url: https://apd-vlive.apdcdn.tc.qq.com/video.dispatch.tc.qq.com/B_fXrb0otmtGHxqhZ5HYDTdrCWOUROo3OD4F4k9QKYJS_84pyQUwg5uvVwK_HHHc1ZyZl8jMGuX1PN1N4uuvNOXIqjRymKMtcTvxVEnAL0MqwAsZkVNPRFjKtdUPLKXzHQS99mVW29GZv2uUblNVQ9iA/svp_50001/szg_4932_50001_0b53tuab2aaa3iafx4qjrfvvdhoddwoqahka.f622.mp4?sdtfrom=v1056&guid=2fe7567dc30dfc7faa33e118b2134575&vkey=3993A8625ADA9F83CDE0E23FCDE6075067FB80E2316B2727E342D09B96EC838B609B5A3C5916834AE05B78D126E186EDA975948602390576AD53C137626115C4824FC67A506933A8FDB01CA9D94901EFC6CFD7991557724C64DB191882D4ECEAD43929D865DDB3F02130585BB4BCEA69E12B1C7C7A18B19502EAD84FED3677C755BAE44B2F06C09F342F7C18D05DDB2C
+    publisher: 新华网
+    caption: 'Xinhua video report on the two cannabis seizures at Guangzhou Baiyun airport. Video: 新华社音视频部制作 (Xinhua Audio and Video Department)'
+open_questions:
+  - The 27 November account gives only a combined figure of more than 50 kg for the two cases and no separate weights; that they are the 20.051 kg and 31.787 kg seizures already recorded is inferred from that total.
+  - No date for either interception, and no arrest, charge or court outcome in either case, has been reported.
 ---
 
 Guangzhou Baiyun Airport Customs officers screening international transit
 passengers found the luggage X-ray images of two travellers abnormal in
-succession. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19] Officers intercepted the two travellers and inspected their
+succession. [@1,2,3,4,5,6,7,8,9,10,11,12,13,14,16,17,18,19,20] Officers intercepted the two travellers and inspected their
 suitcases. [@1,2,3,4,5,7,8,10,12,13,14,15,18,19] The suitcases each held brown-green plant material packed in
 plastic bags that gave off a strong pungent smell when the packaging was opened.
 [@1,2,3,4,6,7,9,10,12,13,14,15,16,17,18,19]
 
 A technical institution tested the material and confirmed it was cannabis
-weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19] Customs announced the seizure on 17
+weighing 31.787 kilograms in total. [@1,2,3,4,5,6,7,8,9,10,12,13,14,16,17,18,19] Xinhua reported on 27 November 2026 that the two cannabis seizures at Guangzhou Baiyun Airport together came to more than 50 kg. [@20] Customs announced the seizure on 17
 November 2026, describing the interception as recent and placing it at the
 passenger-inspection channel of Guangzhou Baiyun Airport. [@1,2,7,10,11,12,14]
 
 Customs reminded the public that smuggling, selling, transporting or
 manufacturing drugs carries criminal liability in China regardless of quantity.
-[@1,10,11,13,16,17]
+[@1,10,11,13,16,17,20]

@@ -146,13 +146,18 @@ sources:
     publisher: MSN
     date: 2026-11-14
     language: zh
+  - title: 天网恢恢 广州白云机场海关连续查获总计50多千克大麻
+    url: https://news.qq.com/rain/a/20261127A0CPT900
+    publisher: 腾讯新闻（新华网）
+    date: 2026-11-27
+    language: zh
 ---
 
 Guangzhou customs seized 20.051 kg of cannabis in the passenger-inspection
 channel at Guangzhou Baiyun International Airport, according to a Guangzhou
 Customs notice. [@1,2,4,5,6,8,9,10,11,12,13,14,15,16,17,19] Baiyun airport customs officers were screening
 international transit passengers when one traveller's luggage X-ray image looked
-abnormal, and they stopped and searched that passenger. [@1,3,5,6,7,9,10,12,13,14,15,16,17,19] The suitcase held
+abnormal, and they stopped and searched that passenger. [@1,3,5,6,7,9,10,12,13,14,15,16,17,19,20] The suitcase held
 nothing but plastic-bag, vacuum-packed brown-green plant material that gave off
 a strong irritant smell when opened. [@1,2,3,5,6,7,9,10,12,13,14,15,17,19] A technical institution tested the
 material and confirmed it was cannabis weighing 20.051 kg. [@1,3,6,9,10,12,13,15,16,17,19]
