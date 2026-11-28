@@ -36,28 +36,37 @@ sources:
     publisher: Haber365
     date: 2026-11-24
     language: tr
+  - title: Diyarbakır’da 20 kilo 436 gram esrar ele geçirildi
+    url: https://www.msn.com/tr-tr/haber/turkiye/diyarbak%C4%B1r-da-20-kilo-436-gram-esrar-ele-ge%C3%A7irildi/ar-AA2i8YWU
+    publisher: MSN
+    date: 2026-11-24
+    language: tr
+  - title: Diyarbakır’da 20 kilo 436 gram esrar ele geçirildi
+    url: https://www.iha.com.tr/diyarbakir-haberleri/diyarbakirda-20-kilo-436-gram-esrar-ele-gecirildi-521226917
+    publisher: İhlas Haber Ajansı (İHA)
+    date: 2026-11-24
+    language: tr
 open_questions:
-  - No separate date for the operations was given; 24 November 2026 is the publication date and is used as the incident date.
-  - No breakdown of the 20.436 kg across the nine incidents was published.
-  - The report names no suspect and does not say whether any of the nine was detained, charged or remanded.
-  - The nature of the eight drug pills was not specified, so they are excluded from the cannabis figures.
-  - No value estimate, seizure sites or cultivated area were published.
-  - The whole account rests on a single opened outlet account with no second corroborating report found.
+    - No separate date for the operations was given; 24 November 2026 is the publication date and is used as the incident date.
+    - No breakdown of the 20.436 kg across the nine incidents was published.
+    - The report names no suspect and does not say whether any of the nine was detained, charged or remanded.
+    - The nature of the eight drug pills was not specified, so they are excluded from the cannabis figures.
+    - No value estimate, seizure sites or cultivated area were published.
+    - The İHA news agency account was republished by several outlets, so no independent version of the operation was found.
 ---
 
 Diyarbakir gendarmerie teams carried out operations targeting people who trade
-in and use narcotic substances. [@1] The operations were coordinated by the
+in and use narcotic substances. [@1,2] The operations were coordinated by the
 Narcotics Crimes Branch of the Diyarbakir Provincial Gendarmerie Command and
-covered the provincial centre and districts. [@1] Officers recorded nine
-separate incidents during the operations. [@1] Legal proceedings were opened
-against nine suspects in connection with those incidents. [@1]
+covered the provincial centre and districts. [@1,3] Officers recorded nine
+separate incidents during the operations. [@1,2] Legal proceedings were opened
+against nine suspects in connection with those incidents. [@1,2]
 
 Teams seized 20 kilograms 436 grams of esrar, the Turkish word for cannabis.
-[@1] Teams also seized eight drug pills alongside the cannabis, which are not
-counted in the cannabis figures. [@1] No suspect was named, and no detention,
+[@1,3] Teams also seized eight drug pills alongside the cannabis, which are not
+counted in the cannabis figures. [@1,3] No suspect was named, and no detention,
 charge or court outcome was reported beyond the opening of legal proceedings.
 [@1]
 
 The gendarmerie said operations of this kind would continue and work to reduce
 drug use would proceed without slowing. [@1]
-
