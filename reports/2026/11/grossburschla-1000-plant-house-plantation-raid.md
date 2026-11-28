@@ -64,21 +64,26 @@ sources:
     publisher: inSüdthüringen
     date: 2026-11-26
     language: de
+  - title: Große illegale Cannabisplantage in Thüringen ausgehoben - drei Festnahmen
+    url: https://unternehmen-heute.de/news.php?newsid=6719040
+    publisher: UNTERNEHMEN-HEUTE.de
+    date: 2026-11-26
+    language: de
 ---
 
 Criminal police found a cannabis plantation with around 1,000 plants on 19
 November in an empty house in the centre of Großburschla. [@1,2] The house had
 stood empty for a long time before residents alerted police. [@1] Three men aged
 19, 28 and 38 were provisionally arrested, as reported by the
-Landespolizeiinspektion Gotha. [@1] Residents had noticed unusual movements in
+Landespolizeiinspektion Gotha. [@1,3] Residents had noticed unusual movements in
 the house for about a year and contacted police in Eisenach. [@1,2] A court issued
 arrest warrants on Friday against the 19-year-old and the 28-year-old. [@1] Both
 men are held in a prison. [@1] The investigation is ongoing. [@1]
 
 Early inquiries had pointed to an indoor plantation. [@1] Officers acted
-immediately because a handover of the marijuana was apparently imminent. [@1]
+immediately because a handover of the marijuana was apparently imminent. [@1,3]
 Around 30 kilograms of packaged marijuana lay ready for collection in the house.
-[@1] Cultivation and processing rooms spread over both residential floors, with
+[@1,3] Cultivation and processing rooms spread over both residential floors, with
 extensive cultivation equipment. [@1] The operators tapped the electricity for
-the operation illegally before the meter. [@1] The plants were in different
-stages of growth. [@1]
+the operation illegally before the meter. [@1,3] The plants were in different
+stages of growth. [@1,3]
