@@ -41,22 +41,27 @@ sources:
     publisher: Le bled parle
     date: 2026-07-29
     language: fr
+  - title: 'Mali : 30 briques de chanvre indien saisies dans un car à Bamako, un transporteur interpellé'
+    url: https://maliactu.net/mali-30-briques-de-chanvre-indien-saisies-dans-un-car-a-bamako-un-transporteur-interpelle/
+    publisher: Mali Actu
+    date: 2026-08-03
+    language: fr
 open_questions:
-  - No weight or estimated value was published for the 30 bricks of Indian hemp.
-  - The suspect was not named and no charges or court outcome were reported; the case was at the investigation stage.
-  - The account rests on a single outlet, Le bled parle, reporting what it attributes to Malian police, with no independent confirmation.
+    - No weight or estimated value was published for the 30 bricks of Indian hemp.
+    - No charges or court outcome were reported; the case was at the investigation stage.
+    - Both accounts appear to draw on the same Malian police statement and may not be independently confirmed.
+    - 'The accounts differ slightly on timing: Le bled parle dates the arrest to 25 July 2026, while Mali Actu places it in the night of 25–26 July 2026.'
 ---
 
 Mali's police arrested a 35-year-old man in Faladié, a district of Bamako, on 25
 July 2026, as he carried 30 bricks of Indian hemp (cannabis) hidden in a
-suitcase on a public transport bus. [@1]
+suitcase on a public transport bus. [@1,2] Police identified the suspect only by the initials A.B. [@2] The check took place overnight on 25–26 July 2026 on a bus operated by the Tilemsi transport company at Faladié. [@2]
 
 The operation was carried out by the Brigade de Recherches of the Torokorobougou
 police station, after officers exploited intelligence that allowed them to
 locate the suspect. [@1] During the search, police found the 30 bricks of Indian
 hemp carefully hidden in the suspect's luggage; the goods were seized on the
-spot and the man was placed at the disposal of investigators. [@1]
+spot and the man was placed at the disposal of investigators. [@1,2]
 
 Malian police said investigations are continuing to identify possible
-accomplices and to dismantle a possible drug trafficking network. [@1]
-
+accomplices and to dismantle a possible drug trafficking network. [@1,2]
