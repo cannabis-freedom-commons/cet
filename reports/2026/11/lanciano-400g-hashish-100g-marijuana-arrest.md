@@ -61,28 +61,27 @@ sources:
     publisher: Il Giornale di Chieti
     date: 2026-11-26
     language: it
-open_questions:
-  - The hashish and marijuana quantities are given as approximate figures of about 400 and about 100 grams.
-  - 'Accounts differ on where the car was stopped: one names the SS 524, another the provincial road between Lanciano and Fossacesia.'
-  - The man's age, nationality and place of residence were not published.
-  - No value estimate for the seized cannabis was published.
-  - No trial outcome beyond the arrest validation has been reported.
+  - title: 'Lanciano. In auto con hashish e marijuana: giovane arrestato'
+    url: https://www.abruzzolive.tv/cronaca/lanciano-in-auto-con-hashish-e-marijuana-arrestato-it39974.html
+    publisher: AbruzzoLive.tv
+    date: 2026-11-26
+    language: it
 ---
 
 Carabinieri in Lanciano arrested a young man already known to police on 19
-November 2026 on suspicion of holding drugs for trafficking. [@1,4] The operation
+November 2026 on suspicion of holding drugs for trafficking. [@1,4,5] The operation
 was run by the operational and radio unit of the Lanciano carabinieri company.
 [@3,4] Officers noticed a suspicious car on the SS 524 during a territory control
-service and decided on a closer check. [@1,4] ChietiToday places the stop on the
+service and decided on a closer check. [@1,4,5] ChietiToday places the stop on the
 provincial road between Lanciano and Fossacesia. [@2]
 
 Searching the man, the car and then his home, officers found about 400 grams of
-hashish in blocks and about 100 grams of marijuana. [@1,4] They also seized a
-precision scale and material for packaging doses. [@2,4] The drugs and equipment
+hashish in blocks and about 100 grams of marijuana. [@1,4,5] They also seized a
+precision scale and material for packaging doses. [@2,4,5] The drugs and equipment
 were seized pending laboratory analysis and the decisions of the judicial
 authorities. [@1,4]
 
-The man was held under house arrest until the validation hearing. [@2,4] At that
+The man was held under house arrest until the validation hearing. [@2,4,5] At that
 hearing the judge of the Lanciano court validated the arrest and ordered him to
 reside in his home municipality. [@1,4] The case is at the preliminary
 investigation stage. [@3,4]
