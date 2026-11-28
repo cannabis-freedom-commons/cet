@@ -129,6 +129,11 @@ sources:
     publisher: 産経ニュース
     date: 2026-11-27
     language: ja
+  - title: 違法薬物密売か３人逮捕、大阪　拠点に商売繁盛の置物
+    url: https://www.chunichi.co.jp/article/1345166
+    publisher: 中日新聞Web
+    date: 2026-11-26
+    language: ja
 open_questions:
     - The sources give no separate date for the arrests; 26 November 2026 is the day Osaka Prefectural Police announced them.
     - No weights were published for the cocaine, ketamine tablets and other drugs seized alongside the cannabis and stimulants.
@@ -138,25 +143,25 @@ open_questions:
 
 Osaka Prefectural Police announced on 26 November 2026 the arrest of three men,
 including 29-year-old unemployed Rikito Komori from Minoh, on suspicion of joint
-for-profit possession of stimulants and other drugs. [@1,4,8,9,10,11] The allegation is that
+for-profit possession of stimulants and other drugs. [@1,4,8,9,10,11,13] The allegation is that
 the three conspired on 14 October to possess about 93 grams of stimulants, about
 1,260 grams of cannabis and other drugs for profit in a room of an apartment in
 Suita. [@1,6,8,11] Police did not disclose whether the suspects admitted or denied the
 allegations. [@1,5,6,8,11] A second account describes the 26 November action as the
 arrest and re-arrest of the three on suspected violations of the Stimulants
 Control Act and the Narcotics Control Act for trafficking and for-profit
-possession. [@2,3,4,6,9]
+possession. [@2,3,4,6,9,13] Police said the three had first been arrested in October on suspicion of trafficking the drugs. [@13]
 
 Searches of several related locations seized 1,405 stimulant tablets with an
 estimated street value of about 37.36 million yen, about 1,262 grams of cannabis
 with an estimated street value of about 6.31 million yen, and about 60 million
-yen in cash. [@1,3,9,10,11] Officers also seized a good-luck ornament for business prosperity at the group's base. [@4,5,6,9] The ornament seized at the base was decorated with a sea bream and rice bales and inscribed with the words for business prosperity and good fortune. [@10] The same searches also seized cocaine, ketamine tablets and
-other drugs alongside the stimulants and cannabis. [@2,3,4,9]
+yen in cash. [@1,3,9,10,11,13] Officers also seized a good-luck ornament for business prosperity at the group's base. [@4,5,6,9] The ornament seized at the base was decorated with a sea bream and rice bales and inscribed with the words for business prosperity and good fortune. [@10] The same searches also seized cocaine, ketamine tablets and
+other drugs alongside the stimulants and cannabis. [@2,3,4,9,13]
 
 The drug-control unit began investigating after cannabis was found in the Katano
 station area in February 2024. [@1,11] The group used the Suita apartment as a base
 to recruit customers through social media and send drugs by courier. [@1,7,10,11] The apartment the group used as a storage base was in the Senzan-nishi district of Suita. [@12] Buyers were instructed to transfer payment to a designated bank account. [@7] For courier shipments, the group allegedly packed the drugs in small boxes and plastic bags and declared them mainly as small goods such as accessories. [@7] Komori allegedly couriered drugs to three recipients in Tokyo and Yamaguchi prefectures from May 2026. [@5] One of the men was also suspected of conspiring with others between May and August to sell a total of about 9 grams of stimulants, cannabis and other drugs for 118,000 yen to three people in their 20s to 50s in Yamaguchi and Tokyo. [@7] Police
 believe the Osaka-based group delivered illegal drugs nationwide in at least
-2,000 transactions worth over 100 million yen. [@1,3,4,5,9,10,11] Police believe other people
+2,000 transactions worth over 100 million yen. [@1,3,4,5,9,10,11,13] Police believe other people
 were also involved and are continuing to clarify the full scope of the group.
 [@1,5,8]
