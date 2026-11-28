@@ -53,6 +53,11 @@ media:
     media_url: https://cdn.iha.com.tr/Contents/images/2026/11/23/20261122aw837800-1.jpg
     publisher: İhlas Haber Ajansı
     caption: 'Second photograph published with IHA''s report on the drugs found in the tanker at the Gürbulak customs gate in Doğubayazıt, Ağrı. Photo: İhlas Haber Ajansı'
+  - kind: photo
+    url: https://www.dha.com.tr/yerel-haberler/agri/merkez/gurbulak-gumruk-kapisinda-271-kilo-750-gram-uy-2986580
+    media_url: https://image.dha.com.tr/i/dha/75/0x410/6b02fb32ab63c3ace8e41862.jpg
+    publisher: Demirören Haber Ajansı (DHA)
+    caption: 'A customs officer with a narcotics detection dog in front of plastic bags of seized drugs laid out under the Gürbulak customs directorate banner. Photo: DHA'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: ee491c569be8a34bed37ad2349c0afe7
@@ -83,21 +88,25 @@ sources:
     publisher: İstanbul Ticaret Gazetesi
     date: 2026-11-22
     language: tr
+  - title: Gürbulak Gümrük Kapısı'nda 271 kilo 750 gram uyuşturucu ele geçirildi
+    url: https://www.dha.com.tr/yerel-haberler/agri/merkez/gurbulak-gumruk-kapisinda-271-kilo-750-gram-uy-2986580
+    publisher: Demirören Haber Ajansı (DHA)
+    date: 2026-11-22
+    language: tr
 open_questions:
-  - No separate date is given for the tanker inspection; 22 November 2026 is the publication date of both accounts and is used as the incident date.
-  - The accounts call the cannabis 'esrar' without saying whether it was dried herbal cannabis or pressed resin, and no laboratory result was reported.
-  - No arrests, detentions, suspect names or charges were reported; the statements say only that judicial proceedings continue.
-  - The Aksam account calls the 121 kg 400 g portion synthetic drugs while Hürriyet and the Ağrı governorate call it methamphetamine; either way it is excluded from the cannabis figures.
-  - No value estimate was published for the esrar or the other drugs.
-  - Both accounts reproduce official statements and are not independent confirmation of the weight.
+    - No separate date is given for the tanker inspection; 22 November 2026 is the publication date of the accounts and is used as the incident date.
+    - The accounts call the cannabis 'esrar' without saying whether it was dried herbal cannabis or pressed resin, and no laboratory result was reported.
+    - No arrests, detentions, suspect names or charges were reported; the statements say only that judicial proceedings continue.
+    - No value estimate was published for the esrar or the other drugs.
+    - All accounts, including the customs directorate's own announcement carried by DHA, reproduce the official statement and are not independent confirmation of the weight.
 ---
 
 The seizure was reported on 22 November 2026. [@1] The Gürbulak customs gate is
 in Doğubayazıt district, Ağrı province. [@1,3,4] A statement from the Ağrı
 governorate said customs teams inspected a tanker entering Turkey from Iran.
 [@1,3,4,5] Hürriyet, citing DHA, reported that officers stopped the tanker after
-assessing it as suspicious. [@2] A narcotic detection dog was used and the drugs
-were hung from the trailer's cargo section with rope and bags. [@2]
+assessing it as suspicious. [@2,6] A narcotic detection dog was used and the drugs
+were hung from the trailer's cargo section with rope and bags. [@2,6]
 
 Officers from the customs protection, smuggling and intelligence directorate
 found 150 kg 350 g of esrar, the Turkish term for cannabis, in the search. [@1,3,4,5]
