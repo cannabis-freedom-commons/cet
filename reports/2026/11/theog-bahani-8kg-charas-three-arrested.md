@@ -84,6 +84,11 @@ sources:
     publisher: Amar Ujala
     date: 2026-11-23
     language: hi
+  - title: 'Rampur Bushahar News: बहानी गांव में तीन घरों से 8.1 किलो चरस बरामद, तीन गिरफ्तार'
+    url: https://www.amarujala.com/himachal-pradesh/rampur-bushahar/charas-seized-from-three-houses-in-bahani-village-rampur-hp-news-c-178-1-ssml1034-175554-2026-11-23
+    publisher: Amar Ujala
+    date: 2026-11-23
+    language: hi
 media:
   - kind: photo
     url: https://www.bhaskar.com/local/himachal/shimla/news/theog-shimla-police-raid-charas-seizure-arrest-drug-trafficking-139774986.html
@@ -104,23 +109,23 @@ media:
 
 Shimla Police arrested three people and recovered around 8 kg of charas during
 simultaneous raids at three residential premises in Bahani village under Theog
-police station. [@1,2,3,4,5,6,7,8] Police teams searched the three premises at the same time so that the accused could not alert each other. [@5] The raids followed specific intelligence inputs and formed
-part of an intensified campaign against drug trafficking. [@1,2,7]
+police station. [@1,2,3,4,5,6,7,8,9] Police teams searched the three premises at the same time so that the accused could not alert each other. [@5] The raids followed specific intelligence inputs and formed
+part of an intensified campaign against drug trafficking. [@1,2,7,9]
 
 Officers recovered 1.7 kg of charas from the residence of Shyam Singh and 900
-grams from the house of Laxmi Nand. [@1,2,4,5,6,7,8] Shyam Singh is the son of the late Heera Singh and Laxmi Nand is the son of the late Het Ram. [@6] The biggest recovery was about 5.5 kg
+grams from the house of Laxmi Nand. [@1,2,4,5,6,7,8,9] Shyam Singh is the son of the late Heera Singh and Laxmi Nand is the son of the late Het Ram. [@6] The biggest recovery was about 5.5 kg
 of charas from the residence of Dila Ram, along with Rs 1,05,690 in cash and a
 weighing machine. [@1,4,6] Hari Vallabh was also named among the accused, though his
-parentage and the recovery attributed to him were not detailed. [@1] The Hindi account names the third householder as Hari Vallabh, son of late Dila Ram, indicating Dila Ram is the father's name. [@4,6] The 5.5 kg of charas, Rs 1,05,690 in cash and the weighing machine were recovered from Hari Vallabh's house. [@8] Three FIRs,
+parentage and the recovery attributed to him were not detailed. [@1] The Hindi account names the third householder as Hari Vallabh, son of late Dila Ram, indicating Dila Ram is the father's name. [@4,6] The 5.5 kg of charas, Rs 1,05,690 in cash and the weighing machine were recovered from Hari Vallabh's house. [@8,9] Three FIRs,
 numbered 179/26, 180/26 and 181/26, were registered at Theog police station on
-November 22 under Section 20 of the NDPS Act. [@1,4,6] All three accused were
+November 22 under Section 20 of the NDPS Act. [@1,4,6,9] All three accused were
 arrested and investigators were examining the source of the contraband and
 possible links in the supply network. [@1,5,6,8]
 
 Shimla Police said it had registered 27 cases involving commercial quantities of
-narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1,2,4,5,7,8]
+narcotics so far in 2026, against six in 2025, 14 in 2024 and six in 2023. [@1,2,4,5,7,8,9]
 Police attributed the rise to a shift in enforcement strategy towards major
 suppliers, their hideouts and organised trafficking networks rather than
 street-level peddlers. [@1] Police said the crackdown would continue with
 sustained surveillance and intelligence-based operations to curb the drug supply
-chain. [@1] SSP Gaurav Singh said the drive against drug traffickers and their network would continue. [@2,5,8]
+chain. [@1] SSP Gaurav Singh said the drive against drug traffickers and their network would continue. [@2,5,8,9]
