@@ -58,6 +58,21 @@ media:
     media_url: https://resources.diariolibre.com/images/2026/06/09/el-decomiso-de-marihuana-en-ocoa-totalizo-3533-plantas-d9a8d035-focus-0-0-896-504.jpg
     publisher: Diario Libre
     caption: 'Marijuana plants seized by the National Directorate for Drug Control in San José de Ocoa laid out after the operation. Photo: Diario Libre / Dania Acevedo'
+  - kind: photo
+    url: https://www.diariolibre.com/actualidad/nacional/2026/06/08/dncd-desmantela-plantacion-de-presunta-marihuana-en-ocoa/3559909
+    media_url: https://resources.diariolibre.com/images/2026/06/08/whatsapp-image-2026-06-08-at-121215-pm-64122a44.jpeg
+    publisher: Diario Libre
+    caption: 'Marijuana plants seized in the El Pinar operation laid out after the raid. Photo: Diario Libre / Dania Acevedo'
+  - kind: photo
+    url: https://www.diariolibre.com/actualidad/nacional/2026/06/08/dncd-desmantela-plantacion-de-presunta-marihuana-en-ocoa/3559909
+    media_url: https://resources.diariolibre.com/images/2026/06/08/whatsapp-image-2026-06-08-at-121217-pm-9afd420a.jpeg
+    publisher: Diario Libre
+    caption: 'More of the uprooted marijuana plants from the El Pinar plantation. Photo: Diario Libre / Dania Acevedo'
+  - kind: video
+    url: https://www.diariolibre.com/actualidad/nacional/2026/06/08/dncd-desmantela-plantacion-de-presunta-marihuana-en-ocoa/3559909
+    media_url: https://www.dailymotion.com/video/xae0vyq
+    publisher: Diario Libre
+    caption: Diario Libre video report on the DNCD dismantling of the marijuana plantation in San José de Ocoa
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 582d150719d09e21d6e2557ebd360c6a
@@ -98,6 +113,11 @@ sources:
     publisher: Acento
     date: 2026-06-09
     language: es
+  - title: VIDEO | La DNCD desmantela campo de cultivo de presunta marihuana en San José de Ocoa
+    url: https://www.diariolibre.com/actualidad/nacional/2026/06/08/dncd-desmantela-plantacion-de-presunta-marihuana-en-ocoa/3559909
+    publisher: Diario Libre
+    date: 2026-06-08
+    language: es
 open_questions:
     - No separate date is given for the coercion hearing; 12 July 2026 is the publication date of the release account and stands in for the court step.
     - It is unclear whether the outright release ends the proceedings or the investigation continues against the unidentified lessees and true owners.
@@ -109,30 +129,30 @@ open_questions:
 ---
 
 Dominican drug agents arrested two Haitian citizens and one Dominican during a
-raid on a farm in the El Pinar municipal district of San José de Ocoa. [@1,4,5,7] The
+raid on a farm in the El Pinar municipal district of San José de Ocoa. [@1,4,5,7,8] The
 detainees remained under judicial custody in San José de Ocoa while
 investigators searched for other members of the alleged cultivation and
 trafficking network. [@1,4] The DNCD later said the three people arrested in that first El Pinar case were under preventive detention. [@3] The three were identified as Guillermo Amauris Casado Custodio, Jhonson Pie and Yorki Iso, who had been submitted for alleged violations of Law 50-88 on Drugs and Controlled Substances. [@5] The court rejected the Public Ministry's request for coercive measures after finding that the authorities' procedure violated constitutional guarantees. [@5] The Permanent Attention court in San José de Ocoa ordered the outright release of the one Dominican and two Haitians detained in the El Pinar case. [@5] The National Directorate for Drug Control carried out
 the El Pinar intervention with the Public Ministry, the Dominican Air Force and
 state intelligence agencies after intelligence reports identified the farm as an
-illegal growing site. [@1,4] Officers carried out both an aerial and a ground intervention at the farm. [@4] Diario Libre dated that intervention to the night of
-7 June and the early hours of 8 June 2026. [@2]
+illegal growing site. [@1,4,8] Officers carried out both an aerial and a ground intervention at the farm. [@4,8] Diario Libre dated that intervention to the night of
+7 June and the early hours of 8 June 2026. [@2,8]
 
 In less than four months the DNCD dismantled at least 4,835 marijuana plants in
 the southern provinces of Peravia and San José de Ocoa during 2026. [@2] The
 earlier of the two operations found 1,835 plants in a hard-to-reach mountain
 area of Montería, Baní municipality, in February. [@2] The later El Pinar
 operation found more than 3,000 plants in different germination stages, plus
-five jugs filled with harvested marijuana. [@1,4,5] The figure replaced the preliminary count of more than 3,000 plants announced the day before. [@7] Forensic analysis certified the El Pinar seizure at 3,533 marijuana plants. [@6] Agents also found a house fitted
-out as a collection centre for storing, drying and packing marijuana. [@1,4]
+five jugs filled with harvested marijuana. [@1,4,5,8] The uprooted plants stood between two and five feet (about 0.6 to 1.5 metres) tall, the DNCD said. [@8] The figure replaced the preliminary count of more than 3,000 plants announced the day before. [@7] Forensic analysis certified the El Pinar seizure at 3,533 marijuana plants. [@6] Agents also found a house fitted
+out as a collection centre for storing, drying and packing marijuana. [@1,4,8]
 Inside they seized fans, a fumigation pump, cutters, solar panels, a voltage
 regulator, a motor pump, dryers, vacuum-packing bags, a communication radio, a
-cell phone and a motorcycle linked to production and handling. [@1,4]
+cell phone and a motorcycle linked to production and handling. [@1,4,8]
 
 Prosecutors and agents spent more than 12 hours extracting plants and gathering
 evidence, carrying the seizures out on mules and horses because of difficult
-access. [@1,4] The extracted plants were handed over under chain of custody to the
+access. [@1,4,8] The extracted plants were handed over under chain of custody to the
 National Institute of Forensic Sciences to count and analyse the quantity and
-total weight of the destroyed crop. [@1,4] The plants, together with several jugs of harvested marijuana, weighed 3,200 pounds (about 1,452 kg), Inacif reported. [@6] The Public Ministry and the DNCD kept a
+total weight of the destroyed crop. [@1,4,8] The plants, together with several jugs of harvested marijuana, weighed 3,200 pounds (about 1,452 kg), Inacif reported. [@6] The Public Ministry and the DNCD kept a
 presence in the area to eradicate remaining crops and collect evidence for the
 ongoing judicial proceedings. [@1]
