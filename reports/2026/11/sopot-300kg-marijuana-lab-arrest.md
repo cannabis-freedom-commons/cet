@@ -63,6 +63,11 @@ sources:
     url: https://kossev.info/en/otkrivena-ilegalna-laboratorija-za-proizvodnju-marihuane-kod-sopota-zaplenjeno-oko-300-kilograma-droge/
     publisher: KoSSev
     date: 2026-11-26
+  - title: 在索波特附近发现了一个非法大麻生产实验室，缴获了约300公斤毒品。
+    url: https://kossev.info/zh-CN/otkrivena-ilegalna-laboratorija-za-proizvodnju-marihuane-kod-sopota-zaplenjeno-oko-300-kilograma-droge/
+    publisher: KoSSev
+    date: 2026-11-26
+    language: zh
 open_questions:
     - 'The plant count and weight are approximate: police reported "about 500" plants weighing "close to 300 kilograms".'
     - No court outcome was reported; the suspect was detained for up to 48 hours and a criminal complaint was to follow.
@@ -84,14 +89,14 @@ media:
 Police in Serbia arrested a 34-year-old man, identified only as K.M., near Sopot
 on suspicion of unauthorised production and trafficking of narcotic drugs. [@1,2,4]
 The arrest was ordered by the Higher Public Prosecutor's Office in Belgrade.
-[@1,4] Officers found the suspect in a house containing an illegal laboratory.
+[@1,4,5] Officers found the suspect in a house containing an illegal laboratory.
 [@1,4] He was ordered held for up to 48 hours and was to be taken to the competent
-prosecutor's office with a criminal complaint. [@1,2,4]
+prosecutor's office with a criminal complaint. [@1,2,4,5]
 
 Officers from the criminal police's Service for Combating Drugs and the
 Department for Special Actions discovered the laboratory near Sopot on 26
 November 2026. [@1,2,4] The interior ministry announced the laboratory's discovery and the arrest in a statement. [@3] In three separate rooms they found about 500 plants
-suspected of being marijuana, weighing close to 300 kilograms in total. [@1,2,4]
+suspected of being marijuana, weighing close to 300 kilograms in total. [@1,2,4,5]
 Police also seized equipment for growing the drug under artificial conditions.
-[@1,4] Officers described the haul as close to 300 kilograms of the drug in raw
+[@1,4,5] Officers described the haul as close to 300 kilograms of the drug in raw
 form. [@1,4]
