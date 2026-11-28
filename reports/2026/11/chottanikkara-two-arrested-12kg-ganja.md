@@ -44,30 +44,34 @@ sources:
     url: https://www.msn.com/en-in/news/other/two-people-arrested-with-12-kg-ganja-in-keralams-kochi/ar-AA2ih3C3
     publisher: MSN (Press Trust of India)
     date: 2026-11-26
+  - title: Two people arrested with 12 kg ganja in Keralam's Kochi
+    url: https://english.metrovaartha.com/news/kerala/two-people-arrested-with-12-kg-ganja-in-keralams-kochi
+    publisher: Metrovaartha
+    date: 2026-11-26
 open_questions:
     - The 12 kg figure was reported only as approximate, using approximately and around.
     - No laboratory confirmation for the material described as ganja was reported.
     - No charges, custody ruling or court outcome for the two arrested men were reported; police said buyers were still being traced.
     - No total street value for the 12 kg was published; only per-kilogram purchase and sale prices of Rs 5,000 and Rs 30,000 were given.
     - The article also describes a separate 2.5 kg charas seizure in Nedumbassery and the remand of Muhammed Sirajuddin, a different event left out of this report.
-    - Both opened accounts reprint the same PTI statement (Rediff and MSN); no independent account of this arrest was found.
+    - The opened accounts reproduce the same police statement and are not independent reporting.
 ---
 
 Kochi police arrested Jehidul Islam (32) and Feroze Mia (44) in Chottanikkara on
-Thursday 26 November 2026. [@1,2] Both men are natives of Murshidabad in West
-Bengal. [@1,2] A special investigation team led by the Ernakulam Rural District
-Police Chief together with Chottanikkara police made the arrests. [@1,2] Officers
+Thursday 26 November 2026. [@1,2,3] Both men are natives of Murshidabad in West
+Bengal. [@1,2,3] A special investigation team led by the Ernakulam Rural District
+Police Chief together with Chottanikkara police made the arrests. [@1,2,3] Officers
 took the duo into custody at a waiting shed near the KEL corporate office on the
 Kochi-Madura National Highway while they were allegedly waiting to hand the
-narcotics to someone else. [@1,2]
+narcotics to someone else. [@1,2,3]
 
-Officers seized around 12 kilograms of ganja in the operation. [@1,2] Police say
+Officers seized around 12 kilograms of ganja in the operation. [@1,2,3] Police say
 the ganja was brought from Odisha by train, concealed under clothes in two
-trolley bags. [@1,2] Police say the duo bought cannabis in Odisha for Rs 5,000 per
-kg and sold it in Kerala for Rs 30,000 per kg. [@1,2] Police say the two would
-return home on the same day the sale was carried out. [@1,2]
+trolley bags. [@1,2,3] Police say the duo bought cannabis in Odisha for Rs 5,000 per
+kg and sold it in Kerala for Rs 30,000 per kg. [@1,2,3] Police say the two would
+return home on the same day the sale was carried out. [@1,2,3]
 
 The arrests were made as part of Operation Toofan, the government's anti-drug
-drive. [@1,2] Police say they had been watching the smuggling operation for some
-time after receiving confidential information. [@1,2] Police say they are
-investigating who the buyers of the cannabis from the two were. [@1,2]
+drive. [@1,2,3] Police say they had been watching the smuggling operation for some
+time after receiving confidential information. [@1,2,3] Police say they are
+investigating who the buyers of the cannabis from the two were. [@1,2,3]
