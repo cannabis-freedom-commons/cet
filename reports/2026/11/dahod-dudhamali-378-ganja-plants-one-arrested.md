@@ -73,9 +73,15 @@ sources:
     url: https://timesofindia.indiatimes.com/city/vadodara/man-held-for-cultivating-cannabis-in-dahod/articleshow/136201984.cms
     publisher: The Times of India
     date: 2026-11-27
+  - title: દાહોદમાં કપાસ અને તુવેરની ખેતીની આડમાં 2.30 કરોડના ગાંજાનું વાવેતર, 376 છોડ સાથે એક આરોપીની ધરપકડ
+    url: https://navgujaratsamay.com/dahod-cannabis-worth-over-230-crore-seized-one-arrested/313308.html
+    publisher: NavGujarat Samay
+    date: 2026-11-26
+    language: gu
 open_questions:
     - No separate date for the raid was published; 26 November 2026, the date of the first reports, is used as the incident date.
-    - Reports give different total weights for the 378 plants, between 450.630 kg and 460.730 kg, and The Times of India gives approximately 460 kg.
+    - Reports give different total weights for the plants, between 450.630 kg and 460.730 kg, and The Times of India gives approximately 460 kg.
+    - 'Reports differ on the number of plants: 378 in most accounts and 376 in NavGujarat Samay.'
     - The age of the arrested man was not published.
     - The ₹2,30,41,500 valuation is a police estimate; the reports do not explain how it was calculated.
     - No court outcome, remand or charge sheet was reported; the case was at the investigation stage.
@@ -83,12 +89,12 @@ open_questions:
 ---
 
 Dahod's Special Operations Group seized 378 green ganja plants from three farms
-in Dudhamali village and arrested one person. [@1,2] The plants weighed 450.830
+in Dudhamali village and arrested one person. [@1,2] The three farms were in Dudhamali village in Dhanpur taluka, where the ganja was planted among cotton and pigeon pea (tuvar) crops. [@4] The plants weighed 450.830
 kg, and police put the consignment's value at ₹2,30,41,500. [@1] A case was
 registered under the NDPS Act. [@1,2]
 
 Police said the man was arrested on suspicion of having cultivated the crop.
-[@1,2] Police told The Times of India that he had been selling the cannabis for profit and that they were trying to trace the buyers. [@3] Police named the arrested man as Kolabhai Virabhai Bariya, who lived in Dudhamali's Station Faliyu area. [@2] An SOG assistant sub-inspector received a tip-off about the cultivation,
-and the team confirmed the information before preparing the raid. [@1] The farms
+[@1,2] Police told The Times of India that he had been selling the cannabis for profit and that they were trying to trace the buyers. [@3] Police named the arrested man as Kolabhai Virabhai Bariya, who lived in Dudhamali's Station Faliyu area. [@2] He told police the crop would have been ready in about a month and he meant to sell it in Ahmedabad, where he had worked before, to cover his expenses. [@4] Police said preliminary questioning indicated he had found cannabis seeds that his late brother, a ganja user who died about two years earlier, had kept at home, and used them to sow the crop. [@4] Kolabhai Virabhai Baria had worked as a labourer in Ahmedabad and returned to his native Dudhamali after low rainfall this year, farming land belonging to him and his brother. [@4] An SOG assistant sub-inspector received a tip-off about the cultivation,
+and the team confirmed the information before preparing the raid. [@1] Police said they were likely to investigate whether anyone else was involved in the cultivation and how far the drugs sale network extended. [@4] The farms
 were in Dahod district, Gujarat, where police described the cannabis cultivation
 as worth crores of rupees. [@1]
