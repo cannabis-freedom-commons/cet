@@ -105,6 +105,16 @@ sources:
     publisher: südtirol.ORF.at
     date: 2026-11-24
     language: de
+  - title: 'Großrazzia „Scarabeo“: 31 Maßnahmen gegen mutmaßliche Drogenhändler'
+    url: https://www.unsertirol24.com/2026/11/25/grossrazzia-scarabeo-31-massnahmen-gegen-mutmassliche-drogenhaendler/
+    publisher: UnserTirol24
+    date: 2026-11-25
+    language: de
+  - title: 'Operazione “Scarabeo”, azzerato business della droga da oltre 3 milioni di euro a Bolzano: 31 misure cautelari'
+    url: https://www.italpress.com/operazione-scarabeo-azzerato-business-della-droga-da-oltre-3-milioni-di-euro-a-bolzano-31-misure-cautelari
+    publisher: Italpress
+    date: 2026-11-24
+    language: it
 open_questions:
     - No weight is given for hashish alone; the 70 kg is a combined cocaine-and-hashish figure covering just over a year of trafficking, not a single seizure.
     - No total weight is given for drugs seized in the 24 November operation.
@@ -117,28 +127,28 @@ open_questions:
 Guardia di Finanza officers executed 31 pre-trial measures at dawn in Bolzano on
 24 November 2026 in an operation named Scarabeo against three groups accused of
 drug trafficking. [@6] Twenty were ordered held in prison and eleven placed
-under an obligation to report to the judicial police. [@6,8] The 31 were Italian
+under an obligation to report to the judicial police. [@6,8,9] The 31 were Italian
 and foreign citizens, most of them Tunisian, suspected of belonging to three
 criminal associations. [@6] The orders were issued by the preliminary
 investigation judge of the Trento court at the request of the district
-anti-mafia and anti-terrorism directorate. [@4] More than 100 finance police
+anti-mafia and anti-terrorism directorate. [@4,9] More than 100 finance police
 took part, with the Baschi Verdi, drug-sniffing dog units, a helicopter and
-organised-crime specialists. [@7,8] ORF's evening news reported a large anti-drug
+organised-crime specialists. [@7,8,10] ORF's evening news reported a large anti-drug
 raid at dawn in Bolzano with more than 100 finance police officers against a
 network said to have sold cocaine and hashish. [@1]
 
 According to the prosecution case, three separate criminal groups had joined
-forces to control supplies and divide the dealing areas. [@6] Investigators said the groups also used violence and intimidation. [@8] In Bolzano those
+forces to control supplies and divide the dealing areas. [@6] Investigators said the groups also used violence and intimidation. [@8,9] In Bolzano those
 areas were Ponte Giallo, Piazza Verdi, the Parco dei Cappuccini and the Europa
 and Don Bosco neighbourhoods; in the Isarco valley, Fortezza, Varna and
 Bressanone. [@4] Cocaine and hashish came mainly from Lombardy, Veneto and
 Emilia-Romagna, reaching Bolzano in weekly deliveries by professional couriers.
-[@6] Some couriers travelled on long-distance trains to reduce the risk of being
-stopped at road checks. [@5,8] In South Tyrol the drugs were further processed, portioned and handed out to street dealers. [@8] Officers found over 54,000 euros in cash, hidden
+[@6,10] Some couriers travelled on long-distance trains to reduce the risk of being
+stopped at road checks. [@5,8] Some couriers also used cars converted with hidden double floors to evade checks. [@9] In South Tyrol the drugs were further processed, portioned and handed out to street dealers. [@8] Officers found over 54,000 euros in cash, hidden
 even in the gas system. [@3] Searches were under way in Alto Adige and in other
-regions. [@2,8]
+regions. [@2,8,9]
 
 Investigators estimate the groups moved about 70 kg of cocaine and hashish in
-just over a year, earning more than 3 million euros. [@6,8] The groups also
-supported the families of arrested members and paid their legal costs. [@6,8] The
+just over a year, earning more than 3 million euros. [@6,8,9] The groups also
+supported the families of arrested members and paid their legal costs. [@6,8,10] Investigators identified suspected cashiers who managed the drug proceeds and periodically sent large sums abroad. [@10] The
 case was at the preliminary investigation stage. [@6,8]
