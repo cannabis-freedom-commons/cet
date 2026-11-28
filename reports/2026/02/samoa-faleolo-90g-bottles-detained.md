@@ -63,6 +63,10 @@ sources:
     url: https://www.fijitimes.com.fj/drugs-seized-from-passenger-arriving-in-samoa-on-fiji-airways-flight/
     publisher: The Fiji Times
     date: 2026-02-11
+  - title: 43 Year Old Samoan Living in Australia Arrested for Possession of Drugs at Faleolo International Airport
+    url: https://samoaglobalnews.com/43-year-old-samoan-living-in-australia-arrested-for-possession-of-drugs-at-faleolo-international-airport/
+    publisher: Samoa Global News
+    date: 2026-02-11
 media:
   - kind: photo
     url: https://www.rnz.co.nz/news/pacific/586643/samoa-authorities-detain-nz-passport-holder-following-marijuana-seizure-at-faleolo-international-airport
@@ -78,6 +82,9 @@ open_questions:
     - Police did not confirm whether the passenger was travelling straight from Nadi or transiting.
     - One account said the man was held in custody for further investigation, while the Samoa Observer reported that he was released after being charged with possession of marijuana.
     - Accounts differ on whether the interception happened on 11 or 12 February 2026.
+    - The account was published on 11 February 2026 and says the passenger arrived "earlier today", while the tracker report uses 12 February for the interception.
+    - The page gives no weight for the individual bottles and no charging decision or court date for the passenger.
+    - The page reproduces the Ministry of Customs statement carried by other outlets and is not independent reporting.
 ---
 
 A 43-year-old Samoan national holding a New Zealand passport was detained in
@@ -87,10 +94,10 @@ Faleolo International Airport on February 12, 2026. [@1,3,4][@2]
 The man, who resides in Australia, arrived on a Fiji Airways flight and was
 intercepted during routine border clearance; officers found six bottles
 containing marijuana along with a cannabis grinder and rolling papers in his
-possession. [@1,3,4,5,6][@2]
+possession. [@1,3,4,5,6,7][@2]
 
 The Ministry of Customs and Samoa Police said in a joint statement that the
 items were detected during standard screening by frontline officers and seized
-under the Customs Act and Narcotics Act. [@1,4,6] Samoa Customs commended its officers for their vigilance, saying the seizure highlighted efforts to strengthen border security and stop illicit drugs moving through international travel routes. [@6] The man was held in custody for
+under the Customs Act and Narcotics Act. [@1,4,6] Samoa Customs commended its officers for their vigilance, saying the seizure highlighted efforts to strengthen border security and stop illicit drugs moving through international travel routes. [@6,7] The customs chief executive said the service continued to use risk profiling, intelligence and screening technologies to protect communities from the effects of drugs. [@7] The man was held in custody for
 further investigation and questioning as authorities warned travellers that
-importing illicit drugs carries severe penalties under local law. [@1,3,4,5] The passenger was released after being questioned and charged with possession of marijuana. [@5][@2]
+importing illicit drugs carries severe penalties under local law. [@1,3,4,5,7] The passenger was released after being questioned and charged with possession of marijuana. [@5][@2]
