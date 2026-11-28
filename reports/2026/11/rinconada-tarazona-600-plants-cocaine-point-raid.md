@@ -54,6 +54,16 @@ sources:
     publisher: El MIRA
     date: 2026-11-24
     language: es
+  - title: Desmantelado un cultivo con 600 plantas de marihuana en una parcela de La Rinconada (Sevilla)
+    url: https://www.europapress.es/andalucia/sevilla-00357/noticia-desmantelado-cultivo-600-plantas-marihuana-parcela-rinconada-sevilla-20261124101053.html
+    publisher: Europa Press
+    date: 2026-11-24
+    language: es
+  - title: Sucesos.- Desmantelado un cultivo con 600 plantas de marihuana en una parcela de La Rinconada
+    url: https://www.msn.com/es-es/noticias/otras/sucesos-desmantelado-un-cultivo-con-600-plantas-de-marihuana-en-una-parcela-de-la-rinconada/ar-AA2i69Si
+    publisher: MSN
+    date: 2026-11-24
+    language: es
 open_questions:
     - No separate date for the raid was published, so the 24 November 2026 publication date is used as the incident date.
     - The quantity of cocaine seized was not stated, and the value of more than 100,000 euros covers cocaine and the 600 plants together, so no cannabis-only value is recorded.
@@ -68,23 +78,28 @@ media:
     media_url: https://www.elmira.es/asset/thumbnail,1920,1080,center,center/media/elmira/images/2026/11/24/2026112410333851503.jpg
     publisher: El MIRA
     caption: The plot in La Rinconada where police found the 600 marijuana plants.
+  - kind: photo
+    url: https://www.europapress.es/andalucia/sevilla-00357/noticia-desmantelado-cultivo-600-plantas-marihuana-parcela-rinconada-sevilla-20261124101053.html
+    media_url: https://img.europapress.es/fotoweb/fotonoticia_20261124101053_690.jpg
+    publisher: Europa Press
+    caption: 'The marijuana crop on the plot in La Rinconada that National Police dismantled. Photo: Policía Nacional'
 ---
 
 Spain's National Police used 'Operation Derbi' to dismantle a major indoor
 marijuana cultivation centre that also served as a retail drug-sale point on a
 plot in the Tarazona urbanisation in La Rinconada. [@1,2] The property owner was
-detained in the intervention. [@1,2]
+detained in the intervention. [@1,2,3]
 
 Officers seized cocaine and 600 marijuana plants in an advanced state of
 flowering, which together weighed 55 kilos and which police valued with the
 cocaine at more than 100,000 euros. [@1,2] Officers also seized the suspect's
-vehicles, more than 29,000 euros in cash and two firearms. [@1,2]
+vehicles, more than 29,000 euros in cash and two firearms. [@1,2,4]
 
 After entering the dwelling and during the search, officers found that the
 detainee was building a new warehouse on the same plot to expand marijuana
-cultivation and reach four production cycles per year. [@1,2] The new warehouse
+cultivation and reach four production cycles per year. [@1,2,4] The new warehouse
 was being financed with profits from marijuana and cocaine sold from the
-property itself. [@1,2] The owner showed a high degree of specialisation and
-security. [@1] When officers entered, he was installing a state-of-the-art
+property itself. [@1,2,4] The owner showed a high degree of specialisation and
+security. [@1,4] When officers entered, he was installing a state-of-the-art
 closed-circuit surveillance camera system on the perimeter walls and on the
-accesses to the buildings inside the plot. [@1,2]
+accesses to the buildings inside the plot. [@1,2,4]
