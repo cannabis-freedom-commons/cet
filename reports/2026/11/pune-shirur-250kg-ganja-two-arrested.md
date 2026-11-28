@@ -90,6 +90,11 @@ sources:
     publisher: Esakal
     date: 2026-11-26
     language: mr
+  - title: शिरूरमध्ये गांजा तस्करांचा डाव फसला! पोलिसांनी वाहन अडवले अन् 1 कोटींहून अधिक किमतीचा गांजा जप्त
+    url: https://puneprimenews.com/pune/pune-district/attempt-to-dodge-the-police-fails-vehicle-intercepted-after-a-chase-in-shirur-cannabis-worth-%E2%82%B91-crore-discovered-inside/
+    publisher: Pune Prime News
+    date: 2026-11-26
+    language: mr
 media:
   - kind: photo
     url: https://pudhari.news/maharashtra/pune/shirur-police-seize-250-kg-ganja-worth-1-52-crore-sk04
@@ -113,6 +118,8 @@ open_questions:
     - The Esakal report says the operation happened at dawn on 26 November 2026, while the report and other accounts date it to 25 November.
     - The Esakal report puts the ganja alone at about Rs 1.52 crore and the SUV at about Rs 10 lakh, figures that differ from the police valuation used in the report.
     - The Esakal report describes a checkpost between Patas and Daund on the Solapur road and a diversion via Kashti and Nimone toward Shirur, while other accounts describe a patrol that spotted the car near Kunjir Lawns.
+    - A Shirur police account put the haul at more than 200 kg of ganja worth more than Rs 1 crore, with the weight and exact value still being determined, while police later announced 250 kg valued at Rs 1.25 crore.
+    - A Shirur police account credits the operation to Shirur police and Police Inspector Vinod Patil, while other accounts describe the Pune city crime branch's Anti-Narcotics Squad-II.
 ---
 
 On 25 November 2026, the Anti-Narcotics Squad-II of the Pune City Police Crime
@@ -137,6 +144,6 @@ A team led by Police Inspector Jeevan Mane had been patrolling in the Loni
 Kalbhor police station area when it spotted a speeding white car near Kunjir
 Lawns and signalled it to stop, but the driver sped toward Solapur. [@3,10] The operation was carried out by a team led by Police Inspector Jeevan Mane, along with Assistant Police Inspectors Afroz Pathan and Nitinkumar Naik and other personnel of Anti-Narcotics Squad-II. [@4,10] The operation was carried out under the guidance of Pune city police Deputy Commissioner Gohar Hasan. [@11] The
 team pursued the car into the Yavat police station area with local help and an
-alert to the Pune Rural Police Control Room that it was heading for Shirur. [@3]
+alert to the Pune Rural Police Control Room that it was heading for Shirur. [@3] Shirur police had received a tip that a large quantity of ganja was being moved by vehicle at night, and set up blockades at Nimone and in the Shirur town area. [@12]
 Police did not say where the ganja was procured or where it was being taken.
-[@3] Loksatta reported that the two men had brought the ganja from Odisha to sell in Pune. [@10,11]
+[@3,12] Loksatta reported that the two men had brought the ganja from Odisha to sell in Pune. [@10,11]
