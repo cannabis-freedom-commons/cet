@@ -29,6 +29,11 @@ media:
     media_url: https://smartpress.by/upload/medialibrary/8a9/l13bcw4l6hx1xtc6in3230emsv8xp6wn/narkotiki1.jpg
     publisher: Смартпресс
     caption: Seized packages from the record 1.3-tonne shipment.
+  - kind: photo
+    url: https://officelife.by/news/67930-na-belorusskoy-granitse-zaderzhali-krupneyshuyu-v-istorii-partiyu-narkotikov-i-psikhotropov-iz-es/
+    media_url: https://officelife.by/upload/iblock/56c/hyl816474orgqvi1gzp3t4vn9tq7qm89.jpg
+    publisher: OfficeLife
+    caption: 'Briquettes of seized hashish from the Polish truck laid out in plastic bags. Photo: State Customs Committee of Belarus'
 details:
   activity: [smuggling]
   agency_types: [customs]
@@ -85,6 +90,11 @@ sources:
     publisher: СТВ
     date: 2025-12-12
     language: ru
+  - title: На белорусской границе задержали крупнейшую в истории партию наркотиков и психотропов из ЕС
+    url: https://officelife.by/news/67930-na-belorusskoy-granitse-zaderzhali-krupneyshuyu-v-istorii-partiyu-narkotikov-i-psikhotropov-iz-es/
+    publisher: OfficeLife
+    date: 2025-12-12
+    language: ru
 open_questions:
     - The accounts give no separate date for the truck inspection or the arrests; 12 December 2025 is the date of publication and is used as the incident date.
     - The number of detained group members was not published, so no arrested figure is recorded.
@@ -98,26 +108,26 @@ open_questions:
 
 Belarusian customs officers intercepted an international shipment of drugs and
 psychotropic substances from the European Union into the Eurasian Economic Union
-with a total weight of about 1.3 tonnes. [@1,3,5,7] Operational Customs officers
+with a total weight of about 1.3 tonnes. [@1,3,5,7,8] Operational Customs officers
 decided to inspect the Polish carrier's truck thoroughly after scanning its
-contents with an inspection-and-screening complex. [@2,6] Belarusian and Russian
+contents with an inspection-and-screening complex. [@2,6,8] Belarusian and Russian
 customs officers then carried out joint follow-up operational-search measures
-because the load was to proceed to Russia after clearance. [@1,3,5] Officers
+because the load was to proceed to Russia after clearance. [@1,3,5,8] Officers
 identified and detained members of an international criminal group who are
-citizens of the European Union, Belarus, Russia and Moldova. [@1,3,4,5,7] Belarusian
+citizens of the European Union, Belarus, Russia and Moldova. [@1,3,4,5,7,8] Belarusian
 Operational Customs and Russia's Federal Customs Service opened criminal
 smuggling cases carrying up to 20 years' imprisonment. [@2,3,4,6,7]
 
 The smugglers declared the load as mineral water and placed several dozen real
-water bottles in the truck as cover. [@1,3,6,7] The truck held 8,000 briquettes
+water bottles in the truck as cover. [@1,3,6,7,8] The truck held 8,000 briquettes
 containing 915 kg of hashish, the separately supported cannabis component
-recorded here. [@1,3,4,6,7] The same truck held 50 boxes containing 367 kg of
-mephedrone, which is left out of cannabis figures. [@2,3,4,6,7] Searches of the detained
+recorded here. [@1,3,4,6,7,8] The same truck held 50 boxes containing 367 kg of
+mephedrone, which is left out of cannabis figures. [@2,3,4,6,7,8] Searches of the detained
 suspects seized about 5 kg more of hashish and mephedrone combined, which cannot
-be separated by substance. [@1,5,7]
+be separated by substance. [@1,5,7,8]
 
 Customs described the seizure as the largest international drug and psychotropic
-supply in the history of sovereign Belarus. [@2,4,6] Specialists valued the combined
+supply in the history of sovereign Belarus. [@2,4,6,8] Specialists valued the combined
 seized shipment at about 62 million United States dollars on the black market.
-[@1,3,4,5,7] Authorities said the combined quantity would have yielded almost 2,933,000
-single doses. [@1,3,6]
+[@1,3,4,5,7,8] Authorities said the combined quantity would have yielded almost 2,933,000
+single doses. [@1,3,6,8]
