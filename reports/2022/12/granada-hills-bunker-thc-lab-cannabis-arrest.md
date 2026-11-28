@@ -41,6 +41,11 @@ media:
     media_url: https://static-media.fox.com/fmcv3/prod/fts/sq2forbnkk20dnea/8jmylt9t0zgrur8y.jpg
     publisher: FOX 11 Los Angeles
     caption: Drug lab found in an underground bunker at the Granada Hills home.
+  - kind: photo
+    url: https://abc7.com/post/granada-hills-underground-drug-lab-lapd/12601779/
+    media_url: https://cdn.abcotvs.com/dip/images/12601600_122222-kabc-5am-backyard-drug-lab-vid.jpg
+    publisher: ABC7 Los Angeles
+    caption: The Granada Hills home where police found the underground drug lab, in a still from ABC7's video report on the raid.
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: 5d5e8bd826517681d2d4889266eca73f
@@ -58,10 +63,15 @@ sources:
     url: https://www.dailynews.com/2022/12/22/la-police-find-underground-drug-lab-at-granada-hills-home-authorities-say
     publisher: Daily News
     date: 2022-12-22
+  - title: 2 arrested after underground drug lab discovered at Granada Hills home, LAPD says - ABC7 Los Angeles
+    url: https://abc7.com/post/granada-hills-underground-drug-lab-lapd/12601779/
+    publisher: ABC7 Los Angeles
+    date: 2022-12-22
 open_questions:
   - ABC7 reported that a man and a woman were arrested; the LAPD statement and the other opened accounts name only Casey Linder, so the report counts one arrest.
   - The 3.6 pounds was described by police as cannabis; no laboratory confirmation or separate figure for the hash oil mentioned in some accounts was published.
   - No charge beyond the arrest on suspicion of manufacturing a controlled substance, and no court outcome, was reported for this case.
+  - Accounts give the home's address as the 16000 block and the 16500 block of Hiawatha Street.
 ---
 
 One person was arrested after an illegal drug lab in an underground bunker at a
@@ -72,14 +82,13 @@ with bail set at $75,000. [@1] He is the son of the homeowner. [@1]
 
 In November, narcotics officers had received an anonymous tip of possible
 illegal marijuana cultivation at a home on the 16500 block of Hiawatha Street.
-[@1] A search found hallucinogenic mushrooms growing in a backyard shed that
+[@1] Neighbours had thought activity at the house suspicious since it was bought, Eyewitness News was told. [@4] A search found hallucinogenic mushrooms growing in a backyard shed that
 gave access to a bunker 12 feet underground containing a DMT and THC extraction
-lab. [@1] Officers seized 3.6 pounds (about 1.63 kg) of cannabis along with
+lab. [@1] Authorities reported finding hash oil in the lab alongside ecstasy, fentanyl, date-rape drugs and mushrooms. [@4] Officers seized 3.6 pounds (about 1.63 kg) of cannabis along with
 eight handguns, two shotguns, four rifles and other drugs including
 methamphetamine, GHB, heroin, fentanyl, DMT pills, alprazolam and suboxone. [@1]
 
 Police said the search warrant was triggered by the November tip about an
-illegal marijuana cultivation operation at the home. [@2] The search of the
+illegal marijuana cultivation operation at the home. [@2,4] The search of the
 house and lab on 21 December turned up the drugs and firearms, according to the
 Los Angeles Police Department. [@3]
-
