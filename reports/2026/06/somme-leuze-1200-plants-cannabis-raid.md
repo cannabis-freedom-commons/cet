@@ -63,6 +63,11 @@ sources:
     publisher: L'Avenir
     date: 2026-06-15
     language: fr
+  - title: 1.200 plants de cannabis saisis et trois personnes arrêtées à Somme-Leuze
+    url: https://www.sudinfo.be/id1161757/article/2026-06-16/1200-plants-de-cannabis-saisis-et-trois-personnes-arretees-somme-leuze
+    publisher: Sudinfo
+    date: 2026-06-16
+    language: fr
 open_questions:
     - No street, house or court file number in Somme-Leuze was published, so the map point is the town.
     - No cannabis valuation and no field area were published.
@@ -73,23 +78,23 @@ open_questions:
 Police raided a house in Somme-Leuze, in Namur Province, on Thursday 11 June
 2026 and found a cannabis plantation. [@2,3] Condroz-Famenne's local police
 carried out the operation with the specialised support unit of the Châtelet
-police zone. [@1,3] In the cellars, officers arrested two men who were processing
+police zone. [@1,3,4] In the cellars, officers arrested two men who were processing
 a harvest already under way. [@2] One was a 24-year-old Albanian national and
 the other a 40-year-old Kosovo national. [@2,3] That afternoon, Famenne-Ardenne
 police arrested the owner of the house, a Belgian man in his sixties, in
 Luxembourg Province. [@2,3] An investigating judge remanded all three suspects in
-pre-trial detention. [@2,3]
+pre-trial detention. [@2,3,4]
 
-Some of the plants were young shoots kept to start a new production. [@2] In total, about 1,200 plants were seized, including nearly 33.5 kg of cannabis that had already been harvested and was ready for sale. [@3]
+Some of the plants were young shoots kept to start a new production. [@2,4] In total, about 1,200 plants were seized, including nearly 33.5 kg of cannabis that had already been harvested and was ready for sale. [@3,4]
 Officers also made a judicial seizure of fake weapons and a vehicle. [@2,3]
 
 The grow had electrical installations, ventilation, temperature control and the
 latest generation of lighting. [@1,3] The federal judicial police laboratory and a
-magistrate came to the site for the usual samples. [@2] Ores, the electricity
+magistrate came to the site for the usual samples. [@2,4] Ores, the electricity
 grid operator, secured the site after illegal power hook-ups, reinforced with
-cabinets and transformers, put the network at risk. [@2] The civil protection
+cabinets and transformers, put the network at risk. [@2,4] The civil protection
 service of Crisnée brought its expertise to dismantle and neutralise the
-plantation. [@2]
+plantation. [@2,4]
 
 Condroz-Famenne police said the case is the third cannabis plantation dismantled
-on its territory in three years. [@1,3] The investigation is continuing. [@2]
+on its territory in three years. [@1,3,4] The investigation is continuing. [@2]
