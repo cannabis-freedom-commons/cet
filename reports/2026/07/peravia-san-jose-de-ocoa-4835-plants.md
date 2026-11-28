@@ -53,6 +53,11 @@ media:
     media_url: https://www.infobae.com/resizer/v2/5BKFZN5BRRAR7EELY5MFADL4GQ.jpeg?auth=dd7954705090446f28523a09d7e68a2641a07d7c825d300d6176afc2167a00ef5&smart=true&width=350&height=197&quality=85
     publisher: Infobae
     caption: 'DNCD photo of the farm investigators described as the nucleus of a marijuana cultivation and trafficking network. Photo: DNCD via Infobae'
+  - kind: photo
+    url: https://www.diariolibre.com/actualidad/nacional/2026/06/09/el-decomiso-de-marihuana-en-ocoa-totalizo-3533-plantas/3561006
+    media_url: https://resources.diariolibre.com/images/2026/06/09/el-decomiso-de-marihuana-en-ocoa-totalizo-3533-plantas-d9a8d035-focus-0-0-896-504.jpg
+    publisher: Diario Libre
+    caption: 'Marijuana plants seized by the National Directorate for Drug Control in San José de Ocoa laid out after the operation. Photo: Diario Libre / Dania Acevedo'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: 582d150719d09e21d6e2557ebd360c6a
@@ -83,16 +88,28 @@ sources:
     publisher: Diario Libre
     date: 2026-07-12
     language: es
+  - title: El decomiso de marihuana en Ocoa totalizó 3,533 plantas - Diario Libre
+    url: https://www.diariolibre.com/actualidad/nacional/2026/06/09/el-decomiso-de-marihuana-en-ocoa-totalizo-3533-plantas/3561006
+    publisher: Diario Libre
+    date: 2026-06-09
+    language: es
+  - title: Plantación de marihuana desmantelada en Ocoa sumó 3,533 plantas y 3,200 libras, según Inacif
+    url: https://acento.com.do/actualidad/plantacion-de-marihuana-desmantelada-en-ocoa-sumo-3533-plantas-y-3200-libras-segun-inacif-9694775.html
+    publisher: Acento
+    date: 2026-06-09
+    language: es
 open_questions:
     - No separate date is given for the coercion hearing; 12 July 2026 is the publication date of the release account and stands in for the court step.
     - It is unclear whether the outright release ends the proceedings or the investigation continues against the unidentified lessees and true owners.
     - The identities of the third-party lessees of the El Pinar plot have not been publicly established.
-    - No weight was published for the five jugs of processed marijuana or the other seized equipment.
+    - The 3,200 pounds certified for the El Pinar seizure covers the plants and the jugs of harvested marijuana together; no separate weight was published for the jugs or the other seized equipment.
+    - The DNCD called the El Pinar operation the largest against marijuana cultivation networks in the country, while a nearby 15,392-plant eradication 12 days later was described as the largest in the country's history.
+    - The 4,835-plant total for February-June counts El Pinar at more than 3,000 plants; the Inacif-certified 3,533 would make the two-operation total 5,368.
     - The 15,437 plants reported in under a month across different mountain interventions reflect separate operations and are not counted here.
 ---
 
 Dominican drug agents arrested two Haitian citizens and one Dominican during a
-raid on a farm in the El Pinar municipal district of San José de Ocoa. [@1,4,5] The
+raid on a farm in the El Pinar municipal district of San José de Ocoa. [@1,4,5,7] The
 detainees remained under judicial custody in San José de Ocoa while
 investigators searched for other members of the alleged cultivation and
 trafficking network. [@1,4] The DNCD later said the three people arrested in that first El Pinar case were under preventive detention. [@3] The three were identified as Guillermo Amauris Casado Custodio, Jhonson Pie and Yorki Iso, who had been submitted for alleged violations of Law 50-88 on Drugs and Controlled Substances. [@5] The court rejected the Public Ministry's request for coercive measures after finding that the authorities' procedure violated constitutional guarantees. [@5] The Permanent Attention court in San José de Ocoa ordered the outright release of the one Dominican and two Haitians detained in the El Pinar case. [@5] The National Directorate for Drug Control carried out
@@ -106,7 +123,7 @@ the southern provinces of Peravia and San José de Ocoa during 2026. [@2] The
 earlier of the two operations found 1,835 plants in a hard-to-reach mountain
 area of Montería, Baní municipality, in February. [@2] The later El Pinar
 operation found more than 3,000 plants in different germination stages, plus
-five jugs filled with harvested marijuana. [@1,4,5] Agents also found a house fitted
+five jugs filled with harvested marijuana. [@1,4,5] The figure replaced the preliminary count of more than 3,000 plants announced the day before. [@7] Forensic analysis certified the El Pinar seizure at 3,533 marijuana plants. [@6] Agents also found a house fitted
 out as a collection centre for storing, drying and packing marijuana. [@1,4]
 Inside they seized fans, a fumigation pump, cutters, solar panels, a voltage
 regulator, a motor pump, dryers, vacuum-packing bags, a communication radio, a
@@ -116,6 +133,6 @@ Prosecutors and agents spent more than 12 hours extracting plants and gathering
 evidence, carrying the seizures out on mules and horses because of difficult
 access. [@1,4] The extracted plants were handed over under chain of custody to the
 National Institute of Forensic Sciences to count and analyse the quantity and
-total weight of the destroyed crop. [@1,4] The Public Ministry and the DNCD kept a
+total weight of the destroyed crop. [@1,4] The plants, together with several jugs of harvested marijuana, weighed 3,200 pounds (about 1,452 kg), Inacif reported. [@6] The Public Ministry and the DNCD kept a
 presence in the area to eradicate remaining crops and collect evidence for the
 ongoing judicial proceedings. [@1]
