@@ -83,25 +83,30 @@ sources:
     publisher: تليجراف مصر
     date: 2026-11-15
     language: ar
+  - title: ضبط 4 أشخاص بحوزتهم مخدر الشادو داخل سيارة في طوخ - تليجراف مصر
+    url: https://www.egypttelegraph.com/article/299121/%D8%B6%D8%A8%D8%B7-4-%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%A8%D8%AD%D9%88%D8%B2%D8%AA%D9%87%D9%85-%D9%85%D8%AE%D8%AF%D8%B1-%D8%A7%D9%84%D8%B4%D8%A7%D8%AF%D9%88-%D8%AF%D8%A7%D8%AE%D9%84
+    publisher: تليجراف مصر
+    date: 2026-11-25
+    language: ar
 ---
 
 Security services identified two men from a video on social media in which its
 publisher complained that they were selling and using drugs on a street in
-Alexandria Governorate, and arrested them. [@1,4,5,7,8,9] Both arrested men are unemployed
-and live in the First Montazah police district in eastern Alexandria. [@1,5,6,7,8,9] A
-quantity of hashish and two mobile phones were found with the two men. [@1,5,6,7,8,9] A
+Alexandria Governorate, and arrested them. [@1,4,5,7,8,9,10] Both arrested men are unemployed
+and live in the First Montazah police district in eastern Alexandria. [@1,5,6,7,8,9,10] A
+quantity of hashish and two mobile phones were found with the two men. [@1,5,6,7,8,9,10] A
 Masrawy account of the Interior Ministry statement gives the same two arrests in
 the First Montazah district and the same hashish and two phones found with them.
 [@2]
 
 The Interior Ministry said no formal complaints had been filed about the
-incident before its security services acted on the video. [@1,7] Questioned, the
+incident before its security services acted on the video. [@1,7,10] Questioned, the
 two admitted the offence as shown in the video and said it happened on 30
-October. [@1,5,6,7,8,9] Both admitted holding drugs both for their own use and for sale,
+October. [@1,5,6,7,8,9,10] Both admitted holding drugs both for their own use and for sale,
 and the public prosecution opened an investigation. [@1,6] The Masrawy account
 also reports that both admitted holding the drugs for use and for trafficking
 and that the public prosecution took over the investigation. [@2]
 
 Police took the two men to complete the legal procedures after their arrest.
-[@1,4,6] A Veto account says the two men were referred to the investigating
+[@1,4,6,10] A Veto account says the two men were referred to the investigating
 authorities after the legal procedures were taken against them. [@3]
