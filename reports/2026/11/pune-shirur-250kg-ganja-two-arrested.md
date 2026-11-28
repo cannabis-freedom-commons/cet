@@ -108,6 +108,10 @@ sources:
     url: https://www.freepressjournal.in/pune/250-kg-ganja-seized-in-pune-2-from-amravati-arrested
     publisher: Free Press Journal
     date: 2026-11-26
+  - title: Ganja worth Rs 1.25 crore seized in Pune; two held
+    url: https://www.thesamaja.com/en/news/ganja-worth-rs-125-crore-seized-in-pune-two-held
+    publisher: Samaja
+    date: 2026-11-26
 media:
   - kind: photo
     url: https://pudhari.news/maharashtra/pune/shirur-police-seize-250-kg-ganja-worth-1-52-crore-sk04
@@ -148,8 +152,8 @@ and further investigation is under way. [@3]
 
 During a search of the vehicle, police recovered 250 kg of ganja. [@3,5,6,8,10,11,13,15] Officials
 announcing the seizure on Thursday said a sports utility vehicle was also seized
-with the ganja in Pune district. [@1,7] Police valued the seized ganja at Rs 1.25
-crore. [@2,4,7,10,14,15] Police also seized a Mahindra XUV 700 worth Rs 25 lakh and two
+with the ganja in Pune district. [@1,7,16] Police valued the seized ganja at Rs 1.25
+crore. [@2,4,7,10,14,15,16] Police also seized a Mahindra XUV 700 worth Rs 25 lakh and two
 mobile phones valued at Rs 1.20 lakh, putting the total seizure at Rs 1.51
 crore. [@2,4,6,14,15] The seized SUV carried the registration number MH 27 DL 6984. [@11]
 
