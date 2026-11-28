@@ -61,6 +61,11 @@ sources:
     publisher: Агентство городских новостей «Москва»
     date: 2026-11-23
     language: ru
+  - title: Житель Наро-Фоминска задержан за выращивание и хранение марихуаны
+    url: https://news.rambler.ru/incidents/57464795-zhitel-naro-fominska-zaderzhan-za-vyraschivanie-i-hranenie-marihuany/
+    publisher: Рамблер/новости
+    date: 2026-11-23
+    language: ru
 open_questions:
   - No date is given for the detention or the search; 23 November 2026 is the publication date and is used as the incident date.
   - No weight or plant count was published for the marijuana seized.
@@ -70,21 +75,20 @@ open_questions:
 ---
 
 Police in Naro-Fominsk, Moscow Oblast, detained a 38-year-old local man on
-suspicion of illegal possession of narcotic drugs. [@1] The detention followed
+suspicion of illegal possession of narcotic drugs. [@1,4] The detention followed
 information that the man was involved in the illegal drug trade, and officers
-inspected his private home. [@2]
+inspected his private home. [@2,4]
 
 Officers seized a metal container of plant material, smoking implements, soil,
-fertilizer and electronic scales. [@2] A forensic examination by the Moscow
+fertilizer and electronic scales. [@2,4] A forensic examination by the Moscow
 Oblast MVD expert centre confirmed the substance was marijuana, a narcotic drug
-derived from the cannabis plant. [@1] The man told police he fitted a grow box
+derived from the cannabis plant. [@1,4] The man told police he fitted a grow box
 on the second floor of the house in May 2026, grew cannabis there and harvested,
-dried and stored it in late August for personal use. [@1]
+dried and stored it in late August for personal use. [@1,4]
 
 An investigator with the Naro-Fominsk police opened a criminal case under part 2
 of article 228 of the Russian Criminal Code, covering possession and manufacture
-of narcotic drugs on a large scale. [@1] The city news agency quoted the police
+of narcotic drugs on a large scale. [@1,4] The city news agency quoted the police
 statement spelling out article 228 as covering illegal acquisition, storage,
 transport, manufacture and processing of narcotic drugs. [@3] He was placed
-under a written undertaking not to leave the area. [@1]
-
+under a written undertaking not to leave the area. [@1,4]
