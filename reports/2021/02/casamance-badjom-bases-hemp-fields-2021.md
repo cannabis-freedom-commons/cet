@@ -37,13 +37,24 @@ sources:
   - title: Casamance Military Operation Brings Promise of Long-Awaited Peace
     url: https://adf-magazine.com/2021/06/casamance-military-operation-brings-promise-of-long-awaited-peace/
     publisher: Africa Defense Forum
+  - title: L'armée sénégalaise s'empare de champs de cannabis des rebelles du MFDC
+    url: https://www.voaafrique.com/a/l-arme%CC%81e-se%CC%81ne%CC%81galaise-s-empare-de-champs-de-cannabis-des-rebelles-du-mfdc/5772896.html
+    publisher: VOA Afrique
+    date: 2021-02-10
+    language: fr
 open_questions:
   - No figure for the area of the cannabis fields or the quantity destroyed was published.
   - The reports name no arrests, injuries or deaths in the offensive.
+media:
+  - kind: video
+    url: https://www.voaafrique.com/a/l-arme%CC%81e-se%CC%81ne%CC%81galaise-s-empare-de-champs-de-cannabis-des-rebelles-du-mfdc/5772896.html
+    media_url: https://voa-video-ns.akamaized.net/pangeavideo/2021/02/b/b3/b30668b8-5121-4dbb-9f71-20a70f5fab18_720p.mp4?cb=ed7b60a2f
+    publisher: VOA Afrique
+    caption: 'AFP video published with the report on the Senegalese army''s capture of rebel bases and cannabis fields in Casamance. Video: AFP/VOA Afrique'
 ---
 
-On 9 February 2021 Senegal's army said it had taken three rebel bases in the southern region of Casamance during an offensive launched in late January after months of lull in the long-standing conflict. [@1] The separatists were driven out of their base at Badjom, described as the centre of gravity and strength of the Movement of Democratic Forces of Casamance (MFDC), about twenty kilometres from Ziguinchor, with support from Guinea-Bissau's defence and security forces. [@1]
+On 9 February 2021 Senegal's army said it had taken three rebel bases in the southern region of Casamance during an offensive launched in late January after months of lull in the long-standing conflict. [@1] The separatists were driven out of their base at Badjom, described as the centre of gravity and strength of the Movement of Democratic Forces of Casamance (MFDC), about twenty kilometres from Ziguinchor, with support from Guinea-Bissau's defence and security forces. [@1,3]
 
-The troops seized mortars, rocket launchers, rifles and motorcycles, which they showed to the press, and took control of several hectares of cannabis fields. [@1] Colonel Souleymane Kande, the local army commander, called them industrial farms of Indian hemp that fed the criminal economy of the armed gangs. [@1] A US Africa Command magazine later confirmed that the January campaign destroyed three rebel bases and that the February offensive uncovered several hectares of hemp fields, in a region where the MFDC controlled timber and cannabis trafficking. [@2]
+The troops seized mortars, rocket launchers, rifles and motorcycles, which they showed to the press, and took control of several hectares of cannabis fields. [@1,3] Colonel Souleymane Kande, the local army commander, called them industrial farms of Indian hemp that fed the criminal economy of the armed gangs. [@1] A US Africa Command magazine later confirmed that the January campaign destroyed three rebel bases and that the February offensive uncovered several hectares of hemp fields, in a region where the MFDC controlled timber and cannabis trafficking. [@2]
 
 The officers admitted the rebels still held other bases in the area. [@1]
