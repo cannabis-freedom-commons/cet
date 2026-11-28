@@ -68,33 +68,37 @@ sources:
     publisher: La Hora
     date: 2026-10-07
     language: es
+  - title: Incautan cargamento de marihuana y cocaína a ciudadano guatemalteco
+    url: https://diario1.com/nacionales/2026/10/incautan-cargamento-de-marihuana-y-cocaina-a-ciudadano-guatemalteco/
+    publisher: Diario1
+    date: 2026-10-07
+    language: es
 open_questions:
-  - The articles give no separate date for the seizure; 7 October 2026 is the detention and report date used as the incident date.
-  - No seizure location more precise than El Salvador was published, so country-centre coordinates are used.
-  - The 2.5 kilos of cocaine and six boxes of cigarettes reported in the same operation are excluded from cannabis figures; no combined drug total is counted as cannabis.
-  - No cannabis value, laboratory weight or court outcome was reported; the driver was to be processed but no charge or sentence had been decided in these reports.
-  - The same Infobae page also briefly reports separate Santa Ana and August cases, which are different events left out here.
-  - Both opened reports repeat the Security Ministry account; no independent account beyond the official version was opened.
+    - No seizure location more precise than El Salvador was published, so country-centre coordinates are used.
+    - The 2.5 kilos of cocaine and six boxes of cigarettes reported in the same operation are excluded from cannabis figures; no combined drug total is counted as cannabis.
+    - No cannabis value, laboratory weight or court outcome was reported; the driver was to be processed but no charge or sentence had been decided in the opened reports.
+    - The same Infobae page also briefly reports separate Santa Ana and August cases, which are different events left out here.
+    - The opened reports, including the Diario1 account, repeat the Security Ministry version posted by the minister; no independent account beyond the official version was opened.
 ---
 
 Authorities in El Salvador detained Luis Carlos M. A., a Guatemalan citizen who
 was transporting marijuana and cocaine in a cargo vehicle with Guatemalan
-plates. [@1,3] The detainee was identified as Luis Carlos Morales Aldana, a
+plates. [@1,3,4] The detainee was identified as Luis Carlos Morales Aldana, a
 Guatemalan national found with 63 kilos of marijuana, 2.5 kilos of cocaine and
 six boxes of cigarettes. [@2] He will be processed for international
-trafficking, merchandise smuggling and unlawful association. [@2,3]
+trafficking, merchandise smuggling and unlawful association. [@2,3,4]
 
 The procedure seized 63 kilos of marijuana distributed in three bundles with 108
-large portions, besides the cocaine and cigarettes. [@1] The contents were
+large portions, besides the cocaine and cigarettes. [@1,4] The contents were
 distributed in bundles of different sizes, with three bundles holding 108 large
-marijuana portions and four bundles holding 33 cocaine portions. [@2] The drugs
-were hidden with special paper intended to make detection harder. [@1,3] Material
+marijuana portions and four bundles holding 33 cocaine portions. [@2,4] The drugs
+were hidden with special paper intended to make detection harder. [@1,3,4] Material
 released by the minister indicates the man tried to hide the illicit goods
 behind packages of toilet paper. [@1]
 
 Security Minister Gustavo Villatoro Funes said the case was the largest drug
-seizure recorded so far in land-transport mode in the country. [@1] Villatoro
+seizure recorded so far in land-transport mode in the country. [@1,4] Villatoro
 declared that the country is not a bridge for drug trafficking or any other
 illicit activity. [@1]
 
-The operation was conducted by agents of the National Civil Police of El Salvador. [@3]
+The operation was conducted by agents of the National Civil Police of El Salvador. [@3,4]
