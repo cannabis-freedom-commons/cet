@@ -83,10 +83,19 @@ sources:
     publisher: Eswatini Positive News
     date: 2026-05-31
     language: en
+  - title: Three suspects to appear in court over R11m dagga bust in Limpopo
+    url: https://www.sabcnews.com/sabcnews/three-suspects-to-appear-in-court-over-r11m-dagga-bust-in-limpopo/
+    publisher: SABC News
+    date: 2026-05-31
+open_questions:
+    - SABC News, published on 31 May 2026, said the suspects were expected in the Hoedspruit Magistrate's Court that day, while the NPA said they appeared on 1 June.
+    - SABC News attributes the statement on the seizure to police spokesperson Malesela Ledwaba, while another account attributes the same words to provincial commissioner Thembi Hadebe.
+    - The dagga was identified only by police description; no laboratory confirmation was reported.
+    - No outcome of the 8 June 2026 court appearance or any later stage of the case was reported.
 ---
 
 Three suspects aged between 34 and 35 were arrested on charges of dealing in
-dagga. [@1,4] The National Prosecuting Authority named them as Sabelo Lawrance
+dagga. [@1,4,5] The National Prosecuting Authority named them as Sabelo Lawrance
 Banda, Njabulo Nsibande and Ishmael Malatjie when they appeared before the
 Hoedspruit Magistrate's Court on 1 June. [@3] They were charged with
 contravening Section 4 of the Drugs and Drug Trafficking Act. [@3] They remained
@@ -96,10 +105,10 @@ Members of Hoedspruit SAPS, working with Farm Watch, intercepted a Toyota
 Quantum taxi and a Hyundai sedan on the R527 near Snake Park at about 21:15 on
 Saturday 30 May, acting on information about a large quantity of drugs moving
 through the area. [@1,4] A search of the vehicles uncovered 130 bags of dagga.
-[@1,4] The prosecution said the dagga weighed about 1,564 kg and was valued at R11
+[@1,4,5] The prosecution said the dagga weighed about 1,564 kg and was valued at R11
 million. [@3] Police said preliminary investigations indicated the consignment
 originated in Eswatini and was being transported through Limpopo for
-distribution elsewhere in South Africa. [@1,4]
+distribution elsewhere in South Africa. [@1,4,5]
 
 The arrests were made under Operation Shanela II. [@1,4] The operation ran from
 the evening of 30 May into the early hours of 31 May. [@3] Limpopo police
