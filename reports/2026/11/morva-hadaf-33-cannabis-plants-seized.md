@@ -51,17 +51,39 @@ sources:
     publisher: GSTV
     date: 2026-11-24
     language: gu
+  - title: 'VIDEO | પંચમહાલ: વાંસદેલીયા ગામે ગાંજાની ખેતીનો પર્દાફાશ, ખેતરમાંથી ₹21 લાખનો લીલો ગાંજો ઝડપાયો, ખેડૂત સકંજામાં'
+    url: https://www.gujaratsamachar.com/news/panchmahal/illegal-ganja-cultivation-busted-in-vansdeliya-village-morva-hadaf-police-seizes-green-cannabis-worth-rs-21-lakh-and-arrests-farmer-65929467955
+    publisher: Gujarat Samachar
+    date: 2026-11-24
+    language: gu
+  - title: '21 લાખના લીલા ગાંજાના 33 છોડ સાથે એક ઝડપાયો: વાંસદેલીયાના ખેતરમાંથી 42 કિલો લીલા ગાંજાના છોડ ઝડપાયા'
+    url: https://divyabhaskar.co.in/local/gujarat/panchmahal/news/one-arrested-with-33-green-marijuana-plants-worth-rs-21-lakh-dbp-139790404.html
+    publisher: Divya Bhaskar
+    language: gu
 open_questions:
-  - Left out agency types, as its quotation was not found in GSTV.
+    - Gujarat Samachar and Divya Bhaskar name only the Panchmahal SOG and Morva Hadaf police in the joint team; GSTV also reported that the Anti-Narcotics Wing took part.
+    - Divya Bhaskar valued the crop at 21,25,500 rupees, 500 rupees more than the 21.25 lakh reported by Gujarat Samachar and GSTV; the report uses 21.25 lakh.
+    - No account gives the date of the raid itself; 24 November 2026 is the publication date of the Gujarat Samachar report.
+    - No charge sheet, bail decision or court outcome was reported; the case remains at the investigation stage.
+media:
+  - kind: photo
+    url: https://www.gujaratsamachar.com/news/panchmahal/illegal-ganja-cultivation-busted-in-vansdeliya-village-morva-hadaf-police-seizes-green-cannabis-worth-rs-21-lakh-and-arrests-farmer-65929467955
+    media_url: https://cdn.gujaratsamachar.com/media/post/2026/11/e47ab7b3bfdb48d62c8a32d7ab239ff9.jpeg
+    publisher: Gujarat Samachar
+    caption: 'Photo published with the report of the cannabis plants found in the field at Vansdeliya. Photo: Gujarat Samachar'
+  - kind: video
+    url: https://www.gujaratsamachar.com/news/panchmahal/illegal-ganja-cultivation-busted-in-vansdeliya-village-morva-hadaf-police-seizes-green-cannabis-worth-rs-21-lakh-and-arrests-farmer-65929467955
+    media_url: https://www.instagram.com/p/DgH03ZeNsrv/
+    publisher: Gujarat Samachar
+    caption: 'Gujarat Samachar''s Instagram video on the ganja field raided by the SOG and Morva Hadaf police at Vansdeliya. Video: Gujarat Samachar'
 ---
 
 Panchmahal Special Operation Group (SOG), the Anti-Narcotics Wing (ANW) and
 local police raided a field in Vansadeliya village, Morva Hadaf, acting on a tip
 that cannabis plants had been sown there. [@1] The search found 33 green
-cannabis plants in the field of Anopsinh Mathurbhai Rawat. [@1] The plants
-weighed 42.5 kg and police valued them at 2,125,000 rupees (21.25 lakh). [@1]
+cannabis plants in the field of Anopsinh Mathurbhai Rawat. [@1,2] The plants were tested with the help of the Forensic Science Laboratory, which confirmed that those found in the field were cannabis. [@2] The plants
+weighed 42.5 kg and police valued them at 2,125,000 rupees (21.25 lakh). [@1,2]
 
-Police seized the plants and detained Anopsinh Rawat. [@1] A case was registered
+Police seized the plants and detained Anopsinh Rawat. [@1,3] A case was registered
 under the NDPS Act at Morva Hadaf police station and further investigation was
-begun. [@1]
-
+begun. [@1,2]
