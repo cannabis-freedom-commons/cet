@@ -54,6 +54,16 @@ media:
     media_url: https://resources.diariolibre.com/images/2026/02/14/whatsapp-image-2026-02-14-at-93307-am-11b69e18.jpeg
     publisher: Diario Libre
     caption: 'Seized marijuana plants in the mountains of Monteria, Bani, during the joint DNCD and Public Ministry operation. Photo: Diario Libre / Mariela Lorenzo'
+  - kind: photo
+    url: https://www.infobae.com/republica-dominicana/2026/02/16/dias-despues-de-cerrarse-oficina-de-la-dea-republica-dominicana-da-duro-golpe-al-narcotrafico/
+    media_url: https://www.infobae.com/resizer/v2/XP6ORGQ67ZCTTECPZC7CNH6RU4.jpg?auth=1bceefd37a1fd9919663ea2d107c6954f60b43524c9d4cc6c66391d5b12c8749&smart=true&width=992&height=661&quality=85
+    publisher: Infobae
+    caption: 'Marijuana plantation and cultivation equipment from the Montería, Baní operation. Photo: Dirección Nacional de Control de Drogas via Infobae'
+  - kind: photo
+    url: https://www.infobae.com/republica-dominicana/2026/02/16/dias-despues-de-cerrarse-oficina-de-la-dea-republica-dominicana-da-duro-golpe-al-narcotrafico/
+    media_url: https://www.infobae.com/resizer/v2/VYWJXNEZCVHFNBRPFJI65VMMXY.jpg?auth=6d2e91dc2e7c9a397da758a50a9158e3ea13ae87d230cad43df35ab39d0c8938&smart=true&width=992&height=661&quality=85
+    publisher: Infobae
+    caption: 'The marijuana plants and cultivation materials found by helicopters and ground units in Montería, Baní. Photo: Dirección Nacional de Control de Drogas via Infobae'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: cd0ab181368419bfced5d00b3c43debd
@@ -69,21 +79,26 @@ sources:
     publisher: Diario Libre
     date: 2026-02-14
     language: es
+  - title: Días después de cerrarse oficina de la DEA, República Dominicana da duro golpe al narcotráfico
+    url: https://www.infobae.com/republica-dominicana/2026/02/16/dias-despues-de-cerrarse-oficina-de-la-dea-republica-dominicana-da-duro-golpe-al-narcotrafico/
+    publisher: Infobae
+    date: 2026-02-16
+    language: es
 open_questions:
-  - The articles give no separate calendar day for the raid; 14 February 2026 is the publication date of both outlets and is used as the incident date.
-  - 'The sources disagree on plant height: Infobae, citing Listin Diario, says plants up to two metres tall, while Diario Libre says about two feet; the report records both attributions without resolving the difference.'
-  - No arrests, charges or court outcome were reported; the three suspects remained fugitives in a preliminary investigation.
-  - No weight, cultivated area, estimated value or names of the suspects were published.
+    - The authorities announced the dismantling on Saturday 14 February 2026, but no separate day is given for the raid itself.
+    - 'The sources disagree on plant height: Infobae, citing Listin Diario, says plants up to two metres tall, while Diario Libre says about two feet; the report records both attributions without resolving the difference.'
+    - No arrests, charges or court outcome were reported; the three suspects remained fugitives in a preliminary investigation.
+    - No weight, cultivated area, estimated value or names of the suspects were published.
 ---
 
 The DNCD and the Public Ministry dismantled an illegal marijuana crop of 1,835
-plants in a mountain zone of Bani, Peravia province. [@1] The intervention
+plants in a mountain zone of Bani, Peravia province. [@1,3] The authorities announced the dismantling on Saturday 14 February 2026. [@3] The intervention
 followed surveillance and tracking work in the Monteria section of Bani
 municipality. [@1] State intelligence agencies and Dominican Air Force
-helicopters supported the joint operation. [@2] Helicopters helped pinpoint the
+helicopters supported the joint operation. [@2,3] Helicopters helped pinpoint the
 exact area and coordinate the intervention in a hard-to-reach zone. [@1]
 Investigators linked several people to growing and selling the marijuana,
-including the Dominican landowner and two Haitian citizens. [@1] DNCD spokesman
+including the Dominican landowner and two Haitian citizens. [@1,3] DNCD spokesman
 Carlos Devers urged the suspects, already identified, to surrender to face
 charges under Law 50-88 on Drugs and Controlled Substances. [@1] The suspects
 were not publicly named because the investigation was in a preliminary phase.
@@ -93,7 +108,7 @@ place to capture them and bring them before the courts. [@1]
 Authorities located 1,835 marijuana plants described as about two feet tall.
 [@2] Infobae, citing Listin Diario, described plants up to two metres tall, plus
 two buckets of harvested marijuana, five extractors, four extension cords, an
-irrigation pump and other cultivation materials. [@1] Officers also seized a
+irrigation pump and other cultivation materials. [@1,3] Officers also seized a
 hammer, pliers, a tank, water bottles, foam mattresses, a wheelbarrow, cloth
 rolls, a saw and fuel jugs. [@2] Agents seized hundreds of bags of soil and
 prepared seeds stored in an improvised hut for expanding production. [@2]
@@ -103,4 +118,3 @@ for analysis and legal proceedings. [@1] Devers said the volume of plants could
 make the case one of the largest recent marijuana seizures in the country. [@2]
 DNCD members and Peravia prosecutors stayed in the area conducting tracking work
 to apprehend anyone else involved. [@2]
-
