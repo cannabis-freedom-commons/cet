@@ -69,20 +69,26 @@ sources:
     publisher: Zona Cero
     date: 2026-05-28
     language: es
+  - title: Incautan cargamento de droga proveniente de Alta Guajira en aguas de República Dominicana
+    url: https://diariodelnorte.net/judiciales/incautan-cargamento-de-droga-proveniente-de-alta-guajira-en-aguas-de-republica-dominicana/
+    publisher: Diario del Norte
+    date: 2026-05-28
+    language: es
 open_questions:
-  - No separate calendar date for the interception was published; 28 May 2026 is the date of the accounts and is used as the incident date.
-  - No formal charges, trial date or court outcome were reported for the two detainees, whose case remained under investigation.
-  - No laboratory confirmation of the marihuana was reported alongside the authorities' weight figure.
+    - No separate calendar date for the interception was published; 28 May 2026 is the date of the accounts and is used as the incident date.
+    - No formal charges, trial date or court outcome were reported for the two detainees, whose case remained under investigation.
+    - No laboratory confirmation of the marihuana was reported alongside the authorities' weight figure.
+    - The accounts differ on which country's Policía Nacional took part; Colombian sources describe a Colombian police role, while this Colombian outlet names the Dominican police alongside the Dominican navy and the DEA.
 ---
 
 Two Dominican citizens were arrested when officers intercepted their boat near
 Pedernales and were placed at the disposal of the authorities while
-investigators examined their alleged role in the shipment. [@1] The cargo was
+investigators examined their alleged role in the shipment. [@1,4] The cargo was
 being moved by sea near the coast of Pedernales, in Dominican Republic
 territory. [@1]
 
 The operation seized 326 kilograms of cocaine and 52.5 kilograms of marihuana
-from a vessel intercepted in waters near Pedernales. [@1] Zona Cero reported
+from a vessel intercepted in waters near Pedernales. [@1,4] Zona Cero reported
 that two Dominican citizens were captured during the operation. [@3]
 
 The operation was carried out jointly by Colombia's Policía Nacional, the United
@@ -94,8 +100,7 @@ with the Dominican Republic used as a transit point on the maritime route. [@1]
 Guajira News reported that the drugs had come from Alta Guajira and belonged to
 the ELN armed group. [@2] Preliminary investigations linked the cargo to the ELN
 armed group, which the authorities say funds part of its criminal activity
-through drug trafficking. [@1] The authorities said such operations formed part
+through drug trafficking. [@1,4] The authorities said such operations formed part
 of an international strategy to disrupt routes used by trafficking organisations
 moving large quantities of drugs from Colombia towards Central America and the
 United States. [@1]
-
