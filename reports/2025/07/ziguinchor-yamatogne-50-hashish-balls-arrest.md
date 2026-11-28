@@ -46,6 +46,11 @@ sources:
     publisher: Senego
     date: 2025-07-15
     language: fr
+  - title: 'Arrestation pour trafic de drogue à Ziguinchor : un individu interpellé avec 50 boulettes d’haschich'
+    url: https://kewoulo.info/poste-de-police-de-yamatogn-de-ziguinchor-a-procede-nuit-lundi-14-juillet-2025-aux-alentours-de-23-heures-a-linterpellation-dun-individu-de-nationalite-etrangere/
+    publisher: Kewoulo
+    date: 2025-07-16
+    language: fr
 open_questions:
   - No weight for the 50 hashish balls was published, so no kilograms can be recorded.
   - No purchase weight, laboratory result or separate cannabis-only valuation was published; the 450,000 FCFA figure is a reported expected profit, not a recorded seizure value.
@@ -55,19 +60,18 @@ open_questions:
 
 Yamatogne police in Ziguinchor arrested a foreign national at the road
 checkpoint toward Guinea-Bissau during the night of Monday 14 July 2025 at about
-23:00. [@1] Officers stopped a shared seven-seat passenger vehicle arriving from
-Guinea-Bissau for a routine check as part of a security operation. [@2] A search
-found a black sachet hidden in a passenger's pockets. [@1] The sachet held 50
-balls of hashish described as carefully packed and ready for sale. [@2] The
+23:00. [@1,3] Officers stopped a shared seven-seat passenger vehicle arriving from
+Guinea-Bissau for a routine check as part of a security operation. [@2,3] A search
+found a black sachet hidden in a passenger's pockets. [@1,3] The sachet held 50
+balls of hashish described as carefully packed and ready for sale. [@2,3] The
 suspect was placed in custody while police opened an investigation to identify
-possible accomplices and trace the cross-border network. [@1]
+possible accomplices and trace the cross-border network. [@1,3]
 
 Questioned briefly, the suspect said he had bought the hashish in Guinea-Bissau
-at 1,000 FCFA per ball. [@1] He said he intended to resell the balls in Gambia
-at 10,000 FCFA each. [@2] Police put the expected profit from the resale at
+at 1,000 FCFA per ball. [@1,3] He said he intended to resell the balls in Gambia
+at 10,000 FCFA each. [@2,3] Police put the expected profit from the resale at
 450,000 FCFA. [@1]
 
 Police described the check as part of a wider security operation on the
 cross-border road. [@2] The accounts present the route as purchase in
 Guinea-Bissau, transit through Senegal and intended resale in Gambia. [@2]
-
