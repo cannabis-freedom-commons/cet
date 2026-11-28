@@ -53,6 +53,16 @@ sources:
     publisher: Atvira Klaipėda
     date: 2026-11-26
     language: lt
+  - title: Kretingos rajone pareigūnai aptiko galimai narkotinių medžiagų ir draudžiamų augalų
+    url: https://www.svyturiolaikrastis.lt/2026/11/26/kretingos-rajone-pareigunai-aptiko-galimai-narkotiniu-medziagu-ir-draudziamu-augalu/
+    publisher: Švyturio laikraštis
+    date: 2026-11-26
+    language: lt
+  - title: Kretingos rajone pareigūnai rado, kaip įtariama, draudžiamų augalų
+    url: https://kauno.diena.lt/naujienos/klaipeda/nusikaltimai-ir-nelaimes/kretingos-rajone-pareigunai-rado-kaip-itariama-draudziamu-augalu-1784824
+    publisher: Kauno diena
+    date: 2026-11-26
+    language: lt
 open_questions:
   - The police accounts give no weight for the plant-based material and no count of plants for the three flower pots.
   - No detention, charge or court step against the couple was reported; the case was at the pre-trial investigation stage.
@@ -62,10 +72,10 @@ open_questions:
 
 Officers from the Kretinga district police commissariat visited residential
 premises in Padvarių village, Kretinga district, on 25 November 2026, acting on
-information they had received. [@3] A woman born in 1989 and a man of the same
-age lived in the home. [@1] In the rooms officers found plant-based material
+information they had received. [@3,4] A woman born in 1989 and a man of the same
+age lived in the home. [@1,4] In the rooms officers found plant-based material
 believed to be narcotic and three flower pots holding plants suspected to be
-prohibited. [@1]
+prohibited. [@1,5]
 
 The Klaipėda county police account said the three pots held cannabis. [@2]
 Kretinga police found three pots containing cannabis. [@2] The photograph
@@ -73,7 +83,6 @@ published with the account, credited to Klaipėda county police, shows cannabis
 found in the district. [@2]
 
 Police opened a pre-trial investigation into illegal possession of narcotic or
-psychotropic substances without intent to distribute. [@2] The investigation
+psychotropic substances without intent to distribute. [@2] The pre-trial investigation was opened under Article 259 of Lithuania's Criminal Code. [@4] The investigation
 concerns possession of narcotic or psychotropic substances without intent to
 distribute, not distribution. [@3]
-
