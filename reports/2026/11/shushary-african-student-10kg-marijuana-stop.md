@@ -86,6 +86,11 @@ sources:
     publisher: lentv24.ru
     date: 2026-11-25
     language: ru
+  - title: Студента-иностранца с 10 кг наркотиков задержали в Петербурге
+    url: https://ivbg.ru/8431968-studenta-inostrantsa-s-10-kg-narkotikov-zaderzhali-v-peterburge.html
+    publisher: IVBG.ru
+    date: 2026-11-25
+    language: ru
 open_questions:
     - The published weight of about 10 kg includes the packaging; no net weight of the cannabis was given.
     - Only one of the 36 packets was reported as tested and confirmed to contain cannabis.
@@ -97,17 +102,17 @@ open_questions:
 
 At about 6 a.m. on Tuesday 24 November 2026, traffic inspectors stopped a Kia
 Quoris for a document check at the 681st kilometre of the M-11 Neva highway near
-the settlement of Shushary in St Petersburg's Pushkinsky District. [@1,4] The
+the settlement of Shushary in St Petersburg's Pushkinsky District. [@1,4,5] The
 driver was a 27-year-old citizen of an African country studying at a university
-in the capital. [@1,3,4] He became noticeably nervous during the check, so the
-inspectors searched the car. [@1,3,4]
+in the capital. [@1,3,4,5] He became noticeably nervous during the check, so the
+inspectors searched the car. [@1,3,4,5]
 
 In the boot they found 36 vacuum-sealed polymer packets of green plant material
-weighing about 10 kilograms together with the packaging. [@1,3,4] Testing the
+weighing about 10 kilograms together with the packaging. [@1,3,4,5] Testing the
 contents of one packet showed that it was the narcotic drug cannabis
 (marijuana). [@1,3,4] The Interior Ministry's regional directorate said a criminal
 case was opened under part 3 of article 30 and paragraph г of part 4 of article
-228.1 of the Russian Criminal Code and the suspect was detained. [@1,4] The case
+228.1 of the Russian Criminal Code and the suspect was detained. [@1,4,5] The case
 was described as an attempt to sell drugs on a large scale. [@2]
 
 The ministry said the measure of restraint would be announced separately. [@1]
