@@ -93,17 +93,21 @@ sources:
     publisher: Bastillepost 巴士的報
     date: 2026-11-26
     language: zh
+  - title: Mainland man charged after $1.6m cannabis buds seized at HK airport
+    url: https://www.thestandard.com.hk/news/article/349794/Mainland-man-charged-after-16m-cannabis-buds-seized-at-HK-airport
+    publisher: The Standard
+    date: 2026-11-27
 ---
 
 Hong Kong Customs detected a drug trafficking case at Hong Kong International
 Airport on 26 November 2026. [@1,3,4,5,6] Officers seized about 7.3 kilograms of
-suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4,5,6,8] The
+suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4,5,6,8,9] The
 suspect was a 23-year-old mainland Chinese man who had arrived from Bangkok,
-Thailand. [@1,3,4,5,6,8] Officers found the buds in his carry-on baggage during clearance
-and arrested him. [@1,3,4,5,6,8]
+Thailand. [@1,3,4,5,6,8,9] Officers found the buds in his carry-on baggage during clearance
+and arrested him. [@1,3,4,5,6,8,9]
 
-He was charged with one count of trafficking in a dangerous drug. [@2,3,4,5,6,8] The case
-was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4,5,6,8] The case was brought before West Kowloon Magistrates' Court on 27 November 2026. [@7] Customs
+He was charged with one count of trafficking in a dangerous drug. [@2,3,4,5,6,8,9] The case
+was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4,5,6,8,9] The case was brought before West Kowloon Magistrates' Court on 27 November 2026. [@7] Customs
 said it would keep selecting passengers from high-risk regions for clearance
 checks to combat cross-border drug trafficking. [@1,3,4] Trafficking in a dangerous
 drug carries a maximum penalty of a HK$5 million fine and life imprisonment
