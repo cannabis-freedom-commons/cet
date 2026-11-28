@@ -91,18 +91,26 @@ sources:
     publisher: Radio Fantasy
     date: 2026-11-26
     language: sl
+  - title: Policisti zasegli več kot 500 sadik prepovedane droge - Svet24.si
+    url: https://svet24.si/lokalno/savinjska/novice/kronika/konoplja-policija-lasko-prepovedana-droga-1943537
+    publisher: Svet24.si
+    date: 2026-11-26
+    language: sl
+open_questions:
+    - No weight or value was published for the cannabis; only the number of plants is given.
+    - The accounts do not say whether the two tenants were detained, questioned or released while the criminal complaint was filed.
 ---
 
 Police officers from Laško searched a residential house in the centre of Laško.
-[@2,4,5,6] Two tenants, both foreign nationals, lived in the house and set up a
+[@2,4,5,6,7] Two tenants, both foreign nationals, lived in the house and set up a
 production of the prohibited drug there. [@2] In the room the tenants grew the
-prohibited drug cannabis. [@1,4,5,6] Police said the two would be reported to the
+prohibited drug cannabis. [@1,4,5,6,7] Police said the two would be reported to the
 prosecutor on suspicion of unauthorised production of and trafficking in
-prohibited drugs. [@1,4,5,6]
+prohibited drugs. [@1,4,5,6,7]
 
-Officers found and seized more than 500 cannabis plants. [@1,4,5,6] The room was well
+Officers found and seized more than 500 cannabis plants. [@1,4,5,6,7] The room was well
 equipped, with a separate ventilation and irrigation system and appropriate
-artificial lighting. [@1,4,5,6] The house search was carried out in the days before
+artificial lighting. [@1,4,5,6,7] The house search was carried out in the days before
 the announcement. [@3,6]
 
 Celje.info reported that police would file a criminal complaint against both
