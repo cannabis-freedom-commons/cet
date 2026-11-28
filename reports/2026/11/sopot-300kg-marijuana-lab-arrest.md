@@ -88,6 +88,11 @@ sources:
     publisher: KoSSev
     date: 2026-11-26
     language: bg
+  - title: Полиција у околини Сопота запленила 300 килограма марихуане
+    url: https://www.politika.rs/scc/clanak/806477/policija-u-okolini-sopota-zaplenila-300-kilograma-marihuane
+    publisher: Politika Online
+    date: 2026-11-26
+    language: sr
 open_questions:
     - 'The plant count and weight are approximate: police reported "about 500" plants weighing "close to 300 kilograms".'
     - No court outcome was reported; the suspect was detained for up to 48 hours and a criminal complaint was to follow.
@@ -104,19 +109,29 @@ media:
     media_url: https://www.facebook.com/reel/4658336967782468/
     publisher: KoSSev
     caption: 'Facebook video embedded in the report on the illegal marijuana laboratory seized near Sopot. Video: KoSSev'
+  - kind: photo
+    url: https://www.politika.rs/scc/clanak/806477/policija-u-okolini-sopota-zaplenila-300-kilograma-marihuane
+    media_url: https://www.politika.rs/thumbs//upload/Article/Image/2026_11///904z509_cb_904z509_Tan2026-11-1311521820_3.jpg
+    publisher: Politika Online
+    caption: 'Police handout photo of the marijuana seizure near Sopot. Photo: TANJUG / OMK MUP Republike Srbije.'
+  - kind: video
+    url: https://www.politika.rs/scc/clanak/806477/policija-u-okolini-sopota-zaplenila-300-kilograma-marihuane
+    media_url: https://www.politika.rs/upload/CKEditor/2026/11%20NOVEMBAR/2611_mup_droga_pok.mp4
+    publisher: Politika Online
+    caption: 'Police video of the drug operation published with the account of the Sopot marijuana laboratory. Video: MUP Srbije.'
 ---
 
 Police in Serbia arrested a 34-year-old man, identified only as K.M., near Sopot
-on suspicion of unauthorised production and trafficking of narcotic drugs. [@1,2,3,4,6,8,9]
+on suspicion of unauthorised production and trafficking of narcotic drugs. [@1,2,3,4,6,8,9,10]
 The arrest was ordered by the Higher Public Prosecutor's Office in Belgrade.
-[@1,4,5,6,7,8,9] Officers found the suspect in a house containing an illegal laboratory.
-[@1,4,6,7,8] He was ordered held for up to 48 hours and was to be taken to the competent
-prosecutor's office with a criminal complaint. [@1,2,4,5,6,7,8,9]
+[@1,4,5,6,7,8,9,10] Officers found the suspect in a house containing an illegal laboratory.
+[@1,4,6,7,8,10] He was ordered held for up to 48 hours and was to be taken to the competent
+prosecutor's office with a criminal complaint. [@1,2,4,5,6,7,8,9,10]
 
 Officers from the criminal police's Service for Combating Drugs and the
 Department for Special Actions discovered the laboratory near Sopot on 26
-November 2026. [@1,2,4,9] The interior ministry announced the laboratory's discovery and the arrest in a statement. [@3] In three separate rooms they found about 500 plants
-suspected of being marijuana, weighing close to 300 kilograms in total. [@1,2,4,5,6,7,8,9]
+November 2026. [@1,2,4,9,10] The interior ministry announced the laboratory's discovery and the arrest in a statement. [@3] In three separate rooms they found about 500 plants
+suspected of being marijuana, weighing close to 300 kilograms in total. [@1,2,4,5,6,7,8,9,10]
 Police also seized equipment for growing the drug under artificial conditions.
-[@1,4,5,6,7,8,9] Officers described the haul as close to 300 kilograms of the drug in raw
-form. [@1,4,7,8]
+[@1,4,5,6,7,8,9,10] Officers described the haul as close to 300 kilograms of the drug in raw
+form. [@1,4,7,8,10]
