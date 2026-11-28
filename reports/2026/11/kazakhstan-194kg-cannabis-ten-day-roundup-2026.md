@@ -133,6 +133,11 @@ sources:
     publisher: Ulysmedia.kz
     date: 2026-11-22
     language: ru
+  - title: 'Кетамин, α-PVP и мефедрон: МВД задержало наркокурьеров в нескольких регионах Казахстана'
+    url: https://total.kz/ru/news/proisshestviya/ketamin_pvp_i_mefedron_mvd_zaderzhalo_narkokurerov_v_neskolkih_regionah_kazahstana_date_2026_11_22_10_42_24
+    publisher: Total.kz
+    date: 2026-11-22
+    language: ru
 media:
   - kind: photo
     url: https://almaty.tv/ru/news/zakon-i-poryadok/v-kazakhstane-za-10-dnej-iz-ato-bolee-200-kg-narkotikov
@@ -149,21 +154,24 @@ media:
     media_url: https://check-point.kz/img/public/11503.jpg
     publisher: Check-point.kz
     caption: 'Photo published with the Interior Ministry''s ten-day drug enforcement roundup. Photo: Ministry of Internal Affairs of Kazakhstan'
+open_questions:
+    - The ministry gave no dates or locations for the individual seizures behind the 190 kg of marijuana and 4 kg of hashish.
+    - Apart from the single cultivation case, the ministry did not say how many of the 35 detentions involved cannabis rather than other drugs.
 ---
 
 Kazakhstan's Interior Ministry said police detained 35 drug suspects across the
-country in the ten days from 1 to 10 November. [@3,4,5,6,7,8,11,13,14,16,17,18] Nineteen were suspected of
+country in the ten days from 1 to 10 November. [@3,4,5,6,7,8,11,13,14,16,17,18,20] Nineteen were suspected of
 selling drugs and eight of smuggling. [@1,4,5,6,9,17,18] Three were held over storing drugs on
 an especially large scale. [@2,4,5,6,17] Three of the suspects were also held over illegal circulation of poisonous substances and one over promoting and advertising drugs. [@4,6,17] One of the 35 was held over cultivating
-drug-containing plants. [@2,4,5,6,8,17] Officers recorded 56 drug offences in the period,
-35 of them classified as crimes. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
+drug-containing plants. [@2,4,5,6,8,17,20] Officers recorded 56 drug offences in the period,
+35 of them classified as crimes. [@3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
 
 The figures cover Kazakhstan as a whole. [@3,6] Officers seized more than 200 kg
-of drugs in total. [@1,4,6,7,8,9,10,12,14,15,16,17,18,19] Of that, 190 kg was marijuana and 4 kg hashish. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
-About 13 kg was synthetic drugs. [@1,4,5,6,7,8,10,11,12,16,17,18] Cannabis accounted for 194 kg of the more
+of drugs in total. [@1,4,6,7,8,9,10,12,14,15,16,17,18,19,20] Of that, 190 kg was marijuana and 4 kg hashish. [@1,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+About 13 kg was synthetic drugs. [@1,4,5,6,7,8,10,11,12,16,17,18,20] Cannabis accounted for 194 kg of the more
 than 200 kg seized. [@1] The ministry estimated the total at almost half a
 million single doses. [@2,4,5,7,8,10,15,16,17,18,19]
 
 The ministry presented the results as part of its continuing anti-drug work.
-[@2,4] The announcement also described arrests in Almaty, Shymkent and Pavlodar
+[@2,4,20] The announcement also described arrests in Almaty, Shymkent and Pavlodar
 involving ketamine, synthetic drugs, α-PVP and mephedrone. [@2,4,16,17,18]
