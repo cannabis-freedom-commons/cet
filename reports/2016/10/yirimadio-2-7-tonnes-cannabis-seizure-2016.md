@@ -1,22 +1,21 @@
 ---
 code: ET09AB
 added_at: "2026-11-04T20:51:49.204654Z"
-date: 2016-05-13
+date: 2016-10-20
 country: ml
 place: Yirimadio Kadobougou, Bamako
 coordinates: [12.6392, -8.0029]
 precision: locality
-type: seizure
-also: [arrest]
-title: At least 2 held as 2.7 tonnes of cannabis seized in Bamako
-summary: >-
-  Mali's Central Narcotics Office seized 1,505 bricks of cannabis weighing 2.7 tonnes in Yirimadio Kadobougou, Bamako, on 13 May 2016, arresting at least two suspects. The trailer load from Ghana, hidden as second-hand clothes and valued at about 100 million CFA francs, was described as a record seizure.
+type: arrest
+also: [seizure]
+title: Mastermind held after 2.7 tonnes of cannabis seized in Bamako
+summary: Mali's Central Narcotics Office arrested Moustaphe Doucouré, owner of the truck carrying 2.7 tonnes of cannabis seized at Yirimadio Kadobougou in May 2016, in Bamako in October 2016 with Interpol's help. The office called him the presumed head of the network; officers let him finish his 5 a.m. prayer at a mosque before arresting him.
 figures:
-  arrested: 2
-  kg_seized: 2700
-  value:
-    amount: 100000000
-    currency: XOF
+    arrested: 2
+    kg_seized: 2700
+    value:
+        amount: 100000000
+        currency: XOF
 details:
   activity: [trafficking]
   agency_types: [prosecutor]
@@ -68,26 +67,35 @@ sources:
     publisher: lexpress.mu
     date: 2016-05-19
     language: fr
+  - title: 'Mali : Saisie record de 2,7 tonnes de cannabis : Le cerveau présumé du réseau, Moustaphe Doucouré, aux arrêts'
+    url: https://maliactu.net/mali-saisie-record-de-27-tonnes-de-cannabis-le-cerveau-presume-du-reseau-moustaphe-doucoure-aux-arrets/
+    publisher: Mali Actu
+    date: 2016-10-27
+    language: fr
 open_questions:
-  - The exact total number of people arrested in Mali was not given beyond at least two, and the number arrested in Accra was not given.
-  - No charges, custody status or court outcome were reported beyond referral to the specialised judicial prosecutor and planned further hearings.
-  - The 100 million CFA francs market value is reported by RFI without a named valuing authority, so it is recorded as a reported value.
-  - The Maliweb page image is not established to show this seizure, so only the RFI photograph credited to the Central Narcotics Office is listed.
+    - The exact total number of people arrested in Mali was not given beyond at least two, and the number arrested in Accra was not given.
+    - No charges, custody status or court outcome were reported beyond referral to the specialised judicial prosecutor and planned further hearings.
+    - The 100 million CFA francs market value is reported by RFI without a named valuing authority, so it is recorded as a reported value.
+    - The Maliweb page image is not established to show this seizure, so only the RFI photograph credited to the Central Narcotics Office is listed.
+    - The 2016 account says only one person was arrested at the scene, a man who presented himself as the truck's second driver, while the report counts at least two arrests.
+    - The 2016 account gives the load as 1,500 bricks, while the OCS communiqué counted 1,505.
+    - The arrest of Moustaphe Doucouré is dated only as jeudi dernier in a 27 October 2016 article, suggesting 20 October but not stating the day.
+    - No charge or court outcome was reported for Moustaphe Doucouré after his arrest.
 ---
 
 The operation took place around 1 a.m. on Friday 13 May 2016. [@3] Officers
 intervened at Yirimadio Kadobougou in Bamako as the driver and his apprentices
-were unloading bags of drugs in an unfinished house. [@1] The intervention unit
+were unloading bags of drugs in an unfinished house. [@1,5] The intervention unit
 led by Captain Moussa Touré put the traffickers out of action at the scene. [@3]
 Ongoing inquiries led officers to arrest suspects believed to be involved in the
 international drug-trafficking network. [@1] At least two people were arrested
 in the operation. [@2,4] The suspects were to be taken before the prosecutor of
 the specialised judicial unit. [@3] Further hearings of the suspects arrested in
-Mali were expected that Thursday. [@2]
+Mali were expected that Thursday. [@2] The source said Doucouré had been moving between Dakar, Niamey and Bamako. [@5] At the time of publication he remained in the hands of investigators. [@5] Officers let Doucouré finish his 5 a.m. prayer at a mosque before arresting him. [@5] The office said it acted with Interpol and had arrested Doucouré as the presumed head of the network and owner of the truck containing the 2.7 tonnes of cannabis. [@5] Moustaphe Doucouré, the owner of the 2.7 tonnes of cannabis seized in May, was arrested in Bamako by Mali's Central Narcotics Office on the Thursday before the article's publication. [@5]
 
 Officers seized 1,505 bricks of cannabis, known in French as chanvre indien,
 weighing 2.7 tonnes in total. [@1,4] The cannabis was carried on a trailer truck
-from Ghana bound for Bamako. [@1,4] The truck had transited through Burkina Faso
+from Ghana bound for Bamako. [@1,4,5] The truck had transited through Burkina Faso
 and entered Mali in the south through Sikasso. [@2] The load was disguised as
 bales of second-hand clothes and hidden in a compartment fitted between the cab
 and the trailer. [@1,4] RFI reported the market value at about 100 million CFA
