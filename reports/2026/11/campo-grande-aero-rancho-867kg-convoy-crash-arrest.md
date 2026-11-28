@@ -106,6 +106,11 @@ sources:
     publisher: Primeira Página
     date: 2026-11-26
     language: pt
+  - title: Comboio com 867 kg de maconha acaba em acidente e três presos
+    url: https://www.douradosnews.com.br/noticias/cidades/2026/11/26/comboio-com-867-kg-de-maconha-acaba-em-acidente-e-tres-presos.html
+    publisher: Dourados News
+    date: 2026-11-26
+    language: pt
 open_questions:
   - No separate value for the cannabis was published; the battalion's estimate covered the drugs and the two vehicles together.
   - No formal charge, custody decision or court outcome beyond referral to Denar was reported.
@@ -117,29 +122,29 @@ open_questions:
 
 Three men aged 28, 36 and 48 were arrested in the Aero Rancho neighbourhood of
 Campo Grande on the morning of 26 November 2026 after a Fiat Argo carrying
-marijuana crashed during a police chase. [@1,6] The vehicles had left Ponta Porã,
+marijuana crashed during a police chase. [@1,6,7] The vehicles had left Ponta Porã,
 the Fiat Argo escorted by a Chevrolet Agile acting as a scout, after the Federal
-Highway Police shared information about them. [@1,6] The loaded car's driver
+Highway Police shared information about them. [@1,6,7] The loaded car's driver
 ignored a stop order at about 06:30 near Avenida Arquiteto Vila Nova Artigas,
 fled for roughly a kilometre and crashed at the junction of Ruas Carlos Drumond
-and Arquiteto Vila Nova Artigas. [@1,6] G1 reported that the pursuit ended when
+and Arquiteto Vila Nova Artigas. [@1,6,7] G1 reported that the pursuit ended when
 the car hit a hospital gate and a sugarcane-juice trailer. [@3] Residents told the outlet the trailer that was hit belonged to an elderly man who had died just over a year earlier and was up for sale. [@5] The footage showed the officers stopping beside the car and one of them opening its rear door as tablets of marijuana fell to the ground. [@5] Security-camera footage showed the car leaving Rua Carlos Drummond de Andrade and turning into Avenida Arquiteto Vila Nova Artigas before mounting the pavement of the Hospital Regional de Mato Grosso do Sul and hitting a garapa trailer. [@5]
 
 Officers found 801 tablets of marijuana in the passenger compartment and boot of
-the Fiat Argo, a load that totalled 867 kilograms. [@2,6] The load was spread loose through the vehicle, a method the outlet described with the local term cavalo doido. [@5] A second team stopped
+the Fiat Argo, a load that totalled 867 kilograms. [@2,6,7] The load was spread loose through the vehicle, a method the outlet described with the local term cavalo doido. [@5] A second team stopped
 the Chevrolet Agile and found a Starlink satellite internet antenna used to keep
-in contact during the journey. [@1,6] The Agile driver, 48-year-old Euler Lucas da
+in contact during the journey. [@1,6,7] The Agile driver, 48-year-old Euler Lucas da
 Silva, said he had received 2,000 reais to collect the Fiat Argo in Ponta Porã
 and accompany it to Campo Grande. [@1,6] The Fiat Argo driver, 28-year-old
 Fernando de Oliveira Schmitt, confessed he would receive 15,000 reais to carry
 the drugs from Ponta Porã to Campo Grande and knew about the escort car. [@1,6]
 Police also found signs of tampering with the Fiat Argo's chassis number, which
-differed between the floor and the windows and plate. [@1,6] The other occupant of
-the Agile said he owned the car and chose to remain silent. [@4]
+differed between the floor and the windows and plate. [@1,6,7] The other occupant of
+the Agile said he owned the car and chose to remain silent. [@4,7]
 
 All three men were taken with the 867 kilograms, the two cars and the
 communication equipment to Denar, the specialist narcotics-repression police
-station. [@1,6] The Federal Highway Police's special operations unit had
+station. [@1,6,7] The Federal Highway Police's special operations unit had
 identified the convoy moving on the BR-060 and passed the information to the
 shock battalion. [@3,6] RCN67 reported that the incident was recorded at about
 06:30 in the Aero Rancho area. [@4]
