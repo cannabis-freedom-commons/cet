@@ -50,20 +50,23 @@ sources:
     url: https://petra.gov.jo/en/news/police-arrest-26-in-eight-drug-cases-nationwide
     publisher: The Jordan News Agency (Petra)
     date: 2026-09-02
+  - title: Police Arrest 26 in Eight Drug Cases Nationwide
+    url: https://petra.gov.jo/ar/index.php/en/news/police-arrest-26-in-eight-drug-cases-nationwide
+    publisher: The Jordan News Agency (Petra)
+    date: 2026-09-02
 open_questions:
-  - The statement says the casework ran over the preceding days but gives no separate date for each operation, so 2 September 2026, the date of the Petra release, stands in for the incident date.
-  - Hashish is counted in slabs (كف, a pressed slab), and no source gives a weight for any hashish, so no kilogram figure is used for it.
-  - The 240-slab Southern Region case and the smaller Amman and Madaba seizures are stated as slabs only, with no street value or weight published.
-  - No names, charges, value estimates or court outcomes were published for any of the eight cases.
-  - The Aqaba campaign seized only 'scattered quantities of narcotics' without specifying whether any of it was cannabis, so no cannabis figure is taken from that case.
-  - The roundup also reports crystal methamphetamine, narcotic pills and firearms, which are not cannabis and are left out of the cannabis figures.
-  - The whole account rests on the Public Security Directorate statement as carried by Petra and Saraya News; no independent reporting of the raids was found.
-  - The text gives a weight ("11 kilograms") but the figures have no kg_seized; check whether it belongs there.
+    - The statement says the casework ran over the preceding days but gives no separate date for each operation, so 2 September 2026, the date of the Petra release, stands in for the incident date.
+    - Hashish is counted in slabs (كف, a pressed slab), and no source gives a weight for any hashish, so no kilogram figure is used for it.
+    - The 240-slab Southern Region case and the smaller Amman and Madaba seizures are stated as slabs only, with no street value or weight published.
+    - No names, charges, value estimates or court outcomes were published for any of the eight cases.
+    - The Aqaba campaign seized only 'scattered quantities of narcotics' without specifying whether any of it was cannabis, so no cannabis figure is taken from that case.
+    - The roundup also reports crystal methamphetamine, narcotic pills and firearms, which are not cannabis and are left out of the cannabis figures.
+    - The whole account rests on the Public Security Directorate statement as carried by Petra and Saraya News; no independent reporting of the raids was found.
 ---
 
 Jordan's Public Security Directorate said its Anti-Narcotics Department officers
 dealt with eight drug cases over the preceding days, arresting 26 smugglers,
-dealers and pushers and seizing large quantities of narcotics and firearms. [@1,3]
+dealers and pushers and seizing large quantities of narcotics and firearms. [@1,3,4]
 Saraya News carried the same Public Security Directorate statement on the same
 day, reporting the eight cases and the 26 arrests. [@2]
 
@@ -71,7 +74,7 @@ The most prominent case was in Jordan's Southern Region, where two men linked to
 regional drug-smuggling gangs were raided while moving a large quantity of
 hashish from the south towards Madaba Governorate. [@1,3] Officers seized 240
 slabs of hashish and 11 kilograms of crystal methamphetamine from the two
-Southern Region smugglers. [@1,3]
+Southern Region smugglers. [@1,3,4]
 
 Two security campaigns in the Al-Ruwaished district arrested 11 wanted and
 suspicious people and drug dealers, and officers seized 33,000 narcotic pills
@@ -79,9 +82,9 @@ and 12 firearms. [@1,3] A security campaign in Aqaba Governorate against drug
 dealers and pushers led to five arrests, with scattered quantities of narcotics
 seized. [@1,3] In the capital Amman, officers raided a crystal methamphetamine
 pusher and seized half a kilogram of the drug, then raided a second pusher and
-seized four slabs of hashish and a firearm. [@1,3]
+seized four slabs of hashish and a firearm. [@1,3,4]
 
 In Irbid Governorate two pushers were arrested with 250 grams of crystal
 methamphetamine. [@1,3] In Madaba Governorate officers seized nine slabs of
-hashish from two drug pushers. [@1,3] In the final case, officers raided two drug
+hashish from two drug pushers. [@1,3,4] In the final case, officers raided two drug
 dealers in the Southern Badia and arrested them with 6,000 narcotic pills. [@1,3]
