@@ -95,6 +95,11 @@ sources:
     publisher: Pune Prime News
     date: 2026-11-26
     language: mr
+  - title: पुणे शहर पोलीस आणि शिरूर पोलिसांची थरारक कारवाई ; २५० किलो गांजा जप्त
+    url: https://mahanews.live/60696/
+    publisher: Maha News Live
+    date: 2026-11-26
+    language: mr
 media:
   - kind: photo
     url: https://pudhari.news/maharashtra/pune/shirur-police-seize-250-kg-ganja-worth-1-52-crore-sk04
@@ -133,7 +138,7 @@ open plot near Datt Mandir opposite the Satyabhama Niwas building in State Bank
 Colony. [@3,5,7,11] A case was registered against both men at Shirur Police Station,
 and further investigation is under way. [@3]
 
-During a search of the vehicle, police recovered 250 kg of ganja. [@3,5,6,8,10,11] Officials
+During a search of the vehicle, police recovered 250 kg of ganja. [@3,5,6,8,10,11,13] Officials
 announcing the seizure on Thursday said a sports utility vehicle was also seized
 with the ganja in Pune district. [@1,7] Police valued the seized ganja at Rs 1.25
 crore. [@2,4,7,10] Police also seized a Mahindra XUV 700 worth Rs 25 lakh and two
@@ -144,6 +149,6 @@ A team led by Police Inspector Jeevan Mane had been patrolling in the Loni
 Kalbhor police station area when it spotted a speeding white car near Kunjir
 Lawns and signalled it to stop, but the driver sped toward Solapur. [@3,10] The operation was carried out by a team led by Police Inspector Jeevan Mane, along with Assistant Police Inspectors Afroz Pathan and Nitinkumar Naik and other personnel of Anti-Narcotics Squad-II. [@4,10] The operation was carried out under the guidance of Pune city police Deputy Commissioner Gohar Hasan. [@11] The
 team pursued the car into the Yavat police station area with local help and an
-alert to the Pune Rural Police Control Room that it was heading for Shirur. [@3] Shirur police had received a tip that a large quantity of ganja was being moved by vehicle at night, and set up blockades at Nimone and in the Shirur town area. [@12]
+alert to the Pune Rural Police Control Room that it was heading for Shirur. [@3] Police described the operation as a joint action by teams of the Pune City and Shirur police. [@13] Shirur police had received a tip that a large quantity of ganja was being moved by vehicle at night, and set up blockades at Nimone and in the Shirur town area. [@12,13] The tip came at midnight and said the vehicle was heading from the Yavat side towards Shirur. [@13]
 Police did not say where the ganja was procured or where it was being taken.
 [@3,12] Loksatta reported that the two men had brought the ganja from Odisha to sell in Pune. [@10,11]
