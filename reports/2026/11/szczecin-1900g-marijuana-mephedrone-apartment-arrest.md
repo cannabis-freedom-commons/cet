@@ -63,6 +63,11 @@ media:
     media_url: https://radioszczecin.pl/serwis_informacyjny/pliki/2026/thumb_960_0/2026-11-26_179568368510.jpg
     publisher: Radio Szczecin
     caption: 'Szczecin city police handout photo published with the report of the flat search and drug seizure. Photo: KMP w Szczecinie'
+  - kind: photo
+    url: https://szczecin.tvp.pl/96698508/szczecin-policja-zabezpieczyla-ponad-2-kg-narkotykow-mezczyzna-aresztowany
+    media_url: https://s1.tvp.pl/images2/a/3/c/uid_a3cc832865e54ab88076ca2d52d689da_width_900_play_0_pos_0_gs_0_height_506.jpg
+    publisher: TVP Szczecin
+    caption: 'Szczecin city police photograph of the drugs and packing equipment seized in the flat. Photo: KMP Szczecin'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: 05127985743b92cf72b2f43046b416b4
@@ -83,6 +88,11 @@ sources:
     publisher: Radio Szczecin
     date: 2026-11-26
     language: pl
+  - title: Ponad 2 kg narkotyków przejęte. Podejrzany trafił do aresztu
+    url: https://szczecin.tvp.pl/96698508/szczecin-policja-zabezpieczyla-ponad-2-kg-narkotykow-mezczyzna-aresztowany
+    publisher: TVP Szczecin
+    date: 2026-11-26
+    language: pl
 open_questions:
     - The accounts give no date for the search, the arrest or the detention decision; 26 November 2026 is their publication date and is used as the incident date.
     - No figure was published for the cash seized or its currency, or for the number and exact types of the packing items.
@@ -95,12 +105,12 @@ open_questions:
 ---
 
 Officers of the drug-crime unit of the Szczecin city police headquarters
-searched a man's flat in the city. [@1,3] In the flat they seized more than 1,900
+searched a man's flat in the city. [@1,3,4] In the flat they seized more than 1,900
 grams of marijuana, more than 30 grams of mephedrone and more than 20 grams of
-cocaine. [@1,3] They also found objects that could be used to portion and pack
-drugs, a mobile phone and cash. [@1,3] Police also secured an electronic scale and
-a heat sealer. [@1,3]
+cocaine. [@1,3,4] They also found objects that could be used to portion and pack
+drugs, a mobile phone and cash. [@1,3,4] Police also secured an electronic scale and
+a heat sealer. [@1,3,4]
 
 Prosecutors charged the man with putting significant quantities of intoxicating
-substances into circulation. [@1,3] At the prosecutor's request, a court ordered
-three months of pre-trial detention for him. [@2,3]
+substances into circulation. [@1,3,4] At the prosecutor's request, a court ordered
+three months of pre-trial detention for him. [@2,3,4]
