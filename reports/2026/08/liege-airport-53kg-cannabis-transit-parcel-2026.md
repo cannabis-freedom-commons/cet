@@ -38,27 +38,30 @@ sources:
     publisher: Qu4tre Liège Média
     date: 2026-11-25
     language: fr
+  - title: Un colis en transit contenant plus de 52 kilos de cannabis intercepté à l’aéroport
+    url: https://www.todayinliege.be/un-colis-en-transit-contenant-plus-de-de-52-kilos-de-cannabis-intercepte-a-laeroport/
+    publisher: TodayInLiege
+    date: 2026-11-26
+    language: fr
 open_questions:
-  - No arrests, named suspects, consignors or consignees were reported; identifying the people involved is left to the continuing inquiry.
-  - No street value or estimated value of the seized cannabis was published.
-  - The account rests on a single outlet report; no agency statement or second outlet account was found.
+    - No arrests, named suspects, consignors or consignees were reported; identifying the people involved is left to the continuing inquiry.
+    - No street value or estimated value of the seized cannabis was published.
 ---
 
 On 6 August 2026, a quantity of 53.62 kg of cannabis herb was discovered inside
-the FedEx facilities at Bierset. [@1] The parcel holding the cannabis was moving
+the FedEx facilities at Bierset. [@1,2] The information on the discovery came from the Liège prosecutor's office. [@2] The parcel holding the cannabis was moving
 in transit through Liège Airport when the find was made. [@1] The consignment
 had been dispatched from the United States, where the transit journey began.
-[@1] It was addressed for onward delivery to a destination in the Netherlands.
-[@1]
+[@1,2] It was addressed for onward delivery to a destination in the Netherlands.
+[@1,2]
 
 The cannabis had been hidden inside the shipment beneath the outward appearance
 of lawful merchandise. [@1] The concealment used what is described as the
 cover-goods technique, in which illicit products are camouflaged within an
-apparently ordinary consignment. [@1] The authorities seized the cannabis in the
-form of 90 separate sachets found in the shipment. [@1] Those sachets together
+apparently ordinary consignment. [@1,2] The authorities seized the cannabis in the
+form of 90 separate sachets found in the shipment. [@1,2] Those sachets together
 weighed 53.62 kg, which is the full weight reported for the seizure. [@1]
 
 A judicial inquiry is still under way to establish the exact circumstances of
-the facts. [@1] The same inquiry must still identify the people involved in the
-shipment. [@1]
-
+the facts. [@1,2] The same inquiry must still identify the people involved in the
+shipment. [@1,2]
