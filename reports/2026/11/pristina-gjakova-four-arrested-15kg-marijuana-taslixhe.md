@@ -251,6 +251,15 @@ sources:
     url: https://periskopi.com/en/2026/11/people-arrested-narcotics-pristina-gjakova-mutivoda-border-crossing-14-kilograms-marijuana-seized
     publisher: Periskopi
     date: 2026-11-21
+  - title: Die Staatsanwaltschaft legte Einzelheiten zu der Aktion vor, bei der 15 Kilogramm Drogen beschlagnahmt und 4 Personen festgenommen wurden.
+    url: https://reporteri.net/de/lajme/prokuroria-me-detaje-per-aksionin-ku-u-sekuestruan-15-kilograme-narkotike-dhe-u-ndaluan-4-persona/
+    publisher: Gazeta Online Reporteri.net
+    date: 2026-11-21
+    language: de
+open_questions:
+  - The prosecution's account gives no date for the raids, which were reported only on 20 and 21 November 2026.
+  - No weight was given for the four bags of suspected hashish (chocolate) seized alongside the marijuana.
+  - Whether the court granted the prosecution's request for pre-trial detention was not reported.
 ---
 
 Kosovo police arrested four people suspected of drug trafficking in an operation
@@ -269,3 +278,5 @@ further about the suspected offences or the next steps in the case. [@1,8,9] Sve
 described the operation as part of the institutions' continuing fight against
 organised crime and drug trafficking. [@1,8,9,10,20] He said the security institutions
 would keep acting to guarantee the rule of law throughout Kosovo. [@2,9,35]
+
+The Basic Prosecution in Pristina said officers seized 15.443 kg of suspected marijuana, 1.7 g of suspected cocaine, four bags of suspected hashish, two cars, two firearms, 62 cartridges of different calibres, four phones and more than 9,000 euros in cash in raids at various locations. [@44] The prosecution said three of the four were suspected of unauthorised purchase, possession, distribution and sale of narcotics, two of them also of unauthorised possession or carrying of weapons, and the fourth of assisting the offenders after the crime. [@44] The state prosecutor asked the court to order pre-trial detention of the defendants to secure their presence in the criminal proceedings. [@44]
