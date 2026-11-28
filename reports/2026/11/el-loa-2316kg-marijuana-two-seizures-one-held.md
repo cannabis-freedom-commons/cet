@@ -80,6 +80,11 @@ sources:
     publisher: 24horas
     date: 2026-11-25
     language: es
+  - title: Incautan más de 2,3 toneladas de marihuana en El Loa
+    url: https://www.fmplus.cl/categoria/region-antofagasta/incautan-23-toneladas-marihuana-loa
+    publisher: FM Plus
+    date: 2026-11-26
+    language: es
 open_questions:
     - The investigation period is given as 100 days by El Nortero and Veredictum and as 120 days by other accounts.
     - El Nortero and Veredictum put the Calama truck seizure first, on Sunday, and the minibus seizure in the early hours of Monday, while other coverage describes both as on Sunday and puts the minibus first; the report keeps 22 November as the incident date.
@@ -89,28 +94,28 @@ open_questions:
 ---
 
 Carabineros seized 2,316 kilos and 100 grams of processed marijuana in two
-procedures carried out on Sunday 22 November in El Loa province. [@1,2,3,5,6,8] The
+procedures carried out on Sunday 22 November in El Loa province. [@1,2,3,5,6,8,9] The
 operations also led to the detention of one man and were part of a deployment
 against drug trafficking and organized crime. [@1,2,3,5] The results were announced in
 Calama by Carabineros Director General Marcelo Araya with acting Regional
 Prosecutor Ricardo Peña Martínez and El Loa provincial delegate Cristian
 Ramírez. [@1,2,3] Director General Marcelo Araya called the result "a great blow to organized crime" and said every effort was being made to stop the drug being marketed and reaching the main distribution centres. [@4] The truck operation ended with the detention of a 34-year-old man
-who was in an irregular migration situation. [@1,2,3,4] The detained man was Colombian, and the Public Prosecutor's Office formalised him. [@5,7] The detained man was placed in
-preventive detention while the court set a 120-day investigation period. [@1,2,3,4,6]
+who was in an irregular migration situation. [@1,2,3,4,9] The detained man was Colombian, and the Public Prosecutor's Office formalised him. [@5,7] The detained man was placed in
+preventive detention while the court set a 120-day investigation period. [@1,2,3,4,6,9]
 
 The first operation was carried out by officers of the Ascotán post during
 preventive patrols and border surveillance on Route 21-CH. [@1,2,3] The minibus was found at kilometre 95 of Route 21-CH. [@7] Officers seized
 1,590 kilos and 500 grams of processed marijuana from a minibus in that
-procedure. [@1,2,3,4,5,7] The minibus driver abandoned the vehicle after evading the
-police check. [@1,2,3,4,7] The prosecutor's office said no one was detained in the Ruta 21-CH procedure. [@6] The second procedure was led by Carabineros of the OS7 El Loa
+procedure. [@1,2,3,4,5,7,9] The minibus driver abandoned the vehicle after evading the
+police check. [@1,2,3,4,7,9] The prosecutor's office said no one was detained in the Ruta 21-CH procedure. [@6] The second procedure was led by Carabineros of the OS7 El Loa
 section in coordination with the Public Prosecutor's Office. [@1,2,3,4] Officers
 seized 725 kilos and 600 grams of processed marijuana being transported in a
-truck. [@1,2,3,4,5,6,7] The truck seizure took place in Calama. [@2,3,4,6,7] The Calama load had come from Bolivia and was to be delivered in the city. [@7]
+truck. [@1,2,3,4,5,6,7] The truck seizure took place in Calama. [@2,3,4,6,7,9] The Calama load had come from Bolivia and was to be delivered in the city. [@7]
 
 According to the acting regional prosecutor, both loads were to be stored in the
 Antofagasta region for later distribution to different parts of the country.
-[@1,2,3,6,8] With these procedures Carabineros reaches 51,229 kilos and 843 grams of
-various drugs seized during 2026 in the Antofagasta region. [@1,3] That figure
+[@1,2,3,6,8,9] With these procedures Carabineros reaches 51,229 kilos and 843 grams of
+various drugs seized during 2026 in the Antofagasta region. [@1,3,9] That figure
 exceeds the 29,293 kilos and 57 grams seized in all of 2025, an increase of
 74.9%. [@1,3] The director general said the northern macrozone accounts for 75% of
 the approximately 85 tonnes of drugs seized by Carabineros nationally this year.
