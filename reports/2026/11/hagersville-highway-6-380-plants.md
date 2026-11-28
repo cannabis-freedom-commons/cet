@@ -77,30 +77,35 @@ sources:
     url: https://www.cp24.com/local/hamilton/2026/11/26/more-than-425k-in-illegal-cannabis-seized-in-hagersville/
     publisher: CP24
     date: 2026-11-26
+  - title: 'Hagersville Cannabis Charges: Ontario''s Home-Grow Limits Explained'
+    url: https://www.ullaw.ca/news/hagersville-illegal-cannabis-charges-opp
+    publisher: UL Lawyers
+    date: 2026-11-26
 open_questions:
-  - The sources give the value only as more than $425,000 and do not state whether it covers the vehicle valued separately at about $40,000 or proceeds of crime.
-  - The currency is reported only as a dollar sign; Canadian dollars are assumed for this Ontario police estimate.
-  - No court outcome beyond the scheduled 9 February 2026 appearance at the Ontario Court of Justice in Cayuga was reported.
+    - The sources give the value only as more than $425,000 and do not state whether it covers the vehicle valued separately at about $40,000 or proceeds of crime.
+    - The currency is reported only as a dollar sign; Canadian dollars are assumed for this Ontario police estimate.
+    - No court outcome beyond the scheduled 9 February 2026 appearance at the Ontario Court of Justice in Cayuga was reported.
+    - The specific fire and safety hazards that led the fire marshal to advise against residential use were not described.
 ---
 
 Two people were charged after Ontario Provincial Police dismantled an illegal
-cannabis production site in Haldimand County. [@2] The production facility was
-on Highway 6 in Hagersville. [@2] The search warrant was executed on Thursday 12
+cannabis production site in Haldimand County. [@2,4] The production facility was
+on Highway 6 in Hagersville. [@2,4] The search warrant was executed on Thursday 12
 November 2026. [@2] Van Dang Duong, 65, of North York, and Thi Be Tran, 56, of
 Hagersville, were each charged with cultivating or producing cannabis without
-authorization and possession of cannabis for the purpose of distribution. [@1,3]
+authorization and possession of cannabis for the purpose of distribution. [@1,3,4]
 They were scheduled to appear before the Ontario Court of Justice in Cayuga on 9
 February. [@2]
 
 Officers seized 380 illegal cannabis plants, one kilogram of dried cannabis and
-a vehicle valued at about $40,000 as offence-related property. [@2] Police
-estimated the value of the drugs at more than $425,000. [@1,3] Police confirmed
+a vehicle valued at about $40,000 as offence-related property. [@2,4] Police
+estimated the value of the drugs at more than $425,000. [@1,3,4] Police confirmed
 the operators were cultivating cannabis without valid authorization from Health
-Canada. [@1,3]
+Canada. [@1,3,4]
 
 The operation involved the OPP Provincial Joint Forces Cannabis Enforcement
 Team, the OPP Emergency Response Team, the OPP Canine Unit, the Norfolk
 County/Haldimand County OPP Community Street Crime Unit and Peel Regional
 Police. [@2] The investigation had begun in March. [@2] Police reported fire and
 safety concerns, and on the advice of the Office of the Fire Marshal the
-buildings were not to be used for residential purposes. [@2,3]
+buildings were not to be used for residential purposes. [@2,3,4]
