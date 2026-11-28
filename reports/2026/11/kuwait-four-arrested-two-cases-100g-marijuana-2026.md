@@ -50,6 +50,11 @@ sources:
     url: https://kuwaittimes.com/article/54295/kuwait/police-seize-drugs-alcohol-and-illegal-slaughterhouse-in-separate-raids/
     publisher: Kuwait Times
     date: 2026-11-25
+  - title: ലഹരി വസ്തുകൾ പിടിച്ചെടുത്തു, അനധികൃത അറവുശാല കണ്ടെത്തി; സുരക്ഷ പരിശോധന തുടരുന്നു
+    url: https://www.madhyamam.com/gulf-news/kuwait/authorities-seize-drugs-uncover-illegal-slaughterhouse-amid-ongoing-checks-1575963
+    publisher: Madhyamam
+    date: 2026-11-26
+    language: ml
 open_questions:
   - No date is given for the arrests; 24 November 2026, the date of the ministry's announcement, is used as the incident date.
   - The ministry gave the marijuana as a total for the two cases and did not say which case or suspect it belonged to.
@@ -62,19 +67,18 @@ open_questions:
 
 Kuwait's Interior Ministry said its Criminal Security Sector, acting through the
 General Department for Drug Control, arrested four men in two separate cases.
-[@1] The four suspects were one Pakistani national and three Bangladeshi
+[@1,4] The four suspects were one Pakistani national and three Bangladeshi
 nationals. [@2] The ministry said they held narcotic and psychotropic substances
 with intent to traffic and use them. [@1]
 
 The ministry gave the quantities as a total for the two cases. [@1] The total
-included 100 grams of marijuana. [@1] Officers also seized 1.65 kilograms of
-shabu and 1 kilogram of heroin. [@1] Shabu is crystal methamphetamine. [@3] The
+included 100 grams of marijuana. [@1,4] Officers also seized 1.65 kilograms of
+shabu and 1 kilogram of heroin. [@1,4] Shabu is crystal methamphetamine. [@3] The
 haul also included 600 sheets soaked in a substance called chemical and three
-precision scales. [@1] The marijuana was the only cannabis product in the list
+precision scales. [@1,4] The marijuana was the only cannabis product in the list
 of seizures. [@1] Arab Times described the 600 sheets as synthetic cannabinoids.
 [@2]
 
 The ministry said the arrests were part of continuing security operations
 against drug trafficking. [@2] It said the suspects and the seized items were
 referred to the competent authority for the legal measures required. [@1]
-
