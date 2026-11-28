@@ -59,6 +59,11 @@ sources:
     publisher: El Popular
     date: 2026-11-26
     language: es
+  - title: Aseguran 205 vapeadores en la Aduana de Ciudad Juárez; 105 tenían presunta marihuana
+    url: https://www.msn.com/es-mx/noticias/otras/aseguran-205-vapeadores-en-la-aduana-de-ciudad-ju%C3%A1rez-105-ten%C3%ADan-presunta-marihuana/ar-AA2iiRox
+    publisher: Tus Buenas Noticias
+    date: 2026-11-26
+    language: es
 open_questions:
     - No separate date is given for the inspection; 25 November 2026 is the article's publication date.
     - No laboratory result or weight was reported for the 105 vapes described as containing alleged marijuana; the article calls the substance cannabis-derived but does not say whether it was plant-derived or synthetic.
@@ -88,16 +93,16 @@ media:
 ---
 
 Customs staff at Ciudad Juárez referred a vehicle arriving from El Paso, Texas,
-to an inspection bay. [@1,2,3] The vehicle was driven by a woman travelling with a
+to an inspection bay. [@1,2,3,6] The vehicle was driven by a woman travelling with a
 minor. [@1,2,5] The authorities sent the case to the competent authorities for proceedings against the driver. [@3] The woman driving the vehicle was detained. [@3] The minor received attention under the protocols of the
 participating institutions. [@1]
 
 The Agencia Nacional de Aduanas de México (ANAM), with the Guardia Nacional and
 the Secretaría de Seguridad y Protección Ciudadana, seized the devices at Ciudad
-Juárez customs. [@1,2,3,4,5] Non-intrusive inspection equipment and a physical search
-found two boxes holding the devices. [@1,5] The devices were hidden inside assembled golden festive spheres designed to disguise their contents and commercial packing boxes. [@4] One box held 105 vapes with alleged
+Juárez customs. [@1,2,3,4,5,6] Non-intrusive inspection equipment and a physical search
+found two boxes holding the devices. [@1,5,6] The devices were hidden inside assembled golden festive spheres designed to disguise their contents and commercial packing boxes. [@4] One box held 105 vapes with alleged
 marijuana and the other 100 conventional e-cigarettes, for 205 devices in all.
-[@1,2,3,4,5] The find was made at the Puente Internacional Reforma during checks on
+[@1,2,3,4,5,6] The find was made at the Puente Internacional Reforma during checks on
 goods entering Mexico. [@1,4,5]
 
 Mexico prohibits the import of e-cigarettes, vapes and similar devices on
