@@ -66,29 +66,35 @@ sources:
     url: https://www.lokmattimes.com/mumbai/mumbai-police-seize-charas-worth-rs-1220-crore-at-kurla-ltt-2-arrested-a517/
     publisher: Lokmat Times
     date: 2026-11-27
+  - title: चेंबूरमध्ये बारा कोटींचे अमली पदार्थ जप्त; दोघांना अटक
+    url: https://www.loksatta.com/mumbai/mumbai-chembur-charas-seizure-two-arrested-anc-mumbai-print-news-sap-05-6277270/
+    publisher: Loksatta
+    date: 2026-11-27
+    language: mr
 open_questions:
-  - The operation is placed on the intervening night of 24 and 25 November 2026; the Free Press Journal dates it to 24 November, and 25 November is used as the date the case was registered.
-  - Police estimates of the market value differ, at ₹12.20 crore in The Hindu, Free Press Journal and Lokmat Times and ₹1.22 crore in Mid-Day and Daijiworld.
-  - The two arrested men were not named; only their ages, 20 and 21, were reported.
-  - No charge sheet, court appearance or detention order was reported, and the case was at the investigation stage.
-  - 'The supervising officers are described differently: The Hindu names DCP (ANC) Pournima Chougule-Shringi, while the Free Press Journal names Inspector Sachin Patil as ACP (additional charge) of the ANC.'
-  - No information was published on where the charas came from or where it was to be delivered.
-  - Lokmat Times also reported an earlier ANC seizure of 10 kg of charas near Bandra Terminus on 18 August 2026, a separate event not covered here.
+    - The operation is placed on the night of 24-25 November 2026; the Marathi account reports a Tuesday-night patrol on 24 November, the Free Press Journal also dates the action to 24 November, and 25 November is used as the date the case was registered.
+    - Police estimates of the market value differ, at ₹12.20 crore in The Hindu, Free Press Journal, Lokmat Times and Loksatta and ₹1.22 crore in Mid-Day and Daijiworld.
+    - The two arrested men were not named; only their ages, 20 and 21, were reported.
+    - No charge sheet, court appearance or detention order was reported, and the case was at the investigation stage.
+    - 'The supervising officers are described differently: The Hindu names DCP (ANC) Pournima Chougule-Shringi, while the Free Press Journal names Inspector Sachin Patil as ACP (additional charge) of the ANC.'
+    - The accounts do not say where the consignment was to be delivered.
+    - The Marathi account calls the pair habitual offenders, but no earlier cases or convictions were reported.
+    - Lokmat Times also reported an earlier ANC seizure of 10 kg of charas near Bandra Terminus on 18 August 2026, a separate event not covered here.
 ---
 
 The Worli unit of the Mumbai Crime Branch's Anti-Narcotics Cell arrested two men
 at Lokmanya Tilak Terminus in Kurla during an operation on the night of 24-25
-November 2026. [@1] The two arrested were aged 20 and 21, and police did not
+November 2026. [@1,6] The two arrested were aged 20 and 21, and police did not
 disclose their names. [@2] Officers carrying out surveillance across Mumbai
-spotted the pair moving suspiciously at the terminus and intercepted them. [@1]
-Police recovered 12.2 kg of charas, a cannabis resin, from the pair. [@3]
+spotted the pair moving suspiciously at the terminus and intercepted them. [@1,6]
+Police recovered 12.2 kg of charas, a cannabis resin, from the pair. [@3,6]
 
 A case was registered on 25 November under Sections 8(c), 20(c) and 29 of the
 Narcotic Drugs and Psychotropic Substances Act, 1985. [@1] The case was linked
 to a First Information Report at Tilak Nagar police station. [@2] During the
 investigation the accused disclosed other suspected links in the drug supply
-network, and a police team was sent to Uttar Pradesh. [@1] The ANC's Worli unit
-called the pair suspected drug traffickers. [@5]
+network, and a police team was sent to Uttar Pradesh. [@1,6] Police said the two men admitted during questioning that they had brought the seized drugs from Uttar Pradesh. [@6] The ANC's Worli unit
+called the pair suspected drug traffickers. [@5,6]
 
 The operation was supervised by Deputy Commissioner of Police (ANC) Pournima
 Chougule-Shringi and led by Senior Police Inspector Santosh Salunkhe, with
@@ -97,4 +103,3 @@ operation was conducted under the guidance of Police Commissioner Deven Bharti,
 Joint Commissioner of Police (Crime) Anil Kumbhare and Additional Commissioner
 of Police (Crime) Krishna Kant Upadhyay. [@4] Further investigation was under
 way. [@1]
-
