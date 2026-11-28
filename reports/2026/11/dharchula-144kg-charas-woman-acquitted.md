@@ -53,24 +53,31 @@ sources:
     url: https://timesofindia.indiatimes.com/city/dehradun/nepalese-woman-acquitted-in-charas-smuggling-case-after-5-years/articleshow/136109756.cms
     publisher: The Times of India
     date: 2026-11-23
+  - title: 'हाईकोर्ट ने चरस मामले में महिला को बरी किया: निचली अदालत की 20 साल की सजा रद्द; तलाशी से पहले मजिस्ट्रेट या राजपत्रित अधिकारी का विकल्प नहीं दिया गया'
+    url: https://www.bhaskar.com/local/uttarakhand/nainital/news/uttarakhand-high-court-acquits-woman-charas-smuggling-case-139776906.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-23
+    language: hi
+  - title: Anushka Budhathoki vs State of Uttarakhand
+    url: https://courtkutchehry.com/judgments/anushka-budhathoki-vs-state-of-uttarakhand
+    publisher: CourtKutchehry
+    date: 2026-11-20
 open_questions:
-    - No separate judgment date is given for the acquittal, so the 23 November 2026 publication date is used as the incident date.
     - No age, residence or custody history beyond the 2021 arrest and August 2023 sentence was published for the acquitted woman.
-    - No forensic laboratory detail beyond identification of the strips as charas was published.
     - Whether the prosecution will appeal the acquittal was not reported.
-    - The second judge's name is given as Siddharth Shah in the original account and Siddhartha Sah in the new one.
-    - An unrelated property case involving Haridwar temple-society petitioners on the original source page is left out of this report.
+    - The second judge's name is given as Siddharth Shah in the ETV Bharat account and Siddhartha Sah in the High Court judgment and Dainik Bhaskar.
+    - An unrelated property case involving Haridwar temple-society petitioners on the ETV Bharat page is left out of this report.
 ---
 
 The Uttarakhand High Court set aside a 20-year rigorous-imprisonment term for
 1.44 kg of charas and acquitted Anushka Budhathoki, ordering her immediate
-release. [@1,2] The acquitted woman was Nepalese. [@2] A division bench of Justice Ravindra Maithani and Justice
-Siddharth Shah delivered the verdict. [@1,2]
+release. [@1,2,3] The acquitted woman was Nepalese. [@2] A division bench of Justice Ravindra Maithani and Justice
+Siddharth Shah delivered the verdict. [@1,2,3] The appeal was Criminal Appeal No. 704 of 2023. [@4] The judgment was delivered on 20 November 2026. [@4]
 
 On 7 April 2021 SSB personnel posted at Dharchula bridge on the India-Nepal
 border stopped a woman at about 11:50 a.m. [@1,2] Officers saw something tied to
 her body, and a search recovered brown-black charas strips weighing 1.44 kg.
-[@1,2] She was arrested under sections 8/20 of the NDPS Act. [@1,2] In August 2023
+[@1,2] The judgment records that a Forensic Science Laboratory report confirmed the recovered strips tested positive for charas. [@4] She was arrested under sections 8/20 of the NDPS Act. [@1,2] In August 2023
 the Pithoragarh special NDPS sessions judge sentenced her under section
 20(b)(ii)(c) to 20 years in prison and a 1.5 lakh rupee fine. [@1,2] The trial court judgment was delivered on 10 August 2023. [@2] The sentence
 provided for five more years in prison if the fine was not paid. [@1,2]
@@ -78,7 +85,7 @@ provided for five more years in prison if the fine was not paid. [@1,2]
 The High Court found the search team already knew before the search that the
 woman was carrying charas. [@1,2] Statements of PW-1, PW-6 and Commandant PW-7
 made that prior knowledge clear. [@1] Despite that, she was not offered the
-option of being searched before a magistrate or gazetted officer. [@1,2] The court
+option of being searched before a magistrate or gazetted officer. [@1,2,3] The court
 called this a complete violation of section 50 of the NDPS Act that vitiated
 both the recovery and the sentence. [@1,2] The judgment cited the Supreme Court's
 Vijaysinh Chandubha Jadeja v. State of Gujarat (2011), treating section 50(1) as
