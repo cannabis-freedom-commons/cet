@@ -59,6 +59,11 @@ sources:
     publisher: Cedar News
     date: 2026-11-21
     language: hi
+  - title: 41.5 किलो गांजे के साथ तीन गिरफ्तार
+    url: https://www.bhaskar.com/local/bihar/rohtas/dawath/news/three-arrested-with-415-kg-of-cannabis-dbp-139761493.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-22
+    language: hi
 open_questions:
   - 'Accounts differ on the weight: the submitted report gives about 42 kg, while the police figure stated at the Dawath press conference was 41.5 kg; the report uses the police figure.'
   - The intended destination of the consignment was not reported.
@@ -76,10 +81,9 @@ their fourth time taking part in ganja trafficking. [@2]
 
 Officers from Bihar's prohibition and state narcotics control bureau and Dawath
 police station carried out the raid jointly. [@1] The search yielded 41.5 kg (41
-kg 500 g) of ganja, which police valued at about 20 lakh rupees. [@2] A case was
+kg 500 g) of ganja, which police valued at about 20 lakh rupees. [@2,4] A case was
 registered under the NDPS Act. [@3]
 
 Police said they were investigating a larger ganja trafficking network after the
 arrests. [@2] The role of the bus driver was also examined as a possible link in
 the supply chain. [@2] Legal proceedings against the three were under way. [@1]
-
