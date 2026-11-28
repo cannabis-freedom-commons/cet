@@ -102,17 +102,24 @@ sources:
     publisher: 星島日報 (Sing Tao Daily)
     date: 2026-11-26
     language: zh
+  - title: 海關截內地「飛機豬」 檢180萬元懷疑大麻花
+    url: https://www.stheadline.com/daily-hongkong/3641614/%E6%B5%B7%E9%97%9C%E6%88%AA%E5%85%A7%E5%9C%B0%E9%A3%9B%E6%A9%9F%E8%B1%AC-%E6%AA%A2180%E8%90%AC%E5%85%83%E6%87%B7%E7%96%91%E5%A4%A7%E9%BA%BB%E8%8A%B1
+    publisher: 星島頭條
+    date: 2026-11-27
+    language: zh
+open_questions:
+    - 'Estimates of the market value of the 7.3 kg of cannabis buds differ: about HK$1.6 million in the Customs release and about HK$1.8 million in one newspaper account.'
 ---
 
 Hong Kong Customs detected a drug trafficking case at Hong Kong International
-Airport on 26 November 2026. [@1,3,4,5,6,10] Officers seized about 7.3 kilograms of
+Airport on 26 November 2026. [@1,3,4,5,6,10] Customs described the case as a 'flying pig' (飛機豬) drug trafficking case. [@11] Officers seized about 7.3 kilograms of
 suspected cannabis buds, which Customs valued at about HK$1.6 million. [@1,3,4,5,6,8,9,10] The
 suspect was a 23-year-old mainland Chinese man who had arrived from Bangkok,
-Thailand. [@1,3,4,5,6,8,9,10] Officers found the buds in his carry-on baggage during clearance
-and arrested him. [@1,3,4,5,6,8,9]
+Thailand. [@1,3,4,5,6,8,9,10,11] Officers found the buds in his carry-on baggage during clearance
+and arrested him. [@1,3,4,5,6,8,9,11]
 
-He was charged with one count of trafficking in a dangerous drug. [@2,3,4,5,6,8,9,10] The case
-was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4,5,6,8,9,10] The case was brought before West Kowloon Magistrates' Court on 27 November 2026. [@7] Customs
+He was charged with one count of trafficking in a dangerous drug. [@2,3,4,5,6,8,9,10,11] The case
+was listed for West Kowloon Magistrates' Court on 27 November 2026. [@1,3,4,5,6,8,9,10] The case was brought before West Kowloon Magistrates' Court on 27 November 2026. [@7,11] Customs
 said it would keep selecting passengers from high-risk regions for clearance
 checks to combat cross-border drug trafficking. [@1,3,4,10] Trafficking in a dangerous
 drug carries a maximum penalty of a HK$5 million fine and life imprisonment
