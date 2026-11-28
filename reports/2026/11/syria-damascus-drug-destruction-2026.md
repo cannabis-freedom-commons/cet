@@ -81,6 +81,11 @@ media:
     media_url: https://i.ds.at/PZRZAw/rs:fill:600:0/plain/lido-images/2026/11/22/df039277-192a-44ba-8974-d2a61ada567a.jpg
     publisher: DER STANDARD
     caption: 'An excavator tipping seized drugs into a fire during the destruction announced by Syria''s anti-narcotics authority. Photo: AFP/SANA'
+  - kind: photo
+    url: https://www.eremnews.com/entertainment/3vixygd
+    media_url: https://cdn.eremnews.com/media/da20ac88-25d4-4cbe-a576-b1efcc8f63f2_v3.webp
+    publisher: إرم نيوز
+    caption: 'Seized drugs being destroyed in Syria, in a photograph credited to the Anti-Narcotics Directorate. Photo: Anti-Narcotics Directorate via Erem News'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 58eedc046fa120c14fd1e1dffaf83932
@@ -365,17 +370,22 @@ sources:
     url: https://www.longwarjournal.org/archives/2026/11/centcom-praises-syria-for-thwarting-drug-and-weapons-smuggling.php
     publisher: FDD's Long War Journal
     date: 2026-11-25
+  - title: سوريا تتلف 400 مليون حبة كبتاغون وكميات ضخمة من المخدرات
+    url: https://www.eremnews.com/entertainment/3vixygd
+    publisher: إرم نيوز
+    date: 2026-11-22
+    language: ar
 ---
 
 Syria's Anti-Narcotics Directorate announced on Sunday 22 November 2026 that a
 joint committee of the interior, justice and health ministries had destroyed
-large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,31,32,33,35,40,41,42,43,44,45,46,48,49,50,51,52,53,54,56,57] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24,25,26,27,28,29,30,31,33,35,36,37,41,43,45,46,47,48,49,51,52,54,57] The quantities
+large quantities of narcotics and psychotropic substances. [@1,5,6,9,10,11,13,14,15,16,17,18,19,20,21,22,23,25,26,27,28,31,32,33,35,40,41,42,43,44,45,46,48,49,50,51,52,53,54,56,57,59] The drugs had been seized by security forces in successive operations. [@5,6,8,9,13,15,17,20,21,22,23,24,25,26,27,28,29,30,31,33,35,36,37,41,43,45,46,47,48,49,51,52,54,57] The quantities
 were destroyed in batches under approved legal and environmental procedures.
 [@4,16,35,39,41,44,47,51] The directorate described the destruction as reflecting integrated national
 efforts against drugs. [@2,25,35,41,51]
 
 The destroyed material included 12.2 tonnes of hashish and 2.3 tonnes of
-cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58] Security expert Ismat al-Abssi estimated the value of the destroyed drugs at more than $10 billion. [@40,50] The same batches included
+cannabis plant, 14.5 tonnes of cannabis in all. [@1,6,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,29,30,31,32,33,34,35,36,37,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58] The destruction also covered tools, equipment and chemicals linked to making, smuggling, hiding and transporting drugs. [@59] Security expert Ismat al-Abssi estimated the value of the destroyed drugs at more than $10 billion. [@40,50] The same batches included
 400 million Captagon pills, 6 kilograms of heroin and 5.4 million other narcotic
 pills, none of which is counted as cannabis. [@3,5,6,8,9,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27,29,30,31,33,35,36,37,39,41,43,45,46,48,49,51,54,55,56,57,58] The directorate also destroyed
 equipment and chemicals used to smuggle, conceal, transport and manufacture the
