@@ -69,20 +69,29 @@ sources:
     publisher: Administration des douanes et accises
     date: 2020-01-03
     language: fr
+  - title: €2.5m Drugs Consignment Intercepted
+    url: https://chronicle.lu/category/at-home/31430-eur2-5m-drugs-consignment-intercepted
+    publisher: Chronicle.lu
+    date: 2020-01-03
+  - title: Customs seize €2.5m worth of drugs in Luxembourg
+    url: https://www.luxtimes.lu/luxembourg/customs-seize-2-5m-worth-of-drugs-in-luxembourg/1321268.html
+    publisher: Luxembourg Times
+    date: 2020-01-03
 open_questions:
-  - No location more precise than Luxembourg is given for the interception, so the place is recorded at country precision.
-  - The customs statement and L'essentiel give no name, age or nationality for the driver beyond L'essentiel's description of a trafficker, and no charge or court outcome is reported.
-  - No value for the marijuana alone was published; the 2.5 million euros is the administration's estimated street resale value of the hashish and marijuana together.
-  - Customs announced the interception on 3 January 2020, more than two weeks after it took place.
-  - The van's route is recorded from Spain to Luxembourg; the statement names no border crossing or other destination.
-  - The RTL page's two customs photos carry no caption beyond the agency credit, and the second sits beside the paragraph on the unrelated heroin case, so it may show that seizure rather than the cannabis.
+    - No location more precise than Luxembourg is given for the interception, so the place is recorded at country precision.
+    - The customs statement and L'essentiel give no name, age or nationality for the driver beyond L'essentiel's description of a trafficker, and no charge or court outcome is reported.
+    - No value for the marijuana alone was published; the 2.5 million euros is the administration's estimated street resale value of the hashish and marijuana together.
+    - Customs announced the interception on 3 January 2020, more than two weeks after it took place.
+    - The van's route is recorded from Spain to Luxembourg; the statement names no border crossing or other destination.
+    - The RTL page's two customs photos carry no caption beyond the agency credit, and the second sits beside the paragraph on the unrelated heroin case, so it may show that seizure rather than the cannabis.
+    - The Luxembourg Times reported 51 kilos of marijuana where the customs statement gave 51.6 kilos.
 ---
 
 Luxembourg customs investigators followed and intercepted a van on 18 December
-2019 that was returning from a trip to Spain. [@3] Searching the vehicle,
+2019 that was returning from a trip to Spain. [@3,4] Searching the vehicle,
 officers working with dog handlers found 262 kilos of hashish and 51.6 kilos of
-marijuana. [@3] Customs put the street resale value of the load at close to 2.5
-million euros. [@3]
+marijuana. [@3,5] Customs put the street resale value of the load at close to 2.5
+million euros. [@3,5]
 
 L'essentiel reported that customs intercepted a trafficker driving the van after
 he returned from Spain. [@1] The administration announced the catch on 3 January
@@ -91,4 +100,3 @@ customs announcement covered a separate case a few days earlier, in which
 officers ended a heroin and cocaine trafficking operation in southern Luxembourg
 together with Belgian authorities. [@1] RTL Today headlined the haul as 300
 kilos of hashish and marijuana, the rounded total of the two weights. [@2]
-
