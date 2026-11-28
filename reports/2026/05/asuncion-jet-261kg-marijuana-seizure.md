@@ -167,10 +167,15 @@ sources:
     publisher: ABC Color
     date: 2026-11-19
     language: es
+  - title: Detienen a ganador de concurso de MrBeast en Paraguay; aseguran avión con más de 200 kilos de mariguana
+    url: https://amp.milenio.com/internacional/detienen-ganador-concurso-mrbeast-paraguay-aseguran-avion-mariguana
+    publisher: Milenio
+    date: 2026-06-01
+    language: es
 open_questions:
-  - The interception is described only as occurring on a Saturday, with publication on 30 May 2026, leaving the exact calendar date unclear.
-  - Different passages give differing numbers of detained United States citizens, one in one passage and three named individuals in another.
-  - The exact model of the seized executive jet remains unclear, reported as both a Challenger 601-3A and a Challenger 604.
+    - The interception is described only as occurring on a Saturday, with publication on 30 May 2026, leaving the exact calendar date unclear.
+    - The exact model of the seized executive jet remains unclear, reported as both a Challenger 601-3A and a Challenger 604.
+    - Jabari Stephen Brown's age is given as 20 in early reports and 21 by the Paraguayan prosecutor's office.
 ---
 
 20-year-old influencer and co-pilot Jabari Stephen Brown, known as Captain
@@ -184,7 +189,7 @@ Siilats, who left Paraguay before the operation, told InSight Crime he had no
 knowledge of the marijuana on board and plans to cooperate fully with Paraguayan
 authorities. [@1,4] Brown was briefly detained after the seizure but was released
 on 31 May after investigators found no evidence he knew about the drugs,
-according to a SENAD representative. [@1,3,4,5]
+according to a SENAD representative. [@1,3,4,5,15] Brown told investigators he had been hired to co-pilot the aircraft, said he did not know about the drug load and gave what the prosecutor called key information about the flight's path. [@15]
 
 Paraguayan authorities discovered 261.6 kilograms of high-THC cannabis valued at
 US$3.6 million being unloaded from the aircraft at Silvio Pettirossi
@@ -202,9 +207,9 @@ representative of Paraguay's drug enforcement agency. [@2]
 
 A Paraguayan judge, Rosarito Montanía, ordered the pretrial detention of Marisol Rivas, Troy Anthony Vásquez and David Thomas Wise because they had no ties to Paraguay. [@3,9,14] Defence lawyer Rafael Fernández, representing two of the US citizens, questioned Brown's release after prosecutor Ingrid Gisselle Cubilla Villamayor said he cooperated throughout the investigation. [@9] The men were held at the Centro Nacional de Prevenidos in Asunción, and Rivas was sent to the prison at Emboscada, in the Cordillera department. [@3,9] Fernández said his clients claimed the pilot had hired all three passengers to travel to Paraguay on holiday. [@9] The passengers were named as Marisol Rivas, 39, from New York; Troy Anthony Vásquez, 42, from Florida; and David Thomas Wise, 58, from California. [@3,7,11,12,13] Wise chartered the aircraft through a California company for USD 91,485, according to prosecutor Ingrid Cubilla. [@3] Paraguayan authorities arrested three of the US travellers in Asunción hotels and the co-pilot at the airport. [@3,6] The three detained passengers face international trafficking and unauthorised possession charges under articles 21 and 27 of Paraguay's Drug Law 1,340, according to ABC. [@3,4] SENAD agents intercepted the Challenger 604 in an airport hangar after a crew member tried to remove luggage containing eight packages of the marijuana. [@3,4,6,12] SENAD said the airport raid took place under Programa Colibrí, an inter-agency initiative uniting SENAD, the Paraguayan Air Force, civil aviation authority DINAC, customs and tax agency DNIT, and the National Police. [@10,11,13,14]
 
-Senad identified Siilats as a co-founder of the micromobility company Bolt Mobility in the United States. [@4] The four detainees were taken from SENAD's operations base to the Public Prosecutor's Office, where prosecutors took their statements. [@4,5]
+Senad identified Siilats as a co-founder of the micromobility company Bolt Mobility in the United States. [@4] The four detainees were taken from SENAD's operations base to the Public Prosecutor's Office, where prosecutors took their statements. [@4,5,15]
 
-Three of the passengers, Marisol Rivas, Anthony Vásquez and David Thomas Wise, were also detained, all United States citizens and crew members of the jet. [@5] According to ABC Color, the three were charged with international drug trafficking. [@5,9] Brown was detained in a hotel in Asunción rather than at the airport. [@5] Brown won a Hawker 400XP business jet, worth about US$2.4 million, by picking the winning briefcase in MrBeast's '100 Pilots Fight For A Private Jet' contest. [@5]
+Three of the passengers, Marisol Rivas, Anthony Vásquez and David Thomas Wise, were also detained, all United States citizens and crew members of the jet. [@5,15] According to ABC Color, the three were charged with international drug trafficking. [@5,9] Brown was detained in a hotel in Asunción rather than at the airport. [@5,15] Brown won a Hawker 400XP business jet, worth about US$2.4 million, by picking the winning briefcase in MrBeast's '100 Pilots Fight For A Private Jet' contest. [@5]
 
 Senad said it was still searching for other people implicated in the shipment. [@6,10,13]
 
