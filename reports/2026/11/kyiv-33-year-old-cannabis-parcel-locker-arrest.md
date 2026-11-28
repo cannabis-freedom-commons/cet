@@ -53,6 +53,11 @@ sources:
     publisher: UkrMedia News
     date: 2026-11-26
     language: uk
+  - title: Drogenhändler in Kiew mit Waren im Wert von 800 Hrywnja erwischt
+    url: https://kyiv1.com/de/u-kyevi-vykryly-narkodylera-z-tovarom-na-800-tysyach-hryven/
+    publisher: Kyiv1
+    date: 2026-11-26
+    language: de
 open_questions:
   - No separate date was given for the arrest; 26 November 2026 is the publication date and is used as the incident date.
   - No charges, detention ruling or court outcome were reported for the man.
@@ -61,21 +66,21 @@ open_questions:
   - Both opened accounts were published by the same outlet, one as a translation of the other, so no independent confirmation was available.
   - The cannabis weight was given only as approximately 1.3 kg, with no laboratory confirmation reported.
   - The article also mentions other inter-regional drug cases uncovered in Kyiv earlier in November; those are separate events left out here.
+  - The value of the seized substances is given as 800 hryvnia in one German-language account and 800,000 hryvnias in the Ukrainian and English accounts.
 ---
 
 Police in Kyiv arrested a 33-year-old resident of the capital near one of the
-city's post boxes just as he was attempting to post another parcel. [@1]
+city's post boxes just as he was attempting to post another parcel. [@1,3]
 Officers of the Anti-Drug Crime Directorate detained him at a parcel locker in
 the capital. [@2] According to the investigation, the man had organised a
 contactless sale of narcotic drugs and psychotropic substances to customers from
-various regions of Ukraine. [@1] The entire process of communication and order
+various regions of Ukraine. [@1,3] The entire process of communication and order
 taking took place through a messaging app, after which the parcels were sent to
-recipients by post. [@1]
+recipients by post. [@1,3]
 
 Zip-lock bags containing 100 grams of amphetamine and approximately 1.3 kg of
-cannabis were seized from the suspect. [@1] During a subsequent search of his
+cannabis were seized from the suspect. [@1,3] During a subsequent search of his
 home, law enforcement officers found further packets containing narcotic
-substances, packaging materials and other physical evidence. [@1] Police put the
+substances, packaging materials and other physical evidence. [@1,3] Police put the
 total estimated value of the seized consignment of prohibited substances at
 800,000 hryvnias. [@1]
-
