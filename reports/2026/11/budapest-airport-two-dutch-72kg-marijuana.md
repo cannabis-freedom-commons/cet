@@ -93,6 +93,11 @@ sources:
     publisher: Okoshír.hu
     date: 2026-11-26
     language: hu
+  - title: 'ZÁSAH na letisku v Budapešti: Holanďania pašovali 72 kg marihuany'
+    url: https://www.teraz.sk/zahranicie/zasah-na-letisku-v-budapesti-holanda/1010642-clanok.html
+    publisher: Teraz.sk / TASR
+    date: 2026-11-26
+    language: sk
 media:
   - kind: photo
     url: https://hvg.hu/itthon/20261126_rendorseg-nni-nav-ferihegy-72-kilogramm-marihuana-holland-ferfi-diler
@@ -118,16 +123,16 @@ media:
 
 Hungarian customs officers detained two Dutch drug couriers at Budapest Ferenc
 Liszt International Airport who had tried to smuggle 72 kilograms of marijuana
-in four checked suitcases. [@1,5,6,7,9,10] The National Investigation Office's anti-drug
+in four checked suitcases. [@1,5,6,7,9,10,11] The National Investigation Office's anti-drug
 unit had warned the airport directorate of the National Tax and Customs
 Administration (NAV) on the morning of 25 November that a drug shipment was
-expected on a flight to Budapest. [@2,5,6,8,9,10] The two men had flown to Budapest from
-Bangkok with a stopover in Doha. [@1,5,8,9]
+expected on a flight to Budapest. [@2,5,6,8,9,10,11] The two men had flown to Budapest from
+Bangkok with a stopover in Doha. [@1,5,8,9,11]
 
 Customs officers found 125 packages in the four checked suitcases belonging to
 the two suspects. [@3,6,7,9] One man's two bags held 62 vacuum-packed packages
 weighing 35.96 kg, while the other man's two suitcases held 63 foil-wrapped
-packages weighing 36.46 kg. [@2,5,6,7,8,9] A rapid test indicated that the material in all
+packages weighing 36.46 kg. [@2,5,6,7,8,9,11] A rapid test indicated that the material in all
 four suitcases was marijuana. [@3,5,6,7,8,9] Police seized the drugs and sent them to the
 National Forensic and Research Centre for a forensic chemistry examination. [@2,8,9]
 
