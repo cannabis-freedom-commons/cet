@@ -63,14 +63,10 @@ sources:
     url: https://tennews.in/maha-man-among-two-held-after-gujarat-police-seize-140-kg-ganja-worth-rs-70-lakh/
     publisher: 'tennews.in: National News Portal'
     date: 2026-11-26
-open_questions:
-    - Accounts give the seizure as 140.36 kg of ganja worth Rs 70.16 lakh or 140.390 kg worth Rs 70.19 lakh, with total seized goods of Rs 70,44,500; the report uses the former.
-    - 'Accounts differ on the associates: one says only Sunny had been arrested with others still to be apprehended, while another says Sunny, Deepak and Vishal were later arrested early on Wednesday, so only Kamble''s arrest is counted.'
-    - The accused's surname is spelled Kamble in one account and Kamale in another.
-    - No court outcome, charges beyond the NDPS registration, or laboratory confirmation were reported.
-    - The accounts reproduce police statements and are not independent of the SOG account.
-    - It remains unclear whether Kamble's home taluka is Parola or Pachora.
-    - The seized mobile phone was valued at Rs 24,000 in one account and Rs 25,000 in another.
+  - title: Maha man among two held after Gujarat Police seize 140 kg ganja worth Rs 70 lakh
+    url: https://www.thehawk.in/news/states-and-uts/gujarat/maha-man-among-two-held-after-gujarat-police-seize-140-kg-ganja-worth-rs-70-lakh
+    publisher: The Hawk
+    date: 2026-11-26
 ---
 
 Surat City Police's Special Operations Group seized ganja from a residential
@@ -87,18 +83,18 @@ Police also seized a mobile phone valued at Rs 24,000. [@1] The raided premises
 was flat number 2 in Satyam Tower-F, Pramukh Park Society, behind Mary Mata
 Public School, hit after technical surveillance and specific intelligence. [@2,3]
 Ahmedabad Mirror reports the seizure as 140.390 kg of ganja worth Rs 70.19 lakh.
-[@2,4,5] Police seized goods worth Rs 70,44,500, including mobile phones. [@2,4,5]
+[@2,4,5] Police seized goods worth Rs 70,44,500, including mobile phones. [@2,4,5,6]
 Police describe it as the biggest ganja seizure by the city SOG between 2022 and
-2026. [@2,4,5]
+2026. [@2,4,5,6]
 
 Acting on a tip-off, an SOG team raided the flat and recovered the contraband.
-[@1] Kamble allegedly procured the ganja with Sunny, Dipak and Vishal, stored it
+[@1,6] Kamble allegedly procured the ganja with Sunny, Dipak and Vishal, stored it
 at his residence and discreetly supplied it to customers in industrial areas.
-[@1,4] DCP Rajdeep Nakum said Kamble confessed during preliminary interrogation
+[@1,4,6] DCP Rajdeep Nakum said Kamble confessed during preliminary interrogation
 that he entered the illegal drug trade to earn easy money. [@1,4] Nakum described
 the operation as part of the police's zero-tolerance approach towards narcotics.
-[@1,4,5] DCP Nakum said 27 cases under the NDPS Act were registered across Surat over the two days of the special 'No Drugs in Surat City' campaign. [@4,5] The Times of India reports that Sunny had been arrested and the remaining
-accused would be apprehended soon. [@1,3,4,5] Ahmedabad Mirror reports that Sunny,
+[@1,4,5] DCP Nakum said 27 cases under the NDPS Act were registered across Surat over the two days of the special 'No Drugs in Surat City' campaign. [@4,5,6] The Times of India reports that Sunny had been arrested and the remaining
+accused would be apprehended soon. [@1,3,4,5,6] Ahmedabad Mirror reports that Sunny,
 Deepak and Vishal were named as accused and later arrested early on Wednesday
 morning. [@2] An offence under the Narcotic Drugs and Psychotropic Substances
-(NDPS) Act was registered at Bhestan police station. [@1,3,5]
+(NDPS) Act was registered at Bhestan police station. [@1,3,5,6]
