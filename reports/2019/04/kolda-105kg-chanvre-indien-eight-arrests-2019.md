@@ -60,6 +60,11 @@ sources:
     publisher: Actuvision
     date: 2019-04-19
     language: fr
+  - title: 'Sénégal : Plus d''une tonne de chanvre indien saisie en deux jours dans Sud et l''Est du pays'
+    url: https://www.koaci.com/article/2019/04/22/senegal/societe/senegal-plus-dune-tonne-de-chanvre-indien-saisie-en-deux-jours-dans-sud-et-lest-du-pays_130117.html
+    publisher: KOACI
+    date: 2019-04-22
+    language: fr
 open_questions:
   - The four component weights in the article (2.20, 6.80, 11.50 and 85 kg) add to 105.50 kg, not the 105.25 kg campaign total in the headline.
   - Actuvision, quoting the Kolda police, gives the earlier seizures as 2 kg, 6.80 kg and 11.205 kg rather than the 2.20 kg and 11.50 kg in the EnQuete+ account.
@@ -80,7 +85,7 @@ arriving from Kafountine and probed a load of smoked-fish boxes. [@1] The smell
 of hemp revealed 90 bales weighing 85 kg, and the driver, his apprentice and an
 escort were detained. [@1] The investigation added two more arrests, giving five
 in that case, and the truck used to carry the drugs was immobilised. [@1] The
-suspects were referred to the Kolda prosecutor's office on Friday. [@1] Police
+suspects were referred to the Kolda prosecutor's office on Friday. [@1,3] Police
 said the fifth suspect, arrested in Kafountine with help from the local
 gendarmerie, was the organizer of the trafficking. [@2] All the suspects were
 held on remand. [@2] One recipient of the parcels was in Touba and another in
@@ -97,4 +102,3 @@ hemp hidden in a travel bag in the vehicle. [@1] He jumped into the Casamance
 river and swam to the far bank before disappearing. [@1] A further 11.50 kg was
 seized on 5 April from a seven-seat vehicle arriving from Fogny. [@1] Two Kolda
 residents were referred and sent to prison to await the outcome. [@1]
-
