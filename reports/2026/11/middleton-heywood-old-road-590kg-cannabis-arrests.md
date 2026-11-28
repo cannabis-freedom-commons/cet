@@ -62,6 +62,11 @@ sources:
     publisher: Greatest Hits Radio (Manchester and the North West)
     date: 2026-11-26
     language: en
+  - title: Canadian Authorities Seize Nearly 600 kg of Cannabis Destined for UK, Replace with Synthetic Substitute
+    url: https://stratcann.com/enforcement/canadian-authorities-seize-nearly-600-kg-of-cannabis-destined-for-uk-replace-with-synthetic-substitute/
+    publisher: StratCann
+    date: 2026-11-26
+    language: en
 ---
 
 Six people were arrested after police tracked a shipping container to an address
@@ -69,20 +74,20 @@ on Heywood Old Road in Middleton, in the Rochdale borough. [@1,5] The operation
 took place on the night of Wednesday 25 November 2026, when Greater Manchester
 Police's Serious Organised Crime Group moved in. [@4] Greater Manchester Police
 said the shipment held about 590kg of cannabis concealed in a large lumber
-consignment bound for the UK. [@4,5] The force estimated the drugs' street value
-at £5.9 million. [@4,5] Canadian authorities had seized the cannabis before it
-left Canada and replaced it with a synthetic substitute, GMP said. [@4,5]
+consignment bound for the UK. [@4,5,6] The force estimated the drugs' street value
+at £5.9 million. [@4,5,6] Canadian authorities had seized the cannabis before it
+left Canada and replaced it with a synthetic substitute, GMP said. [@4,5,6]
 
 The container arrived at Liverpool docks and was monitored as it was taken by
-lorry to the Middleton address. [@3,5] Officers watched about 16 pallets being
+lorry to the Middleton address. [@3,5,6] Officers watched about 16 pallets being
 unloaded with heavy lifting equipment, including a telescopic handler, before
 they moved in. [@4,5] People at the address were seen photographing and filming
 the container and making lengthy telephone calls during the unloading, police
 said. [@1]
 
 Five men aged 32, 43, 45, 48 and 54, and a woman aged 43, were arrested on
-suspicion of conspiracy to import cannabis. [@1,5] They remained in police custody
-for questioning and no charges had been announced. [@1,5] Officers also recovered
+suspicion of conspiracy to import cannabis. [@1,5,6] They remained in police custody
+for questioning and no charges had been announced. [@1,5,6] Officers also recovered
 a significant amount of suspected Class A drugs at the address, of a type,
 quantity and value GMP did not disclose. [@4,5] Detective Inspector Rich McCorry
 said the case showed what intelligence sharing and partnership working across
