@@ -34,27 +34,26 @@ sources:
     publisher: Der Tagesspiegel
     date: 2026-11-24
     language: de
-open_questions:
-  - No weight, THC content or per-joint quantity was published, so no cannabis weight in kilograms can be recorded.
-  - The published account names no arrested person, suspect, charge or court outcome; the case is recorded at investigation stage because further investigation was announced.
-  - Only the operation date of 9 November is given; 24 November 2026 is the publication date of the source.
-  - The account rests on a Hauptzollamt Potsdam statement as reported via dpa in a single opened source, with no independent second account beyond a reprint of the same dpa report.
+  - title: Zoll stellt 10.800 Cannabis-Joints in Paketzentrum sicher - Dosya Haber
+    url: https://dosyahaber.com/post/zoll-stellt-10-800-cannabis-joints-in-paketzentrum-sicher-17537384581868
+    publisher: Dosya Haber
+    date: 2026-11-24
+    language: de
 ---
 
 Employees of a parcel service provider working in Grossbeeren, a town south of
 Berlin in Brandenburg, became suspicious of cartons wrapped in black foil that
-had arrived from the Czech Republic and therefore called in customs. [@1] The
+had arrived from the Czech Republic and therefore called in customs. [@1,2] The
 Hauptzollamt Potsdam, the main customs office in Potsdam, announced the seizure
-and dated the enforcement operation to 9 November. [@1] Customs officers seized
-in Grossbeeren a delivery containing more than 10,000 cannabis joints. [@1]
+and dated the enforcement operation to 9 November. [@1,2] Customs officers seized
+in Grossbeeren a delivery containing more than 10,000 cannabis joints. [@1,2]
 
 According to the authority, officers counted a total of 10,800 joints packed
-across 18 cartons. [@1] Inside the cartons, each carton held 30 boxes, and each
-of those boxes held 20 individually wrapped joints. [@1] The stated packing of
+across 18 cartons. [@1,2] Inside the cartons, each carton held 30 boxes, and each
+of those boxes held 20 individually wrapped joints. [@1,2] The stated packing of
 30 boxes per carton and 20 joints per box matches the reported total of 10,800
 joints across 18 cartons. [@1]
 
 The Zollfahndungsamt Berlin-Brandenburg, the customs investigation office for
 Berlin and Brandenburg, took over the further investigation after the seizure,
-which was still under way when the account was published. [@1]
-
+which was still under way when the account was published. [@1,2] The Hauptzollamt said investigators had yet to establish who had posted the delivery in the Czech Republic and to whom the cartons were addressed in Germany. [@2]
