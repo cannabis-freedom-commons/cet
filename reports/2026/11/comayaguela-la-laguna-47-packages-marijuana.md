@@ -52,6 +52,11 @@ sources:
     publisher: Noticias 24/7
     date: 2026-11-28
     language: es
+  - title: '#ÚLTIMAHORA | En bolsas negras encontramos 47 paquetes de marihuana en la colonia La Laguna'
+    url: https://www.facebook.com/PoliciaNacionaldeHonduras/posts/%C3%BAltimahora-en-bolsas-negras-encontramos-47-paquetes-de-marihuana-en-la-colonia-l/1487978516858453/
+    publisher: Policía Nacional de Honduras
+    date: 2026-11-26
+    language: es
 open_questions:
   - No separate date for the patrol was published; 26 November 2026 is the publication date of the first two accounts and is used as the incident date.
   - 'The weight is approximate: the accounts count 47 packages of about two pounds each (about 94 pounds, 42.64 kg), while the headline calls the haul ''almost 100 pounds''.'
@@ -62,20 +67,19 @@ open_questions:
 
 National police officers found a concealed stash of suspected drugs during a
 preventive foot patrol in the colonia La Laguna neighbourhood of Comayagüela.
-[@1] The patrol was carried out by officers of the Unidad Metropolitana de
+[@1,4] The patrol was carried out by officers of the Unidad Metropolitana de
 Prevención N°2 (UMEP-2) together with the Dirección Nacional Policial Antidrogas
 (DNPA). [@2] On a foot patrol of the sector, the officers identified a hiding
 place holding several packages of dry plant material described as suspected
-marijuana in black bags. [@3]
+marijuana in black bags. [@3,4]
 
 Police counted 47 packages, each weighing about two pounds, or about 94 pounds
-(42.64 kg) altogether. [@1] The substance was described only as suspected
-marijuana. [@2] According to preliminary investigations, police said the
+(42.64 kg) altogether. [@1,4] The substance was described only as suspected
+marijuana. [@2,4] According to preliminary investigations, police said the
 substance was probably linked to the Pandilla 18 organised criminal group, which
-they said was involved in storing and distributing drugs. [@1] The packages were
+they said was involved in storing and distributing drugs. [@1,4] The packages were
 located and placed under the corresponding official procedure. [@3]
 
 The National Police said it would continue prevention, surveillance and
 anti-narcotics operations across the capital to weaken criminal structures and
 keep the drugs from reaching the population. [@1]
-
