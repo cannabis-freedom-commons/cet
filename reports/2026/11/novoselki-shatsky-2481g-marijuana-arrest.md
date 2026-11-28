@@ -45,6 +45,16 @@ media:
     media_url: https://93508d32-eb35-4424-b8d3-8377d03ffff9.selstorage.ru/2026/11/kontejnery-s-marihuanoj.umvd.26.11.26.jpg
     publisher: ryazpressa.ru
     caption: 'Police handout photo of the plastic kitchen containers of dried marijuana fragments found in the sofa at the Novoselki house. Photo: UMVD of Ryazan Oblast'
+  - kind: photo
+    url: https://www.rzn.info/news/2026/11/26/v-ryazanskoj-oblasti-u-muzhchiny-izyali-pochti-2-5-kilogramma-marihuany-357236.html
+    media_url: https://cdn1.rzn.info/data/image/gallery/6/6b/6b07f9438266b/original_compressed.jpg
+    publisher: RZN.info
+    caption: 'Gallery photograph published with the Ryazan Oblast Interior Ministry statement on the Novoselki marijuana seizure. Photo: УМВД по Рязанской области'
+  - kind: photo
+    url: https://www.rzn.info/news/2026/11/26/v-ryazanskoj-oblasti-u-muzhchiny-izyali-pochti-2-5-kilogramma-marihuany-357236.html
+    media_url: https://cdn2.rzn.info/data/image/gallery/6/6b/6b07f94415d9d/original_compressed.jpg
+    publisher: RZN.info
+    caption: 'Second gallery photograph published with the Ryazan Oblast Interior Ministry statement on the Novoselki marijuana seizure. Photo: УМВД по Рязанской области'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: b7a99536e06957ad1b13f753248a3f2a
@@ -65,6 +75,11 @@ sources:
     publisher: Рязанские ведомости
     date: 2026-11-26
     language: ru
+  - title: В Рязанской области у мужчины изъяли почти 2,5 килограмма марихуаны
+    url: https://www.rzn.info/news/2026/11/26/v-ryazanskoj-oblasti-u-muzhchiny-izyali-pochti-2-5-kilogramma-marihuany-357236.html
+    publisher: RZN.info
+    date: 2026-11-26
+    language: ru
 open_questions:
   - No exact calendar date for the stop and searches is given; 26 November 2026 is the publication date used as the incident date.
   - Accounts describe the haul as about 2.5 kg, while the itemised amounts and the stated total come to 2 kg 481 g.
@@ -74,22 +89,21 @@ open_questions:
 
 Officers stopped a 51-year-old Ryazan resident on a street and found a packet of
 dried plant mixture on him, then found containers of the same mixture at his
-flat. [@1] Examination established the mixture was marijuana, and the man was
-detained with 6 grams on him and 247 grams at his flat. [@1] Police learned the
+flat. [@1,4] Examination established the mixture was marijuana, and the man was
+detained with 6 grams on him and 247 grams at his flat. [@1,4] Police learned the
 man owned a house in Novoselki, Shatsky district, and found several plastic
 kitchen containers of dried plant fragments in a linen drawer in a sofa there.
 [@1]
 
 Criminalists determined the containers held 2 kilograms 228 grams of marijuana,
-and the drugs were seized. [@1] A separate account put the total weight of the
+and the drugs were seized. [@1,4] A separate account put the total weight of the
 seized drug at 2 kilograms 481 grams. [@2] The drug-control unit of the Ryazan
 Oblast MVD had received information that the man was keeping prohibited
 substances at home. [@2]
 
 Police said the man grew several cannabis bushes on his garden plot in the
 Shatsky district last summer, harvested them, made marijuana and brought part of
-the crop back to Ryazan. [@3] An investigator with the intermunicipal MVD
+the crop back to Ryazan. [@3,4] An investigator with the intermunicipal MVD
 department 'Shatsky' opened a criminal case for illegal storage of narcotics in
 a large amount under part 2 of article 228 of the Criminal Code, an offence
 carrying up to ten years in prison. [@1]
-
