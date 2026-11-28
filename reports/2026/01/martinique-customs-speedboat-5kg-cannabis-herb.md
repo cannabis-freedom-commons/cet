@@ -66,19 +66,24 @@ sources:
     publisher: Antilla Martinique
     date: 2026-02-06
     language: fr
+  - title: 560 kilos de cocaïne saisis lors d’un débarquement clandestin au Marin
+    url: https://rci.fm/martinique/infos/Faits-divers/560-kilos-de-cocaine-saisis-lors-dun-debarquement-clandestin-au-Marin
+    publisher: RCI
+    date: 2026-01-26
+    language: fr
 open_questions:
-    - The sources give the interception date as 25 January 2026 but do not say whether it happened by day or night, or how far offshore.
-    - No figure for the number of people on board, and no arrests, charges or court outcome were reported for the cannabis.
-    - The cannabis weight is given only as 'more than 5 kg', not an exact measured figure.
+    - The accounts place the interception on the evening of 25 January 2026 but do not say how far offshore it happened.
+    - Whether the three people held in customs detention were charged, and any court outcome, were not reported.
+    - The February accounts give the cannabis weight only as 'more than 5 kg', while RCI gives 5 kilos.
     - No cannabis value was published.
     - The 105.8 kg figure covers cigarettes only and is not counted as a cannabis quantity.
-    - The accounts reproduce a prefecture communiqué issued about two weeks after the interception, so they are not independent reporting.
-    - Coordinates are those of Fort-de-France as a regional centre; the exact boarding point at sea is not given.
+    - The February accounts reproduce a prefecture communiqué issued about two weeks after the interception, so they are not independent reporting.
+    - RCI places the interception off Les Anses d'Arlet, while the February accounts describe a boat from Saint Lucia bound for the Martinique coast; the exact boarding point at sea is not given.
 ---
 
 French customs coastguard officers, backed by the French armed forces in the
 Antilles, stopped a speedboat on 25 January 2026 close to the Martinique coast.
-[@1,4] The boat had set out from Saint Lucia and was heading for Martinique when
+[@1,4] The customs coastguard intercepted a boat at sea off Les Anses d'Arlet with 5 kilos of cannabis herb aboard. [@5] The boat had set out from Saint Lucia and was heading for Martinique when
 it was boarded close to the French coast. [@2]
 
 Escorted ashore and searched together with land-based customs officers, the boat
@@ -87,7 +92,7 @@ cartons held more than 500 cartons of cigarettes weighing a total of 105.8 kg, a
 tobacco seizure that falls outside the tracker's cannabis scope. [@3]
 
 More than 5 kg of cannabis herb was also found hidden in the passengers'
-luggage. [@1,4] France-Antilles also reported five kilos of cannabis herb found
+luggage. [@1,4] Three people were placed in customs detention while the investigation continued. [@5] France-Antilles also reported five kilos of cannabis herb found
 hidden in the luggage on board. [@3] The investigation was handed to the
 territorial directorate of the national police. [@2,4]
 
