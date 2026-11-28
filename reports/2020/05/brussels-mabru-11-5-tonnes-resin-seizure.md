@@ -86,28 +86,29 @@ sources:
     publisher: RTBF
     date: 2020-05-19
     language: fr
+  - title: 11 tonnes de cannabis étaient planquées dans un marché
+    url: https://www.lematin.ch/story/11-tonnes-de-cannabis-etaient-planquees-dans-un-marche-603477110758
+    publisher: Le Matin
+    date: 2020-05-19
+    language: fr
 open_questions:
-  - The first report said more than 11 tonnes while the prosecutor later gave 11.5 tonnes; the report uses 11.5 tonnes as the final official figure.
-  - The outcome for the four other arrested suspects beyond the 48-hour judicial hearing was not reported in the cited sources.
-  - No separate court outcome beyond the two arrest warrants reported on 20 May 2020 was published in the cited sources.
-  - References to a 45-tonne Antwerp seizure in 2007 and a 52.6-tonne Cordoba seizure in 2013 are separate earlier events left out of this report.
-  - 'Left out, as its quotation was not found in RTBF: Two of the six were later charged with importing narcotics as part of an association and placed under arrest warrants.'
-  - 'Left out, as its quotation was not found in RTBF: Those held were not market traders but street market-gardeners who rented refrigerated storage at Mabru for goods bought from its traders.'
-  - 'Left out, as its quotation was not found in RTBF: Police seized 11.5 tonnes of cannabis resin with an estimated market value of about 114 million euros.'
-  - No court outcome beyond the two arrest warrants of 20 May 2020 was reported in the opened sources.
-  - The Le Soir photograph is captioned only with the agency Photo News and is not established to show the seized container.
+    - The first reports said more than 11 tonnes while the prosecutor later gave 11.5 tonnes; the report uses 11.5 tonnes as the final official figure.
+    - The outcome for the four other arrested suspects beyond the 48-hour judicial hearing was not reported.
+    - No court outcome beyond the two arrest warrants of 20 May 2020 was reported.
+    - The 114 million euros is an estimated market value and the sources do not say how it was calculated.
+    - References to a 45-tonne Antwerp seizure in 2007 and a 52.6-tonne Cordoba seizure in 2013 describe separate earlier events left out of this report.
 ---
 
 Belgian federal police seized cannabis resin at Brussels' main wholesale food
-market on Monday 18 May 2020. [@1,4] Six people were arrested in the operation, as
-announced by the Brussels prosecutor. [@1,4,6] After questioning on Monday by the
+market on Monday 18 May 2020. [@1,4,7] Six people were arrested in the operation, as
+announced by the Brussels prosecutor. [@1,4,6,7] After questioning on Monday by the
 federal judicial police, the six suspects were to be heard within 48 hours by an
-investigating judge ruling on detention. [@1]
+investigating judge ruling on detention. [@1,7]
 
 The drugs were in a container intercepted at dawn at the Marché matinal de
 Bruxelles (Mabru), the wholesale food platform serving traders and restaurant
-owners. [@1,4] Special federal police units carried out the intervention under an
-investigating judge in a drug-trafficking investigation. [@1,5]
+owners. [@1,4,7] Special federal police units carried out the intervention under an
+investigating judge in a drug-trafficking investigation. [@1,5,7]
 
 Mabru management said the load was aboard a truck and not in the market's own
 infrastructure and that the case was unrelated to market activity. [@3,4] The
