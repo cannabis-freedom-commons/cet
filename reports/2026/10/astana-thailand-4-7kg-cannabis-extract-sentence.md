@@ -65,6 +65,21 @@ sources:
     url: https://infohub.kz/en/article/astana-thailand-cannabis-courier-sentence
     publisher: infohub.kz
     date: 2026-10-16
+  - title: 'Сладости и посылка из Таиланда: двое осуждены за наркоконтрабанду в Астане'
+    url: https://www.gov.kz/org/gtp/press/news/details/1312055?lang=ru
+    publisher: Главная транспортная прокуратура
+    date: 2026-10-16
+    language: ru
+  - title: Двое граждан Казахстана получили длительные сроки лишения свободы за контрабанду и незаконный оборот наркотиков из Таиланда
+    url: https://www.instagram.com/p/Dej9XH_t9nQ/
+    publisher: taunewskz (Instagram)
+    date: 2026-10-16
+    language: ru
+  - title: Астанчанку осудили на 16 лет из-за чемодана со «сладостями» из Таиланда
+    url: https://kz.kursiv.media/2026-10-16/ezif-astanchanku-osudili-na-16-let-iz-za-chemodana-so-sladostyami-iz-taylanda
+    publisher: Kursiv Media Казахстан
+    date: 2026-10-16
+    language: ru
 open_questions:
   - No separate date for the smuggling or the sentencing was published; 16 October 2026, the date of the detailed reports, is used as the incident date.
   - The 4.7 kg figure is reported as cannabis extract without laboratory details.
@@ -74,19 +89,18 @@ open_questions:
 ---
 
 Police detained a 20-year-old woman at Astana airport after she brought 4.7 kg
-of cannabis extract from Thailand disguised as sweets. [@1] A court sentenced
-her to 16 years' imprisonment for drug smuggling. [@1] The court sentenced the
+of cannabis extract from Thailand disguised as sweets. [@1,5] A court sentenced
+her to 16 years' imprisonment for drug smuggling. [@1,5] The court sentenced the
 Astana resident to 16 years in prison. [@4]
 
 According to the Main Transport Prosecutor's Office, she had agreed to carry the
-suitcases for a fee. [@2] She had brought the two suitcases from Thailand with
-the drugs disguised as sweets. [@2] The suitcases contained 4.7 kg of cannabis
-extract. [@2] She brought two suitcases of cannabis extract with a total weight
+suitcases for a fee. [@2,6] She had brought the two suitcases from Thailand with
+the drugs disguised as sweets. [@2,7] The suitcases contained 4.7 kg of cannabis
+extract. [@2,7] She brought two suitcases of cannabis extract with a total weight
 of 4.7 kg from Thailand for money. [@3] Officers found and seized the load
-immediately after her arrival in the capital. [@2] Two suitcases stuffed with
+immediately after her arrival in the capital. [@2,7] Two suitcases stuffed with
 cannabis extract were seized from the 20-year-old woman at Astana airport. [@4]
 
 She had passed the drugs off as sweets. [@3] The load was found and seized
 immediately after her flight landed at Astana airport. [@3] The verdicts in the
-case had not yet entered into legal force when reported. [@2]
-
+case had not yet entered into legal force when reported. [@2,5]
