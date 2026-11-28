@@ -48,6 +48,11 @@ sources:
     publisher: اليوم السابع
     date: 2026-11-25
     language: ar
+  - title: القبض على عاطل يروج الحشيش لعملائه في محافظة الجيزة
+    url: https://www.algomhor.com/517789
+    publisher: الجمهور الإخباري
+    date: 2026-11-25
+    language: ar
 open_questions:
   - No weight was given for the hashish, so no quantity can be reported.
   - No amount was given for the cash seized or any estimate of its value.
@@ -61,14 +66,13 @@ days the pre-trial detention of an unemployed man arrested in Giza on suspicion
 of trafficking narcotic drugs and possessing a quantity of hashish. [@1]
 Detectives at the Giza Security Directorate said their investigations confirmed
 information that the man traded drugs and promoted them to customers before
-legal steps were taken to arrest him. [@1]
+legal steps were taken to arrest him. [@1,3] Detectives set up an ambush after checking the information, and it led to his arrest with the seized items in his possession. [@3]
 
 A security force arrested him with a quantity of hashish, a sum of money and a
-mobile phone. [@1] Confronted with the items, he admitted possessing the drugs
+mobile phone. [@1,3] Confronted with the items, he admitted possessing the drugs
 to traffic them, said the money came from sales and said he used the phone to
-contact customers. [@1] He named another unemployed man as his supplier, said he
+contact customers. [@1,3] He named another unemployed man as his supplier, said he
 distributed the drugs among users and said he used a motorcycle to move them.
-[@1] He admitted storing the seized drugs at his home. [@2] A report was filed
+[@1,3] He admitted storing the seized drugs at his home. [@2] A report was filed
 and he was referred to the public prosecution, which began the investigation.
-[@1]
-
+[@1,3]
