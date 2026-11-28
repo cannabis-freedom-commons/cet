@@ -66,22 +66,30 @@ sources:
     publisher: AbruzzoLive.tv
     date: 2026-11-26
     language: it
+  - title: 'Lanciano: giovane arrestato per droga, aveva hashish e marijuana'
+    url: https://www.tgmax.it/lanciano-giovane-arrestato-per-droga-aveva-hashish-e-marijuana/
+    publisher: Telemax
+    date: 2026-11-26
+    language: it
+open_questions:
+    - The arrested man's age and identity were not published; accounts describe him only as a young man already known to police.
+    - No estimate of the street value of the hashish and marijuana was published.
 ---
 
 Carabinieri in Lanciano arrested a young man already known to police on 19
-November 2026 on suspicion of holding drugs for trafficking. [@1,4,5] The operation
+November 2026 on suspicion of holding drugs for trafficking. [@1,4,5,6] The operation
 was run by the operational and radio unit of the Lanciano carabinieri company.
-[@3,4] Officers noticed a suspicious car on the SS 524 during a territory control
-service and decided on a closer check. [@1,4,5] ChietiToday places the stop on the
+[@3,4,6] Officers noticed a suspicious car on the SS 524 during a territory control
+service and decided on a closer check. [@1,4,5,6] ChietiToday places the stop on the
 provincial road between Lanciano and Fossacesia. [@2]
 
 Searching the man, the car and then his home, officers found about 400 grams of
-hashish in blocks and about 100 grams of marijuana. [@1,4,5] They also seized a
-precision scale and material for packaging doses. [@2,4,5] The drugs and equipment
+hashish in blocks and about 100 grams of marijuana. [@1,4,5,6] They also seized a
+precision scale and material for packaging doses. [@2,4,5,6] The drugs and equipment
 were seized pending laboratory analysis and the decisions of the judicial
-authorities. [@1,4]
+authorities. [@1,4,6]
 
-The man was held under house arrest until the validation hearing. [@2,4,5] At that
+The man was held under house arrest until the validation hearing. [@2,4,5,6] At that
 hearing the judge of the Lanciano court validated the arrest and ordered him to
-reside in his home municipality. [@1,4] The case is at the preliminary
-investigation stage. [@3,4]
+reside in his home municipality. [@1,4,6] The case is at the preliminary
+investigation stage. [@3,4,6]
