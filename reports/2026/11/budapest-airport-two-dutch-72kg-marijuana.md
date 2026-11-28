@@ -68,30 +68,41 @@ sources:
     publisher: SME.sk
     date: 2026-11-26
     language: sk
+  - title: 72 kilogramm fűvel kapcsoltak le két holland férfit Ferihegyen
+    url: https://hvg.hu/itthon/20261126_rendorseg-nni-nav-ferihegy-72-kilogramm-marihuana-holland-ferfi-diler
+    publisher: HVG
+    date: 2026-11-26
+    language: hu
 open_questions:
   - The two stated package weights, 35.96 kg and 36.46 kg, sum to 72.42 kg, while the police and news accounts describe the total as 72 kg or 'more than 72 kg'; the report uses the stated 72 kg.
   - The material was identified as marijuana by a rapid test, and no result of the forensic chemistry examination was published.
   - No trial date, final charge or sentence was reported; the court ordered one month of pretrial detention on 27 November 2026.
+media:
+  - kind: photo
+    url: https://hvg.hu/itthon/20261126_rendorseg-nni-nav-ferihegy-72-kilogramm-marihuana-holland-ferfi-diler
+    media_url: https://img.hvg.hu/Img/8133bb77-3fc3-490f-b374-cb198a0455cc/12dd7bc3-e710-4c19-878a-4e0682de599c.jpg
+    publisher: HVG
+    caption: 'Police handout photo published with the report on the Ferihegy seizure of 72 kilograms of marijuana from two Dutch couriers. Photo: police.hu'
 ---
 
 Hungarian customs officers detained two Dutch drug couriers at Budapest Ferenc
 Liszt International Airport who had tried to smuggle 72 kilograms of marijuana
-in four checked suitcases. [@1,5] The National Investigation Office's anti-drug
+in four checked suitcases. [@1,5,6] The National Investigation Office's anti-drug
 unit had warned the airport directorate of the National Tax and Customs
 Administration (NAV) on the morning of 25 November that a drug shipment was
-expected on a flight to Budapest. [@2,5] The two men had flown to Budapest from
+expected on a flight to Budapest. [@2,5,6] The two men had flown to Budapest from
 Bangkok with a stopover in Doha. [@1,5]
 
 Customs officers found 125 packages in the four checked suitcases belonging to
-the two suspects. [@3] One man's two bags held 62 vacuum-packed packages
+the two suspects. [@3,6] One man's two bags held 62 vacuum-packed packages
 weighing 35.96 kg, while the other man's two suitcases held 63 foil-wrapped
-packages weighing 36.46 kg. [@2,5] A rapid test indicated that the material in all
-four suitcases was marijuana. [@3,5] Police seized the drugs and sent them to the
+packages weighing 36.46 kg. [@2,5,6] A rapid test indicated that the material in all
+four suitcases was marijuana. [@3,5,6] Police seized the drugs and sent them to the
 National Forensic and Research Centre for a forensic chemistry examination. [@2]
 
 The two Dutch nationals were suspected of drug trafficking in a significant
 quantity, questioned and taken into custody, with investigators seeking their
-pretrial detention. [@2] The Budai Central District Court ordered the two men
+pretrial detention. [@2,6] Investigators also contacted foreign partner agencies to clarify the suspects' criminal records. [@6] The Budai Central District Court ordered the two men
 detained for one month at a hearing on 27 November 2026. [@4] Drug trafficking
 in a significant quantity carries five to 20 years or possibly life imprisonment
 if proved. [@4]
