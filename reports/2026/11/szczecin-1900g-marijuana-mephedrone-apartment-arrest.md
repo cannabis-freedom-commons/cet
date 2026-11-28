@@ -58,6 +58,11 @@ media:
     media_url: https://static2.kryminalki.pl/data/media/2026/11/26/xga-blisko-2-kg-marihuany-mefedron-i-kokaina-zatrzymany-uslyszal-zarzut-obrotu-narkotykami-1795703139-3.jpg
     publisher: Kryminalki.pl
     caption: 'Fourth Szczecin city police handout photograph from the case. Photo: KMP Szczecin'
+  - kind: photo
+    url: https://radioszczecin.pl/1,514337,policjanci-zabezpieczyli-ponad-dwa-kilogramy-nar
+    media_url: https://radioszczecin.pl/serwis_informacyjny/pliki/2026/thumb_960_0/2026-11-26_179568368510.jpg
+    publisher: Radio Szczecin
+    caption: 'Szczecin city police handout photo published with the report of the flat search and drug seizure. Photo: KMP w Szczecinie'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash-1017#max
 submission: 05127985743b92cf72b2f43046b416b4
@@ -73,25 +78,29 @@ sources:
     publisher: Kryminalki.pl
     date: 2026-11-26
     language: pl
+  - title: Policjanci zabezpieczyli ponad dwa kilogramy narkotyków
+    url: https://radioszczecin.pl/1,514337,policjanci-zabezpieczyli-ponad-dwa-kilogramy-nar
+    publisher: Radio Szczecin
+    date: 2026-11-26
+    language: pl
 open_questions:
-  - The accounts give no date for the search, the arrest or the detention decision; 26 November 2026 is their publication date and is used as the incident date.
-  - No figure was published for the cash seized or its currency, or for the number and exact types of the packing items.
-  - No street value was published for any of the drugs.
-  - The marijuana is given only as more than 1,900 grams, with no laboratory confirmation and no detail on whether it was dried flower.
-  - The 30 grams of mephedrone and 20 grams of cocaine from the same search are excluded from the cannabis figures.
-  - The man's age and the district of the flat are not given.
-  - Both accounts reproduce the same Szczecin city police statement and the Wirtualna Polska text is marked as partner content, so there is no independent reporting of the case.
-  - Nothing was published on whether the man admitted the charge, or on any trial or sentence.
+    - The accounts give no date for the search, the arrest or the detention decision; 26 November 2026 is their publication date and is used as the incident date.
+    - No figure was published for the cash seized or its currency, or for the number and exact types of the packing items.
+    - No street value was published for any of the drugs.
+    - The marijuana is described as nearly two kilograms (more than 1,900 grams) in two accounts and as over two kilograms by Radio Szczecin, with no laboratory confirmation or detail on whether it was dried flower.
+    - The 30 grams of mephedrone and 20 grams of cocaine from the same search are excluded from the cannabis figures.
+    - The man's age and the district of the flat are not given.
+    - The accounts reproduce the same Szczecin city police statement and the Wirtualna Polska text is marked as partner content, so there is no independent reporting of the case.
+    - Nothing was published on whether the man admitted the charge, or on any trial or sentence.
 ---
 
 Officers of the drug-crime unit of the Szczecin city police headquarters
-searched a man's flat in the city. [@1] In the flat they seized more than 1,900
+searched a man's flat in the city. [@1,3] In the flat they seized more than 1,900
 grams of marijuana, more than 30 grams of mephedrone and more than 20 grams of
-cocaine. [@1] They also found objects that could be used to portion and pack
-drugs, a mobile phone and cash. [@1] Police also secured an electronic scale and
-a heat sealer. [@1]
+cocaine. [@1,3] They also found objects that could be used to portion and pack
+drugs, a mobile phone and cash. [@1,3] Police also secured an electronic scale and
+a heat sealer. [@1,3]
 
 Prosecutors charged the man with putting significant quantities of intoxicating
-substances into circulation. [@1] At the prosecutor's request, a court ordered
-three months of pre-trial detention for him. [@2]
-
+substances into circulation. [@1,3] At the prosecutor's request, a court ordered
+three months of pre-trial detention for him. [@2,3]
