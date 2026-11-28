@@ -83,15 +83,11 @@ sources:
     publisher: Первый городской
     date: 2026-11-26
     language: ru
-open_questions:
-    - The 26 November 2026 publication date stands in for the event date; suspicion notices were dated 21 November but the searches and court decisions carry no separate date.
-    - The sources state more than 82 kg of cannabis; 82 is recorded and the exact excess was not stated.
-    - No names or ages were published for the seven suspects beyond the inspector's role.
-    - No court outcome for the four other suspects was reported.
-    - Counts and types for the vehicles and growing and packaging equipment were not given.
-    - Both accounts derive from the same prosecution statement and are not fully independent reporting.
-    - Accounts credit the operation to the National Police of Ukraine, the State Bureau of Investigation and the Dnipropetrovsk regional prosecutor's office without separating each agency's role.
-    - The accounts describe the 860 plants as seized but do not say whether they were destroyed or kept as evidence.
+  - title: 'Вирощували коноплі у Кам’янському та Криворізькому районах: на Дніпропетровщині викрили групу осіб, в яких вилучено наркотиків майже на 50 млн грн'
+    url: https://www.poglyad.info/2026/11/26/vyroshhuvaly-konopli-u-kamyanskomu-ta-kryvorizkomu-rajonah-na-dnipropetrovshhyni-vykryly-grupu-osib-v-yakyh-vylucheno-narkotykiv-majzhe-na-50-mln-grn/
+    publisher: Пильний Погляд
+    date: 2026-11-26
+    language: uk
 media:
   - kind: photo
     url: https://ua.news/cn/ukraine/na-dnipropetrovshchini-vikrili-grupu-iaka-oblashtuvala-tri-plantatsiyi-kanabisu
@@ -136,22 +132,22 @@ media:
 ---
 
 Seven members of a Dnipropetrovsk drug group were notified of suspicion for
-illegally growing cannabis and trafficking drugs. [@1,3,4,5,6,7] The charges carry a maximum of 10 years in prison with confiscation of property. [@4,6,7] One suspect serves as an
-inspector at a Dnipro correctional colony. [@1,3,5,6,7] Police said the inspector organised the guarding of the illegal plantations. [@7] Patrol-police TacTeam officers, the KORD special unit and police dog handlers provided support during the detention. [@5] A court ordered detention for
-three suspects, allowing bail of 2 to 4 million hryvnias each. [@1,3,4,6,8] Pretrial
-measures for the four other suspects were still being decided. [@1,6] Investigators were also checking whether other people were involved in the drug business. [@8] The
+illegally growing cannabis and trafficking drugs. [@1,3,4,5,6,7,9] The charges carry a maximum of 10 years in prison with confiscation of property. [@4,6,7] One suspect serves as an
+inspector at a Dnipro correctional colony. [@1,3,5,6,7,9] Police said the inspector organised the guarding of the illegal plantations. [@7] Patrol-police TacTeam officers, the KORD special unit and police dog handlers provided support during the detention. [@5] A court ordered detention for
+three suspects, allowing bail of 2 to 4 million hryvnias each. [@1,3,4,6,8,9] Pretrial
+measures for the four other suspects were still being decided. [@1,6,9] Investigators were also checking whether other people were involved in the drug business. [@8,9] The
 Dnipropetrovsk Regional Prosecutor's Office oversees the proceedings and the
 pre-trial investigation is continuing. [@1]
 
-Officers carried out 44 searches and seized more than 82 kg of cannabis. [@1,3,4,5,6,7]
-They also seized 860 cannabis plants and five firearms. [@1,3,5,6,7] They also seized
+Officers carried out 44 searches and seized more than 82 kg of cannabis. [@1,3,4,5,6,7,9]
+They also seized 860 cannabis plants and five firearms. [@1,3,5,6,7,9] They also seized
 24,000 euros in cash, along with vehicles and equipment for growing and
-packaging cannabis. [@2,3,4,5,6] Officers also seized mobile phones, bank cards and draft notes, police said. [@7] During the searches one of the suspects tried to destroy the drugs but failed to dispose of the evidence. [@6] Prosecutors estimated the seized drugs could have been
-sold for almost 50 million hryvnias. [@1,3,4,5,6,7]
+packaging cannabis. [@2,3,4,5,6,9] Officers also seized mobile phones, bank cards and draft notes, police said. [@7] During the searches one of the suspects tried to destroy the drugs but failed to dispose of the evidence. [@6] Prosecutors estimated the seized drugs could have been
+sold for almost 50 million hryvnias. [@1,3,4,5,6,7,9]
 
 At the beginning of 2026 the suspects established three hidden cannabis
-plantations in Kryvyi Rih and Kamianske districts. [@1,3,5,6] At least 500 plants were grown on each plot. [@3,5,6,7] They hid the plantations
+plantations in Kryvyi Rih and Kamianske districts. [@1,3,5,6,9] At least 500 plants were grown on each plot. [@3,5,6,7,9] They hid the plantations
 among agricultural crops, dense vegetation and in shelterbelts. [@1,3,5,6,7] Members
 tended the plants, harvested and dried the crop, and produced cannabis for sale.
-[@1,5,6] The cut plants were taken to the members' own homes, where they were dried, ground and packed into separate batches for sale. [@7] Members drove to the fields in a different car each time to avoid attracting attention. [@7] They sold the cannabis in wholesale and retail quantities across the region
-through acquaintances. [@1,5] Buyers paid in cash or by transfer to the group members' bank cards. [@5]
+[@1,5,6,9] The cut plants were taken to the members' own homes, where they were dried, ground and packed into separate batches for sale. [@7] Members drove to the fields in a different car each time to avoid attracting attention. [@7] They sold the cannabis in wholesale and retail quantities across the region
+through acquaintances. [@1,5,9] Buyers paid in cash or by transfer to the group members' bank cards. [@5]
