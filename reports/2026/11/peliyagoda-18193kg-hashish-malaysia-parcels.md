@@ -41,6 +41,11 @@ media:
     media_url: https://adaderana.lk/_next/image?url=https%3A%2F%2Fmedia.adaderanaenglish.lk%2Farticles%2F252319%2FMediaFile_20261126_234633_938.jpeg&w=1280&q=75
     publisher: Ada Derana
     caption: 'Hashish worth over Rs. 181 million seized at Peliyagoda customs warehouse. Photo: Ada Derana'
+  - kind: photo
+    url: https://www.themorning.lk/articles/L0U5wuGk0AjSFOA8de7A
+    media_url: https://firebasestorage.googleapis.com/v0/b/the-morning-39270.appspot.com/o/articles%2FL0U5wuGk0AjSFOA8de7A?alt=media&token=2d697a31-6a1a-41e5-b968-9020c51bda25
+    publisher: The Morning
+    caption: 'Plastic-wrapped parcels from the Malaysia shipment in which the hashish was concealed, pictured with The Morning''s report on the Peliyagoda customs warehouse seizure. Photo: The Morning'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: b6d2f58f6f01ecf77e8414fef832d5f9
@@ -50,25 +55,28 @@ sources:
     url: https://adaderana.lk/news/252319
     publisher: Ada Derana
     date: 2026-11-27
+  - title: Hashish worth over Rs. 181 Mn seized at Customs Warehouse
+    url: https://www.themorning.lk/articles/L0U5wuGk0AjSFOA8de7A
+    publisher: The Morning
+    date: 2026-11-27
 open_questions:
   - No separate date is given for the seizure; 27 November 2026 is the article's publication date.
   - No arrests, charges or court outcome were reported after the consignment was handed to the Police Narcotics Bureau.
 ---
 
 Sri Lanka Customs said it seized a consignment of hashish, valued at over Rs.
-181 million, from a customs warehouse in Peliyagoda. [@1] Customs officials said
+181 million, from a customs warehouse in Peliyagoda. [@1,2] Customs officials said
 officers attached to the Narcotics Control Unit identified the suspicious
 parcels during a special inspection. [@1] The parcels were subsequently detained
-in an attempt to apprehend the individuals who came to collect them. [@1]
-However, no one arrived to claim the parcels within the stipulated period. [@1]
+in an attempt to apprehend the individuals who came to collect them. [@1,2]
+However, no one arrived to claim the parcels within the stipulated period. [@1,2]
 
 The detained parcels were then opened and inspected in the presence of officers
-from the Police Narcotics Bureau. [@1] The inspection of the parcels led to the
+from the Police Narcotics Bureau. [@1,2] The inspection of the parcels led to the
 discovery of 18.193 kilograms of hashish. [@1] The estimated street value put on
-the hashish by Sri Lanka Customs was Rs. 181,930,000. [@1] All three parcels
-containing the drugs had been shipped to Sri Lanka from Malaysia. [@1]
+the hashish by Sri Lanka Customs was Rs. 181,930,000. [@1,2] All three parcels
+containing the drugs had been shipped to Sri Lanka from Malaysia. [@1,2]
 
 Following the conclusion of preliminary Customs investigations, the seized
 consignment was handed over to the Police Narcotics Bureau for further
 investigations and legal action. [@1]
-
