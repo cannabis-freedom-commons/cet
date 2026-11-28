@@ -64,11 +64,23 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-22
     language: hi
+  - title: '41 किलो 500 ग्राम गांजे के साथ दो गिरफ्तार: ओडिशा से ट्रेन और फिर बस से मलियाबाग पहुंचे थे, एक नाबालिग भी पकड़ा गया'
+    url: https://www.bhaskar.com/local/bihar/rohtas/suryapura/news/rohtas-ganja-seizure-police-arrest-smuggling-odisha-bus-davth-139756306.html
+    publisher: Dainik Bhaskar
+    date: 2026-11-21
+    language: hi
 open_questions:
-  - 'Accounts differ on the weight: the submitted report gives about 42 kg, while the police figure stated at the Dawath press conference was 41.5 kg; the report uses the police figure.'
-  - The intended destination of the consignment was not reported.
-  - No court outcome or trial date was reported; the case remained at the investigation stage.
-  - It was not reported whether any action followed against the bus driver or the other person whose name emerged during questioning.
+    - 'Accounts differ on the weight: one report gives about 42 kg, while the police figure stated at the Dawath press conference was 41.5 kg; the report uses the police figure.'
+    - Dainik Bhaskar's headline describes two arrests plus a minor picked up, while the police count was three people held; whether the minor was formally arrested is not stated.
+    - The intended destination of the consignment was not reported.
+    - No court outcome or trial date was reported; the case remained at the investigation stage.
+    - It was not reported whether any action followed against the bus driver or the other person whose name emerged during questioning.
+media:
+  - kind: photo
+    url: https://www.bhaskar.com/local/bihar/rohtas/suryapura/news/rohtas-ganja-seizure-police-arrest-smuggling-odisha-bus-davth-139756306.html
+    media_url: https://images.bhaskarassets.com/webp/thumb/512x0/web2images/521/2026/11/21/cover_1795258873202.jpg
+    publisher: Dainik Bhaskar
+    caption: 'The three accused in police custody after the seizure at Maliabagh Chowk in the Dawath police area of Rohtas district. Photo: Dainik Bhaskar'
 ---
 
 The three arrested were from Gudi Saraiya village in Bhojpur district: an
@@ -76,12 +88,12 @@ The three arrested were from Gudi Saraiya village in Bhojpur district: an
 the excise department, police raided Maliabagh Chowk market at about 9 a.m. on
 Saturday, 21 November 2026. [@2] The three had travelled with the ganja by train
 from Odisha to Sasaram and then by Kamur King bus to Maliabagh, where Dawath
-police arrested them. [@2] All three admitted during questioning that it was
+police arrested them. [@2,5] All three admitted during questioning that it was
 their fourth time taking part in ganja trafficking. [@2]
 
 Officers from Bihar's prohibition and state narcotics control bureau and Dawath
 police station carried out the raid jointly. [@1] The search yielded 41.5 kg (41
-kg 500 g) of ganja, which police valued at about 20 lakh rupees. [@2,4] A case was
+kg 500 g) of ganja, which police valued at about 20 lakh rupees. [@2,4,5] A case was
 registered under the NDPS Act. [@3]
 
 Police said they were investigating a larger ganja trafficking network after the
