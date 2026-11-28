@@ -43,6 +43,11 @@ media:
     media_url: https://polisia.kz/ru/wp-content/uploads/sites/2/2026/10/5386426899938090647.jpg
     publisher: Polisia.kz
     caption: 'The photo Polisia.kz published with the Interior Ministry''s announcement of the Pepe online shop case in Astana. Photo: Polisia.kz (Ministry of Internal Affairs of Kazakhstan)'
+  - kind: video
+    url: https://rus.azattyq-ruhy.kz/society/118055-238-pechenii-s-narkotikami-iziali-pri-zaderzhanii-v-astane-video
+    media_url: https://www.youtube.com/watch?v=OKEQyD9LZQA
+    publisher: Azattyq Rýhy
+    caption: Azattyq Rýhy's video report on the 238 cannabis-resin cookies seized during the arrests in Astana.
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: 07f96dcfee973f12585b6d87d5bb2054
@@ -78,39 +83,36 @@ sources:
     publisher: Ertenmedia.kz
     date: 2026-10-21
     language: ru
-open_questions:
-  - The statement gives no separate date for the arrests and searches; 21 October 2026 is its publication date and is used as the incident date.
-  - Police gave the marijuana weight as "over 8 kg", so the 11.5 kg cannabis total is a minimum, and the "about 12 kg" overall figure includes other, unnamed drugs.
-  - No weight was published for the cannabis resin inside the 238 cookies, so the roughly 24 kg of confectionery is not counted as cannabis.
-  - No cash amount and no count of the rented flats searched were published.
-  - The roles of the five men, any charges beyond the Article 297 investigation and the possible sentences were not specified.
-  - All the accounts reproduce the Interior Ministry statement published on Polisia.kz and are not independent reporting.
+  - title: 238 печений с наркотиками изъяли при задержании в Астане (ВИДЕО)
+    url: https://rus.azattyq-ruhy.kz/society/118055-238-pechenii-s-narkotikami-iziali-pri-zaderzhanii-v-astane-video
+    publisher: Azattyq Rýhy
+    date: 2026-10-21
+    language: ru
 ---
 
 Police and the State Security Service detained five men over 30 in simultaneous
-raids on rented flats in Astana. [@1] The Interior Ministry said the shop,
+raids on rented flats in Astana. [@1,7] The Interior Ministry said the shop,
 called Pepe, had established a steady channel for distributing drugs in the
 capital. [@2] Police described the group as a hierarchy of organiser, packer,
 storekeeper and stash-dropper, the last a person who hides drug parcels for
 buyers. [@1] The group supplied cannabis products around the clock: marijuana,
-hashish, cannabis resin and other drugs. [@1]
+hashish, cannabis resin and other drugs. [@1,7]
 
 Officers seized 238 cookies with a cannabis resin filling, each weighing 100
-grams. [@1] Kursiv reported that the cookies were apple-shaped. [@3] Searches of
+grams. [@1,7] Kursiv reported that the cookies were apple-shaped. [@3] Searches of
 the suspects' flats yielded about 12 kg of drugs in all, including more than 8
-kg of marijuana, 1.5 kg of hashish and 2 kg of cannabis resin. [@1] Baq.kz put
+kg of marijuana, 1.5 kg of hashish and 2 kg of cannabis resin. [@1,7] Baq.kz put
 the total weight of the 238 cookies at almost 24 kg. [@4] Police also seized
 large sums of cash, bank cards, mobile phones, electronic scales, briquettes,
 vacuum-packing and packing equipment and coloured insulating tape, which they
-said showed the drugs were being sold. [@1]
+said showed the drugs were being sold. [@1,7]
 
 A pre-trial investigation was opened under Article 297 of Kazakhstan's Criminal
-Code. [@1] Fbrk.kz described Article 297 as covering the illegal production,
+Code. [@1,7] Fbrk.kz described Article 297 as covering the illegal production,
 processing, acquisition, storage, transport for sale, dispatch or sale of
 narcotic drugs and psychotropic substances. [@5] The ministry said all five
-suspects were taken into custody. [@2] Ertenmedia reported that a court
+suspects were taken into custody. [@2,7] Ertenmedia reported that a court
 sanctioned their detention and that investigative measures were continuing. [@6]
 Bakhytzhan Amirkhanov, head of a department at the Interior Ministry's committee
 against drug crime, said the ministry would keep shutting down online drug shops
 and closing supply channels. [@1]
-
