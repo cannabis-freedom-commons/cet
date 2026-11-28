@@ -65,6 +65,11 @@ sources:
     publisher: Sarmad
     date: 2026-11-26
     language: ar
+  - title: '«الداخلية»: ضبط 4 متهمين بحوزتهم مواد مخدرة ومؤثرات عقلية'
+    url: http://alwatan.kuwait.tt/articledetails.aspx?id=838083&yearquarter=20264
+    publisher: الوطن
+    date: 2026-11-26
+    language: ar
 open_questions:
     - No separate date is given for the arrests; 26 November 2026 is the date of the ministry's announcement used here.
     - The source does not say which of the three cases or which of the four suspects involved the hashish and hashish oil.
@@ -94,19 +99,19 @@ media:
 
 Kuwait's Interior Ministry announced that its Criminal Security Sector,
 represented by the General Directorate for Drug Control, arrested four suspects
-in three separate cases. [@1,3,5] The ministry made the announcement on Thursday 26
+in three separate cases. [@1,3,5,6] The ministry made the announcement on Thursday 26
 November 2026. [@2,5] The four were held because quantities of narcotic and
 psychotropic substances were found with them, with the apparent intent to
 traffic in and use them. [@1,4,5]
 
-The total seized across the three cases included 50 grams of hashish. [@1,4,5]
-Officers also recovered 120 shisha portions of hashish oil. [@2,4,5] The other
+The total seized across the three cases included 50 grams of hashish. [@1,4,5,6]
+Officers also recovered 120 shisha portions of hashish oil. [@2,4,5,6] The other
 materials seized in the three cases were 2.103 kilograms of shabu
 (methamphetamine), two grams of heroin, 224 sheets soaked in a substance called
 kīmikāl, 2,474 capsules of Lyrica (pregabalin), 1,000 Captagon tablets and 172
 capsules of psychotropic substances. [@1] The ministry said 600 Kuwaiti dinars
-were also seized from the proceeds of sales. [@1,4,5]
+were also seized from the proceeds of sales. [@1,4,5,6] Officers also seized two sensitive scales among the items from the three cases. [@6]
 
 The suspects and the seized materials were referred to the competent authority
-for the necessary legal measures. [@1,4,5] The ministry described the operation as
+for the necessary legal measures. [@1,4,5,6] The ministry described the operation as
 part of continuing security efforts against drugs. [@1,4,5]
