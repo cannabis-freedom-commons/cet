@@ -59,41 +59,52 @@ sources:
     publisher: Dakaractu
     date: 2025-10-14
     language: fr
+  - title: 'lutte contre le trafic de stupéfiants: l''Octris neutralise un réseau transitant entre Maroc - Sénégal -Guinée Bissau'
+    url: https://www.pressafrik.com/lutte-contre-le-trafic-de-stupefiants-l-Octris-neutralise-un-reseau-transitant-entre-Maroc-Senegal-Guinee-Bissau_a296170.html
+    publisher: Pressafrik
+    date: 2025-10-14
+    language: fr
+  - title: 'Trafic international de drogue : l''OCTRIS démantèle un réseau entre le Maroc, le Sénégal et la Guinée-Bissau'
+    url: https://ledakarois.sn/article/wp-60397
+    publisher: Le Dakarois
+    date: 2025-10-14
+    language: fr
 open_questions:
-  - Figures record the 25 kilograms seized in the 13 October Pikine-Technopole raid; the initial 6-kilogram lot found in water heaters and used for the controlled delivery is described separately and not added to the total.
-  - No charges, trial dates or court outcomes were reported; the three suspects were reported in custody with the investigation continuing.
-  - The full identities of the three arrested people were not published in the cited sources; only the initials B.D. for the main suspect and B.L.T. for the alleged mastermind were given.
-  - No street value for the hashish was published.
-  - This account gives only the count of 250 slabs for the Pikine-Technopole seizure without a weight, so the 25-kilogram weight continues to rest on the existing sources.
-  - The milk pots are said to potentially contain other unidentified illicit substances, so no additional cannabis weight is recorded for them.
-  - 'Left out, as its quotation was not found in Dakaractu: Three people were arrested in Pikine Technopole on 13 October in possession of 250 slabs of the same drug.'
-  - 'Left out, as its quotation was not found in Dakaractu: The three people arrested were identified as B. Djaby, M. Baldé and N. Preira.'
+    - Figures record the 25 kilograms seized in the 13 October Pikine-Technopole raid; the initial 6-kilogram lot found in water heaters and used for the controlled delivery is described separately and not added to the total.
+    - No charges, trial dates or court outcomes were reported; the three suspects were reported in custody with the investigation continuing.
+    - No street value for the hashish was published.
+    - This account gives only the count of 250 slabs for the Pikine-Technopole seizure without a weight, so the 25-kilogram weight continues to rest on the existing sources.
+    - The milk pots are said to potentially contain other unidentified illicit substances, so no additional cannabis weight is recorded for them.
+    - '''Left out, as its quotation was not found in Dakaractu: Three people were arrested in Pikine Technopole on 13 October in possession of 250 slabs of the same drug.'''
+    - '''Left out, as its quotation was not found in Dakaractu: The three people arrested were identified as B. Djaby, M. Baldé and N. Preira.'''
+    - Pressafrik and Le Dakarois describe the operation as a total seizure of 85 kilograms of hashish, while sources citing the Senegalese police report 25 kilograms from the raid; the report retains 25 kilograms.
+    - 'Accounts differ on which detainee admitted transporting the drugs: earlier accounts attribute the admission to the main suspect, while Pressafrik and Le Dakarois attribute it to Mamadou Baldé and say Baba Djiaby claimed only to have received the consignment.'
 ---
 
 Officers of Senegal's OCTRIS arrested three people in Pikine-Technopole, Dakar,
-on 13 October 2025. [@2] One suspect holds both Senegalese and Bissau-Guinean
-nationality, while the other two are Guinea-Bissau nationals. [@1] The main
+on 13 October 2025. [@2,4] One suspect holds both Senegalese and Bissau-Guinean
+nationality, while the other two are Guinea-Bissau nationals. [@1] The three were identified as Baba Djiaby, a Senegalese man who also held Bissau-Guinean nationality and presented himself as a footballer, and two Guinea-Bissau nationals, Mamadu Baldé and Noni Preira, who described themselves as drivers. [@4] The main
 suspect, identified as B.D., told investigators he only transported hashish
 between Senegal and Guinea-Bissau and named B.L.T. in Guinea-Bissau as the
-alleged mastermind. [@1] Police placed the three suspects in custody while the
+alleged mastermind. [@1] During questioning Baba Djiaby said he had only received the consignment, Mamadou Baldé acknowledged transporting the drugs from Senegal to Guinea-Bissau and Noni Preira denied involvement, the first two naming Benjamin Lopez Tavarez as the mastermind. [@4] Police placed the three suspects in custody while the
 investigation continues to dismantle the network. [@1]
 
 Officers seized 25 kilograms of hashish, in 250 slabs of 100 grams each, from a
 house in Pikine-Technopole. [@2] The case began after investigators found 6
 kilograms of hashish in 100-gram slabs hidden inside 80-litre and 50-litre
-electric water heaters. [@2] Officers replaced that drug with a harmless
+electric water heaters. [@2] The case began on 2 October 2025 in Morocco, when a Senegalese transporter based in Marrakech alerted OCTRIS after finding six kilograms of hashish hidden in two electric water heaters. [@4] Officers replaced that drug with a harmless
 substance and mounted a controlled delivery. [@1] The intended recipient
 collected the suspect parcels by vehicle from a warehouse in Yarakh on 13
 October and was followed to Pikine-Technopole, where officers moved in after the
-goods were unloaded. [@1] A search also recovered four passports, copies of two
+goods were unloaded. [@1,4] A search also recovered four passports, copies of two
 Afghan passports, identity cards, cheque books, bank cards and five mobile
 phones. [@2] Officers also immobilised two vehicles, an Alfa Romeo and a Renault
 Scenic, and seized eight carefully wrapped milk pots suspected of concealing
 illicit products. [@2]
 
 The operation targeted an international hashish network running from Morocco to
-Guinea-Bissau via Senegal. [@1,3] It was carried out through close intelligence
+Guinea-Bissau via Senegal. [@1,3,4] It was carried out through close intelligence
 coordination with Moroccan authorities, who helped trace the route and identify
 members. [@1,3]
 
-The seized passports and identity cards included documents belonging to Spanish nationals. [@3] The consignment was to travel onward to Guinea-Bissau hidden in milk pots to evade customs controls. [@3] Investigators pointed to B. L. Tavarez, based in Guinea-Bissau, as the alleged mastermind of the network. [@3]
+The seized passports and identity cards included documents belonging to Spanish nationals. [@3,4] The consignment was to travel onward to Guinea-Bissau hidden in milk pots to evade customs controls. [@3] Investigators pointed to B. L. Tavarez, based in Guinea-Bissau, as the alleged mastermind of the network. [@3] The investigation continued with Benjamin Lopez Tavarez, based in Guinea-Bissau, still being sought. [@5]
