@@ -52,28 +52,32 @@ sources:
     publisher: France-Antilles Martinique
     date: 2026-03-03
     language: fr
+  - title: 'Narcotrafic : la douane saisit près d''un kilo de cannabis lors d''un contrôle de colis postaux'
+    url: https://rci.fm/martinique/infos/Societe/Narcotrafic-la-douane-saisit-pres-dun-kilo-de-cannabis-lors-dun-controle-de-colis
+    publisher: RCI
+    date: 2026-03-03
+    language: fr
 open_questions:
-  - The operation date of Monday 2 March 2026 comes from the articles' text, while the two France-Antilles pages were published on 3 and 4 March 2026.
-  - No arrests, suspects, charges or court outcome were reported.
-  - The submitted France-Antilles report of 4 March is paywalled beyond its opening paragraph, so its later details could not be read.
-  - Both accounts are from the same outlet, France-Antilles Martinique, and no independent official statement could be opened.
-  - No cannabis-only market value was published, so no value is recorded.
-  - The operation's exact duration and the total number of parcels opened were not reported.
+    - The accounts place the operation on Monday 2 March 2026 and Tuesday 3 March 2026 respectively; RCI dates it to Tuesday.
+    - No arrests, suspects, charges or court outcome were reported.
+    - The submitted France-Antilles report of 4 March is paywalled beyond its opening paragraph, so its later details could not be read.
+    - The account rests on the prefecture's presentation of the operation; no statement from the Douane or the prefecture was opened directly.
+    - No cannabis-only market value was published, so no value is recorded.
+    - The operation's exact duration and the total number of parcels opened were not reported.
 ---
 
 On the morning of Monday 2 March 2026, the prefect of Martinique, Étienne
 Desplanques, went to the Dillon postal sorting centre in Fort-de-France for a
 parcel-control operation. [@2] Teams from the Douane, France's customs service,
 and from La Poste, the national postal operator, carried out the checks
-together. [@2] The prefect was present at the postal sorting centre that Monday
+together. [@2,3] The prefect was present at the postal sorting centre that Monday
 during the checks. [@2]
 
 The operation at Dillon yielded cannabis resin, counterfeit wireless earbuds and
-rolling tobacco. [@1] Officers seized 984 g of cannabis resin, just under a
-kilogram, in the parcels. [@2] They also seized 26 counterfeit wireless earbuds
-from the parcels. [@2] The parcels also contained 90 g of rolling tobacco. [@2]
+rolling tobacco. [@1,3] Officers seized 984 g of cannabis resin, just under a
+kilogram, in the parcels. [@2,3] They also seized 26 counterfeit wireless earbuds
+from the parcels. [@2,3] The parcels also contained 90 g of rolling tobacco. [@2,3]
 
 According to the prefecture, the operation aimed to reaffirm the State's
 priority in the fight against illicit trafficking. [@2] The prefecture also said
 the operation aimed to secure parcel flows. [@2]
-
