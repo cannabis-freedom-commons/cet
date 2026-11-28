@@ -86,6 +86,11 @@ sources:
     publisher: Başak Gazetesi
     date: 2026-11-26
     language: tr
+  - title: AKSU’DA 2 ARAÇTA 9 KİLOGRAM ESRAR ELE GEÇİRİLDİ
+    url: https://serikpostasi.com/haber/aksuda-2-aracta-9-kilogram-esrar-ele-gecirildi-9413
+    publisher: Serik Postası Gazetesi
+    date: 2026-11-26
+    language: tr
 open_questions:
     - No separate calendar date for the vehicle searches was published; 26 November 2026 is the article's publication date.
     - The suspects are identified only by the initials A.D., İ.E. and A.K.; their ages and places of residence were not published.
@@ -93,15 +98,15 @@ open_questions:
 
 Antalya police detained three suspects, identified only as A.D., I.E. and A.K.,
 in connection with a vehicle search in Fettahlı Mahallesi in the Aksu district.
-[@1,2,3,5,6] The three were detained on suspicion of trading in and supplying narcotic
+[@1,2,3,5,6,7] The three were detained on suspicion of trading in and supplying narcotic
 or stimulant substances, the Turkish charge of uyuşturucu veya uyarıcı madde
-ticareti yapmak ve sağlamak. [@1,3,5,6]
+ticareti yapmak ve sağlamak. [@1,3,5,6,7]
 
 Officers searching two vehicles in Fettahlı Mahallesi seized 9 kilograms of
-esrar, the cannabis seized in this event. [@1,2,3,4,5,6] The search was carried out by
+esrar, the cannabis seized in this event. [@1,2,3,4,5,6,7] The search was carried out by
 teams of the Antalya Police Directorate anti-narcotics branch, the Narkotik
 Suçlarla Mücadele Şube Müdürlüğü, as part of its province-wide enforcement work.
-[@1,2,3,4,5,6] The provincial governor's office announced the operation in an official statement. [@6]
+[@1,2,3,4,5,6,7] The provincial governor's office announced the operation in an official statement. [@6]
 
 The branch describes that work as aimed at drying up the source of narcotics
 across the province and at preventing their trade and use. [@1] The account was
