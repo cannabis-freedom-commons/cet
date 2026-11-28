@@ -54,21 +54,27 @@ sources:
     url: https://jkmonitor.org/entertainment/jammu-and-kashmir-police-report-drug-arrests-mining-seizures-and-public-safety-drives
     publisher: JK Monitor
     date: 2026-11-25
+  - title: Srinagar Police Arrest Three Drug Peddlers with Heroin and Ganja
+    url: https://aimamedia.org/newsdetails.aspx?nid=862380
+    publisher: AIMA Media
+    date: 2026-11-26
+    language: en
 open_questions:
-  - The combined 2.131 kg is the sum of the separately stated cannabis recoveries (1.8 kg ganja plus 15 g and 10 g charas plus 306 g cannabis powder); the 21 g of heroin is excluded from the cannabis total.
-  - No separate date was published for the two Anantnag and one Shopian operations; 25 November 2026, the dateline of the police roundup, is used as the incident date for an operation spanning 23-25 November.
-  - The 306 grams was described only as a cannabis powder-like substance, with no laboratory confirmation reported.
-  - No court outcome beyond FIR registration and continuing investigation was reported.
-  - All accounts rest on the same police statement rather than independent reporting.
+    - The combined 2.131 kg is the sum of the separately stated cannabis recoveries (1.8 kg ganja plus 15 g and 10 g charas plus 306 g cannabis powder); the 21 g of heroin is excluded from the cannabis total.
+    - No separate date was published for the two Anantnag and one Shopian operations; 25 November 2026, the dateline of the police roundup, is used as the incident date for an operation spanning 23-25 November.
+    - The 306 grams was described only as a cannabis powder-like substance, with no laboratory confirmation reported.
+    - No court outcome beyond FIR registration and continuing investigation was reported.
+    - All accounts rest on the same police statement rather than independent reporting.
+    - 'Accounts differ on where Arsalan Manzoor Dar lived: one report described all three arrestees as residents of Haran Ganderbal, while the police statement gave his residence as Awantabawan.'
 ---
 
 Police arrested six alleged drug peddlers in five separate operations across
 Srinagar, Anantnag and Shopian districts, recovering ganja, heroin, charas and a
-cannabis powder-like substance. [@1] Sahil Ahmad Wagay and Sheikh Ayaan, both
+cannabis powder-like substance. [@1,4] Sahil Ahmad Wagay and Sheikh Ayaan, both
 residents of Tehlipora Haran in Ganderbal, were arrested after police
-intercepted their motorcycle at Dagapora in Ahmadnagar on 23 November 2026. [@1]
+intercepted their motorcycle at Dagapora in Ahmadnagar on 23 November 2026. [@1,4]
 Police arrested Arsalan Manzoor Dar, a resident of Awantabawan, during checking
-at Subzi Mandi in Soura on 24 November 2026. [@1] Police arrested Rameez Ahmad
+at Subzi Mandi in Soura on 24 November 2026. [@1,4] Police arrested Rameez Ahmad
 Dar, a resident of Pehroo, at Rangkadal Naka in Aishmuqam and recovered
 approximately 15 grams of charas from him. [@1]
 
@@ -78,7 +84,7 @@ grams of charas from him. [@1] Police apprehended Mohd Suhaib Lone, a resident
 of Kanipora, during naka checking on the Bon Batapora-Arhama link road in
 Shopian, recovering 306 grams of a cannabis powder-like substance. [@1] Police
 recovered approximately 1.8 kilograms of ganja from Sahil Ahmad Wagay and Sheikh
-Ayaan. [@1] The two occupants of the Dagapora motorcycle allegedly attempted to
+Ayaan. [@1,4] The two occupants of the Dagapora motorcycle allegedly attempted to
 flee but were apprehended by police. [@2]
 
 Police registered an FIR under Sections 8 and 20 of the NDPS Act at Police
@@ -88,5 +94,4 @@ Sections 8 and 21 of the NDPS Act at Police Station Soura in the Soura case.
 registered FIR No. 65/2026 under sections 8/20 of the NDPS Act for the Dagapora
 ganja seizure. [@3] Cases were registered at the respective police stations, and
 investigation is underway to trace the source of the contraband and its forward
-and backward linkages. [@1]
-
+and backward linkages. [@1,4]
