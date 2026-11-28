@@ -45,17 +45,23 @@ sources:
     publisher: Habiganj Express
     date: 2026-11-25
     language: bn
+  - title: চুনারুঘাটে ২৪ কেজি গাঁজাসহ ৩ মাদক কারবারি গ্রেফতার
+    url: https://shironam.com/news/3-drug-dealers-arrested-with-24-kg-cannabis-in-chunarughat
+    publisher: Shironam
+    date: 2026-11-26
+    language: bn
 open_questions:
-  - The 24 kg figure is SRB-9's own count; no independent weighing or estimate of the ganja's value was published.
-  - The article says a case was being prepared under the Narcotics Control Act, 2018 but gives no case number, charge sheet or court outcome.
-  - No further arrests, prosecutions or court proceedings after the handover to Chunarughat police station were reported.
-  - The account rests on a single report of SRB-9's press statement rather than independent reporting.
+    - The 24 kg figure is SRB-9's own count; no independent weighing or estimate of the ganja's value was published.
+    - No case number, charge sheet or court outcome was reported after the case under the Narcotics Control Act, 2018 was filed.
+    - No further arrests, prosecutions or court proceedings after the handover to Chunarughat police station were reported.
+    - The published accounts reproduce SRB-9's press statement; no independent reporting or witness account was published.
+    - The unit's name varies between accounts, given as Rapid Action Battalion-9 (RAB-9) and as Special Response Battalion-9 (SRB-9).
 ---
 
 Special Response Battalion-9 officers arrested three men in Chunarughat,
-Habiganj, and said they seized 24 kg of ganja. [@1] The operation took place
+Habiganj, and said they seized 24 kg of ganja. [@1,2] The operation took place
 around 11pm on Tuesday 24 November in the Chaklapunji tea-garden area beside the
-Sylhet-Dhaka highway in Deorgach, Chunarughat. [@1] A team from SRB-9's
+Sylhet-Dhaka highway in Deorgach, Chunarughat. [@1] The arrests were made at the Chaklapunji tea garden in the Chandimazar area of Deorgach. [@2] A team from SRB-9's
 Shayestaganj camp acted on a tip-off and caught the three men as they tried to
 flee. [@1] Officers recovered the ganja from four packets in the men's
 possession, a total SRB-9 put at 24 kg. [@1]
@@ -66,5 +72,4 @@ Moulvibazar district. [@1] In initial questioning the three said they had
 collected the ganja from a border area and kept it intending to sell it,
 according to an SRB-9 press statement. [@1] SRB-9 said it was preparing a case
 under the Narcotics Control Act, 2018 and handed the men and the ganja to
-Chunarughat police station. [@1]
-
+Chunarughat police station. [@1] A case had been filed against the three under the Narcotics Control Act and they had been handed over to Chunarughat police station. [@2]
