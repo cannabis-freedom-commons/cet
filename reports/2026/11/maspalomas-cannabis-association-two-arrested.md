@@ -46,6 +46,21 @@ sources:
     url: https://maspalomas24h.uk/Article/11700/desmantelada-asociacion-cannabis-trafico-drogas-maspalomas
     publisher: Maspalomas 24h
     date: 2026-11-25
+  - title: Dos detenidos por vender droga en el marco de una asociación cannábica en Gran Canaria
+    url: https://canariasnews.es/articulos/dos-detenidos-por-vender-droga-en-el-marco-de-una-asociacion-cannabica-en-gran-canaria-25-11-2026/
+    publisher: Canarias News
+    date: 2026-11-25
+    language: es
+  - title: 'Golpe a la falsa asociación cannábica de Playa del Inglés: vendían droga a turistas sin ser socios'
+    url: https://www.canariasenpleno.com/detenidos-trafico-drogas-playa-ingles/
+    publisher: Canarias en Pleno
+    date: 2026-11-25
+    language: es
+  - title: Slo til mot cannabis-klubb i Playa del Inglés
+    url: https://www.canariavisen.no/nyheter/slo-til-mot-cannabis-klubb-i-playa-del-ingles/224597
+    publisher: Canariavisen
+    date: 2026-11-26
+    language: nb
 open_questions:
   - The article gives 12 November 2026 as the date of the search and arrests but says only that the investigation ran during September, October and November, so its precise start is unknown.
   - The three other people investigated were not reported as arrested or charged, and no names, ages or nationalities were published.
@@ -53,21 +68,27 @@ open_questions:
   - No laboratory confirmation of the seized substances was reported.
   - No weight was given for the vaporizers, cannabis cigarettes or food products, so they are excluded from the recorded cannabis weight.
   - The account comes from a single outlet reproducing a National Police statement; no second independent report was found.
+media:
+  - kind: photo
+    url: https://www.canariavisen.no/nyheter/slo-til-mot-cannabis-klubb-i-playa-del-ingles/224597
+    media_url: https://image.canariavisen.no/224603.webp?imageId=224603&width=2116&height=1208&format=webp
+    publisher: Canariavisen
+    caption: 'Police photo of the cannabis club in Playa del Inglés whose operators National Police suspect of selling drugs. Photo: Policía Nacional'
 ---
 
 National Police officers arrested two men in Playa del Inglés, in the
 municipality of San Bartolomé de Tirajana, on suspicion of running drug
-trafficking through a cannabis association. [@1] Officers from the Narcotics
+trafficking through a cannabis association. [@1,2,4] Officers from the Narcotics
 Group of the Maspalomas Local Police Station carried out a judicially authorised
 entry and search of the establishment on 12 November 2026, assisted by the
-Prevention and Reaction Unit (UPR). [@1] Two men linked to the operation and
+Prevention and Reaction Unit (UPR). [@1,2] Two men linked to the operation and
 management of the establishment were arrested during the search, one of whom
-identified himself as the president of the association. [@1] Three other people
-were investigated for possible involvement in the case. [@1]
+identified himself as the president of the association. [@1,3] Three other people
+were investigated for possible involvement in the case. [@1,2]
 
-During the search officers seized 869 grams of marijuana. [@1] They also seized
-83 grams of hashish. [@1] Other items included 17 vaporizers containing THC.
-[@1] Police found 18 prepared cannabis cigarettes. [@1] Cannabis-derived food
+During the search officers seized 869 grams of marijuana. [@1,2] They also seized
+83 grams of hashish. [@1,2] Other items included 17 vaporizers containing THC.
+[@1] Police found 18 prepared cannabis cigarettes. [@1,2] Cannabis-derived food
 products including gummies, pastries and liquid preparations were also seized.
 [@1] Some substances were found in containers behind the bar, while more
 marijuana, THC vaporizers and cannabis cigarettes were hidden in a wastebasket.
@@ -83,4 +104,3 @@ promoted cannabis-derived products through public social media profiles,
 inciting their consumption. [@1] Once the police investigation was completed,
 the detainees were placed at the disposal of the competent judicial authority.
 [@1]
-
