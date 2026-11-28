@@ -59,6 +59,10 @@ sources:
     publisher: 021.rs
     date: 2026-11-26
     language: sr
+  - title: An illegal laboratory for the production of marijuana was discovered near Sopot, around 300 kilograms of drugs were seized
+    url: https://kossev.info/en/otkrivena-ilegalna-laboratorija-za-proizvodnju-marihuane-kod-sopota-zaplenjeno-oko-300-kilograma-droge/
+    publisher: KoSSev
+    date: 2026-11-26
 open_questions:
     - 'The plant count and weight are approximate: police reported "about 500" plants weighing "close to 300 kilograms".'
     - No court outcome was reported; the suspect was detained for up to 48 hours and a criminal complaint was to follow.
@@ -70,19 +74,24 @@ media:
     media_url: https://www.espreso.co.rs/data/images/2026/11/26/16/1627198_05_ls.jpg
     publisher: Espreso
     caption: 'Photo from the marijuana laboratory and seizure near Sopot, credited to the Interior Ministry. Photo: MUP'
+  - kind: video
+    url: https://kossev.info/en/otkrivena-ilegalna-laboratorija-za-proizvodnju-marihuane-kod-sopota-zaplenjeno-oko-300-kilograma-droge/
+    media_url: https://www.facebook.com/reel/4658336967782468/
+    publisher: KoSSev
+    caption: 'Facebook video embedded in the report on the illegal marijuana laboratory seized near Sopot. Video: KoSSev'
 ---
 
 Police in Serbia arrested a 34-year-old man, identified only as K.M., near Sopot
-on suspicion of unauthorised production and trafficking of narcotic drugs. [@1,2]
+on suspicion of unauthorised production and trafficking of narcotic drugs. [@1,2,4]
 The arrest was ordered by the Higher Public Prosecutor's Office in Belgrade.
-[@1] Officers found the suspect in a house containing an illegal laboratory.
-[@1] He was ordered held for up to 48 hours and was to be taken to the competent
-prosecutor's office with a criminal complaint. [@1,2]
+[@1,4] Officers found the suspect in a house containing an illegal laboratory.
+[@1,4] He was ordered held for up to 48 hours and was to be taken to the competent
+prosecutor's office with a criminal complaint. [@1,2,4]
 
 Officers from the criminal police's Service for Combating Drugs and the
 Department for Special Actions discovered the laboratory near Sopot on 26
-November 2026. [@1,2] The interior ministry announced the laboratory's discovery and the arrest in a statement. [@3] In three separate rooms they found about 500 plants
-suspected of being marijuana, weighing close to 300 kilograms in total. [@1,2]
+November 2026. [@1,2,4] The interior ministry announced the laboratory's discovery and the arrest in a statement. [@3] In three separate rooms they found about 500 plants
+suspected of being marijuana, weighing close to 300 kilograms in total. [@1,2,4]
 Police also seized equipment for growing the drug under artificial conditions.
-[@1] Officers described the haul as close to 300 kilograms of the drug in raw
-form. [@1]
+[@1,4] Officers described the haul as close to 300 kilograms of the drug in raw
+form. [@1,4]
