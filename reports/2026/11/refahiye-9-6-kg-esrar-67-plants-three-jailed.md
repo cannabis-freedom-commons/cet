@@ -61,6 +61,11 @@ sources:
     publisher: Habertürk Yerel Haberler
     date: 2026-11-27
     language: tr
+  - title: Erzincan'da 9 kilo 600 gram esrar ele geçirildi
+    url: https://www.ensonhaber.com/erzincanda-9-kilo-600-gram-esrar-ele-gecirildi-h1586033
+    publisher: Ensonhaber
+    date: 2026-11-27
+    language: tr
 open_questions:
   - No date is given for the operation or the arrests; 27 November 2026, the publication date, stands in for the incident date.
   - The suspects' names and ages and the court that ordered their detention were not published.
@@ -72,19 +77,18 @@ open_questions:
 
 Erzincan provincial gendarmerie's narcotics branch and intelligence unit carried
 out the operation in Refahiye district after intelligence work on drug
-production and trafficking in the area. [@2] The raid was staged simultaneously
+production and trafficking in the area. [@2,4] The raid was staged simultaneously
 against three suspects who, according to the gendarmerie, were producing and
 selling drugs with the help of a climate-control system installed in a room.
 [@1]
 
 Inside the room, which measured 15 by 12 metres, officers found the
-climate-control installation and its equipment. [@3] The room held 9 kg 600 g of
-kubar esrar, a cannabis product. [@2] Officers also seized 67 cannabis plants,
-15 g of cannabis seeds and three mobile phones. [@1] The plants, seeds and drugs
+climate-control installation and its equipment. [@3,4] The room held 9 kg 600 g of
+kubar esrar, a cannabis product. [@2,4] Officers also seized 67 cannabis plants,
+15 g of cannabis seeds and three mobile phones. [@1,4] The plants, seeds and drugs
 were found together with the climate-control equipment. [@3]
 
 All three suspects were taken into custody during the operation. [@2] They were
 remanded on charges of manufacturing and trading narcotic or stimulant
 substances under article 188 of the Turkish criminal code (TCK 188) and sent to
-prison. [@1]
-
+prison. [@1,4]
