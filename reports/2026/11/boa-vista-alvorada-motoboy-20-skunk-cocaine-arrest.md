@@ -56,27 +56,33 @@ sources:
     publisher: Folha BV
     date: 2026-11-26
     language: pt
+  - title: Motoboy é preso com cocaína e maconha durante abordagem no bairro Alvorada em Boa Vista
+    url: https://roraima1.com.br/motoboy-e-preso-com-cocaina-e-maconha-durante-abordagem-no-bairro-alvorada-em-boa-vista/
+    publisher: Roraima 1
+    date: 2026-11-26
+    language: pt
 open_questions:
     - No weight was published for the package of skunk, so no cannabis weight is given.
     - The cocaine and coca paste from the same seizure are excluded from the cannabis figures.
     - The substance was described as skunk by G1 and as a substance with characteristics of marijuana by Folha BV; no laboratory confirmation was reported.
     - The man was identified only by the initials G.R.S., and no charge, custody decision or court outcome was reported beyond the case being registered as drug trafficking.
+    - Roraima 1 places the arrest at night, while G1 and Folha BV describe the approach as taking place in the afternoon.
 ---
 
 A 20-year-old motoboy, a motorcycle delivery rider, was arrested on the
 afternoon of Wednesday 25 November 2026 in Bairro Alvorada, in the west of Boa
-Vista, Roraima, on suspicion of drug trafficking. [@1,2] The man was identified only by the initials G.R.S. and was sitting on a red Honda CG 160 in front of a residence when officers approached. [@2] The stop took place on Travessa C-45. [@2] The arrest took place at
+Vista, Roraima, on suspicion of drug trafficking. [@1,2] The man was identified only by the initials G.R.S. and was sitting on a red Honda CG 160 in front of a residence when officers approached. [@2] The stop took place on Travessa C-45. [@2,3] The arrest took place at
 about 18:00 during a military police patrol of the area, when officers spotted
 the man sitting on a motorbike in front of a property. [@1]
 
 On seeing the patrol car approach he switched off the bike, got down and threw a
-helmet and a package into a plot of land beside the property. [@1,2] Officers
+helmet and a package into a plot of land beside the property. [@1,2,3] Officers
 found a package of skunk, two rocks of cocaine base paste, packets of cocaine,
 money and a mobile phone with him. [@1,2] The cash found on him was R$132. [@2] Questioned about more drugs, the man
-said there was more at his house. [@1]
+said there was more at his house. [@1,3]
 
 At the house police found another three rocks of cocaine base paste, crumbs of
 the same substance, a larger package of cocaine, a precision scale, money and a
 knife. [@1,2] The money at the house was R$4.60 in coins, taking the cash seized to R$136.60. [@2] Police suspect the knife was used to divide the drugs into portions.
-[@1] The man was arrested and taken to the police station, where the case was
-registered as drug trafficking. [@1,2] The motorcycle he had been riding was also seized. [@2]
+[@1,3] In all, four packages or portions preliminarily identified as marijuana and cocaine were seized, besides the rocks of base paste, with confirmation of the substances depending on forensic analysis. [@3] The man was arrested and taken to the police station, where the case was
+registered as drug trafficking. [@1,2,3] The motorcycle he had been riding was also seized. [@2,3]
