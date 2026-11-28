@@ -55,6 +55,11 @@ sources:
     publisher: Maspalomas Ahora
     date: 2026-11-25
     language: es
+  - title: La Guardia Civil descubre algo sorprendente en un pasajero llegado del norte de África a Gran Canaria tras una radiografía
+    url: https://www.msn.com/es-es/noticias/news/la-guardia-civil-descubre-algo-sorprendente-en-un-pasajero-llegado-del-norte-de-%C3%A1frica-a-gran-canaria-tras-una-radiograf%C3%ADa/ar-AA2ilivt
+    publisher: La Razón
+    date: 2026-11-26
+    language: es
 open_questions:
   - The date of the interception was not published; 25 November 2026, the date of the Guardia Civil statement and of the reports, is used as the incident date.
   - The number of capsules swallowed was not published; the accounts describe only numerous or dozens of capsules.
@@ -65,20 +70,19 @@ open_questions:
 
 Guardia Civil officers at Gran Canaria airport arrested a man suspected of a
 crime against public health after finding more than 900 grams of hashish, part
-of it hidden inside his body. [@1] The interception took place on the arrival of
+of it hidden inside his body. [@1,4] The interception took place on the arrival of
 a flight from North Africa, when officers spotted a passenger who raised
-suspicions of carrying an illegal substance. [@1] A search of his luggage found
-several acorn-shaped pieces of hashish. [@1]
+suspicions of carrying an illegal substance. [@1,4] A search of his luggage found
+several acorn-shaped pieces of hashish. [@1,4]
 
 Officers suspected he was carrying more and a radiological test showed numerous
-hashish capsules he had swallowed beforehand. [@1] He was taken to a hospital
-and kept under medical supervision until he had expelled all the capsules. [@3]
+hashish capsules he had swallowed beforehand. [@1,4] He was taken to a hospital
+and kept under medical supervision until he had expelled all the capsules. [@3,4] He stayed under close watch because a single capsule bursting inside him could put his life at serious risk. [@4]
 Analysis of the substance confirmed it was hashish and that it weighed more than
-900 grams. [@1]
+900 grams. [@1,4]
 
 The Guardia Civil's Las Palmas command, which comes under the customs
-administration of the Agencia Tributaria for the airport, made the arrest. [@2]
+administration of the Agencia Tributaria for the airport, made the arrest. [@2,4]
 The operation formed part of joint controls by the Guardia Civil and the Agencia
 Tributaria at airport facilities. [@1] The man and the seized drug were handed
-to the on-call investigating court in Telde. [@1]
-
+to the on-call investigating court in Telde. [@1,4]
