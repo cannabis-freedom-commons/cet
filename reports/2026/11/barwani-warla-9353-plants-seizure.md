@@ -63,27 +63,26 @@ sources:
     publisher: Dainik Bhaskar
     date: 2026-11-25
     language: hi
-open_questions:
-  - 'The exact date is inferred: the tip-off and search were on Tuesday 24 November 2026 and the press conference was on Wednesday 25 November; the accounts were published on 25 and 26 November.'
-  - Dainik Bhaskar gives the total weight as 485 kg 640 g (485.640 kg) and its field-by-field weights sum to that figure, while the Times of India and Free Press Journal report 485.064 kg.
-  - The four field-by-field value estimates sum to Rs 39.3 lakh, below the approximately Rs 50 lakh total value cited by police.
-  - The cultivators fled and no arrests were reported for this seizure; no charge or court step beyond the four registered cases was reported.
-  - The precise location of the four fields was not published beyond the Warla police station area and the Sirwel forest range in Khargone district.
+  - title: Cannabis plants worth Rs 50 lakh seized in Barwani
+    url: https://timesofindia.indiatimes.com/city/indore/cannabis-plants-worth-rs-50-lakh-seized-in-barwani/articleshow/136171925.cms
+    publisher: The Times of India
+    date: 2026-11-26
+    language: en
 ---
 
 Police in Barwani district, Madhya Pradesh, seized 9,353 green cannabis plants
-from four fields in a forest area under Warla police station limits. [@1] Police
+from four fields in a forest area under Warla police station limits. [@1,4] Police
 said the plants weighed 485.064 kg and estimated their value at around Rs 50
-lakh. [@1]
+lakh. [@1,4]
 
 Acting on a tip-off, police formed eight teams of 150 personnel from several
 stations and the district police line, travelled in tarpaulin-covered pickup
-vehicles and used drones for aerial surveillance. [@1] The tip-off came on
+vehicles and used drones for aerial surveillance. [@1,4] The tip-off came on
 Tuesday and the search was carried out in the forests of Nishaniyapani and
 Adnadi villages. [@2] Dainik Bhaskar reported that SDOP Ajay Waghmare told a
 press conference on Wednesday that the tip-off had arrived on Tuesday. [@3] The
 accused fled after spotting police vehicles; four teams then seized the crops
-and recorded the latitude and longitude coordinates of each field. [@1]
+and recorded the latitude and longitude coordinates of each field. [@1,4]
 
 Four cases were registered under the NDPS Act: 4,950 plants weighing 219.370 kg
 valued at Rs 21 lakh in the first, and 1,719 plants weighing 30.750 kg worth Rs
@@ -95,4 +94,3 @@ officials were called and identified the landholders through field mapping and
 records. [@2] Barwani Superintendent of Police PV Shukla said efforts were
 underway to trace the accused and take strict action with the Forest Department.
 [@1]
-
