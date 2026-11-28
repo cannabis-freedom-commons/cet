@@ -80,42 +80,43 @@ sources:
     publisher: Escambray
     date: 2020-11-03
     language: es
+  - title: Más de dos toneladas de marihuana incautadas en el extremo oriental de Cuba
+    url: https://oncubanews.com/cuba/mas-de-dos-mil-toneladas-de-marihuana-incautadas-en-el-oriente-de-cuba/
+    publisher: OnCubaNews
+    date: 2020-11-03
+    language: es
 open_questions:
-  - Only one accessible account of this event could be opened, a Diario de Cuba report relaying the state newspaper Granma; no second independent account was found.
-  - The exact interception point of the 16 October boat was not given beyond Cuba's eastern coast.
-  - The names, ages and legal status of the two Bahamians and the Jamaican were not reported, and no charges or court outcome were given.
-  - The published total of 2,349 kilograms is slightly rounded against its components of 1,618.75 and 730.41 kilograms, whose sum is 2,349.16 kilograms; the report uses the published total.
-  - The article also mentions 251 packages with 593 kilograms seized in May 2020, a separate event left out of this report.
-  - The incident date uses the latest operation on 16 October 2020; the first operation occurred on 9 October 2020.
-  - 'Left out, as its quotation was not found in DIARIO DE CUBA: Cuban authorities said investigations into that second case were continuing.'
-  - 14ymedio says notifying the Miami and Bahamas coastguards facilitated the traffickers' detention, while the report records that the 9 October crew escaped; no arrests from that first operation are reported.
-  - 'The published total of 2,349 kilograms is rounded: the two components, 1,618.75 and 730.41 kilograms, sum to 2,349.16 kilograms.'
-  - The Cubadebate, Granma and OnCuba accounts give the same official state account; no independent non-official account of the interceptions was found.
-  - Frustra Cuba operaciones de narcotráfico (Granma) could not be opened again to check its quotations (the browser could not load the submitted public page; archived fallback unavailable (Wayback availability answered HTTP 429). No AI research was started); what it says is as the AI read it.
-  - 'Left out, as its quotation was not found in OnCuba News: Cuba''s Tropas Guardafronteras, the Border Guard Troops, seized more than two tonnes of marijuana in two October operations against international drug trafficking on the island''s eastern coast, as reported by the state newspaper Granma.'
+    - The exact interception point of the 16 October boat was not given beyond the waters off Cuba's eastern coast, near Baracoa and Maisí.
+    - No charges, court outcome or sentence was reported for the two Bahamians and the Jamaican detained on 16 October 2020.
+    - 'The published total of 2,349 kilograms is rounded: its two components, 1,618.75 and 730.41 kilograms, sum to 2,349.16 kilograms.'
+    - Authorities did not report whether anyone aboard the speedboat that escaped on 9 October was later identified or arrested.
+    - The official account says the marijuana was bound for the United States via the Bahamas, and gives no further evidence of the first load's origin.
+    - The accounts reproduce the official Granma statement, and no independent account of the interceptions was found.
+    - The May 2020 seizure of 251 packages containing 593 kilograms of marijuana, mentioned in the same account, is a separate event left out of this report.
+    - The names and ages of the three detained crew members were not reported.
 ---
 
 On the morning of 16 October 2020, Cuban border guards detained two Bahamians
-and one Jamaican aboard a speedboat with two outboard motors. [@1,2,3,4,6] The border guards intercepted the 16 October boat without causing damage to its crew or the vessel. [@6] On the night
+and one Jamaican aboard a speedboat with two outboard motors. [@1,2,3,4,6,7] The border guards intercepted the 16 October boat without causing damage to its crew or the vessel. [@6,7] On the night
 of 9 October 2020, guards detected a speedboat with two outboard motors carrying
 three or four people aboard off southeastern Cuba. [@1,2,6] The guards pursued that
-boat for an hour but could not catch those aboard. [@1] After the pursuit, the
+boat for an hour but could not catch those aboard. [@1] The fleeing speedboat threw its cargo into the sea and headed north, beyond the reach of the border guard vessels. [@7] After the pursuit, the
 Cuban military notified the Miami Coast Guard and the Royal Bahamas Defence
-Force. [@1,2,3,6]
+Force. [@1,2,3,6,7]
 
 Cuba's Tropas Guardafronteras, the Border Guard Troops, seized more than two
 tonnes of marijuana in two October operations against international drug
 trafficking on the island's eastern coast, as reported by the state newspaper
 Granma. [@1,2,3] In the days after the 9 October chase, authorities recovered 70
 containers and eight isolated packages containing 1,618.75 kilograms of
-marijuana near Baracoa and Maisí. [@1,2,3,4] In the 16 October interception, the
-guards seized 730.41 kilograms of Jamaican marijuana. [@1,2,3,5] Granma reported a
-total of 2,349 kilograms seized in the two operations. [@1,2,5,6] Granma said the
-entire volume would be incinerated. [@1,3,6]
+marijuana near Baracoa and Maisí. [@1,2,3,4,7] In the 16 October interception, the
+guards seized 730.41 kilograms of Jamaican marijuana. [@1,2,3,5,7] Granma reported a
+total of 2,349 kilograms seized in the two operations. [@1,2,5,6,7] Granma said the
+entire volume would be incinerated. [@1,3,6,7]
 
 Interior Ministry sources described the first operation as one of the most
 complex recent confrontations with drug landings because of its characteristics
 and the volume captured in more than 20 different moments and places in the
 island's waters. [@1]
 
-Naval units of the eastern provincial border troops, the Interior Ministry's specialized anti-drug directorate and police took part in the search, alongside the coastal watch detachments known as Mirando al Mar. [@3] Most of the first load was recovered at sea. [@3] Granma said investigations into the origin and destination of the drugs and into the detainees were continuing. [@3] The detained crew faced heavy penalties for international drug trafficking. [@2] The Cuban government publicised the two operations only on Tuesday 3 November 2020. [@2]
+Naval units of the eastern provincial border troops, the Interior Ministry's specialized anti-drug directorate and police took part in the search, alongside the coastal watch detachments known as Mirando al Mar. [@3,7] Most of the first load was recovered at sea. [@3] Granma put the share of the drug secured at sea at between 90 and 95%. [@7] Granma said investigations into the origin and destination of the drugs and into the detainees were continuing. [@3] The detained crew faced heavy penalties for international drug trafficking. [@2] The Cuban government publicised the two operations only on Tuesday 3 November 2020. [@2]
