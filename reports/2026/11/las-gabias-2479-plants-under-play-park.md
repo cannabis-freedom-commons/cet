@@ -156,29 +156,34 @@ sources:
     url: https://euroweeklynews.com/2026/11/26/spain-cannabis-investigation-uncovers-underground-bunker-disguised-as-a-childrens-playground/
     publisher: Euro Weekly News
     date: 2026-11-26
+  - title: 'Espagne. Un bunker géant : la police découvre une plantation de cannabis sous une aire de jeux pour enfants'
+    url: https://www.bienpublic.com/faits-divers-justice/2026/11/26/un-bunker-geant-la-police-decouvre-une-plantation-de-cannabis-sous-une-aire-de-jeux-pour-enfants
+    publisher: Le Bien Public
+    date: 2026-11-26
+    language: fr
 ---
 
 Guardia Civil officers arrested five people and kept three others under
-investigation. [@1,4,5,6,8,10,11,12,13] The find was in Las Gabias, near Granada, where officers
+investigation. [@1,4,5,6,8,10,11,12,13,14] The find was in Las Gabias, near Granada, where officers
 uncovered a sophisticated underground structure for growing and processing
-marijuana, concealed beneath a children's play park. [@1,5,6,8,10] The alleged head of
+marijuana, concealed beneath a children's play park. [@1,5,6,8,10,14] The alleged head of
 the organisation was remanded in custody. [@1,6,7,8,12,13] The operation was named
 Nazarí-Sabika 04. [@1,4,6,7,10,11,13] It was carried out on 17 November after more than a year
 of investigation and comprised 13 searches at properties in Granada city,
-Albolote, Jun, Las Gabias and Maracena. [@2,4,9,13] A second account dates the same
+Albolote, Jun, Las Gabias and Maracena. [@2,4,9,13,14] A second account dates the same
 searches to 17 November and lists the same five municipalities. [@3]
 
 The entrance was camouflaged under artificial turf with a swing, a playhouse and
 a small mat, while the rest of the ground was covered with decorative white
 stone. [@1,6,7,10,11,13] Beneath the turf a hydraulic folding gate opened onto a ramp
 allowing vehicles into a bunker of about 180 square metres and five metres high.
-[@1,6,8,10,12,13] Two rooms inside held 1,954 cannabis plants and were equipped with
-lighting, ventilation and climate control. [@1,4,6,8,10,11,12,13] The Guardia Civil described it
+[@1,6,8,10,12,13,14] Two rooms inside held 1,954 cannabis plants and were equipped with
+lighting, ventilation and climate control. [@1,4,6,8,10,11,12,13,14] The Guardia Civil described it
 as the largest and most sophisticated illegal growing bunker found to date in
-Granada province. [@1,6,7,8,10,12,13] Across the searches officers seized 2,479 marijuana
+Granada province. [@1,6,7,8,10,12,13,14] Across the searches officers seized 2,479 marijuana
 plants from three plantations, two cars, two vans, a caravan, a trailer, a stun
-gun and 22,970 euros in banknotes. [@1,4,5,6,7,8,11,13] They also sealed a commercial grow shop
-whose value investigators put at several million euros. [@1,6,7,8,11,13] A power tower
+gun and 22,970 euros in banknotes. [@1,4,5,6,7,8,11,13,14] They also sealed a commercial grow shop
+whose value investigators put at several million euros. [@1,6,7,8,11,13,14] A power tower
 supplied the plantation through an illegal grid connection whose load equalled
 the consumption of about 100 homes. [@1,6,7,8,10,13]
 
