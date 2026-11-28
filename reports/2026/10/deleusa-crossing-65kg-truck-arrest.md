@@ -63,6 +63,11 @@ sources:
     publisher: Vijesti
     date: 2026-10-08
     language: en
+  - title: Police seize 65 kg of marijuana, arrest BiH national
+    url: https://mina.news/article/police-seize-65-kg-of-marijuana-arrest-bih-national
+    publisher: MINA
+    date: 2026-10-08
+    language: en
 media:
   - kind: photo
     url: https://en.vijesti.me/news-b/black-chronicle/830394/65-kilograms-of-marijuana-seized-in-Vracenovici--citizen-of-Bosnia-and-Herzegovina-arrested
@@ -81,10 +86,10 @@ Vraćenovići–Deleuša crossing around 11 PM on 7 October and took it to
 second-line inspection. [@1,3,4] Interior Minister Danilo Šaranović thanked officers of the Regional Border Police Center Centar for the seizure. [@4] [@2]
 
 A court-authorised search of the trailer's cargo area found 62 packages
-with about 65 kilograms of marijuana. [@1,3] [@2] Driver B.G., 31, a Bosnian
+with about 65 kilograms of marijuana. [@1,3,5] [@2] Driver B.G., 31, a Bosnian
 citizen, was arrested on suspicion of unauthorised production, possession
 and trafficking of narcotics after a Higher State Prosecutor in Podgorica
 was notified; he faces transfer to the prosecution with a criminal
-complaint. [@1,3,4] [@2]
+complaint. [@1,3,4,5] [@2]
 
 The arrested driver was identified as Bojan Glamočak (31). [@3]
