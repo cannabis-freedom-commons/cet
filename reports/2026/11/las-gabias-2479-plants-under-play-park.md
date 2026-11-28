@@ -216,14 +216,19 @@ sources:
     publisher: El Mundo
     date: 2026-11-25
     language: es
+  - title: Près de 2 000 plants de cannabis découverts sous une aire de jeux en Espagne
+    url: https://www.franceinfo.fr/societe/drogue/pres-de-2-000-plants-de-cannabis-decouverts-sous-une-aire-de-jeux-en-espagne_8300376.html
+    publisher: franceinfo
+    date: 2026-11-25
+    language: fr
 open_questions:
     - The Guardia Civil did not say whether children used the play park or were present on the property.
 ---
 
 Guardia Civil officers arrested five people and kept three others under
-investigation. [@1,4,5,6,8,10,11,12,13,14,19,20,22,23] The find was in Las Gabias, near Granada, where officers
+investigation. [@1,4,5,6,8,10,11,12,13,14,19,20,22,23,24] The find was in Las Gabias, near Granada, where officers
 uncovered a sophisticated underground structure for growing and processing
-marijuana, concealed beneath a children's play park. [@1,5,6,8,10,14,16,19,20,21,22,23] The alleged head of
+marijuana, concealed beneath a children's play park. [@1,5,6,8,10,14,16,19,20,21,22,23,24] The alleged head of
 the organisation was remanded in custody. [@1,6,7,8,12,13,15,17,19,20,21,22,23] The operation was named
 Nazarí-Sabika 04. [@1,4,6,7,10,11,13,15,17,19,21,22] It was carried out on 17 November after more than a year
 of investigation and comprised 13 searches at properties in Granada city,
