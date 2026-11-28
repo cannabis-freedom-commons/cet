@@ -51,30 +51,28 @@ sources:
     publisher: Xinhua
     date: 2022-06-23
     language: fr
-open_questions:
-  - The seizure was dated only as 'Wednesday'; 22 June 2022 is inferred from the police announcement and publication on Thursday 23 June 2022.
-  - The weight is given as 'about 100 kilograms' for 95 plaquettes; no exact measured figure was published.
-  - The third trafficker was not reported as arrested, and no names, charges or court outcome were given.
-  - The cannabis was said to come from a neighbouring country without naming which one.
-  - The three accounts reproduce the same national police statement and are not independent reporting.
+  - title: 'Burkina Faso: 02 trafiquants arrêtés, 95 plaquettes de cannabis saisies'
+    url: https://beninwebtv.bj/burkina-faso-02-trafiquants-arretes-95-plaquettes-de-cannabis-saisies/
+    publisher: Bénin Web TV
+    date: 2022-06-23
+    language: fr
 ---
 
 Police in Burkina Faso apprehended two of three suspected drug traffickers and
 seized 95 plaquettes (compressed blocks) of cannabis weighing about 100
-kilograms. [@1] The three traffickers had been based in Mogande, a locality near
+kilograms. [@1,4] The three traffickers had been based in Mogande, a locality near
 the Kanyire-Sangabouli border police post in the Bitou area of the Centre-Est
-region. [@1] Burkinabè daily Sidwaya reported the national police as saying that
+region. [@1,4] Burkinabè daily Sidwaya reported the national police as saying that
 two traffickers had been placed under arrest and about 100 kg of cannabis seized
 in the Bittou area. [@2]
 
 The police said the cannabis came from a neighbouring country and was seized on
 a Wednesday in the Bitou area, which borders Togo. [@1] Investigators found the
 network's hideout after cooperation from residents and vigilance by officers at
-the Sangabouli border police post. [@1] Xinhua reported that the Burkinabè
+the Sangabouli border police post. [@1,4] Xinhua reported that the Burkinabè
 police announced in a communiqué that 100 kilograms of cannabis had been seized
 at Mogande, in the Bitou area of the Centre-Est region. [@3]
 
 The national police thanked the citizens whose help made the operation succeed.
 [@1] Police also warned about what they called the growing drug trade in the
-cities, which they said was harming young people. [@3]
-
+cities, which they said was harming young people. [@3,4]
