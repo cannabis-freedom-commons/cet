@@ -70,32 +70,42 @@ sources:
     publisher: El Nuevo Día
     date: 2026-11-26
     language: es
+  - title: Policía captura cinco hombres y decomisa armas, drogas y equipos electrónicos en operativos en El Espinal
+    url: https://www.pulzo.com/amp/nacion/capturan-a-tres-hombres-por-drogas-y-armas-tras-allanamientos-en-el-espinal-tolima-PP5365287A
+    publisher: Pulzo
+    date: 2026-11-26
+    language: es
+open_questions:
+    - No value or estimate was published for the 332.3 grams of marijuana, the cocaine or the tusi.
+    - Whether the two men released after the raids face any further proceedings was not reported.
+    - The seized equipment is described as a precision scale in one account and as a grinder in the earlier report; no list of the items was published.
+    - The three men sent to prison were awaiting trial, and no charges or court dates were reported.
+    - The accounts all reproduce the same Tolima police statement and are not independent reporting.
 ---
 
 Five men were arrested during police operations in the Las Victorias and La
-Esperanza neighbourhoods of El Espinal, Tolima. [@1] Three of them, known as
+Esperanza neighbourhoods of El Espinal, Tolima. [@1,4] Three of them, known as
 'Pote', 37, 'Veneco', 24 and 'Chiri', 25, were detained during two house
-searches. [@1] The three were sent to prison by judicial order while
+searches. [@1,4] The three were sent to prison by judicial order while
 investigations into illegal arms possession, drug trafficking and falsedad
-marcaria continued. [@1] Two other men, aged 23 and 29, were arrested in the Las
-Victorias neighbourhood for carrying a revolver without a permit. [@1] Those two
-were released after being presented to the judicial authorities. [@1]
+marcaria continued. [@1,4] Two other men, aged 23 and 29, were arrested in the Las
+Victorias neighbourhood for carrying a revolver without a permit. [@1,4] Those two
+were released after being presented to the judicial authorities. [@1,4]
 
 In the houses officers found two firearms, 332 grams of marijuana, 10 grams of
 cocaine, 8.8 grams of tusi, two mobile phones, a laptop and a grinder. [@1] A
 fuller account puts the seizure at 332.3 grams of marijuana, 10.3 grams of
-cocaine and 8.8 grams of tusi or amphetamines. [@2] The firearms were a 9 mm
-pistol with five rounds and a .38 revolver with six rounds. [@2] Officers also
+cocaine and 8.8 grams of tusi or amphetamines. [@2,4] The firearms were a 9 mm
+pistol with five rounds and a .38 revolver with six rounds. [@2,4] Officers also
 impounded a motorcycle over suspected falsedad marcaria, the falsification of a
-vehicle's identification marks. [@1]
+vehicle's identification marks. [@1,4]
 
 The raids were carried out at about 6 pm after intelligence and judicial
 investigation work by SIJIN, police intelligence and officers of the El Espinal
-police station. [@2] While the house searches were under way, two more men were
+police station. [@2,4] While the house searches were under way, two more men were
 arrested on a street in Las Victorias carrying an unlicensed .38 revolver with
 six rounds. [@3] The three men from the searches were presented to the 37th
 sectional prosecutor's office on suspicion of illegal arms possession, drug
 trafficking and falsedad marcaria. [@2] Police Tolima commander Colonel Ferney
 Martín Romero said 'Pote' had 11 prior judicial records, including aggravated
-theft, rape, drug trafficking and domestic violence. [@2]
-
+theft, rape, drug trafficking and domestic violence. [@2,4]
