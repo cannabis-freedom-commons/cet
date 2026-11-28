@@ -122,6 +122,11 @@ sources:
     publisher: leafie
     date: 2026-11-26
     language: en
+  - title: El búnker debajo de un parque infantil en Granada que ocultaba una plantación de marihuana subterránea y que tenía una rampa para entrar con coche
+    url: https://www.infobae.com/espana/2026/11/25/el-bunker-debajo-de-un-parque-infantil-en-granada-que-ocultaba-una-plantacion-de-marihuana-subterranea-y-que-tenia-una-rampa-para-entrar-con-coche/
+    publisher: Infobae
+    date: 2026-11-25
+    language: es
 ---
 
 Guardia Civil officers arrested five people and kept three others under
@@ -131,7 +136,7 @@ marijuana, concealed beneath a children's play park. [@1,5,6,8] The alleged head
 the organisation was remanded in custody. [@1,6,7,8] The operation was named
 Nazarí-Sabika 04. [@1,4,6,7] It was carried out on 17 November after more than a year
 of investigation and comprised 13 searches at properties in Granada city,
-Albolote, Jun, Las Gabias and Maracena. [@2,4] A second account dates the same
+Albolote, Jun, Las Gabias and Maracena. [@2,4,9] A second account dates the same
 searches to 17 November and lists the same five municipalities. [@3]
 
 The entrance was camouflaged under artificial turf with a swing, a playhouse and
