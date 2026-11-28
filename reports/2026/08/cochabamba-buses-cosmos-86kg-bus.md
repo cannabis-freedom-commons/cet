@@ -74,6 +74,11 @@ media:
     media_url: https://pxcdn.eldeber.com.bo/eldeber/082026/1786482871019.webp?cw=1200&ch=675&extw=jpeg
     publisher: EL DEBER
     caption: Bus detained with marijuana in the Sao Paulo FC transport case.
+  - kind: photo
+    url: https://www.lanacion.com.ar/deportes/incautaron-86-kilos-de-marihuana-en-un-micro-que-iba-a-trasladar-al-plantel-de-san-pablo-nid12082026/
+    media_url: https://www.lanacion.com.ar/resizer/v2/incautaron-86-kilos-de-marihuana-de-un-micro-de-Z6WMKS4HD5EUJFRTVOI2EYZZKU.jpg?auth=bb8071d68a08c98adeb61e94567a7184fea4e96c2d64c802c749fe7ac1b5de05&width=1200&height=800&quality=70&smart=true
+    publisher: LA NACION
+    caption: 'The Buses Cosmos coach from which 86.5 kilos of marijuana were seized, in the photograph published with the La Nación report. Photo: O Globo / GDA'
 status: verified
 created_by_model: swancloud/muse-spark-1.3-contributor#xhigh
 submission: da02da0fb25f46275ed9a2da12310038
@@ -226,13 +231,19 @@ sources:
     publisher: EL DEBER
     date: 2026-08-11
     language: es
+  - title: Incautaron 86 kilos de marihuana en un micro que iba a trasladar al plantel de San Pablo - LA NACION
+    url: https://www.lanacion.com.ar/deportes/incautaron-86-kilos-de-marihuana-en-un-micro-que-iba-a-trasladar-al-plantel-de-san-pablo-nid12082026/
+    publisher: LA NACION
+    date: 2026-08-12
+    language: es
 open_questions:
-  - The same operation also detected a second bus carrying 110 kilos of marijuana to Santa Cruz, with two more drivers detained; that separate seizure is left out here.
+    - The same operation also detected a second bus carrying 110 kilos of marijuana to Santa Cruz, with two more drivers detained; that separate seizure is left out here.
+    - Buses Cosmos said the police had cleared up the case and those responsible were detained, while other accounts said investigators were still working out where the marijuana came from and who was moving it.
 ---
 
 Bolivian police stopped a coach of the company Buses Cosmos, hired to carry the São Paulo FC squad
 during its visit to Bolivia for a Copa Sudamericana match against Bolívar, and found about 86 kilos of
-marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23,24,25,26,27,28,29] The four bags were hidden in a compartment in the driver's cabin and held brick-type packages. [@29] Ecuavisa, citing UOL Esporte, said the Bolivian authorities seized the coach after a prior complaint related to the company Buses Cosmos. [@28] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19,25] One account gives 86.5 kilograms. [@12,14,15,16,18,20,26] Officers of
+marijuana hidden inside it. [@1,2,5,6,7,9,10,11,12,14,15,17,18,19,20,21,22,23,24,25,26,27,28,29,30] The four bags were hidden in a compartment in the driver's cabin and held brick-type packages. [@29] Ecuavisa, citing UOL Esporte, said the Bolivian authorities seized the coach after a prior complaint related to the company Buses Cosmos. [@28] The coach was intercepted in Villa Tunari, a coca-producing zone in the central department of Cochabamba. [@19,25] One account gives 86.5 kilograms. [@12,14,15,16,18,20,26,30] Officers of
 UMOPAR, the Mobile Police Unit for Rural Areas [@5,8,9,10], found four bags of the drug in the coach
 [@2,3,5,6,8,9,10] at the Locotal control post on the road between Cochabamba and Santa Cruz.
 [@8,9,11,13]
@@ -247,12 +258,12 @@ insignia. [@3] Other accounts rely on the Brazilian journalist Gabriel Sá. [@9,
 The coach regularly ran between Santa Cruz de la Sierra and Cochabamba and had left Cochabamba for Santa
 Cruz, where the squad was staying. [@2,4] Its three drivers were detained. [@2,3,5,6,8,9,10,11,13,14,15,16,17,18,19,20,21,22,23,24,29] The two drivers and an assistant detained in this case were taken to Umopar premises in Chimoré. [@29] The three detained were described as people linked to the transport of the bus. [@14,18,28] Buses
 Cosmos said the police were investigating, that all responsibility lay with the drivers, and that it
-had provided another vehicle for the team. [@2,3,4,5,8,9,10,11,15,17,18,19,20,23,26] The authorities were investigating where
+had provided another vehicle for the team. [@2,3,4,5,8,9,10,11,15,17,18,19,20,23,26,30] Buses Cosmos also said that the police had cleared up the case and that those responsible had been detained, according to O Globo. [@30] The authorities were investigating where
 the marijuana came from and who was moving it. [@1,7,16,22,24,26,27]
 
 The São Paulo squad had not used the coach and had no contact with the men detained; it had been taken
 from the airport to its hotel on the night of 10 August in another coach of the same company, and
-learned of the case from local news. [@1,2,5,8,9,11,14,18,20,21,23,26] Mediotiempo said it had no information linking the
+learned of the case from local news. [@1,2,5,8,9,11,14,18,20,21,23,26,30] Mediotiempo said it had no information linking the
 club to the load [@1,6,7,11], and the team went on to La Paz to prepare for the match. [@1,2,4,7]
 
 Officers found 65 rectangular packages containing a greenish substance that tested as marijuana. [@19] The load was hidden in shopping bags. [@19]
