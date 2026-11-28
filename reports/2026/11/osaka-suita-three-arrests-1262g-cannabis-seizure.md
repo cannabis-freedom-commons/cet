@@ -54,6 +54,11 @@ media:
     media_url: https://www.kanaloco.jp/sites/default/files/images/newspack/2026-11/PN2026112601001872.-.-.CI0003.jpg.jpg
     publisher: カナロコ by 神奈川新聞
     caption: Illegal drugs and cash seized by Osaka Prefectural Police displayed at the police headquarters on the afternoon of 26 November 2026.
+  - kind: photo
+    url: https://www.sponichi.co.jp/society/news/2026/11/27/kiji/20261127s00042000046000c.html
+    media_url: https://www.sponichi.co.jp/society/news/2026/11/26/jpeg/20261127s10042000041000p_view.webp
+    publisher: スポニチ Sponichi Annex
+    caption: 'Illegal drugs, cash and good-luck ornaments seized by Osaka Prefectural Police, laid out for display. Photo: Kyodo'
 status: verified
 created_by_model: muse/muse-spark-1.3#xhigh
 submission: e0de255666dde17a6323a9e1dc285e62
@@ -104,11 +109,16 @@ sources:
     publisher: 富山新聞
     date: 2026-11-26
     language: ja
+  - title: 拠点に「商売繁盛」「開運」の置物　違法薬物密売で3人逮捕　計1億円以上の売り上げ
+    url: https://www.sponichi.co.jp/society/news/2026/11/27/kiji/20261127s00042000046000c.html
+    publisher: スポニチ Sponichi Annex
+    date: 2026-11-27
+    language: ja
 ---
 
 Osaka Prefectural Police announced on 26 November 2026 the arrest of three men,
 including 29-year-old unemployed Rikito Komori from Minoh, on suspicion of joint
-for-profit possession of stimulants and other drugs. [@1,4,8,9] The allegation is that
+for-profit possession of stimulants and other drugs. [@1,4,8,9,10] The allegation is that
 the three conspired on 14 October to possess about 93 grams of stimulants, about
 1,260 grams of cannabis and other drugs for profit in a room of an apartment in
 Suita. [@1,6,8] Police did not disclose whether the suspects admitted or denied the
@@ -120,13 +130,13 @@ possession. [@2,3,4,6,9]
 Searches of several related locations seized 1,405 stimulant tablets with an
 estimated street value of about 37.36 million yen, about 1,262 grams of cannabis
 with an estimated street value of about 6.31 million yen, and about 60 million
-yen in cash. [@1,3,9] Officers also seized a good-luck ornament for business prosperity at the group's base. [@4,5,6,9] The same searches also seized cocaine, ketamine tablets and
+yen in cash. [@1,3,9,10] Officers also seized a good-luck ornament for business prosperity at the group's base. [@4,5,6,9] The ornament seized at the base was decorated with a sea bream and rice bales and inscribed with the words for business prosperity and good fortune. [@10] The same searches also seized cocaine, ketamine tablets and
 other drugs alongside the stimulants and cannabis. [@2,3,4,9]
 
 The drug-control unit began investigating after cannabis was found in the Katano
 station area in February 2024. [@1] The group used the Suita apartment as a base
-to recruit customers through social media and send drugs by courier. [@1,7] Buyers were instructed to transfer payment to a designated bank account. [@7] For courier shipments, the group allegedly packed the drugs in small boxes and plastic bags and declared them mainly as small goods such as accessories. [@7] Komori allegedly couriered drugs to three recipients in Tokyo and Yamaguchi prefectures from May 2026. [@5] One of the men was also suspected of conspiring with others between May and August to sell a total of about 9 grams of stimulants, cannabis and other drugs for 118,000 yen to three people in their 20s to 50s in Yamaguchi and Tokyo. [@7] Police
+to recruit customers through social media and send drugs by courier. [@1,7,10] Buyers were instructed to transfer payment to a designated bank account. [@7] For courier shipments, the group allegedly packed the drugs in small boxes and plastic bags and declared them mainly as small goods such as accessories. [@7] Komori allegedly couriered drugs to three recipients in Tokyo and Yamaguchi prefectures from May 2026. [@5] One of the men was also suspected of conspiring with others between May and August to sell a total of about 9 grams of stimulants, cannabis and other drugs for 118,000 yen to three people in their 20s to 50s in Yamaguchi and Tokyo. [@7] Police
 believe the Osaka-based group delivered illegal drugs nationwide in at least
-2,000 transactions worth over 100 million yen. [@1,3,4,5,9] Police believe other people
+2,000 transactions worth over 100 million yen. [@1,3,4,5,9,10] Police believe other people
 were also involved and are continuing to clarify the full scope of the group.
 [@1,5,8]
