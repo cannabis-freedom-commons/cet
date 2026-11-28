@@ -48,16 +48,21 @@ sources:
     publisher: Divya Bhaskar
     date: 2026-11-26
     language: gu
+  - title: 'Video: તાલીમબદ્ધ ડોગની મદદથી રાજકોટ ગ્રામ્ય પોલીસની ચાર સ્થળે રેડ, ચાર આરોપીઓ ઝડપાયા'
+    url: https://www.gstv.in/news/gujarat/rajkot/cannabis-seized-with-the-help-of-a-dog
+    publisher: GSTV
+    date: 2026-11-26
+    language: gu
 open_questions:
-  - The article dates the raids only as 'two days ago' relative to its 26 November 2026 publication, so 24 November 2026 is an approximate date.
-  - No charges, court dates or case outcomes are reported for the four arrested people.
-  - The police total of 'about 1.5 kg' is an approximation; the four individual amounts listed add up to about 1.37 kg.
-  - The account rests on a single local outlet, and no independent confirmation of these raids was found.
+    - The article dates the raids only as 'two days ago' relative to its 26 November 2026 publication, so 24 November 2026 is an approximate date.
+    - No charges, court dates or case outcomes are reported for the four arrested people.
+    - The police total of 'about 1.5 kg' is an approximation; the four individual amounts listed add up to about 1.37 kg.
+    - Both accounts are Gujarati-language local outlets reporting what appears to be the same police account, with no independent confirmation of the raids.
 ---
 
 Four people were arrested in simultaneous raids in Gondal, Padadhari, Shapar and
 Upleta in Rajkot district, Gujarat, where police seized about 1.5 kg of ganja, a
-cannabis drug. [@2] Rajkot district police said the operation targeted illegal
+cannabis drug. [@2,3] Police named the four arrested as Karan Bhanderi, Jay Bagda, Valisha Bukhari and Altafsha Rafai. [@3] Rajkot district police said the operation targeted illegal
 trading in narcotic substances in the district's rural areas and was carried out
 by SOG and local police teams. [@1] Police said they had begun tracking the main
 suppliers in Rajkot, Gondal and Jetpur. [@2]
@@ -71,7 +76,7 @@ Mowaiya village and found 255 grams of ganja. [@2] The man told police he had
 brought the ganja from a supplier in Rajkot to sell it, and officers began
 searching for that supplier. [@2] In Shapar, police caught a man with 215 grams
 of ganja at a house in the Buddha Nagar Maftiyapara area, opposite a bearing
-company. [@2] Police said they were searching for an absconding mother and son
+company. [@2] Rajkot rural police said they used a trained dog named Capto for the first time to find ganja, and that in the Shapar area he located cannabis hidden in a bag and elsewhere. [@3] Police said they were searching for an absconding mother and son
 in Shapar who had supplied the ganja for sale. [@2] In Upleta, police arrested a
 house owner in the Ramgadh area after finding 376.4330 grams of ganja and
 seizing property worth ₹18,821. [@2] He told police that a man from Jetpur had
@@ -82,4 +87,3 @@ Rajkot district police said they had registered 51 cases under the NDPS Act in
 recommended that CID Crime act against 10 repeat offenders under the PIT NDPS
 Act. [@2] Police said they were monitoring people arrested earlier in the
 district and using police dogs and drone technology to find narcotics. [@2]
-
