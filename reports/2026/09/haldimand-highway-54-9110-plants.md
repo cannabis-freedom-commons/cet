@@ -45,18 +45,33 @@ sources:
     url: https://thenortherncurrent.com/opp-haldimand-illegal-cannabis-seizure-october-2026
     publisher: The Northern Current
     date: 2026-10-13
+  - title: More than $4.6M in illegal cannabis seized in Haldimand County
+    url: https://www.ctvnews.ca/kitchener/article/more-than-46m-in-illegal-cannabis-seized-in-haldimand-county/
+    publisher: CTV News
+    date: 2026-10-13
 open_questions:
-  - Only one source could be opened; the CHCH News, BarrieToday and Kawartha 411 accounts it cites could not be opened.
-  - The report does not give the exact address of the Highway 54 property.
-  - None of the opened material explains how the $4.5 million plant valuation was calculated.
-  - The reports do not say what happened to the seized plants or processed cannabis.
-  - A third person who fled the property remains outstanding and unnamed.
+    - The report does not give the exact address of the Highway 54 property.
+    - None of the opened material explains how the $4.5 million plant valuation was calculated.
+    - The reports do not say what happened to the seized plants or processed cannabis.
+    - A third person who fled the property remains outstanding and unnamed.
+    - The accounts do not say whether the two people arrested at the property are the two men later charged.
+media:
+  - kind: photo
+    url: https://www.ctvnews.ca/kitchener/article/more-than-46m-in-illegal-cannabis-seized-in-haldimand-county/
+    media_url: https://www.ctvnews.ca/resizer/v2/3O7KDEJNOJF4VFPYIK5BOX7DKE.png?smart=true&auth=dc2f4ea1e9a90d23e3c05b6deac685fb7d310e6f02c7338d798baa24b42350d2&width=1600&height=899
+    publisher: CTV News
+    caption: 'Illegal cannabis seized from a property along Highway 54 in Haldimand County on Sept. 22, 2026. Photo: OPP'
+  - kind: photo
+    url: https://www.ctvnews.ca/kitchener/article/more-than-46m-in-illegal-cannabis-seized-in-haldimand-county/
+    media_url: https://www.ctvnews.ca/resizer/v2/T642RLHKXJGSJGOSPW22LSRUGU.jpg?auth=abad646df51b70536275246b70515d7a6ba415a112c8b78a9d533be63362fc29&width=1440&height=1918
+    publisher: CTV News
+    caption: 'Illegal cannabis seized from a property along Highway 54 in Haldimand County on Sept. 22, 2026. Photo: OPP'
 ---
 
-Ontario Provincial Police officers of the Provincial Joint Forces Cannabis Enforcement Team searched a property along Highway 54 in Haldimand County on 22 September 2026 after an investigation that grew out of an earlier file. [@1] Other OPP units and the Haldimand County Fire Department assisted in executing the search warrant. [@1] Police say a third person fled the property during the operation and remains outstanding. [@1]
+Ontario Provincial Police officers of the Provincial Joint Forces Cannabis Enforcement Team searched a property along Highway 54 in Haldimand County on 22 September 2026 after an investigation that grew out of an earlier file. [@1,2] Other OPP units and the Haldimand County Fire Department assisted in executing the search warrant. [@1] The warrant was executed by the OPP’s Emergency Response Team, Contraband Tobacco Enforcement Team and Canine Unit alongside the Provincial Joint Forces Cannabis Enforcement Team and the Haldimand County Fire Department. [@2] Police say a third person fled the property during the operation and remains outstanding. [@1]
 
-Officers reported seizing approximately 9,110 cannabis plants valued at $4.5 million, 60 kilograms of cannabis shake valued at $20,000, 45 kilograms of cannabis resin valued at $70,700 and 2.5 kilograms of dried cannabis valued at $5,600. [@1] Those valuations are police estimates totalling more than $4.6 million, and no court has determined the value, legality or ownership of the material. [@1] The property was ordered vacated over safety hazards, and the investigation remains open. [@1]
+Officers reported seizing approximately 9,110 cannabis plants valued at $4.5 million, 60 kilograms of cannabis shake valued at $20,000, 45 kilograms of cannabis resin valued at $70,700 and 2.5 kilograms of dried cannabis valued at $5,600. [@1,2] Those valuations are police estimates totalling more than $4.6 million, and no court has determined the value, legality or ownership of the material. [@1,2] The property was ordered vacated over safety hazards, and the investigation remains open. [@1,2]
 
 ## Charges filed
 
-Police charged a 45-year-old North York man and a 44-year-old Maple man with cultivating cannabis at a place that was not their dwelling house and possessing cannabis for the purpose of selling. [@1] Both accused are scheduled to appear in the Ontario Court of Justice in Cayuga on 22 December. [@1] The allegations have not been tested in court and each accused is presumed innocent unless proven guilty. [@1]
+Police charged a 45-year-old North York man and a 44-year-old Maple man with cultivating cannabis at a place that was not their dwelling house and possessing cannabis for the purpose of selling. [@1,2] Both accused are scheduled to appear in the Ontario Court of Justice in Cayuga on 22 December. [@1] The allegations have not been tested in court and each accused is presumed innocent unless proven guilty. [@1]
