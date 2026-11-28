@@ -74,21 +74,36 @@ sources:
     publisher: Cedar News
     date: 2026-11-26
     language: de
+  - title: 'Illegale Plantage: 1.000 Cannabispflanzen in leerem Haus entdeckt'
+    url: https://www.mz.de/panorama/1-000-cannabispflanzen-in-leerem-haus-entdeckt-4363407
+    publisher: Mitteldeutsche Zeitung
+    date: 2026-11-26
+    language: de
+  - title: 'Polizei-News Großburschla (Wartburgkreis), 26.11.26: Cannabisplantage ausgehoben'
+    url: https://news.de/lokales/860220319/blaulicht-news-polizei-einsatz-grossburschla-wartburgkreis-26-11-26-festnahme-heute/1
+    publisher: news.de
+    date: 2026-11-26
+    language: de
+open_questions:
+    - The plant count is given only as about 1,000; no exact figure was published.
+    - The sources do not say what happened to the 38-year-old, who was not among the two younger men held in pre-trial detention.
+    - No charges against the three men have been reported while the investigation continues.
+    - No estimate of the value of the 30 kilograms of marijuana or of the cultivation equipment was published.
 ---
 
 Criminal police found a cannabis plantation with around 1,000 plants on 19
-November in an empty house in the centre of Großburschla. [@1,2,4] Großburschla lies in the Wartburgkreis district of Thuringia. [@4] The house had
+November in an empty house in the centre of Großburschla. [@1,2,4,5] Großburschla lies in the Wartburgkreis district of Thuringia. [@4] The house had
 stood empty for a long time before residents alerted police. [@1] Three men aged
 19, 28 and 38 were provisionally arrested, as reported by the
-Landespolizeiinspektion Gotha. [@1,3] Residents had noticed unusual movements in
+Landespolizeiinspektion Gotha. [@1,3,5] Police said the three men were Albanian nationals. [@6] Residents had noticed unusual movements in
 the house for about a year and contacted police in Eisenach. [@1,2] A court issued
-arrest warrants on Friday against the 19-year-old and the 28-year-old. [@1] Both
-men are held in a prison. [@1] The investigation is ongoing. [@1]
+arrest warrants on Friday against the 19-year-old and the 28-year-old. [@1,6] Both
+men are held in a prison. [@1,5] The investigation is ongoing. [@1,5]
 
 Early inquiries had pointed to an indoor plantation. [@1] Officers acted
 immediately because a handover of the marijuana was apparently imminent. [@1,3]
 Around 30 kilograms of packaged marijuana lay ready for collection in the house.
-[@1,3,4] Cultivation and processing rooms spread over both residential floors, with
+[@1,3,4,5] Cultivation and processing rooms spread over both residential floors, with
 extensive cultivation equipment. [@1] The operators tapped the electricity for
-the operation illegally before the meter. [@1,3] The plants were in different
+the operation illegally before the meter. [@1,3,5] The plants were in different
 stages of growth. [@1,3]
