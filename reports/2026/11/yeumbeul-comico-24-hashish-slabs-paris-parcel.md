@@ -81,18 +81,26 @@ sources:
     publisher: ACTUSEN
     date: 2026-11-25
     language: fr
+  - title: 'Trafic international de drogue : 24 plaquettes de haschich saisies à Yeumbeul Comico'
+    url: https://senego.com/trafic-international-de-drogue-24-plaquettes-de-haschich-saisies-a-yeumbeul-comico_2028001.html
+    publisher: Senego
+    date: 2026-11-25
+    language: fr
+open_questions:
+  - M. Ba was described as arrested at his home in Yeumbeul-Comico in one account and as stopped just after collecting the parcel from a groupage container in another.
+  - No outcome of the flagrant-offence trial was reported.
 ---
 
 The urban security unit of Guédiawaye's central police station detained a
 37-year-old hairdresser, identified only as M. Ba, in Yeumbeul-Comico on the
-night of 18 to 19 November 2026. [@1,4] Officers seized 24 slabs of hashish and
-described him as the presumed recipient of the parcel. [@1,4] Média 28 reported
+night of 18 to 19 November 2026. [@1,4,7] Officers seized 24 slabs of hashish and
+described him as the presumed recipient of the parcel. [@1,4,7] Média 28 reported
 the same seizure of 24 hashish slabs at Yeumbeul-Comico and the arrest of the
 presumed recipient of the parcel. [@2]
 
 The operation began with a tip about drug trafficking between the French capital
 and Senegal, and the station's research brigade set up surveillance and a tail.
-[@1,4,6] Police stopped M. Ba just after he had collected a parcel from a groupage
+[@1,4,6,7] Police stopped M. Ba just after he had collected a parcel from a groupage
 container, a shared freight container carrying several consignments. [@1] A
 search of his bag found the 24 slabs of hashish, and he was taken to the police
 station. [@1,4,6] He valued the 24 slabs at nearly 4.8 million CFA francs. [@5] The 24 slabs had a total weight of 2 kg 360 g. [@5] Le Dakarois likewise reported that the Guédiawaye urban security
