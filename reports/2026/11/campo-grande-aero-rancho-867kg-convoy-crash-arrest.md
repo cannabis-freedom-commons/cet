@@ -51,6 +51,21 @@ media:
     media_url: https://cdn6.campograndenews.com.br/uploads/noticias/2026/11/26/6b0835dd7f1dc.jpg
     publisher: Campo Grande News
     caption: 'The 801 marijuana tablets removed from the vehicles and stacked in the yard of Denar. Photo: Divulgação/BPChoque'
+  - kind: photo
+    url: https://midiamax.com.br/policia/2026/video-perseguicao-acaba-batida-trailer-garapa-1-preso-maconha-aero-rancho/
+    media_url: https://cdn.midiamax.com.br/wp-content/uploads/2026/11/Design-sem-nome-2026-11-26T073741.027.jpg
+    publisher: Midiamax
+    caption: 'The car packed with tablets of marijuana after the crash in Aero Rancho, in an image published by Midiamax. Photo: Fala Povo Midiamax'
+  - kind: photo
+    url: https://midiamax.com.br/policia/2026/video-perseguicao-acaba-batida-trailer-garapa-1-preso-maconha-aero-rancho/
+    media_url: https://cdn.midiamax.com.br/wp-content/uploads/2026/11/Design-sem-nome-2026-11-26T073756.058.jpg
+    publisher: Midiamax
+    caption: 'Traces left by the police pursuit at the crash scene beside the regional hospital. Photo: Léo de França, Jornal Midiamax'
+  - kind: video
+    url: https://midiamax.com.br/policia/2026/video-perseguicao-acaba-batida-trailer-garapa-1-preso-maconha-aero-rancho/
+    media_url: https://www.youtube.com/watch?v=Yd1W7XMIeFA
+    publisher: Midiamax
+    caption: 'Security-camera video of the end of the pursuit, the car mounting the hospital pavement and hitting the garapa trailer, and officers opening the rear door as marijuana tablets fall out. Video: Midiamax'
 status: verified
 created_by_model: opencode-go/hy4-flash-free#high
 submission: af81393ae8b4c7991e6cfcbec8968072
@@ -76,12 +91,18 @@ sources:
     publisher: RCN67
     date: 2026-11-26
     language: pt
+  - title: 'VÍDEO: Perseguição acaba com batida em trailer de garapa e 1 preso com maconha no Aero Rancho'
+    url: https://midiamax.com.br/policia/2026/video-perseguicao-acaba-batida-trailer-garapa-1-preso-maconha-aero-rancho/
+    publisher: Midiamax
+    date: 2026-11-26
+    language: pt
 open_questions:
   - No separate value for the cannabis was published; the battalion's estimate covered the drugs and the two vehicles together.
   - No formal charge, custody decision or court outcome beyond referral to Denar was reported.
   - G1 says the car hit a hospital gate and a sugarcane-juice trailer, while the other accounts describe the gate of a commercial premises.
   - The 15,000 and 2,000 reais were amounts the drivers said they would be paid, not cash reported as seized.
   - No laboratory confirmation of the tablets as cannabis was reported, and the accounts rest on police information.
+  - Midiamax, published in the first hours after the crash, reported at least one suspect arrested, while the other accounts name three.
 ---
 
 Three men aged 28, 36 and 48 were arrested in the Aero Rancho neighbourhood of
@@ -92,10 +113,10 @@ Highway Police shared information about them. [@1] The loaded car's driver
 ignored a stop order at about 06:30 near Avenida Arquiteto Vila Nova Artigas,
 fled for roughly a kilometre and crashed at the junction of Ruas Carlos Drumond
 and Arquiteto Vila Nova Artigas. [@1] G1 reported that the pursuit ended when
-the car hit a hospital gate and a sugarcane-juice trailer. [@3]
+the car hit a hospital gate and a sugarcane-juice trailer. [@3] Residents told the outlet the trailer that was hit belonged to an elderly man who had died just over a year earlier and was up for sale. [@5] The footage showed the officers stopping beside the car and one of them opening its rear door as tablets of marijuana fell to the ground. [@5] Security-camera footage showed the car leaving Rua Carlos Drummond de Andrade and turning into Avenida Arquiteto Vila Nova Artigas before mounting the pavement of the Hospital Regional de Mato Grosso do Sul and hitting a garapa trailer. [@5]
 
 Officers found 801 tablets of marijuana in the passenger compartment and boot of
-the Fiat Argo, a load that totalled 867 kilograms. [@2] A second team stopped
+the Fiat Argo, a load that totalled 867 kilograms. [@2] The load was spread loose through the vehicle, a method the outlet described with the local term cavalo doido. [@5] A second team stopped
 the Chevrolet Agile and found a Starlink satellite internet antenna used to keep
 in contact during the journey. [@1] The Agile driver, 48-year-old Euler Lucas da
 Silva, said he had received 2,000 reais to collect the Fiat Argo in Ponta Porã
@@ -112,4 +133,3 @@ station. [@1] The Federal Highway Police's special operations unit had
 identified the convoy moving on the BR-060 and passed the information to the
 shock battalion. [@3] RCN67 reported that the incident was recorded at about
 06:30 in the Aero Rancho area. [@4]
-
