@@ -77,6 +77,11 @@ sources:
     publisher: jektvnews.com
     date: 2026-11-26
     language: id
+  - title: Pemasok Ganja Kampung Ambon Ditangkap di Mandailing Natal, 64 Kg Disita
+    url: https://suarasumutonline.id/kriminal/pemasok-ganja-kampung-ambon-ditangkap-di-mandailing-natal-64-kg-disita/
+    publisher: Suara Sumut Online
+    date: 2026-11-26
+    language: id
 media:
   - kind: photo
     url: https://news.detik.com/berita/d-8770423/6-fakta-bandar-narkoba-pemasok-ke-kampung-ambon-ditangkap-di-sumut
@@ -93,31 +98,33 @@ media:
     media_url: https://awsimages.detik.net.id/community/media/visual/2026/11/25/polres-jakbar-menangkap-bandar-pemasok-ganja-ke-kampung-ambon-1795571955222_169.jpeg?w=620
     publisher: detikNews
     caption: 'West Jakarta police with the detained Kampung Ambon supplier. Photo: dok Istimewa'
+open_questions:
+    - No account says where inside Mandailing Natal RA was arrested.
 ---
 
 West Jakarta Metro Police arrested 35-year-old RA in Mandailing Natal, North
 Sumatra, as the alleged dealer supplying cannabis to Kampung Ambon in
-Cengkareng, West Jakarta. [@1,2,4,5,6,7] RA, a resident of Payakumbuh, West Sumatra, was
-detained on 21 November 2026. [@1,4,5,7] Police said the arrest followed earlier
-cannabis cases uncovered in the Kampung Ambon area. [@1,5,6,7] That earlier inquiry in Kampung Ambon involved the arrests of M with 700 grams of marijuana, SS with 1.6 kilograms and W with 7 kilograms before officers identified RA. [@2,3,4,6,7] A team led by West
+Cengkareng, West Jakarta. [@1,2,4,5,6,7,8] RA, a resident of Payakumbuh, West Sumatra, was
+detained on 21 November 2026. [@1,4,5,7,8] Police said the arrest followed earlier
+cannabis cases uncovered in the Kampung Ambon area. [@1,5,6,7,8] That earlier inquiry in Kampung Ambon involved the arrests of M with 700 grams of marijuana, SS with 1.6 kilograms and W with 7 kilograms before officers identified RA. [@2,3,4,6,7] A team led by West
 Jakarta narcotics chief AKBP Vernal A Sambo was sent to trace the supply source.
 [@1] Questioning pointed to Mandailing Natal as the source of the cannabis
-circulating in Kampung Ambon. [@1,3,7]
+circulating in Kampung Ambon. [@1,3,7,8]
 
 From RA officers seized 63 large packages of dried cannabis weighing about 64
 kilograms, believed ready for distribution to several areas including West
-Jakarta. [@1,2,3,4,5,6,7] Officers also seized a white Toyota Calya allegedly used to
-support drug distribution. [@1,2,3,4,5,6,7] The network moved cannabis overland by relay,
+Jakarta. [@1,2,3,4,5,6,7,8] Police also said the packages had been stored in four sacks. [@8] Officers also seized a white Toyota Calya allegedly used to
+support drug distribution. [@1,2,3,4,5,6,7,8] The network moved cannabis overland by relay,
 switching private cars and interprovincial passenger vehicles across Sumatra to
-hinder tracking. [@1,2,3,6,7] Vehicles were switched again through South Sumatra before the cannabis reached Jakarta. [@3] A delivery could start in Mandailing Natal in one car and switch vehicles upon arrival in Padang, West Sumatra. [@3] Packages were taped tightly and wrapped to smell like
-durian or salted fish so the cannabis odour would not emerge. [@1,2,3,6,7] Police
+hinder tracking. [@1,2,3,6,7,8] Vehicles were switched again through South Sumatra before the cannabis reached Jakarta. [@3] A delivery could start in Mandailing Natal in one car and switch vehicles upon arrival in Padang, West Sumatra. [@3] Packages were taped tightly and wrapped to smell like
+durian or salted fish so the cannabis odour would not emerge. [@1,2,3,6,7,8] Police
 estimated the street value of the 64 kilograms at about Rp2.546 billion if sold
-in small retail packages. [@1,4,5,6,7]
+in small retail packages. [@1,4,5,6,7,8]
 
 Police described Mandailing Natal as the suspected site of planting, packing and
 distribution before shipment to Jakarta. [@1] Nasriadi said the network appeared
-local, working with illegal growers in the Mandailing Natal mountains. [@1,7] RA
+local, working with illegal growers in the Mandailing Natal mountains. [@1,7,8] RA
 was charged under Article 114 paragraph (2), subsidiary Article 111 paragraph
 (2), of Law Number 35 of 2009 on Narcotics in conjunction with Law Number 1 of
-2026. [@1,4,5,6,7] Police were still tracing possible other members, from packers and
-couriers to retailers in the destination areas. [@1,6,7]
+2026. [@1,4,5,6,7,8] Police were still tracing possible other members, from packers and
+couriers to retailers in the destination areas. [@1,6,7,8]
