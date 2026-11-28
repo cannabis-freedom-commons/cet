@@ -56,6 +56,11 @@ sources:
     publisher: Lada.kz
     date: 2026-06-24
     language: ru
+  - title: 'Задержание подозреваемых в незаконном обороте наркотиков в Мангистау: изъято около 20 кг марихуаны'
+    url: https://www.gov.kz/org/kpn/press/news/details/1246686?lang=ru
+    publisher: GOV.KZ
+    date: 2026-06-24
+    language: ru
 open_questions:
   - The reports give no separate date for the operation, so 24 June 2026, the publication date of both sources, is used as the incident date.
   - The weight is reported as approximate (about 20 kg), not an exact measured figure.
@@ -65,20 +70,19 @@ open_questions:
 ---
 
 Officers from the Mangystau regional police and the regional department of the
-National Security Committee carried out the operation at a market in Aktau. [@1]
+National Security Committee carried out the operation at a market in Aktau. [@1,3] The operation was carried out under the coordination of the Mangystau regional prosecutor's office. [@3]
 At the market, officers detained a man suspected of unlawfully storing drugs on
-an especially large scale. [@2] Officers later detained a second man believed to
-be connected to the same case. [@1] The main suspect was placed in a temporary
-detention facility. [@1] A pre-trial investigation was opened, with officers
-working to establish the circumstances and possible supply channels. [@1]
+an especially large scale. [@2,3] Officers later detained a second man believed to
+be connected to the same case. [@1,3] The main suspect was placed in a temporary
+detention facility. [@1,3] A pre-trial investigation was opened, with officers
+working to establish the circumstances and possible supply channels. [@1,3]
 
 Searches found marijuana both in a market storage room used by the first suspect
-and at his place of residence. [@1] At his home, officers found additional
+and at his place of residence. [@1,3] At his home, officers found additional
 packages of drugs and items for consuming them. [@2] A forensic examination
-identified the seized substance as marijuana. [@2] Police put the total weight
-at about 20 kilograms, which they described as an especially large amount. [@2]
+identified the seized substance as marijuana. [@2,3] Police put the total weight
+at about 20 kilograms, which they described as an especially large amount. [@2,3]
 
 The Lada.kz account says the case was detected by the regional police anti-drug
 unit and the 5th directorate of the regional National Security Committee
 department during the Qarasora and Darmek prevention campaigns. [@2]
-
