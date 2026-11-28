@@ -62,13 +62,19 @@ sources:
     url: https://www.thesamaja.com/en/news/two-people-arrested-with-12-kg-ganja-in-keralams-kochi
     publisher: Samaja
     date: 2026-11-26
+  - title: 5000 രൂപയ്ക്ക് വാങ്ങി 30,000-ന് വിൽപന; ഒഡീഷയിൽനിന്ന് എത്തിക്കുന്നത് ട്രോളിബാഗിൽ; ഇതര സംസ്ഥാനക്കാർ പിടിയിൽ
+    url: https://www.mathrubhumi.com/crime/news/kochi-operation-toofan-12kg-ganja-seized-two-arrested-n9inmzt0
+    publisher: Mathrubhumi
+    date: 2026-11-26
+    language: ml
 open_questions:
-    - The 12 kg figure was reported only as approximate, using approximately and around, while the Times of India account gives 2 kg.
+    - The Times of India account gives 2 kg for the same case while the police-based accounts and the Malayalam original give 12 kg; the report uses 12 kg.
     - No laboratory confirmation for the material described as ganja was reported.
     - No charges, custody ruling or court outcome for the two arrested men were reported; police said buyers were still being traced.
     - No total street value for the 12 kg was published; only per-kilogram purchase and sale prices of Rs 5,000 and Rs 30,000 were given.
     - The Times of India account spells the names Jehedul Islam and Firoz Miya, while the PTI-based accounts use Jehidul Islam and Feroze Mia.
     - The opened accounts reproduce the same police statement and are not independent reporting.
+    - The same article reports a separate 2.5 kg charas seizure at a lodge in Nedumbassery, a different event left out here.
 media:
   - kind: photo
     url: https://www.mathrubhumi.com/amp/crime/news/kochi-operation-toofan-12kg-ganja-seized-two-arrested-n9inmzt0
@@ -78,20 +84,20 @@ media:
 ---
 
 Kochi police arrested Jehidul Islam (32) and Feroze Mia (44) in Chottanikkara on
-Thursday 26 November 2026. [@1,2,3,5,6] Both men are natives of Murshidabad in West
-Bengal. [@1,2,3,4,5,6] The two were from Jalangi in Murshidabad, West Bengal. [@4] A special investigation team led by the Ernakulam Rural District
+Thursday 26 November 2026. [@1,2,3,5,6,7] Both men are natives of Murshidabad in West
+Bengal. [@1,2,3,4,5,6] The two were from Jalangi in Murshidabad, West Bengal. [@4] The police gave the pair's village as Raipur in Jalangi, Murshidabad district. [@7] A special investigation team led by the Ernakulam Rural District
 Police Chief together with Chottanikkara police made the arrests. [@1,2,3,5,6] Officers
 took the duo into custody at a waiting shed near the KEL corporate office on the
 Kochi-Madura National Highway while they were allegedly waiting to hand the
-narcotics to someone else. [@1,2,3,5,6]
+narcotics to someone else. [@1,2,3,5,6,7]
 
-Officers seized around 12 kilograms of ganja in the operation. [@1,2,3,5,6] Police say
+Officers seized around 12 kilograms of ganja in the operation. [@1,2,3,5,6,7] Police say
 the ganja was brought from Odisha by train, concealed under clothes in two
-trolley bags. [@1,2,3,4,5,6] Police say the duo bought cannabis in Odisha for Rs 5,000 per
-kg and sold it in Kerala for Rs 30,000 per kg. [@1,2,3,4,5,6] Police say the two would
+trolley bags. [@1,2,3,4,5,6,7] Police say the duo bought cannabis in Odisha for Rs 5,000 per
+kg and sold it in Kerala for Rs 30,000 per kg. [@1,2,3,4,5,6,7] Police say the two would
 return home on the same day the sale was carried out. [@1,2,3,5]
 
 The arrests were made as part of Operation Toofan, the government's anti-drug
-drive. [@1,2,3,4,5,6] The investigation team included Puthencruz DSP Joy Mathew, narcotic cell DSP C Binu Kumar and Mulanthuruthy circle inspector K R Biju. [@4,5] Police say they had been watching the smuggling operation for some
-time after receiving confidential information. [@1,2,3,5,6] Police say they are
-investigating who the buyers of the cannabis from the two were. [@1,2,3,4,5,6]
+drive. [@1,2,3,4,5,6,7] The investigation team included Puthencruz DSP Joy Mathew, narcotic cell DSP C Binu Kumar and Mulanthuruthy circle inspector K R Biju. [@4,5] Police say they had been watching the smuggling operation for some
+time after receiving confidential information. [@1,2,3,5,6,7] Police say they are
+investigating who the buyers of the cannabis from the two were. [@1,2,3,4,5,6,7]
