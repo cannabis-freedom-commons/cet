@@ -59,28 +59,31 @@ sources:
     publisher: Aljazair Alyoum
     date: 2026-11-25
     language: ar
+  - title: 'Douanes: Saisie de quantités importantes de drogues à Tlemcen et Ouargla'
+    url: https://www.echoroukonline.com/douanes-saisie-de-quantites-importantes-de-drogues-a-tlemcen-et-ouargla
+    publisher: الشروق أونلاين (Echorouk Online)
+    date: 2026-11-26
+    language: fr
 open_questions:
-  - The announcement gives no date or place for the Tlemcen operation itself; 25 November 2026, the date of the customs communiqué, stands in for it.
-  - No identities, charges or court outcome were published for the seven people arrested.
-  - The 6,380 pregabalin tablets seized in the same Tlemcen operation are a psychotropic medicine and are not counted as cannabis.
-  - Customs did not say how many vehicles were seized in Tlemcen or where the kif was being taken.
-  - All accounts reproduce the same General Directorate of Customs communiqué and are not independent reporting.
-  - Left out activity, as its quotation was not found in Radio Algérienne.
-  - Left out setting, as its quotation was not found in Radio Algérienne.
+    - The announcement gives no date or place for the Tlemcen operation itself; 25 November 2026, the date of the customs communiqué, stands in for it.
+    - No identities, charges or court outcome were published for the seven people arrested.
+    - Customs gave no figure for the number of people arrested in the Ouargla part of the operation.
+    - The 6,380 pregabalin tablets seized in the same Tlemcen operation are a psychotropic medicine and are not counted as cannabis.
+    - Customs did not say how many vehicles were seized in Tlemcen or where the kif was being taken.
+    - All accounts reproduce the same General Directorate of Customs communiqué and are not independent reporting.
 ---
 
 The Tlemcen regional customs directorate seized 11.5 kg of processed cannabis,
-the resin Algerians call kif traité. [@1] In the same operation customs officers
+the resin Algerians call kif traité. [@1,5] In the same operation customs officers
 seized 6,380 pregabalin 300 mg tablets, a psychotropic medicine that does not
-count as cannabis. [@2] Officers arrested seven people and seized the vehicles
-used to carry the drugs. [@3]
+count as cannabis. [@2,5] Officers arrested seven people and seized the vehicles
+used to carry the drugs. [@3,5]
 
 The General Directorate of Customs announced the operations in a communiqué
 issued on Wednesday 25 November 2026, alongside 349,800 pregabalin tablets
-seized in the Ouargla customs region, for a combined 356,180 tablets. [@2] The
+seized in the Ouargla customs region, for a combined 356,180 tablets. [@2,5] The
 customs service presented the operations as part of its fight against smuggling,
 organised crime and the illicit drug trade, carried out in coordination with
-other security services. [@4] It said the legal procedures in force had been
+other security services. [@4,5] It said the legal procedures in force had been
 started over the seized goods, in coordination with the competent judicial
-authorities. [@2]
-
+authorities. [@2,5]
