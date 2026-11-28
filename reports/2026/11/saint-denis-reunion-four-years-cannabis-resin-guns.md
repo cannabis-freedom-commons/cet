@@ -49,6 +49,11 @@ media:
     media_url: https://www.linfo.re/public/images/2026/10/23/c624__198225.webp
     publisher: LINFO.re
     caption: The firearms seized in the technical room in Saint-Denis, in the photo published with LINFO.re's account of the search.
+  - kind: photo
+    url: https://www.lequotidien.re/article/faits-divers/2026/10/23/saint-denis-pres-de-3-kg-de-cocaine-et-des-armes-saisis
+    media_url: https://www.lequotidien.re/assets/images/cache/thumbnail_une_1/assets/images/articles/2026/10/23/386519-1-6adb1ba867914367324269.webp
+    publisher: Le Quotidien de La Réunion
+    caption: 'Cocaine, cannabis resin and weapons seized in Saint-Denis, La Réunion. Photo: A.G'
 status: verified
 created_by_model: swancloud/deepseek-v4.1-flash#max
 submission: cf6d37bb1ab79a04f5488c9fdf5e4be7
@@ -69,14 +74,19 @@ sources:
     publisher: Free Dom
     date: 2026-10-23
     language: fr
+  - title: 'Saint-Denis : près de 3 kg de cocaïne, des armes saisis et un individu interpellé'
+    url: https://www.lequotidien.re/article/faits-divers/2026/10/23/saint-denis-pres-de-3-kg-de-cocaine-et-des-armes-saisis
+    publisher: Le Quotidien de La Réunion
+    date: 2026-10-23
+    language: fr
 open_questions:
-  - No hearing or sentencing date is given; 19 November 2026, the publication date, stands in for the date of the sentence.
-  - The cannabis figure is LINFO.re's estimate of about 500 g of resin; Le Quotidien counted five blocks of resin without giving a weight.
-  - The 2.680 kg of cocaine found in the same room is excluded from the cannabis figures.
-  - Neither account names the court that sentenced him.
-  - The charges on which he was convicted are not listed; LINFO.re described the initial accusations as drug and weapons possession and handling a stolen scooter.
-  - 'The accounts differ slightly on the firearms: Le Quotidien reports a revolver and three shoulder weapons, while Free Dom reported three pump-action shotguns and a pistol.'
-  - No street value was published for the drugs or the weapons.
+    - No hearing or sentencing date is given; 19 November 2026, the publication date, stands in for the date of the sentence.
+    - 'The cannabis weight differs between accounts: LINFO.re and Free Dom reported about 500 g of resin, Le Quotidien''s 23 October account reported about 400 g, and Le Quotidien''s sentencing account counted five blocks without giving a weight.'
+    - The 2.680 kg of cocaine found in the same room is excluded from the cannabis figures.
+    - Neither account names the court that sentenced him.
+    - The charges on which he was convicted are not listed; LINFO.re described the initial accusations as drug and weapons possession and handling a stolen scooter.
+    - 'The accounts differ slightly on the firearms: Le Quotidien reports a revolver and three shoulder weapons, while Free Dom reported three pump-action shotguns and a pistol.'
+    - No street value was published for the drugs or the weapons.
 ---
 
 A court in Saint-Denis sentenced 20-year-old Romano B. to four years in prison,
@@ -87,9 +97,9 @@ had been chosen to watch the room by people who did not appear at the hearing.
 [@1]
 
 Anti-crime brigade officers found the drugs and weapons in Saint-Denis on the
-evening of Thursday 22 October 2026. [@3] Officers were watching a Tmax scooter
+evening of Thursday 22 October 2026. [@3,4] Officers were watching a Tmax scooter
 reported stolen when they heard noise from a technical room; the man came out,
-fled through the common areas and threw away several grams of cocaine. [@2]
+fled through the common areas and threw away several grams of cocaine. [@2,4]
 Before that he had thrown away two bottles each holding 200 g of cocaine, Le
 Quotidien reported. [@1] In the room police found 2.680 kg of cocaine, five
 blocks of cannabis resin, a revolver, three shoulder weapons, ammunition and
@@ -102,4 +112,3 @@ responsibility for the rest of the stock. [@1] He told the court he had stayed
 silent out of fear of reprisals and had paid for his travels with drug money.
 [@1] Photos and videos found in his phones showed the contents of the premises.
 [@1]
-
