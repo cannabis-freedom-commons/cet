@@ -70,6 +70,11 @@ sources:
     publisher: Kursiv Media Казахстан
     date: 2026-11-24
     language: ru
+  - title: Более 1,3 тонны наркотиков изъяли в Казахстане
+    url: https://almaty.tv/ru/news/zakon-i-poryadok/bolee-1-3-tonny-narkotikov-iz-ali-v-kazakhstane
+    publisher: Almaty.tv
+    date: 2026-11-24
+    language: ru
 open_questions:
   - The KNB dated the operations only to August–October 2026 and gave no calendar day for the seizures; 24 November 2026, the announcement date, is used as the incident date.
   - The regions where the operations took place were not disclosed.
@@ -84,16 +89,16 @@ open_questions:
 
 Kazakhstan's National Security Committee (KNB) said 45 people were detained on
 suspicion of drug offences between August and October 2026 — 40 Kazakh citizens
-and five foreigners. [@1] Pre-trial investigations were under way. [@1,4] The
+and five foreigners. [@1,5] Pre-trial investigations were under way. [@1,4] The
 committee did not name the regions where the operations took place or the people
 held, citing investigative secrecy under article 201 of the Criminal Procedure
 Code. [@2]
 
 The KNB said the sweep closed 19 drug supply channels and stopped the work of
-five underground laboratories between August and October 2026. [@1,4] Of the
-channels, eight were international and 11 regional. [@1,4] Eight international
+five underground laboratories between August and October 2026. [@1,4,5] Of the
+channels, eight were international and 11 regional. [@1,4,5] Eight international
 anti-drug operations were carried out with the competent authorities of other
-states. [@1] The total haul exceeded 1.3 tonnes of drugs. [@1] The KNB itemised
+states. [@1] The total haul exceeded 1.3 tonnes of drugs. [@1,5] The KNB itemised
 the cannabis seized as 404.6 kg of marijuana, 320.6 kg of cannabis bushes and
 14.2 kg of hashish. [@3,4] Separately, officers seized 2.6 tonnes of precursors
 and 2,650 tablets of potent substances, which are not cannabis and are excluded
